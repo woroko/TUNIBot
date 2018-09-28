@@ -197,7 +197,7 @@ while(True):
             que.popleft()
             topresults2 = get_best_matches_idx(" ".join(list(que)), True, 0.5, 300, 30)
             topresults2.sort(key=lambda x: x[1], reverse=True)
-            if len(topresults2 > 1):
+            if len(topresults2) > 1:
                 topresults = (topresults + topresults2).sort(key=lambda x: x[1], reverse=True)
 
     if (topresults is None or (len(topresults) > 0 and topresults[0] is None)):
