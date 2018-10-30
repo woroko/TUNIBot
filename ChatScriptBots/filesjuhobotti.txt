@@ -1,0 +1,5 @@
+RAWDATA/JUHOBOTTI/simplecontrol.top
+RAWDATA/JUHOBOTTI/juhobotti.top
+
+
+
