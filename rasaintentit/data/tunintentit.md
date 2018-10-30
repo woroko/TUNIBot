@@ -128,7 +128,40 @@
 -I'd like to find [STYP1B](course)
 -Where can I find [STYA5](course)
 
+## intent:opetusajat
+-Schedule [KKRUNTEK](course)
+-[KKES1](course) schedule
+-[KKRUBMT](course) weekly schedule
+-[KKRA5](course) weekly
+-What is the schedule for [BTK0011](course)
+-What is the schedule [KKENPMP3](course)
+-When are classes for [LÄÄKA030](course)
+-Classes [BIO2200](course)
+-When are classes [BTK4030](course)
+-Teaching times [KEMI61350](course)
+-Teaching hours [LUOYY006](course)
+-Teaching [DPIS2](course)
+-[TAYJ12](course) teaching
+-Week [TIEH0](course)
+-Lectures [MTTMA3B](course)
+-When are lectures [TIEVA36](course)
+-Hours weekly [DPLAOPS](course)
 
+
+## intent:kieli
+-Teaching language [LTLY01](course)
+-Lecture language [KIRP2](course)
+-What is the teaching language in [SUOA4](course)
+-Teaching language in [RANS3](course)
+-What language is [RANSV5](course)
+-Is [IGSY004](course) in english
+-Is [KKENMP3](course) in finnish
+-[KKSU1](course) language
+-[JOVP2](course) teaching language
+-Is [KIRS1](course) taught in english
+-Is [HTIS60](course) taught in english
+-Can I pass [VIROP1](course) in english
+-Which language is [ITS25](course)
 
 
 
