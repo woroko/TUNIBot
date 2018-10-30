@@ -1,0 +1,48 @@
+topic: ~introductions keep repeat []
+
+t: [Hi] [Hey] [Yo], I'm gonna help you plan your travel.
+	$issue = null
+	$source = null
+	$target = null
+	^respond(~question)
+
+u: SOURCE (be * at _*)
+	$issue = null
+	Is your current location \" '_0 \" ?
+	a: (~yes)
+		$source = '_0
+		^respond(~question)
+	b: (~no)
+		OK, so... 
+		^respond(~question)
+
+u: TARGET ([go fly travel] to _*)
+	$issue = null
+	Is your destination \" '_0 \" ?
+	a: (~yes)
+		$target = '_0
+		^respond(~question)
+	b: (~no)
+		OK, so... 
+		^respond(~question)
+
+u: ($issue=source _*) ^reuse(SOURCE)
+
+u: ($issue=target _*) ^reuse(TARGET)
+	
+u: DEFAULT ()
+	^respond(~question)
+	
+	
+topic: ~question repeat keep nostay []
+	
+u: (!$source)
+	$issue = source
+	Where are you?
+	
+u: (!$target)
+	$issue = target
+	Where do you want to go?
+	
+u: ($source $target)
+	You want to go from $source to $target .
