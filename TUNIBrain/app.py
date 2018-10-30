@@ -20,5 +20,5 @@ debug(True)
 def test():
     username = request.forms.get('username')
     print(username)
-    
+
 run(app, host='localhost', port=8080)

@@ -122,7 +122,7 @@ def gen_context_and_score(context, weights=[1.0, 1.0, 1.0]):
     if (len(weights) != 3 or len(context) < 1 or len(context) > 3):
         return None
     #is q
-    topresults_0 = get_best_matches_idx(context[0], True, 0.5, 300, 100)
+    topresults_0 = get_best_matches_idx(context[0], True, 0.0, 300, 100)
     scores = []
     if (len(context) > 1):
         context_vec_q = [tf_q.transform([msg]).toarray() for msg in context[1:]]
@@ -133,13 +133,13 @@ def gen_context_and_score(context, weights=[1.0, 1.0, 1.0]):
         #candidate_answers.append(idxscore0) # last message similarity, also possible answer indices
         if (len(context) > 1):
             #topresults_1 = get_best_matches_idx(questions[idx0], False, 0.5, 35, 3) #returns idx1 in answers
-            topresults_1 = idx_only(questions[idx0], 0.5, 10)
+            topresults_1 = idx_only(questions[idx0], 0.0, 10)
         if (len(context) > 1 and len(topresults_1) > 0):
             for idx1 in topresults_1:
                 match_score_1 = msg_compare(matrix_q[idx1], context_vec_q[0], questions[idx1], context[1])
                 if (len(context) > 2):
                     #topresults_2 = get_best_matches_idx(questions[idx1], False, 0.5, 35, 3)
-                    topresults_2 = idx_only(questions[idx1], 0.5, 10)
+                    topresults_2 = idx_only(questions[idx1], 0.0, 10)
                 if (len(context) > 2 and len(topresults_2) > 0):
                     #could add if get best context from idx1 (answer) -> idx1 (question) instead
                     for idx2 in topresults_2:
