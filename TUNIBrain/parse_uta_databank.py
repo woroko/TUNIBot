@@ -24,6 +24,15 @@ class UTAJsonParser:
 
         return courses
 
+    def search_tampub(self, id=None, name=None):
+        pubs = []
+        try:
+            pass
+        except Exception as e:
+            print(e)
+
+        return courses
+
 def dump_course_codes(parser):
     with open("course_codes.txt", 'w') as f:
         for course in parser.course_implementations:
