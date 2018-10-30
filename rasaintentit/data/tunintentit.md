@@ -1,4 +1,8 @@
 <!--- Make sure to update this training data file with more training examples from https://forum.rasa.com/t/grab-the-nlu-training-dataset-and-starter-packs/903 --> 
+<!--- lookup table list for course codes.  --> 
+## lookup:courses  <!-- no list to specify lookup table file -->
+currencies.txt
+
 
 ## intent:bye <!--- The label of the intent --> 
 - Bye 			<!--- Training examples for intent 'bye'--> 
@@ -164,5 +168,42 @@
 -Which language is [ITS25](course)
 
 
-
-
+## intent:periodi
+-Period [LTLY01](course)
+-Semester [LTLY01](course)
+-Quarter [LTLY01](course)
+-Academic term [LTLY01](course)
+-[LTLY01](course) semester
+-[LTLY01](course) academic term
+-[LTLY01](course) quarter
+-This semester [LTLY01](course)
+-What period [LTSA4](course)
+-What study period [LTLY01](course)
+-What study period is [LTLY01](course) in
+-What period will [LTLY01](course) begin
+-[LTLY01](course) period
+-Is [LTLY01](course) this period
+-Which period is [LTLY01](course)
+-Which period will [LTLY01](course) begin
+-What period will [LTLY01](course) begin
+-[LTLY01](course) curriculum
+-When is [LTLY01](course) in the curriulum
+-The period of [LTLY01](course)
+-Study period of [LTLY01](course)
+-Semester [LTLY01](course)
+-Which semester will [LTLY01](course) start
+-Which semester is [LTLY01](course)
+-Is [LTLY01](course) this semester
+-What semester is [LTLY01](course)
+-Academic term [LTLY01](course)
+-Which academic term will [LTLY01](course) begin
+-Which academic term is [LTLY01](course)
+-[LTLY01](course) academic term
+-Which semester will [LTLY01](course) begin
+-The period of [LTLY01](course)
+-The semester of [LTLY01](course)
+-The academic term of [LTLY01](course)
+-The quarter of [LTLY01](course)
+-Which quarter is [LTLY01](course)
+-What is the quarter of [LTLY01](course)
+-Which quarter will [LTLY01](course) begin
