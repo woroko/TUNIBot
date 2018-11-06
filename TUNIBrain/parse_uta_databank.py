@@ -57,7 +57,7 @@ class UTAJsonParser:
                     if i > 2:
                         break
                     course_json = matches[match[0]]
-                    if match[1] < 63113851.0:
+                    if match[1] < 63113851.0: # 2 years
                         response += "Course " + course_json['name'] + " starts " \
                             + course_json['startDate'] + ".\n"
                     i += 1
@@ -65,6 +65,54 @@ class UTAJsonParser:
                 print("find_course_start_date error")
 
         return response
+
+
+    def find_course_teaching_times(self, id):
+        matches = self.search_regular_course_implementation(id=id)
+        ordered_matches = []
+        currentDate = datetime.now()
+        for i in range(0, len(matches)):
+            try:
+                start = dateutil.parser.parse(matches[i]['startDate'])
+                diff = start - currentDate
+                ordered_matches.append((i, math.fabs(diff.total_seconds())))
+            except Exception as e:
+                print(e)
+                print("find_course_teaching_times invalid")
+
+        response = ""
+        if len(matches) > 0:
+            try:
+                response += "Found matching courses at UTA."
+                if len(matches) > 1:
+                    response += " Displaying top 3."
+                response += "\n"
+                i=0
+                for match in sorted(ordered_matches, key=lambda x: x[1]):
+                    if i > 2:
+                        break
+                    course_json = matches[match[0]]
+                    if match[1] < 63113851.0: # 2 years
+                        response += "Course " + course_json['name'] + ", start date " \
+                            + course_json['startDate'] + ".\n"
+                        #response += "Study groups and schedules: \n"
+                        group_idx = 0
+                        for group in course_json['_opsi_opryhmat']:
+                            if (group['nimi'] is not None):
+                                response += "  " + group['nimi'] + "\n"
+                            else:
+                                response += "  Group " + str(group_idx) + "\n"
+                            for time in group:
+                                starttime = datetime.utcfromtimestamp(time['alkuaika']).strftime('%Y-%m-%d')
+
+                                response += "From " + starttime + ""
+                    i += 1
+            except Exception as e:
+                print("find_course_teaching_times error")
+
+        return response
+
+
 
     def search_tampub(self, id=None, name=None):
         pubs = []
@@ -87,6 +135,7 @@ def main():
     #print(parser.course_implementations[0]['name'])
     print(len(parser.course_implementations))
     print(parser.find_course_start_date("KKSULUK"))
+    print(parser.find_course_teaching_times("KKSULUK"))
 
 
 
