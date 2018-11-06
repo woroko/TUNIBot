@@ -1,4 +1,6 @@
 import json
+import dateutil
+import math
 
 class UTAJsonParser:
     def parse_files(self, json_dir):
@@ -24,26 +26,35 @@ class UTAJsonParser:
 
         return courses
 
+    def current_date_sort(date):
+        pass
+
     def find_course_start_date(self, id):
         matches = search_regular_course_implementation(id=id)
         ordered_matches = []
+        currentDate = dateutil.datetime.now()
         for i in range(0, len(matches)):
+            try:
+                start = dateutil.parser.parse(matches[i]['startDate'])
+                diff = date - currentDate
+                ordered_matches.append((i, math.abs(diff.total_seconds())))
+            except Exception:
+                print("find_course_start_date invalid")
 
-        i=0
         response = ""
         if len(matches > 0):
-            response += "I found " + str(len(matches)) +" matching course(s)."
+            response += "Found " + str(len(matches)) +" matching course(s) at UTA."
             if len(matches) > 1:
                 response += " Displaying top 3."
             response += "\n"
-
-            for match in matches:
+            i=0
+            for match in sorted(ordered_matches, key=lambda x: x[1]):
                 if i > 2:
                     break
-                
+                course_json = matches[match[0]]
+                response += "Course " + course_json['name'] + " starts " \
+                    + course_json['startDate']
                 i += 1
-
-
 
     def search_tampub(self, id=None, name=None):
         pubs = []
