@@ -1,10 +1,13 @@
 import json
-import dateutil
+#from dateutil import datetime
+from datetime import datetime
+import dateutil.parser
+
 import math
 
 class UTAJsonParser:
     def parse_files(self, json_dir):
-        with open(json_dir + '/uta_course_implementations.json', 'r') as f:
+        with open(json_dir + '/uta_course_implementations.json', 'r', encoding="latin-1") as f:
             self.course_implementations = json.load(f)
 
     def __init__(self, json_dir):
@@ -30,31 +33,38 @@ class UTAJsonParser:
         pass
 
     def find_course_start_date(self, id):
-        matches = search_regular_course_implementation(id=id)
+        matches = self.search_regular_course_implementation(id=id)
         ordered_matches = []
-        currentDate = dateutil.datetime.now()
+        currentDate = datetime.now()
         for i in range(0, len(matches)):
             try:
                 start = dateutil.parser.parse(matches[i]['startDate'])
-                diff = date - currentDate
-                ordered_matches.append((i, math.abs(diff.total_seconds())))
-            except Exception:
+                diff = start - currentDate
+                ordered_matches.append((i, math.fabs(diff.total_seconds())))
+            except Exception as e:
+                print(e)
                 print("find_course_start_date invalid")
 
         response = ""
-        if len(matches > 0):
-            response += "Found " + str(len(matches)) +" matching course(s) at UTA."
-            if len(matches) > 1:
-                response += " Displaying top 3."
-            response += "\n"
-            i=0
-            for match in sorted(ordered_matches, key=lambda x: x[1]):
-                if i > 2:
-                    break
-                course_json = matches[match[0]]
-                response += "Course " + course_json['name'] + " starts " \
-                    + course_json['startDate']
-                i += 1
+        if len(matches) > 0:
+            try:
+                response += "Found matching courses at UTA."
+                if len(matches) > 1:
+                    response += " Displaying top 3."
+                response += "\n"
+                i=0
+                for match in sorted(ordered_matches, key=lambda x: x[1]):
+                    if i > 2:
+                        break
+                    course_json = matches[match[0]]
+                    if match[1] < 63113851.0:
+                        response += "Course " + course_json['name'] + " starts " \
+                            + course_json['startDate'] + ".\n"
+                    i += 1
+            except Exception as e:
+                print("find_course_start_date error")
+
+        return response
 
     def search_tampub(self, id=None, name=None):
         pubs = []
@@ -74,9 +84,9 @@ def dump_course_codes(parser):
 
 def main():
     parser = UTAJsonParser("jsons")
-    print(parser.course_implementations[0]['name'])
+    #print(parser.course_implementations[0]['name'])
     print(len(parser.course_implementations))
-    print(parser.search_regular_course_implementation(name='Filosofian historia'))
+    print(parser.find_course_start_date("KKSULUK"))
 
 
 
