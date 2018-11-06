@@ -24,6 +24,27 @@ class UTAJsonParser:
 
         return courses
 
+    def find_course_start_date(self, id):
+        matches = search_regular_course_implementation(id=id)
+        ordered_matches = []
+        for i in range(0, len(matches)):
+
+        i=0
+        response = ""
+        if len(matches > 0):
+            response += "I found " + str(len(matches)) +" matching course(s)."
+            if len(matches) > 1:
+                response += " Displaying top 3."
+            response += "\n"
+
+            for match in matches:
+                if i > 2:
+                    break
+                
+                i += 1
+
+
+
     def search_tampub(self, id=None, name=None):
         pubs = []
         try:
