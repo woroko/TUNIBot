@@ -59,7 +59,7 @@ class UTAJsonParser:
                         break
                     course_json = matches[match[0]]
                     if match[1] < 63113851.0: # 2 years
-                        response += "Course " + course_json['name'] + " starts " \
+                        response += "  Course " + course_json['name'] + " starts " \
                             + course_json['startDate'] + ".\n"
                     i += 1
             except Exception as e:
@@ -67,6 +67,42 @@ class UTAJsonParser:
 
         return response
 
+    def find_course_teachinglanguage(self, id):
+        matches = self.search_regular_course_implementation(id=id)
+        ordered_matches = []
+        currentDate = datetime.now()
+        for i in range(0, len(matches)):
+            try:
+                start = dateutil.parser.parse(matches[i]['startDate'])
+                diff = start - currentDate
+                ordered_matches.append((i, math.fabs(diff.total_seconds())))
+            except Exception as e:
+                print(e)
+                print("find_course_teachinglanguage invalid")
+
+        response = ""
+
+        try:
+            response += "Found matching courses at UTA:\n"
+            match = sorted(ordered_matches, key=lambda x: x[1])[0]
+            course_json = matches[match[0]]
+            if match[1] < 63113851.0:
+                lang = ""
+                if course_json['teachingLanguage'] == "sv":
+                    lang = "Swedish"
+                elif course_json['teachingLanguage'] == "fi":
+                    lang = "Finnish"
+                elif course_json['teachingLanguage'] == "en":
+                    lang = "English"
+
+                response += "  Course " + course_json['name'] + " teaching language is " \
+                + lang + ".\n"
+
+        except Exception as e:
+            traceback.print_exc()
+            print("find_course_teachinglanguage error")
+
+        return response
 
     def find_course_teaching_times(self, id):
         matches = self.search_regular_course_implementation(id=id)
@@ -84,7 +120,7 @@ class UTAJsonParser:
         response = ""
         if len(matches) > 0:
             try:
-                response += "Found matching courses at UTA."
+                response += "Found matching courses at UTA.\n"
                 '''if len(matches) > 1:
                     response += " Displaying top 3."'''
                 response += "\n"
@@ -94,7 +130,7 @@ class UTAJsonParser:
                         break
                     course_json = matches[match[0]]
                     if match[1] < 63113851.0: # 2 years
-                        response += "Course " + course_json['name'] + ", start date " \
+                        response += "  Course " + course_json['name'] + ", start date " \
                             + course_json['startDate'] + ".\n"
                         #response += "Study groups and schedules: \n"
                         group_idx = 0
@@ -102,9 +138,9 @@ class UTAJsonParser:
                             if (group['nimi'] is not None):
                                 response += "  " + group['nimi'] + "\n"
                             else:
-                                response += "  Group " + str(group_idx) + "\n"
+                                response += "    Group " + str(group_idx) + "\n"
                             for time in group['ajat']:
-                                print(time['alkuaika'])
+                                #print(time['alkuaika'])
                                 starttime = datetime.utcfromtimestamp(time['alkuaika']//1000).strftime('%d-%m-%Y')
                                 if time['toistuvuus'] is not None:
                                     endtime = datetime.utcfromtimestamp(time['alkuaika']//1000).strftime('%d-%m-%Y')
@@ -114,10 +150,10 @@ class UTAJsonParser:
                                     loppuminuutit = time['loppuminuutit']
                                     if len(loppuminuutit) < 1:
                                         loppuminuutit = "00"
-                                    response += "    From " + starttime + " to " \
+                                    response += "      From " + starttime + " to " \
                                         + endtime + ", " + time['alkutunnit'] + ":" \
                                         + alkuminuutit + "-" + time['lopputunnit'] \
-                                        + ":" + loppuminuutit + "\n"
+                                        + ":" + loppuminuutit + ", in " + time['paikka'] + "\n"
                                 else:
                                     alkuminuutit = time['alkuminuutit']
                                     if len(alkuminuutit) < 1:
@@ -125,9 +161,9 @@ class UTAJsonParser:
                                     loppuminuutit = time['loppuminuutit']
                                     if len(loppuminuutit) < 1:
                                         loppuminuutit = "00"
-                                    response += "    " + starttime + ", " + time['alkutunnit'] + ":" \
+                                    response += "      " + starttime + ", " + time['alkutunnit'] + ":" \
                                     + alkuminuutit + "-" + time['lopputunnit'] \
-                                    + ":" + loppuminuutit + "\n"
+                                    + ":" + loppuminuutit + ", in " + time['paikka'] + "\n"
 
                     i += 1
             except Exception as e:
@@ -159,8 +195,8 @@ def main():
     #print(parser.course_implementations[0]['name'])
     print(len(parser.course_implementations))
     print(parser.find_course_start_date("KKSULUK"))
-    print(parser.find_course_teaching_times("KKRUYHT"))
-
+    print(parser.find_course_teaching_times("KKSULUK"))
+    print(parser.find_course_teachinglanguage("KKSULUK"))
 
 
 if __name__ == "__main__":
