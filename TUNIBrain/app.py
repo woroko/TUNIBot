@@ -22,6 +22,7 @@ debug(True)
 def test():
     username = request.forms.get('username')
     print(username)
+
     response = requests.get("api-address")
     #response = '{"intent": {"confidence": 0.5}}'
     jsonObj = json.loads(response)

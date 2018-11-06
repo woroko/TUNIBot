@@ -1,5 +1,7 @@
 <!--- Make sure to update this training data file with more training examples from https://forum.rasa.com/t/grab-the-nlu-training-dataset-and-starter-packs/903 --> 
 
+
+
 ## intent:bye <!--- The label of the intent --> 
 - Bye 			<!--- Training examples for intent 'bye'--> 
 - Goodbye
@@ -110,26 +112,101 @@
 - How many student points is [JMMETUS](course)
 
 ## intent:paikka
--Where is [TERY1](course)
--Where is course [YKYYHT4A](course)
--Where is class [HISJATKO](course)
--Where is lecture [STYP1A](course)
--Where is the classroom [HTIS54](course)
--Where can I find [KKENMP3](course)
--How to get to [TERKAP1](course)
--Where [TERHOIA6](course)
--Location [PSYA8](course)
--Find [TERTIETO2](course)
--How to find [SOS3]
--How can I find [KKSUPRO](course)
--Which classroom is [KKRUHY](course)
--What is the classroom for [HALTVA12](course)
--Which room is [FYSI1010](course)
--I'd like to find [STYP1B](course)
--Where can I find [STYA5](course)
+- Where is [TERY1](course)
+- Where is course [YKYYHT4A](course)
+- Where is class [HISJATKO](course)
+- Where is lecture [STYP1A](course)
+- Where is the classroom [HTIS54](course)
+- Where can I find [KKENMP3](course)
+- How to get to [TERKAP1](course)
+- Where [TERHOIA6](course)
+- Location [PSYA8](course)
+- Find [TERTIETO2](course)
+- How to find [SOS3]
+- How can I find [KKSUPRO](course)
+- Which classroom is [KKRUHY](course)
+- What is the classroom for [HALTVA12](course)
+- Which room is [FYSI1010](course)
+- I'd like to find [STYP1B](course)
+- Where can I find [STYA5](course)
+
+## intent:opetusajat
+- Schedule [KKRUNTEK](course)
+- [KKES1](course) schedule
+- [KKRUBMT](course) weekly schedule
+- [KKRA5](course) weekly
+- What is the schedule for [BTK0011](course)
+- What is the schedule [KKENPMP3](course)
+- When are classes for [LÄÄKA030](course)
+- Classes [BIO2200](course)
+- When are classes [BTK4030](course)
+- Teaching times [KEMI61350](course)
+- Teaching hours [LUOYY006](course)
+- Teaching [DPIS2](course)
+- [TAYJ12](course) teaching
+- Week [TIEH0](course)
+- Lectures [MTTMA3B](course)
+- When are lectures [TIEVA36](course)
+- Hours weekly [DPLAOPS](course)
 
 
+## intent:kieli
+- Teaching language [LTLY01](course)
+- Lecture language [KIRP2](course)
+- What is the teaching language in [SUOA4](course)
+- Teaching language in [RANS3](course)
+- What language is [RANSV5](course)
+- Is [IGSY004](course) in english
+- Is [KKENMP3](course) in finnish
+- [KKSU1](course) language
+- [JOVP2](course) teaching language
+- Is [KIRS1](course) taught in english
+- Is [HTIS60](course) taught in english
+- Can I pass [VIROP1](course) in english
+- Which language is [ITS25](course)
 
 
+## intent:periodi
+- Period [KATTAP11](course)
+- Semester [JKKYTVP11](course)
+- Quarter [HALHAA13](course)
+- Academic term [HALJUA21](course)
+- [HALJUS99](course) semester
+- [KATMAP11](course) academic term
+- [POLKAA99](course) quarter
+- This semester [LFS04](course)
+- What period [NORDIF4](course)
+- What study period [JKKYINA15](course)
+- What study period is [VENS4](course) in
+- What period will [RANA7](course) begin
+- [MEDU01](course) period
+- Is [JOVTS5](course) this period
+- Which period is [ENGP8](course)
+- Which period will [MVKS02](course) begin
+- What period will [ITIP5](course) begin
+- [KIRA1](course) curriculum
+- When is [SAKP2](course) in the curriulum
+- The period of [TSEKP3](course)
+- Study period of [TRSU07](course)
+- Semester [TRMU2](course)
+- Which semester will [IGS006](course) start
+- Which semester is [JOUJOVTS](course)
+- Is [FONEP2](course) this semester
+- What semester is [KIRS1/A4](course)
+- Academic term [KIRA3C2](course)
+- Which academic term will [TERKANP3](course) begin
+- Which academic term is [TERY4](course)
+- [PSYP5](course) academic term
+- Which semester will [YKYYHT5](course) begin
+- The period of [LATAP2](course)
+- The semester of [YKYYV07](course)
+- The academic term of [TERHOIA6](course)
+- The quarter of [PGHMTS](course)
+- Which quarter is [TERVAL4](course)
+- What is the quarter of [SOCYKV2/RES012](course)
+- Which quarter will [KKRA1](course) begin
 
 
+<!--- lookup table list for course codes.  --> 
+## lookup:course  <!-- no list to specify lookup table file -->
+- data/course_codes.txt
