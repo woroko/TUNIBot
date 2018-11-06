@@ -14,11 +14,11 @@ userID = sys.stdin.readline()
 bot = ''
 
 # data_iniin pitää muokata CS-botille lähetettävä kysymys.
-data_in = ''
+data_in = "where is COMS"
 
 client_socket = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
 client_socket.connect(addr)
-client_socket.sendall((userID+chr(0)+bot+chr(0)+data_in[0:-1] +chr(0)).encode('utf-8'))
+client_socket.sendall((userID+chr(0)+bot+chr(0)+data_in+chr(0)).encode('utf-8'))
 
 # data_out on CS-botin vastaus lähetettyyn kysymykseen. Se pitäisi siis
 # lähettää jonnekin eteenpäin.
