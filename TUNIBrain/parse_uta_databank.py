@@ -2,6 +2,7 @@ import json
 #from dateutil import datetime
 from datetime import datetime
 import dateutil.parser
+import traceback
 
 import math
 
@@ -84,8 +85,8 @@ class UTAJsonParser:
         if len(matches) > 0:
             try:
                 response += "Found matching courses at UTA."
-                if len(matches) > 1:
-                    response += " Displaying top 3."
+                '''if len(matches) > 1:
+                    response += " Displaying top 3."'''
                 response += "\n"
                 i=0
                 for match in sorted(ordered_matches, key=lambda x: x[1]):
@@ -102,12 +103,35 @@ class UTAJsonParser:
                                 response += "  " + group['nimi'] + "\n"
                             else:
                                 response += "  Group " + str(group_idx) + "\n"
-                            for time in group:
-                                starttime = datetime.utcfromtimestamp(time['alkuaika']).strftime('%Y-%m-%d')
+                            for time in group['ajat']:
+                                print(time['alkuaika'])
+                                starttime = datetime.utcfromtimestamp(time['alkuaika']//1000).strftime('%d-%m-%Y')
+                                if time['toistuvuus'] is not None:
+                                    endtime = datetime.utcfromtimestamp(time['alkuaika']//1000).strftime('%d-%m-%Y')
+                                    alkuminuutit = time['alkuminuutit']
+                                    if len(alkuminuutit) < 1:
+                                        alkuminuutit = "00"
+                                    loppuminuutit = time['loppuminuutit']
+                                    if len(loppuminuutit) < 1:
+                                        loppuminuutit = "00"
+                                    response += "    From " + starttime + " to " \
+                                        + endtime + ", " + time['alkutunnit'] + ":" \
+                                        + alkuminuutit + "-" + time['lopputunnit'] \
+                                        + ":" + loppuminuutit + "\n"
+                                else:
+                                    alkuminuutit = time['alkuminuutit']
+                                    if len(alkuminuutit) < 1:
+                                        alkuminuutit = "00"
+                                    loppuminuutit = time['loppuminuutit']
+                                    if len(loppuminuutit) < 1:
+                                        loppuminuutit = "00"
+                                    response += "    " + starttime + ", " + time['alkutunnit'] + ":" \
+                                    + alkuminuutit + "-" + time['lopputunnit'] \
+                                    + ":" + loppuminuutit + "\n"
 
-                                response += "From " + starttime + ""
                     i += 1
             except Exception as e:
+                traceback.print_exc()
                 print("find_course_teaching_times error")
 
         return response
@@ -135,7 +159,7 @@ def main():
     #print(parser.course_implementations[0]['name'])
     print(len(parser.course_implementations))
     print(parser.find_course_start_date("KKSULUK"))
-    print(parser.find_course_teaching_times("KKSULUK"))
+    print(parser.find_course_teaching_times("KKRUYHT"))
 
 
 
