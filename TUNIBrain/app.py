@@ -9,6 +9,7 @@ from inspect import getsourcefile
 from os.path import abspath
 from parse_uta_databank import UTAJsonParser
 from TAMK_API_implementations import *
+from Log import *
 
 import re
 
@@ -64,7 +65,10 @@ def login():
 def test():
     username = request.forms.get('username') #+ ":tunibottitoo"
     query = request.forms.get('query')
-
+    
+    #Are logs working
+    logs_on = True
+    
     #response = requests.get("api-address")
     #response = '{"intent": {"confidence": 0.5}}'
     rasa_query = '{"query":"' + query + '", "project": "current"}'
@@ -114,6 +118,14 @@ def test():
     except Exception as e:
         print("Error in rasa code:")
         print(e)
+    
+    #Logs
+    if logs_on:
+        if need_cs_response:
+            successfull_log(query, response, rasa_json['intent']['confidence'], rasa_json['intent']['name'], rasa_json["entities"][0]["confidence"], rasa_json["entities"][0]["entity"], 'ChatScript')
+        else:
+            successfull_log(query, response, rasa_json['intent']['confidence'], rasa_json['intent']['name'], rasa_json["entities"][0]["confidence"], rasa_json["entities"][0]["entity"], 'Rasa')
+
 
     if need_cs_response:
         response += query_chatscript(query, userID=username)
