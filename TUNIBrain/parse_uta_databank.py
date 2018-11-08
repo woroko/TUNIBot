@@ -49,10 +49,10 @@ class UTAJsonParser:
         response = ""
         if len(matches) > 0:
             try:
-                response += "Found matching courses at UTA."
+                '''response += "Found matching courses at UTA."
                 if len(matches) > 1:
                     response += " Displaying top 3."
-                response += "\n"
+                response += "\n"'''
                 i=0
                 for match in sorted(ordered_matches, key=lambda x: x[1]):
                     if i > 2:
@@ -83,7 +83,7 @@ class UTAJsonParser:
         response = ""
 
         try:
-            response += "Found matching courses at UTA:\n"
+            #response += "Found matching courses at UTA:\n"
             match = sorted(ordered_matches, key=lambda x: x[1])[0]
             course_json = matches[match[0]]
             if match[1] < 63113851.0:
@@ -120,10 +120,10 @@ class UTAJsonParser:
         response = ""
         if len(matches) > 0:
             try:
-                response += "Found matching courses at UTA.\n"
+                #response += "Found matching courses at UTA.\n"
                 '''if len(matches) > 1:
                     response += " Displaying top 3."'''
-                response += "\n"
+                #response += "\n"
                 i=0
                 for match in sorted(ordered_matches, key=lambda x: x[1]):
                     if i > 2:
