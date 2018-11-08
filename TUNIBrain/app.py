@@ -122,9 +122,10 @@ def test():
     #Logs
     if logs_on:
         if need_cs_response:
-            successfull_log(query, response, rasa_json['intent']['confidence'], rasa_json['intent']['name'], rasa_json["entities"][0]["confidence"], rasa_json["entities"][0]["entity"], 'ChatScript')
+            Source = 'Chatscript'
         else:
-            successfull_log(query, response, rasa_json['intent']['confidence'], rasa_json['intent']['name'], rasa_json["entities"][0]["confidence"], rasa_json["entities"][0]["entity"], 'Rasa')
+            Source = 'Rasa'
+        successful_log(query, response, rasa_json['intent']['confidence'], rasa_json['intent']['name'], rasa_json["entities"][0]["confidence"], rasa_json["entities"][0]["entity"], Source)
 
 
     if need_cs_response:
