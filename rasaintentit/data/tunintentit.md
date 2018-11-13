@@ -94,6 +94,19 @@
 - When will [JOVP1](course) start
 - When will [KKSUYTK](course) start
 - When is [MTTTP1](course)
+- [DPEDUB.1B](course) when
+- When [KASVAL][course]
+- [ESPFA1](course) start
+- [MEJOS15](course) start date
+- [JOVPVS5](course) starting date
+- [VENS3](course) begins
+- Tell me the start date of [ESPFP5](course)
+- What day will [POHS5](course) start
+- When do I have [LÄÄKA460](course)
+- When do we have [BIO4440](course)
+- The start date of [BTK4663](course)
+- Start date for [MTTMA11](course)
+- Start of [TIEVA31](course)
 
 ## intent:creditsMin
 - How many points [TIEY6](course)
@@ -110,6 +123,19 @@
 - How many ECTS is [JOVTETUS3](course)
 - How many student credits is [JOVTS5](course)
 - How many student points is [JMMETUS](course)
+- Student points [KASVAR12](course)
+- Student credits [KASLOH4B](course)
+- ECTS [POLKVA41](course)
+- [JKKYTUO2](course) ECTS
+- [POLKAA99](course) course points
+- [HALHAS20](course) student points
+- [TAYJ032](course) points
+- [TIETS05](course) amount of points
+- [LUOYA200](course) credits
+- [HALYAS14](course) the amount of ECTS
+- How many points [KASVAR9](course) is
+- How many ECTS [KASLOE8.1](course) will be
+- Credits [DPJKK20](course)
 
 ## intent:paikka
 - Where is [TERY1](course)
@@ -129,6 +155,14 @@
 - Which room is [FYSI1010](course)
 - I'd like to find [STYP1B](course)
 - Where can I find [STYA5](course)
+- [KASMULTI3](course) place
+- [DPEDUE](course) where
+- [KASLOE6.1] (course) location
+- Locate [KASLOM6](course)
+- Where is [PEDA5](course) located
+- The location of [KASERIT3](course) class
+- I can't find [PEDAYOP2](course)
+- I'm trying to find [HTIS67](course)
 
 ## intent:opetusajat
 - Schedule [KKRUNTEK](course)
@@ -148,7 +182,15 @@
 - Lectures [MTTMA3B](course)
 - When are lectures [TIEVA36](course)
 - Hours weekly [DPLAOPS](course)
-
+- When are the classes [JOVVAL](course) weekly
+- [SUKKP5B](course) teaching times
+- When are [LTLY16](course) teaching times
+- What are [SAKA11](course) teaching times
+- When are lectures [JOVTS5](course)
+- The schedule for [KIRP5](course)
+- What are the teaching times for [HTIS60](course)
+- [TRSU03](course) times
+- [DPII1](course) hours
 
 ## intent:kieli
 - Teaching language [LTLY01](course)
@@ -164,7 +206,20 @@
 - Is [HTIS60](course) taught in english
 - Can I pass [VIROP1](course) in english
 - Which language is [ITS25](course)
-
+- What is [MEJOS15](course) language
+- What is the language of [JOVPVS12](course) is
+- The teaching language of [BTK4400](course)
+- What language is used in [MTTMA10](course)
+- Which language [MTTMP1A](course) is used
+- [KASLOE8.1](course) spoken language
+- [HTIY005](course) languages
+- What are [RUST5/VENS10](course) languages
+- The [ITIS61](course) language
+- [SUKKP2](course) teaching languages
+- The language of [SUKKP2](course)
+- Teaching language in [MVKS39E/S](course)
+- [JOVTKS3](course) in which language
+- What language do they speak in [JOVA15](course)
 
 ## intent:periodi
 - Period [KATTAP11](course)
@@ -221,7 +276,7 @@
 - Were there exceptions in lectures [VENP4/VENK2](course)
 - Teaching times exceptions for [ESPFP1](course)
 - What were the exceptions of teaching in [JOVP1](course)
-- Does the schedule for [MEDU10](course) have any exceptions?
+- Does the schedule for [MEDU10](course) have any exceptions
 - When were the exceptions for [RANA7](course)
 - The exceptions in lessons for [KIRP3](course)
 - Special teaching times for [SAKA5](course)
@@ -236,10 +291,16 @@
 - Will [MEDU07](course) lectures be cancelled during holiday
 - Will [HTIY004](course) have a lecture every week
 
-<!--- toistaiseksi nimetty "nimi" vaikka APIssa se on "name". intetti name on jo käytössä, mitä tehdä?  --> 
 ## intent:nimi
 - What is the name of [POHA1](course)
 - [RANSV5](course) name
+- [RANA7](course) name is
+- [ITIY3](course) name full
+- [SAKA5](course) complete name
+- [LTLY07](course) name actual
+- [KIRA5](course) whole name
+- What is name [ITIP1](course)
+- The name of [TIEA4](course)
 - Name [MVKS36/31](course)
 - What is the full name of [TRSU05](course)
 - What is [DPIT1](course) called
@@ -248,9 +309,20 @@
 - [ENGA10](course) named
 - What's [DPCMTJ4](course) named
 - Name of [FONEA4](course)
-
-## intent:degreeProgrammeCode
-- 
+- Tell me the name of [TAYJ027](course)
+- Say the name of [HALKAP01](course)
+- The whole name of [JKKYTVA13](course)
+- [POLPOP02](course) full name
+- [KATYVP11](course) entire name
+- [NORDIG2](course) whole name
+- [LFCS01](course) meaning
+- What does [KAMVRS99](course) mean
+- What is the meaning of [HALDIGI01](course)
+- [DPJKKKS](course) meaning
+- True name of [KATVRS42](course)
+- Real name of [POLKVA11](course)
+- Which course is [JKKYVAL00](course)
+- What [KASP4](course) means
 
 <!--- lookup table list for course codes.  --> 
 ## lookup:course  <!-- no list to specify lookup table file -->
