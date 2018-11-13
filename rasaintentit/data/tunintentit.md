@@ -206,6 +206,51 @@
 - What is the quarter of [SOCYKV2/RES012](course)
 - Which quarter will [KKRA1](course) begin
 
+## intent:poikkeusajat
+- Exceptions [HALHAA15](course)
+- Exception [JKKYORP1](course)
+- What are the exceptions for [POLPOP03](course)
+- [KATMAP11](course) exceptions
+- [DPEDUB.1B](course) exception
+- Exceptions in teaching hours[KASLOM10](course)
+- Exceptions in teaching times [MTTTS17](course)
+- Are there any exceptions in teaching [TIETS05](course)
+- What exceptions are there in [BTK2036](course)
+- Lecture exceptions [MOLI](course)
+- Does [ENGP6](course) have exceptions in teaching hours
+- Were there exceptions in lectures [VENP4/VENK2](course)
+- Teaching times exceptions for [ESPFP1](course)
+- What were the exceptions of teaching in [JOVP1](course)
+- Does the schedule for [MEDU10](course) have any exceptions?
+- When were the exceptions for [RANA7](course)
+- The exceptions in lessons for [KIRP3](course)
+- Special teaching times for [SAKA5](course)
+- Is there anything special I should know about the course schedule for [ESPFP0](course)
+- [TSEKP1](course) special lecture hours
+- Special schedule [SUOA8](course)
+- Will there be lectures in holidays in [VENP2](course)
+- Holiday exceptions [SUKKP5B](course)
+- Course break teaching times [JOUJOVTS](course)
+- Do we have a lecture during holiday in [JOVVAL](course)
+- Cancelled lectures [SUOR1/A6](course)
+- Will [MEDU07](course) lectures be cancelled during holiday
+- Will [HTIY004](course) have a lecture every week
+
+<!--- toistaiseksi nimetty "nimi" vaikka APIssa se on "name". intetti name on jo käytössä, mitä tehdä?  --> 
+## intent:nimi
+- What is the name of [POHA1](course)
+- [RANSV5](course) name
+- Name [MVKS36/31](course)
+- What is the full name of [TRSU05](course)
+- What is [DPIT1](course) called
+- What is the course code [DPLSSEM](course) called
+- What course is [MEDU07](course)
+- [ENGA10](course) named
+- What's [DPCMTJ4](course) named
+- Name of [FONEA4](course)
+
+## intent:degreeProgrammeCode
+- 
 
 <!--- lookup table list for course codes.  --> 
 ## lookup:course  <!-- no list to specify lookup table file -->
