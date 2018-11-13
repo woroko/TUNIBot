@@ -132,7 +132,7 @@ def test():
         else:
             Source = 'Rasa'
         #Was ChatScript able to answer?
-        if response = "I don't know what to say.":
+        if response == "I don't know what to say.":
             success = False
         #Was the answer successful or not
         if len(rasa_json["entities"]) > 0:
