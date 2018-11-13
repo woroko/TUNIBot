@@ -9,7 +9,7 @@ from inspect import getsourcefile
 from os.path import abspath
 from parse_uta_databank import UTAJsonParser
 from TAMK_API_implementations import *
-from Log import *
+from log import *
 
 import re
 

@@ -3,7 +3,7 @@ from datetime import datetime
 import dateutil.parser
 
 #Gets courses info from TAMK API by course id
-def TAMK_API_implementations(id):
+def tamk_API_implementations(id):
     try:
         #TAMK
         #URL and other info for API request
@@ -23,9 +23,9 @@ def TAMK_API_implementations(id):
     return None
 
 #Searches courses teaching language by its id
-def TAMK_teachingLanguage(id):
+def tamk_teachingLanguage(id):
     try:
-        info = TAMK_API_implementations(id)
+        info = tamk_API_implementations(id)
         language = info['realizations'][0]['teachingLanguage']
         if(language == 'en'):
             language = 'english'
@@ -41,9 +41,9 @@ def TAMK_teachingLanguage(id):
 #print(TAMK_teachingLanguage("IM00BR45-3003"))
 
 #Searches courses starting date by its id
-def TAMK_startDate(id):
+def tamk_startDate(id):
     try:
-        info = TAMK_API_implementations(id)
+        info = tamk_API_implementations(id)
         startDate = dateutil.parser.parse(info['realizations'][0]['startDate'])
         startDate = startDate.strftime('%d-%m-%Y')
         return("Starting date of the course "+str(id)+" is "+str(startDate)+".")
@@ -54,9 +54,9 @@ def TAMK_startDate(id):
 #print(TAMK_startDate("IM00BR45-3003"))
 
 #Searches courses location by its id
-def TAMK_location(id):
+def tamk_location(id):
     try:
-        info = TAMK_API_implementations(id)
+        info = tamk_API_implementations(id)
         en_location = info['realizations'][0]['office']['localizedName']['en']
         fi_location = info['realizations'][0]['office']['localizedName']['fi']
         sv_location = info['realizations'][0]['office']['localizedName']['sv']
