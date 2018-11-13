@@ -119,22 +119,38 @@ def test():
         print("Error in rasa code:")
         print(e)
     
+
+    if need_cs_response:
+        response += query_chatscript(query, userID=username)
+    
     #Logs
     if logs_on:
+        success = True
+        #Which program gave the answer
         if need_cs_response:
             Source = 'Chatscript'
         else:
             Source = 'Rasa'
-        successful_log(query, response, rasa_json['intent']['confidence'], rasa_json['intent']['name'], rasa_json["entities"][0]["confidence"], rasa_json["entities"][0]["entity"], Source)
+        #Was ChatScript able to answer?
+        if response = "placeholder":
+            success = False
+        #Was the answer successful or not
+        if len(rasa_json["entities"]) > 0:
+            if success:
+                successful_log(query, response, rasa_json['intent']['confidence'], rasa_json['intent']['name'], rasa_json["entities"][0]["confidence"], rasa_json["entities"][0]["entity"], Source)
+            else:
+                failed_log(query, response, rasa_json['intent']['confidence'], rasa_json['intent']['name'], rasa_json["entities"][0]["confidence"], rasa_json["entities"][0]["entity"], Source)
+        else:
+            if success:
+                successful_log(query, response, rasa_json['intent']['confidence'], rasa_json['intent']['name'], "none", "none", Source)
+            else:
+                failed_log(query, response, rasa_json['intent']['confidence'], rasa_json['intent']['name'], "none", "none", Source)
 
-
-    if need_cs_response:
-        response += query_chatscript(query, userID=username)
-
+                
     header = "<html><body>"
 
     footer = "</body></html>"
-
+    
     return header + response.replace("\n", "<br>").replace("  ", "&nbsp&nbsp") + footer
 
 run(app, host='localhost', port=8080)

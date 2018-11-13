@@ -189,6 +189,13 @@ def dump_course_codes(parser):
             code = course['code']
             if len(code) > 1:
                 f.write(code + "\n")
+                
+def dump_course_names(parser):
+    with open("course_names.txt", 'w') as f:
+        for course in parser.course_implementations:
+            name = course['name']
+            if len(name) > 1:
+                f.write(name + "\n")
 
 def main():
     parser = UTAJsonParser("jsons")
