@@ -76,7 +76,10 @@ def test():
     rasa_json = json.loads(rasa_response.text)
     print(rasa_json)
     #print(moi['intent']['confidence'])
-    receivedThreshold = rasa_json['intent']['confidence']
+    if 'intent' in rasa_json:
+        receivedThreshold = rasa_json['intent']['confidence']
+    else:
+        receivedThreshold = 0
     print("rasa conf " + "{0:.2f}".format(receivedThreshold))
     need_cs_response = True
     response = ""
@@ -132,21 +135,26 @@ def test():
         else:
             Source = 'Rasa'
         #Was ChatScript able to answer?
-        if response == "I don't know what to say.":
+        if response.startswith("Please ask me anything you"):
             success = False
         #Was the answer successful or not
-        if len(rasa_json["entities"]) > 0:
+        if receivedThreshold == 0:
+            if success:
+                successful_log(query, response, 0, "none", 0, "none", Source)
+            else:
+                failed_log(query, response, 0, "none", 0, "none", Source)
+        elif len(rasa_json["entities"]) == 0:
+            if success:
+                successful_log(query, response, rasa_json['intent']['confidence'], rasa_json['intent']['name'], 0, "none", Source)
+            else:
+                failed_log(query, response, rasa_json['intent']['confidence'], rasa_json['intent']['name'], 0, "none", Source)
+        else:
             if success:
                 successful_log(query, response, rasa_json['intent']['confidence'], rasa_json['intent']['name'], rasa_json["entities"][0]["confidence"], rasa_json["entities"][0]["entity"], Source)
             else:
                 failed_log(query, response, rasa_json['intent']['confidence'], rasa_json['intent']['name'], rasa_json["entities"][0]["confidence"], rasa_json["entities"][0]["entity"], Source)
-        else:
-            if success:
-                successful_log(query, response, rasa_json['intent']['confidence'], rasa_json['intent']['name'], "none", "none", Source)
-            else:
-                failed_log(query, response, rasa_json['intent']['confidence'], rasa_json['intent']['name'], "none", "none", Source)
+            
 
-                
     header = "<html><body>"
 
     footer = "</body></html>"
