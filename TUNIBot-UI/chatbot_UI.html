@@ -43,10 +43,12 @@
 
                 var text_value = document.getElementById("input_field").value;
 
+                //BACK-END kutsu
+
                 $(document).ready(function()
                 {
 	                $("#submit_button").click(function(){
-					    $.post("localhost:8080",
+					    $.post("http://localhost:8080/msg",
 					    {
 					        "query": text_value
 					    },
