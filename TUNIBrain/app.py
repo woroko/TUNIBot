@@ -8,8 +8,8 @@ import socket
 from inspect import getsourcefile
 from os.path import abspath
 from parse_uta_databank import UTAJsonParser
-from TAMK_API_implementations import *
-from Log import *
+from tamk_API_implementations import *
+from log import *
 
 import re
 
@@ -95,7 +95,7 @@ def test():
                     if len(uta) > 2:
                         response += uta
                         need_cs_response = False
-                    '''tamk = TAMK_startDate(coursecode)
+                    '''tamk = tamk_startDate(coursecode)
                     if len(tamk) > 2:
                         if len(uta) > 2:
                             response += "\n"

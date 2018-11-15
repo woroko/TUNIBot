@@ -184,14 +184,14 @@ class UTAJsonParser:
         return courses
 
 def dump_course_codes(parser):
-    with open("course_codes.txt", 'w') as f:
+    with open("uta_course_codes.txt", 'w') as f:
         for course in parser.course_implementations:
             code = course['code']
             if len(code) > 1:
                 f.write(code + "\n")
                 
 def dump_course_names(parser):
-    with open("course_names.txt", 'w') as f:
+    with open("uta_course_names.txt", 'w') as f:
         for course in parser.course_implementations:
             name = course['name']
             if len(name) > 1:
