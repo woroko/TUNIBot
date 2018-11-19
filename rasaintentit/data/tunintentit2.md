@@ -113,7 +113,8 @@
 - I want to know when [POLKVA33](course) begin
 - Tell me the start date of [KATVRA00](course)
 - Tell me when [KASELOHA](course) begins
-- What day will [BTK4620](course) start- When does [KASA11](course) start
+- What day will [BTK4620](course) start
+- When does [KASA11](course) start
 - When does [ITIY3](course) start
 - When does [KKENYHT](course) start
 - When does [POLKVA41](course) begin
@@ -147,7 +148,8 @@
 - I want to know when [SOSM5.1](course) begin
 - Tell me the start date of [KATMAS12](course)
 - Tell me when [STYVA](course) begins
-- What day will [ITIA8](course) start- When does [KASKVTUT](course) start
+- What day will [ITIA8](course) start
+- When does [KASKVTUT](course) start
 - When does [JOVA15](course) start
 - When does [MTTTS12](course) start
 - When does [KATTAA21](course) begin
@@ -181,7 +183,8 @@
 - I want to know when [LOGS2](course) begin
 - Tell me the start date of [KKSAVAL3](course)
 - Tell me when [KASSM2](course) begins
-- What day will [TRSU03](course) start- When does [SOST10.4](course) start
+- What day will [TRSU03](course) start
+- When does [SOST10.4](course) start
 - When does [ITIY003](course) start
 - When does [TERHOIA4](course) start
 - When does [LFCS01](course) begin
@@ -215,7 +218,8 @@
 - I want to know when [POLVOS24](course) begin
 - Tell me the start date of [KKSUKK](course)
 - Tell me when [ENGA6](course) begins
-- What day will [NAM-IV](course) start- When does [KKENVAL2](course) start
+- What day will [NAM-IV](course) start
+- When does [KKENVAL2](course) start
 - When does [KATYVS27](course) start
 - When does [HALYAA15](course) start
 - When does [LTLY16](course) begin
@@ -249,7 +253,8 @@
 - I want to know when [TERKAN9](course) begin
 - Tell me the start date of [KASLOE7.2](course)
 - Tell me when [JOVA4](course) begins
-- What day will [SAKA5](course) start- When does [KATMAS15](course) start
+- What day will [SAKA5](course) start
+- When does [KATMAS15](course) start
 - When does [JKKYLECT](course) start
 - When does [KASSG](course) start
 - When does [KKENKTMO](course) begin
@@ -283,7 +288,8 @@
 - I want to know when [FILA3](course) begin
 - Tell me the start date of [PSYS6A](course)
 - Tell me when [TERTIETO4](course) begins
-- What day will [KATJOA99](course) start- When does [KASVAR2](course) start
+- What day will [KATJOA99](course) start
+- When does [KASVAR2](course) start
 - When does [TSEKP1](course) start
 - When does [ITIY3](course) start
 - When does [STYS3C](course) begin
@@ -317,7 +323,8 @@
 - I want to know when [POLVOA32/S23/24](course) begin
 - Tell me the start date of [FILA3](course)
 - Tell me when [TERKAN9](course) begins
-- What day will [HALJTS02](course) start- When does [HISA2](course) start
+- What day will [HALJTS02](course) start
+- When does [HISA2](course) start
 - When does [KASLOH3](course) start
 - When does [KATPAL11](course) start
 - When does [ITIY3](course) begin
@@ -351,7 +358,8 @@
 - I want to know when [KATTAA13A](course) begin
 - Tell me the start date of [KASA13](course)
 - Tell me when [YKYYHT1](course) begins
-- What day will [ENGS3](course) start- When does [TERTIETO5](course) start
+- What day will [ENGS3](course) start
+- When does [TERTIETO5](course) start
 - When does [MVKS28](course) start
 - When does [KASA7](course) start
 - When does [KASSO6](course) begin
@@ -385,7 +393,8 @@
 - I want to know when [KASA5](course) begin
 - Tell me the start date of [POLKVA11](course)
 - Tell me when [HISS2](course) begins
-- What day will [KASSY5](course) start- When does [KASSY1](course) start
+- What day will [KASSY5](course) start
+- When does [KASSY1](course) start
 - When does [ITIP3](course) start
 - When does [TIEY4](course) start
 - When does [ENGP9](course) begin
@@ -419,7 +428,8 @@
 - I want to know when [KATVAA11](course) begin
 - Tell me the start date of [SOS9](course)
 - Tell me when [ITIS61](course) begins
-- What day will [TIETS41](course) start- When does [PSYP4](course) start
+- What day will [TIETS41](course) start
+- When does [PSYP4](course) start
 - When does [KATVAA11](course) start
 - When does [VENS15](course) start
 - When does [POLVOA32](course) begin
@@ -453,7 +463,8 @@
 - I want to know when [KIRA4E](course) begin
 - Tell me the start date of [SOSKV3](course)
 - Tell me when [KKVE2](course) begins
-- What day will [KATTAS33](course) start- When does [DPCMTJ3](course) start
+- What day will [KATTAS33](course) start
+- When does [DPCMTJ3](course) start
 - When does [PSYA8](course) start
 - When does [KASVAR11](course) start
 - When does [POLVOS26](course) begin
@@ -487,7 +498,8 @@
 - I want to know when [JOVP4](course) begin
 - Tell me the start date of [MTTMS1](course)
 - Tell me when [YKTM6.3](course) begins
-- What day will [SOS4.5](course) start- When does [KASP4](course) start
+- What day will [SOS4.5](course) start
+- When does [KASP4](course) start
 - When does [KASELOHA](course) start
 - When does [KASA2](course) start
 - When does [DPHSS206](course) begin
@@ -521,7 +533,8 @@
 - I want to know when [KASMULTI3](course) begin
 - Tell me the start date of [POLVOA22/A32](course)
 - Tell me when [KASA11](course) begins
-- What day will [KKSAVAL2](course) start- When does [KASLOE7.1](course) start
+- What day will [KKSAVAL2](course) start
+- When does [KASLOE7.1](course) start
 - When does [PEACE046](course) start
 - When does [POLKVA32](course) start
 - When does [KKES1](course) begin
@@ -555,7 +568,8 @@
 - I want to know when [KKSA4](course) begin
 - Tell me the start date of [RANS4](course)
 - Tell me when [JOVA13](course) begins
-- What day will [TRSU06](course) start- When does [KKENVAL4](course) start
+- What day will [TRSU06](course) start
+- When does [KKENVAL4](course) start
 - When does [POLKVA12](course) start
 - When does [BTK1015](course) start
 - When does [HALTVA15](course) begin
@@ -589,7 +603,8 @@
 - I want to know when [BTK4663](course) begin
 - Tell me the start date of [KATVAA15](course)
 - Tell me when [ITIS33](course) begins
-- What day will [ITIY3](course) start- When does [SOS9](course) start
+- What day will [ITIY3](course) start
+- When does [SOS9](course) start
 - When does [KATYVA12](course) start
 - When does [MTTMP4](course) start
 - When does [BTK1015](course) begin
@@ -623,7 +638,8 @@
 - I want to know when [ITIP5](course) begin
 - Tell me the start date of [HIST04](course)
 - Tell me when [PSYS2](course) begins
-- What day will [TAYJ035](course) start- When does [KKRUKTK](course) start
+- What day will [TAYJ035](course) start
+- When does [KKRUKTK](course) start
 - When does [TERHOI2](course) start
 - When does [ITIS44](course) start
 - When does [JOVA1](course) begin
@@ -657,7 +673,8 @@
 - I want to know when [JOVVAL](course) begin
 - Tell me the start date of [TERHOIA5](course)
 - Tell me when [SUOA3](course) begins
-- What day will [JOVP5](course) start- When does [KASP5](course) start
+- What day will [JOVP5](course) start
+- When does [KASP5](course) start
 - When does [KATYVA21](course) start
 - When does [KATTAA90](course) start
 - When does [DPHSFC07](course) begin
@@ -691,7 +708,8 @@
 - I want to know when [JOVPVS5](course) begin
 - Tell me the start date of [KATYVS21](course)
 - Tell me when [KATLAA11](course) begins
-- What day will [KATVAA13](course) start- When does [TERKANA2](course) start
+- What day will [KATVAA13](course) start
+- When does [TERKANA2](course) start
 - When does [VENP0](course) start
 - When does [KKRUVAL2](course) start
 - When does [KASA15](course) begin
@@ -725,7 +743,8 @@
 - I want to know when [BTK1062](course) begin
 - Tell me the start date of [SAKS2](course)
 - Tell me when [RANA5](course) begins
-- What day will [HISA4](course) start- When does [MEDU10](course) start
+- What day will [HISA4](course) start
+- When does [MEDU10](course) start
 - When does [KASLOM11](course) start
 - When does [TERY6](course) start
 - When does [SUOK2/A6](course) begin
@@ -759,7 +778,8 @@
 - I want to know when [SUKKP4](course) begin
 - Tell me the start date of [MVKS46](course)
 - Tell me when [HTIS66](course) begins
-- What day will [KATJOA14](course) start- When does [KASLOM11](course) start
+- What day will [KATJOA14](course) start
+- When does [KASLOM11](course) start
 - When does [POMLFCS3](course) start
 - When does [VENP2](course) start
 - When does [MVKS18S](course) begin
@@ -793,7 +813,8 @@
 - I want to know when [HISA2](course) begin
 - Tell me the start date of [HALKOS21](course)
 - Tell me when [POHP0](course) begins
-- What day will [STYS3B](course) start- When does [ENGA1](course) start
+- What day will [STYS3B](course) start
+- When does [ENGA1](course) start
 - When does [TERKAN6](course) start
 - When does [HTIS84](course) start
 - When does [POLKVA41](course) begin
@@ -827,7 +848,8 @@
 - I want to know when [BTK0030](course) begin
 - Tell me the start date of [KKRUYHT](course)
 - Tell me when [PSYA5](course) begins
-- What day will [SOS08.3](course) start- When does [NORDIG4](course) start
+- What day will [SOS08.3](course) start
+- When does [NORDIG4](course) start
 - When does [JOVP5](course) start
 - When does [POLHAR10](course) start
 - When does [SOSM2](course) begin
@@ -861,7 +883,8 @@
 - I want to know when [KASP5](course) begin
 - Tell me the start date of [POLVOA22](course)
 - Tell me when [KATYVA99](course) begins
-- What day will [MVKS39V](course) start- When does [ESPFA6](course) start
+- What day will [MVKS39V](course) start
+- When does [ESPFA6](course) start
 - When does [TERKAN6](course) start
 - When does [MVKS42S](course) start
 - When does [COSOPON5](course) begin
@@ -895,7 +918,8 @@
 - I want to know when [POLPOP03](course) begin
 - Tell me the start date of [STYS2A](course)
 - Tell me when [ITIA11](course) begins
-- What day will [GTS2](course) start- When does [KKSAPRE2](course) start
+- What day will [GTS2](course) start
+- When does [KKSAPRE2](course) start
 - When does [POLKVA22](course) start
 - When does [POLKVS31](course) start
 - When does [SAKP0](course) begin
@@ -929,7 +953,8 @@
 - I want to know when [ENGA12](course) begin
 - Tell me the start date of [MVKS63](course)
 - Tell me when [KATTAA37](course) begins
-- What day will [KKRUHY](course) start- When does [POLVOA22](course) start
+- What day will [KKRUHY](course) start
+- When does [POLVOA22](course) start
 - When does [JKKYVAP](course) start
 - When does [KASLOM6](course) start
 - When does [KKSUPRO](course) begin
@@ -963,7 +988,8 @@
 - I want to know when [PSYP0](course) begin
 - Tell me the start date of [KASLOM6](course)
 - Tell me when [TERKAN4](course) begins
-- What day will [POLVOS32](course) start- When does [PEDA4](course) start
+- What day will [POLVOS32](course) start
+- When does [PEDA4](course) start
 - When does [FILS2A](course) start
 - When does [KATMAA12](course) start
 - When does [KKENVAL9](course) begin
@@ -997,7 +1023,8 @@
 - I want to know when [KASA11](course) begin
 - Tell me the start date of [KASSM2](course)
 - Tell me when [DPIPEF05](course) begins
-- What day will [POLKVA43](course) start- When does [TERKAN4](course) start
+- What day will [POLKVA43](course) start
+- When does [TERKAN4](course) start
 - When does [SAKS4/K4](course) start
 - When does [HALHAP01](course) start
 - When does [DPHSS204](course) begin
@@ -1031,7 +1058,8 @@
 - I want to know when [HTIS81](course) begin
 - Tell me the start date of [MTTY4](course)
 - Tell me when [KASA15](course) begins
-- What day will [SOS6.4.2](course) start- When does [ITIS42](course) start
+- What day will [SOS6.4.2](course) start
+- When does [ITIS42](course) start
 - When does [POLKVA21](course) start
 - When does [JKKYTU01](course) start
 - When does [FIL](course) begin
@@ -1065,7 +1093,8 @@
 - I want to know when [KASA11](course) begin
 - Tell me the start date of [BIO4661](course)
 - Tell me when [KASVAR7](course) begins
-- What day will [HALJUA14](course) start- When does [POLVOA41](course) start
+- What day will [HALJUA14](course) start
+- When does [POLVOA41](course) start
 - When does [POLVOA22](course) start
 - When does [JKKYORP1](course) start
 - When does [KATVRA30](course) begin
@@ -1135,7 +1164,8 @@
 - I want to know how many credits can I get from [SOSM5.1](course)
 - I want to know how many ECTS can I get from [KASA13](course)
 - I want to know how many student points can I get from [KATJOP11](course)
-- I want to know the amount of student points [MTTTA14](course)- How many points [RUST5/VENS19/20](course)
+- I want to know the amount of student points [MTTTA14](course)
+- How many points [RUST5/VENS19/20](course)
 - How many credits [TEE6](course)
 - How many ECTS [BTK1014](course)
 - How many student credits [SAKS3](course)
@@ -1168,7 +1198,8 @@
 - I want to know how many credits can I get from [ENGS1](course)
 - I want to know how many ECTS can I get from [TERA6](course)
 - I want to know how many student points can I get from [KASELOHA](course)
-- I want to know the amount of student points [JOVAT1](course)- How many points [KKRUVAL2](course)
+- I want to know the amount of student points [JOVAT1](course)
+- How many points [KKRUVAL2](course)
 - How many credits [TERHOI2](course)
 - How many ECTS [FILA2](course)
 - How many student credits [JOVA1](course)
@@ -1201,7 +1232,8 @@
 - I want to know how many credits can I get from [KASP4](course)
 - I want to know how many ECTS can I get from [PEACE043](course)
 - I want to know how many student points can I get from [ENGP6](course)
-- I want to know the amount of student points [JKKYTVA13](course)- How many points [KATVRA00](course)
+- I want to know the amount of student points [JKKYTVA13](course)
+- How many points [KATVRA00](course)
 - How many credits [DPEDUB.1C](course)
 - How many ECTS [SUOA8](course)
 - How many student credits [LTLY210](course)
@@ -1234,7 +1266,8 @@
 - I want to know how many credits can I get from [POLKVA43](course)
 - I want to know how many ECTS can I get from [KATMAS15](course)
 - I want to know how many student points can I get from [SOS08.2](course)
-- I want to know the amount of student points [KASA9](course)- How many points [KKRUYHT](course)
+- I want to know the amount of student points [KASA9](course)
+- How many points [KKRUYHT](course)
 - How many credits [PEACEGS1](course)
 - How many ECTS [ITIP3](course)
 - How many student credits [KKSAVAL3](course)
@@ -1267,7 +1300,8 @@
 - I want to know how many credits can I get from [SAKS5](course)
 - I want to know how many ECTS can I get from [BTK1015](course)
 - I want to know how many student points can I get from [MTTTA1](course)
-- I want to know the amount of student points [SOS6.3.3](course)- How many points [FILP1A](course)
+- I want to know the amount of student points [SOS6.3.3](course)
+- How many points [FILP1A](course)
 - How many credits [VENP0](course)
 - How many ECTS [KASLOH4A](course)
 - How many student credits [HISA2](course)
@@ -1300,7 +1334,8 @@
 - I want to know how many credits can I get from [PSYP1](course)
 - I want to know how many ECTS can I get from [POLKVA33](course)
 - I want to know how many student points can I get from [MVKS39E/S](course)
-- I want to know the amount of student points [JKKYVP11](course)- How many points [PSYA7](course)
+- I want to know the amount of student points [JKKYVP11](course)
+- How many points [PSYA7](course)
 - How many credits [KASSG](course)
 - How many ECTS [ENGA1](course)
 - How many student credits [JOVA13](course)
@@ -1333,7 +1368,8 @@
 - I want to know how many credits can I get from [JOVA3](course)
 - I want to know how many ECTS can I get from [KATLAA22](course)
 - I want to know how many student points can I get from [SOSM5.1](course)
-- I want to know the amount of student points [STYS3A](course)- How many points [HEAAE03](course)
+- I want to know the amount of student points [STYS3A](course)
+- How many points [HEAAE03](course)
 - How many credits [JKKYINA11](course)
 - How many ECTS [KASERIT4](course)
 - How many student credits [BIO4380](course)
@@ -1366,7 +1402,8 @@
 - I want to know how many credits can I get from [LUOYA200](course)
 - I want to know how many ECTS can I get from [GTS8](course)
 - I want to know how many student points can I get from [TAYJ12](course)
-- I want to know the amount of student points [ENGA11](course)- How many points [KIRS5](course)
+- I want to know the amount of student points [ENGA11](course)
+- How many points [KIRS5](course)
 - How many credits [TERY5B](course)
 - How many ECTS [KKENVAL1](course)
 - How many student credits [KASLOE6.2](course)
@@ -1399,7 +1436,8 @@
 - I want to know how many credits can I get from [KKKI2](course)
 - I want to know how many ECTS can I get from [KASLOE8.1](course)
 - I want to know how many student points can I get from [JOVA6](course)
-- I want to know the amount of student points [ITIP4](course)- How many points [KATJOA15](course)
+- I want to know the amount of student points [ITIP4](course)
+- How many points [KATJOA15](course)
 - How many credits [KKSUKK](course)
 - How many ECTS [BIO4661](course)
 - How many student credits [SUOK2/A6](course)
@@ -1432,7 +1470,8 @@
 - I want to know how many credits can I get from [JOUJOVTS](course)
 - I want to know how many ECTS can I get from [TERKANA1](course)
 - I want to know how many student points can I get from [ENGS46](course)
-- I want to know the amount of student points [TERHOI6](course)- How many points [KATTAA40](course)
+- I want to know the amount of student points [TERHOI6](course)
+- How many points [KATTAA40](course)
 - How many credits [KASVAR11](course)
 - How many ECTS [DPIT1](course)
 - How many student credits [HALKOS22](course)
@@ -1465,7 +1504,8 @@
 - I want to know how many credits can I get from [RANP4](course)
 - I want to know how many ECTS can I get from [DPHSR404](course)
 - I want to know how many student points can I get from [LÄÄKA460](course)
-- I want to know the amount of student points [HISA1B](course)- How many points [TEE5](course)
+- I want to know the amount of student points [HISA1B](course)
+- How many points [TEE5](course)
 - How many credits [HALYAS99](course)
 - How many ECTS [FILA1](course)
 - How many student credits [ITIA2](course)
@@ -1498,7 +1538,8 @@
 - I want to know how many credits can I get from [KASP1](course)
 - I want to know how many ECTS can I get from [MOLI](course)
 - I want to know how many student points can I get from [KATJOA99](course)
-- I want to know the amount of student points [YKYYHT1](course)- How many points [KKENKTMO](course)
+- I want to know the amount of student points [YKYYHT1](course)
+- How many points [KKENKTMO](course)
 - How many credits [KATSTA13](course)
 - How many ECTS [TERHOIA3](course)
 - How many student credits [KASVAR2](course)
@@ -1531,7 +1572,8 @@
 - I want to know how many credits can I get from [ENGA5](course)
 - I want to know how many ECTS can I get from [MVKS39V](course)
 - I want to know how many student points can I get from [HIST02](course)
-- I want to know the amount of student points [KATMAA99](course)- How many points [TERTIETO5](course)
+- I want to know the amount of student points [KATMAA99](course)
+- How many points [TERTIETO5](course)
 - How many credits [KKSUKTK](course)
 - How many ECTS [LOGM3](course)
 - How many student credits [ITIP5](course)
@@ -1564,7 +1606,8 @@
 - I want to know how many credits can I get from [KASSM2](course)
 - I want to know how many ECTS can I get from [KKENPRE1](course)
 - I want to know how many student points can I get from [KASVAR3](course)
-- I want to know the amount of student points [YKT07.2](course)- How many points [PEDAEH](course)
+- I want to know the amount of student points [YKT07.2](course)
+- How many points [PEDAEH](course)
 - How many credits [ENGA1](course)
 - How many ECTS [TAYJ12](course)
 - How many student credits [KIRP1](course)
@@ -1597,7 +1640,8 @@
 - I want to know how many credits can I get from [POLPOP02](course)
 - I want to know how many ECTS can I get from [MTTTS13](course)
 - I want to know how many student points can I get from [HALJTA14](course)
-- I want to know the amount of student points [JOVTS5](course)- How many points [KASLOM4](course)
+- I want to know the amount of student points [JOVTS5](course)
+- How many points [KASLOM4](course)
 - How many credits [BIO4450](course)
 - How many ECTS [KATLAP21](course)
 - How many student credits [RANP3](course)
@@ -1630,7 +1674,8 @@
 - I want to know how many credits can I get from [BTK2045](course)
 - I want to know how many ECTS can I get from [HALTVP11](course)
 - I want to know how many student points can I get from [KASP2](course)
-- I want to know the amount of student points [MVKS10](course)- How many points [KASLOM11](course)
+- I want to know the amount of student points [MVKS10](course)
+- How many points [KASLOM11](course)
 - How many credits [KKRUKTM](course)
 - How many ECTS [KIRP3](course)
 - How many student credits [KASVAR11](course)
@@ -1663,7 +1708,8 @@
 - I want to know how many credits can I get from [KASVAR12](course)
 - I want to know how many ECTS can I get from [KASA13](course)
 - I want to know how many student points can I get from [KKSUOPE](course)
-- I want to know the amount of student points [MTTTS11](course)- How many points [POLVOS34](course)
+- I want to know the amount of student points [MTTTS11](course)
+- How many points [POLVOS34](course)
 - How many credits [KATMAP11](course)
 - How many ECTS [MTTMP3](course)
 - How many student credits [SOS6.3.1](course)
@@ -1696,7 +1742,8 @@
 - I want to know how many credits can I get from [TSEKP1](course)
 - I want to know how many ECTS can I get from [HTIS64](course)
 - I want to know how many student points can I get from [JOVA1](course)
-- I want to know the amount of student points [PEACE2](course)- How many points [KASA12](course)
+- I want to know the amount of student points [PEACE2](course)
+- How many points [KASA12](course)
 - How many credits [HISJATKO](course)
 - How many ECTS [JOVTETUS3](course)
 - How many student credits [SUOA8](course)
@@ -1729,7 +1776,8 @@
 - I want to know how many credits can I get from [KATYVA12](course)
 - I want to know how many ECTS can I get from [HALJUS15](course)
 - I want to know how many student points can I get from [GTS1](course)
-- I want to know the amount of student points [DPLS01](course)- How many points [HTIS80](course)
+- I want to know the amount of student points [DPLS01](course)
+- How many points [HTIS80](course)
 - How many credits [STYA5](course)
 - How many ECTS [HISA2](course)
 - How many student credits [HIST03](course)
@@ -1762,7 +1810,8 @@
 - I want to know how many credits can I get from [POLKVA22](course)
 - I want to know how many ECTS can I get from [SUKKP6](course)
 - I want to know how many student points can I get from [TIETS19](course)
-- I want to know the amount of student points [KASLOM1](course)- How many points [KATLAS13](course)
+- I want to know the amount of student points [KASLOM1](course)
+- How many points [KATLAS13](course)
 - How many credits [STYA3B](course)
 - How many ECTS [HALHAS20](course)
 - How many student credits [KIRA3C2](course)
@@ -1795,7 +1844,8 @@
 - I want to know how many credits can I get from [RANA7](course)
 - I want to know how many ECTS can I get from [KASVAR11](course)
 - I want to know how many student points can I get from [JOVPVS12](course)
-- I want to know the amount of student points [SOS6.2.4](course)- How many points [KATLITO4](course)
+- I want to know the amount of student points [SOS6.2.4](course)
+- How many points [KATLITO4](course)
 - How many credits [KASA3](course)
 - How many ECTS [KKSUHUK](course)
 - How many student credits [JOVA8](course)
@@ -1828,7 +1878,8 @@
 - I want to know how many credits can I get from [POHA2](course)
 - I want to know how many ECTS can I get from [KASLOE6.2](course)
 - I want to know how many student points can I get from [DPHSFC01](course)
-- I want to know the amount of student points [LOGS5](course)- How many points [KKRUHY](course)
+- I want to know the amount of student points [LOGS5](course)
+- How many points [KKRUHY](course)
 - How many credits [VENA6](course)
 - How many ECTS [TAYJ11](course)
 - How many student credits [SOS4.5](course)
@@ -1861,7 +1912,8 @@
 - I want to know how many credits can I get from [KATLITO5](course)
 - I want to know how many ECTS can I get from [STYS1B4](course)
 - I want to know how many student points can I get from [BTK1013](course)
-- I want to know the amount of student points [POLVOS21](course)- How many points [DPLS01](course)
+- I want to know the amount of student points [POLVOS21](course)
+- How many points [DPLS01](course)
 - How many credits [KASA7](course)
 - How many ECTS [KASA9](course)
 - How many student credits [JOVY3](course)
@@ -1894,7 +1946,8 @@
 - I want to know how many credits can I get from [HALYHT](course)
 - I want to know how many ECTS can I get from [ITIS33](course)
 - I want to know how many student points can I get from [KATLITO5](course)
-- I want to know the amount of student points [JOVA18](course)- How many points [KASLOH4B](course)
+- I want to know the amount of student points [JOVA18](course)
+- How many points [KASLOH4B](course)
 - How many credits [KASA11](course)
 - How many ECTS [KATLAS11](course)
 - How many student credits [TERY5B](course)
@@ -1927,7 +1980,8 @@
 - I want to know how many credits can I get from [HALYAA13](course)
 - I want to know how many ECTS can I get from [ITIS32](course)
 - I want to know how many student points can I get from [MVKS18E](course)
-- I want to know the amount of student points [POLVOA31/S21](course)- How many points [KKENKTK](course)
+- I want to know the amount of student points [POLVOA31/S21](course)
+- How many points [KKENKTK](course)
 - How many credits [DPLSSEM](course)
 - How many ECTS [GTS4](course)
 - How many student credits [HISA4](course)
@@ -1960,7 +2014,8 @@
 - I want to know how many credits can I get from [KKENYHT](course)
 - I want to know how many ECTS can I get from [KATVAA13](course)
 - I want to know how many student points can I get from [ENGA4](course)
-- I want to know the amount of student points [TIETA17](course)- How many points [KATMAS14](course)
+- I want to know the amount of student points [TIETA17](course)
+- How many points [KATMAS14](course)
 - How many credits [TRMU1](course)
 - How many ECTS [KASMAT2](course)
 - How many student credits [KATMAS99](course)
@@ -1993,7 +2048,8 @@
 - I want to know how many credits can I get from [DPIT2](course)
 - I want to know how many ECTS can I get from [SOS4.5](course)
 - I want to know how many student points can I get from [DPCMTJ4](course)
-- I want to know the amount of student points [JOUJOVTS](course)- How many points [YKYYHT3](course)
+- I want to know the amount of student points [JOUJOVTS](course)
+- How many points [YKYYHT3](course)
 - How many credits [KATTAA12A](course)
 - How many ECTS [HALKAA99](course)
 - How many student credits [PGHMTS](course)
@@ -2026,7 +2082,8 @@
 - I want to know how many credits can I get from [LOGA2](course)
 - I want to know how many ECTS can I get from [KKENYHT](course)
 - I want to know how many student points can I get from [KKRUVAL2](course)
-- I want to know the amount of student points [KATVRS40](course)- How many points [HTIS51](course)
+- I want to know the amount of student points [KATVRS40](course)
+- How many points [HTIS51](course)
 - How many credits [KATVRP12](course)
 - How many ECTS [MTTY4](course)
 - How many student credits [TSEKP3](course)
@@ -2059,7 +2116,8 @@
 - I want to know how many credits can I get from [POLVOA11](course)
 - I want to know how many ECTS can I get from [KIRA5](course)
 - I want to know how many student points can I get from [KATTAS90](course)
-- I want to know the amount of student points [KASLOE7.2](course)- How many points [TERA1](course)
+- I want to know the amount of student points [KASLOE7.2](course)
+- How many points [TERA1](course)
 - How many credits [KATYVS41](course)
 - How many ECTS [KATTAS90](course)
 - How many student credits [BIO4380](course)
@@ -2123,7 +2181,8 @@
 - I want to know the location of [YKTM4](course)
 - I want to know where [ITIS35](course) is
 - I want to know the classroom for [KKSUPRO](course)
-- I want to know how to find [TRSU01](course)- Where is [VIROP2](course)
+- I want to know how to find [TRSU01](course)
+- Where is [VIROP2](course)
 - Where is course [NAM-IV](course)
 - Where is class [PCP11](course)
 - Where is lecture [TERHOIA4](course)
@@ -2151,7 +2210,8 @@
 - I want to know the location of [HTIS85](course)
 - I want to know where [VENP2](course) is
 - I want to know the classroom for [KASLOK1](course)
-- I want to know how to find [POLPOP03](course)- Where is [KATSTA12](course)
+- I want to know how to find [POLPOP03](course)
+- Where is [KATSTA12](course)
 - Where is course [KASA13](course)
 - Where is class [PSYS1](course)
 - Where is lecture [KASLOM2](course)
@@ -2179,7 +2239,8 @@
 - I want to know the location of [KATTAA40](course)
 - I want to know where [HISA2](course) is
 - I want to know the classroom for [HALJUA19](course)
-- I want to know how to find [KASLOE8.1](course)- Where is [TAYJ035](course)
+- I want to know how to find [KASLOE8.1](course)
+- Where is [TAYJ035](course)
 - Where is course [TERA6](course)
 - Where is class [ITIS12](course)
 - Where is lecture [POLVOS10](course)
@@ -2207,7 +2268,8 @@
 - I want to know the location of [ITIA11](course)
 - I want to know where [ITIA11](course) is
 - I want to know the classroom for [TAYJ033](course)
-- I want to know how to find [KKSUBMT](course)- Where is [KASSM1](course)
+- I want to know how to find [KKSUBMT](course)
+- Where is [KASSM1](course)
 - Where is course [KATJOA14](course)
 - Where is class [JKKYINA15](course)
 - Where is lecture [HTIY006](course)
@@ -2235,7 +2297,8 @@
 - I want to know the location of [DPLSSEM](course)
 - I want to know where [TIETA8](course) is
 - I want to know the classroom for [DPCMTJT3](course)
-- I want to know how to find [TSEKP2](course)- Where is [TAYJ027](course)
+- I want to know how to find [TSEKP2](course)
+- Where is [TAYJ027](course)
 - Where is course [HISA2](course)
 - Where is class [KKENVAL2](course)
 - Where is lecture [POLVOA21](course)
@@ -2263,7 +2326,8 @@
 - I want to know the location of [ITIA03](course)
 - I want to know where [POLPOP02](course) is
 - I want to know the classroom for [MVKS16V](course)
-- I want to know how to find [SUOR1/A6](course)- Where is [MEDU10](course)
+- I want to know how to find [SUOR1/A6](course)
+- Where is [MEDU10](course)
 - Where is course [ITIS22](course)
 - Where is class [KASA9](course)
 - Where is lecture [SOS10.2](course)
@@ -2291,7 +2355,8 @@
 - I want to know the location of [SAKA4](course)
 - I want to know where [LTLY16](course) is
 - I want to know the classroom for [LUOYA200](course)
-- I want to know how to find [HALHAS19](course)- Where is [PGHINT](course)
+- I want to know how to find [HALHAS19](course)
+- Where is [PGHINT](course)
 - Where is course [HTIY006](course)
 - Where is class [SOP03.1](course)
 - Where is lecture [VENS10](course)
@@ -2319,7 +2384,8 @@
 - I want to know the location of [KASPUHS6](course)
 - I want to know where [TERHOIA4](course) is
 - I want to know the classroom for [PEDA3](course)
-- I want to know how to find [HALJTA12](course)- Where is [KASVAR3](course)
+- I want to know how to find [HALJTA12](course)
+- Where is [KASVAR3](course)
 - Where is course [TSEKP1](course)
 - Where is class [POLYEP12](course)
 - Where is lecture [KASLOM6](course)
@@ -2347,7 +2413,8 @@
 - I want to know the location of [KASP4](course)
 - I want to know where [BIO2310](course) is
 - I want to know the classroom for [FILS1A](course)
-- I want to know how to find [KKSUPRO](course)- Where is [SOSM6.1](course)
+- I want to know how to find [KKSUPRO](course)
+- Where is [SOSM6.1](course)
 - Where is course [TRSU02](course)
 - Where is class [SOS09.1](course)
 - Where is lecture [KASA5](course)
@@ -2375,7 +2442,8 @@
 - I want to know the location of [HALHAP01](course)
 - I want to know where [DPLSSEM](course) is
 - I want to know the classroom for [JOVA16](course)
-- I want to know how to find [PSYS14](course)- Where is [VENA7](course)
+- I want to know how to find [PSYS14](course)
+- Where is [VENA7](course)
 - Where is course [IGS005](course)
 - Where is class [TSEKP1](course)
 - Where is lecture [JOVPVA7](course)
@@ -2490,7 +2558,8 @@
 - I want to know the location of [JOVA7](course)
 - I want to know where [ITIS42](course) is
 - I want to know the classroom for [HEAAE03](course)
-- I want to know how to find [MVKS24E](course)- Where is [KIRS5](course)
+- I want to know how to find [MVKS24E](course)
+- Where is [KIRS5](course)
 - Where is course [KKRUYHT](course)
 - Where is class [POLVOA31](course)
 - Where is lecture [KASVAR9](course)
