@@ -96,10 +96,10 @@
 - When is [SUOV3](course)
 - [TRSU01](course) when
 - When [YKYYV07][course]
-- [ESPFA1](KKENVAL2) start
-- [MEJOS15](KKENMP3) start date
-- [JOVPVS5](KASP3) starting date
-- [VENS3](KATJOS13) begins
+- [ESPFA1](course) start
+- [MEJOS15](course) start date
+- [JOVPVS5](course) starting date
+- [VENS3](course) begins
 - Tell me the start date of [TIEA5](course)
 - What day will [RANA7(course) start
 - When do I have [TAYJ041](course)
@@ -129,11 +129,11 @@
 - When will [KKSU1](course) start
 - When is [HISA1A](course)
 - [HALJUA14](course) when
-- When [TEE4][course]
-- [ESPFA1](PEACE045) start
-- [MEJOS15](KATLAS26) start date
-- [JOVPVS5](JOVVJS4) starting date
-- [VENS3](KASSO7) begins
+- When [TEE4](course)
+- [ESPFA1](course) start
+- [MEJOS15](course) start date
+- [JOVPVS5](course) starting date
+- [VENS3](course) begins
 - Tell me the start date of [FILAPRO](course)
 - What day will [PSYS12(course) start
 - When do I have [KASLOE7.1](course)
@@ -163,11 +163,11 @@
 - When will [KKENMP3](course) start
 - When is [MTTS1](course)
 - [POLVOA51](course) when
-- When [MTTA1][course]
-- [ESPFA1](VENA5) start
-- [MEJOS15](KKENVAL4) start date
-- [JOVPVS5](KKENVAL4) starting date
-- [VENS3](JOVPVA7) begins
+- When [MTTA1](course)
+- [ESPFA1](course) start
+- [MEJOS15](course) start date
+- [JOVPVS5](course) starting date
+- [VENS3](course) begins
 - Tell me the start date of [JOVA6/JMMETUS](course)
 - What day will [DPIS2(course) start
 - When do I have [JOVP1](course)
@@ -197,11 +197,11 @@
 - When will [JOVPVS3](course) start
 - When is [PGHMTS](course)
 - [TAYJ11](course) when
-- When [TECHS3][course]
-- [ESPFA1](KASP3) start
-- [MEJOS15](BTK1099) start date
-- [JOVPVS5](KASVARH) starting date
-- [VENS3](TIETS09) begins
+- When [TECHS3](course)
+- [ESPFA1](course) start
+- [MEJOS15](course) start date
+- [JOVPVS5](course) starting date
+- [VENS3](course) begins
 - Tell me the start date of [HEAAE03](course)
 - What day will [TRMU1(course) start
 - When do I have [KASSM2](course)
@@ -231,11 +231,11 @@
 - When will [POLPOP04](course) start
 - When is [ENGS2](course)
 - [ENGP7](course) when
-- When [KASSM2][course]
-- [ESPFA1](SOS08.3) start
-- [MEJOS15](BTK4121) start date
-- [JOVPVS5](TAYJ024) starting date
-- [VENS3](VENS2) begins
+- When [KASSM2](course)
+- [ESPFA1](course) start
+- [MEJOS15](course) start date
+- [JOVPVS5](course) starting date
+- [VENS3](course) begins
 - Tell me the start date of [KASVAR10](course)
 - What day will [JOVAT2(course) start
 - When do I have [KKRA2](course)
@@ -265,11 +265,11 @@
 - When will [KKVE2](course) start
 - When is [HISA4](course)
 - [SAKS2](course) when
-- When [TRSU03][course]
-- [ESPFA1](DPHSS203) start
-- [MEJOS15](JKKYINA11) start date
-- [JOVPVS5](KASSY5) starting date
-- [VENS3](HALJUA14) begins
+- When [TRSU03](course)
+- [ESPFA1](course) start
+- [MEJOS15](course) start date
+- [JOVPVS5](course) starting date
+- [VENS3](course) begins
 - Tell me the start date of [KKSU7](course)
 - What day will [KASLOM11(course) start
 - When do I have [SUOV1](course)
@@ -299,11 +299,11 @@
 - When will [KASVAR5](course) start
 - When is [TIETS05](course)
 - [SOSM1](course) when
-- When [SOCYKV1][course]
-- [ESPFA1](KASA11) start
-- [MEJOS15](LUOYY020) start date
-- [JOVPVS5](DPJKKHS) starting date
-- [VENS3](HALJTA03) begins
+- When [SOCYKV1](course)
+- [ESPFA1](course) start
+- [MEJOS15](course) start date
+- [JOVPVS5](course) starting date
+- [VENS3](course) begins
 - Tell me the start date of [SOS6.1.1](course)
 - What day will [KKIN5(course) start
 - When do I have [ENGP2](course)
@@ -333,11 +333,11 @@
 - When will [KASLOM5](course) start
 - When is [HTIS85](course)
 - [MVKS39V](course) when
-- When [LOGA8][course]
-- [ESPFA1](COSOPOM1) start
-- [MEJOS15](KATVAA11) start date
-- [JOVPVS5](POLVOA22/A32) starting date
-- [VENS3](HALJTA21) begins
+- When [LOGA8](course)
+- [ESPFA1](course) start
+- [MEJOS15](course) start date
+- [JOVPVS5](course) starting date
+- [VENS3](course) begins
 - Tell me the start date of [KASA12](course)
 - What day will [KATLAP21(course) start
 - When do I have [HALYAA14](course)
@@ -367,11 +367,11 @@
 - When will [KASA11](course) start
 - When is [JOVPVA7](course)
 - [ITIA2](course) when
-- When [BTK4663][course]
-- [ESPFA1](KATLITO1) start
-- [MEJOS15](TSEKP3) start date
-- [JOVPVS5](SOS04.4) starting date
-- [VENS3](POLVOA32/S27) begins
+- When [BTK4663](course)
+- [ESPFA1](course) start
+- [MEJOS15](course) start date
+- [JOVPVS5](course) starting date
+- [VENS3](course) begins
 - Tell me the start date of [VENA5](course)
 - What day will [ITIS61(course) start
 - When do I have [KATMAA16](course)
@@ -401,11 +401,11 @@
 - When will [HALYAP01](course) start
 - When is [JOVA2](course)
 - [FILA7](course) when
-- When [DPEDUB.1B][course]
-- [ESPFA1](STYS2A) start
-- [MEJOS15](HTIS67) start date
-- [JOVPVS5](KASPUHP2) starting date
-- [VENS3](IGS006) begins
+- When [DPEDUB.1B](course)
+- [ESPFA1](course) start
+- [MEJOS15](course) start date
+- [JOVPVS5](course) starting date
+- [VENS3](course) begins
 - Tell me the start date of [DPEDUB.1A](course)
 - What day will [POLVOA41/S28(course) start
 - When do I have [KASA13](course)
@@ -435,11 +435,11 @@
 - When will [JOVP5](course) start
 - When is [POLKVA41](course)
 - [JOVA1](course) when
-- When [YKIEP4][course]
-- [ESPFA1](JOVP5) start
-- [MEJOS15](KKSUHY) start date
-- [JOVPVS5](SAKP5) starting date
-- [VENS3](TIETA6) begins
+- When [YKIEP4](course)
+- [ESPFA1](course) start
+- [MEJOS15](course) start date
+- [JOVPVS5](course) starting date
+- [VENS3](course) begins
 - Tell me the start date of [POHP2](course)
 - What day will [TERHOIA2(course) start
 - When do I have [STYA3A2](course)
@@ -469,11 +469,11 @@
 - When will [SOS6.3.2](course) start
 - When is [KKSUKTK](course)
 - [TERTIETO2](course) when
-- When [VENA12][course]
-- [ESPFA1](COSOPOM2) start
-- [MEJOS15](TIETS41) start date
-- [JOVPVS5](KASSM2) starting date
-- [VENS3](KATVRS42) begins
+- When [VENA12](course)
+- [ESPFA1](course) start
+- [MEJOS15](course) start date
+- [JOVPVS5](course) starting date
+- [VENS3](course) begins
 - Tell me the start date of [KKVE5](course)
 - What day will [SOS4.1(course) start
 - When do I have [ENGA1](course)
@@ -503,11 +503,11 @@
 - When will [JOVTETUS3](course) start
 - When is [JOVPVA7](course)
 - [BTK2223](course) when
-- When [VENA13][course]
-- [ESPFA1](KASA12) start
-- [MEJOS15](MVKS47) start date
-- [JOVPVS5](KASVAR11) starting date
-- [VENS3](TERY2) begins
+- When [VENA13](course)
+- [ESPFA1](course) start
+- [MEJOS15](course) start date
+- [JOVPVS5](course) starting date
+- [VENS3](course) begins
 - Tell me the start date of [PSYA9](course)
 - What day will [KATYVA36(course) start
 - When do I have [POHS1](course)
@@ -537,11 +537,11 @@
 - When will [TIETA19](course) start
 - When is [JOVA13](course)
 - [KKENYHT](course) when
-- When [BTK4665][course]
-- [ESPFA1](KAMYVS99) start
-- [MEJOS15](KATMAA14) start date
-- [JOVPVS5](KATYVA43) starting date
-- [VENS3](KASSO5) begins
+- When [BTK4665](course)
+- [ESPFA1](course) start
+- [MEJOS15](course) start date
+- [JOVPVS5](course) starting date
+- [VENS3](course) begins
 - Tell me the start date of [KATVRP11](course)
 - What day will [TAYJ041(course) start
 - When do I have [SOS4.2](course)
@@ -571,11 +571,11 @@
 - When will [JOVAT1](course) start
 - When is [TIETS19](course)
 - [HALTTS13](course) when
-- When [SOSM2][course]
-- [ESPFA1](TAYJ035) start
-- [MEJOS15](KASP3) start date
-- [JOVPVS5](KASA9) starting date
-- [VENS3](KASLOE7.5) begins
+- When [SOSM2](course)
+- [ESPFA1](course) start
+- [MEJOS15](course) start date
+- [JOVPVS5](course) starting date
+- [VENS3](course) begins
 - Tell me the start date of [KASVAR8](course)
 - What day will [KASA13(course) start
 - When do I have [POLPOP01](course)
@@ -605,11 +605,11 @@
 - When will [KASLOM7](course) start
 - When is [POLKVS22](course)
 - [HALYAS12](course) when
-- When [STYA9][course]
-- [ESPFA1](POHA9) start
-- [MEJOS15](KATJOS12) start date
-- [JOVPVS5](POLKVS21) starting date
-- [VENS3](KATRAS12) begins
+- When [STYA9](course)
+- [ESPFA1](course) start
+- [MEJOS15](course) start date
+- [JOVPVS5](course) starting date
+- [VENS3](course) begins
 - Tell me the start date of [NORDIG3](course)
 - What day will [MTTMP4(course) start
 - When do I have [POLKVA11](course)
@@ -639,11 +639,11 @@
 - When will [PCP10/NAM IV](course) start
 - When is [KATTAA40](course)
 - [KASP4](course) when
-- When [POLKVA21][course]
-- [ESPFA1](KATJOS12) start
-- [MEJOS15](TERA2) start date
-- [JOVPVS5](KATJOA99) starting date
-- [VENS3](MTTMA1C) begins
+- When [POLKVA21](course)
+- [ESPFA1](course) start
+- [MEJOS15](course) start date
+- [JOVPVS5](course) starting date
+- [VENS3](course) begins
 - Tell me the start date of [TRMU1](course)
 - What day will [JOVA14(course) start
 - When do I have [TIETA19](course)
@@ -673,11 +673,11 @@
 - When will [FILS1A](course) start
 - When is [TECHS4](course)
 - [KASVAR6](course) when
-- When [KKSA2][course]
-- [ESPFA1](KATLAA11) start
-- [MEJOS15](KKSAPRE2) start date
-- [JOVPVS5](HISA1B) starting date
-- [VENS3](KASVAR2) begins
+- When [KKSA2](course)
+- [ESPFA1](course) start
+- [MEJOS15](course) start date
+- [JOVPVS5](course) starting date
+- [VENS3](course) begins
 - Tell me the start date of [BTK1061](course)
 - What day will [DPLA01(course) start
 - When do I have [POLVOS40](course)
@@ -707,11 +707,11 @@
 - When will [TERHOIA3](course) start
 - When is [BTK2025](course)
 - [KASP4](course) when
-- When [KASS2][course]
-- [ESPFA1](MVKS42E) start
-- [MEJOS15](BTK3120) start date
-- [JOVPVS5](KASP5) starting date
-- [VENS3](KIRP2) begins
+- When [KASS2](course)
+- [ESPFA1](course) start
+- [MEJOS15](course) start date
+- [JOVPVS5](course) starting date
+- [VENS3](course) begins
 - Tell me the start date of [SOSM5.1](course)
 - What day will [TIETS14(course) start
 - When do I have [HISA2](course)
@@ -741,11 +741,11 @@
 - When will [KKSUSOTE](course) start
 - When is [KASA11](course)
 - [SUKKP5B](course) when
-- When [COSOPOM1][course]
-- [ESPFA1](PSYS13) start
-- [MEJOS15](KKSUTEK2) start date
-- [JOVPVS5](JOVTS5) starting date
-- [VENS3](KATVRP11) begins
+- When [COSOPOM1](course)
+- [ESPFA1](course) start
+- [MEJOS15](course) start date
+- [JOVPVS5](course) starting date
+- [VENS3](course) begins
 - Tell me the start date of [TERA3](course)
 - What day will [DPCMTJ2/JMMETUS(course) start
 - When do I have [POLKVA43](course)
@@ -775,11 +775,11 @@
 - When will [TAYJ031](course) start
 - When is [POLPOP05](course)
 - [HALJUA25](course) when
-- When [MTTY1][course]
-- [ESPFA1](BTK2070) start
-- [MEJOS15](BTK4300) start date
-- [JOVPVS5](ENGP2) starting date
-- [VENS3](TERKANA2) begins
+- When [MTTY1](course)
+- [ESPFA1](course) start
+- [MEJOS15](course) start date
+- [JOVPVS5](course) starting date
+- [VENS3](course) begins
 - Tell me the start date of [MTTMA2](course)
 - What day will [LFCS99(course) start
 - When do I have [DPHSM304](course)
@@ -809,11 +809,11 @@
 - When will [PSYS10](course) start
 - When is [SOS6.5.2](course)
 - [HALKAS14](course) when
-- When [POLPOP04][course]
-- [ESPFA1](HALKOS27) start
-- [MEJOS15](POLKVA43) start date
-- [JOVPVS5](KATLITO1) starting date
-- [VENS3](TIETA7) begins
+- When [POLPOP04](course)
+- [ESPFA1](course) start
+- [MEJOS15](course) start date
+- [JOVPVS5](course) starting date
+- [VENS3](course) begins
 - Tell me the start date of [ENGS46](course)
 - What day will [VENP4(course) start
 - When do I have [BTK2223](course)
@@ -843,11 +843,11 @@
 - When will [TERY4](course) start
 - When is [LTLY16](course)
 - [KASA13](course) when
-- When [POLVOA21][course]
-- [ESPFA1](LTLY212) start
-- [MEJOS15](HALJUS99) start date
-- [JOVPVS5](JOVTS5) starting date
-- [VENS3](GTS2) begins
+- When [POLVOA21](course)
+- [ESPFA1](course) start
+- [MEJOS15](course) start date
+- [JOVPVS5](course) starting date
+- [VENS3](course) begins
 - Tell me the start date of [TERHOI2](course)
 - What day will [YKT6.6.4(course) start
 - When do I have [HALKAP01](course)
@@ -877,11 +877,11 @@
 - When will [MVKS17V](course) start
 - When is [SOS6.2.3](course)
 - [MTTY1](course) when
-- When [KATYVA34][course]
-- [ESPFA1](JKKYTVA12) start
-- [MEJOS15](JOVKA4) start date
-- [JOVPVS5](STYS1A) starting date
-- [VENS3](COSOPON3) begins
+- When [KATYVA34](course)
+- [ESPFA1](course) start
+- [MEJOS15](course) start date
+- [JOVPVS5](course) starting date
+- [VENS3](course) begins
 - Tell me the start date of [MOLI](course)
 - What day will [HTIS54(course) start
 - When do I have [KKENKTMO](course)
@@ -911,11 +911,11 @@
 - When will [TIETA13](course) start
 - When is [POLVOA32/S27](course)
 - [KKRAVAL1](course) when
-- When [SAKP0][course]
-- [ESPFA1](TERKANA3) start
-- [MEJOS15](HTIS53) start date
-- [JOVPVS5](POLVOS21) starting date
-- [VENS3](HTIS60) begins
+- When [SAKP0](course)
+- [ESPFA1](course) start
+- [MEJOS15](course) start date
+- [JOVPVS5](course) starting date
+- [VENS3](course) begins
 - Tell me the start date of [MTTS1](course)
 - What day will [TIEY4(course) start
 - When do I have [KATJOS99](course)
@@ -945,11 +945,11 @@
 - When will [KATVAS99](course) start
 - When is [KIRP3](course)
 - [SUKKP5B](course) when
-- When [TIEP1][course]
-- [ESPFA1](SUOV3) start
-- [MEJOS15](KASVAR8) start date
-- [JOVPVS5](KASLOE2.2) starting date
-- [VENS3](MTTMA2) begins
+- When [TIEP1](course)
+- [ESPFA1](course) start
+- [MEJOS15](course) start date
+- [JOVPVS5](course) starting date
+- [VENS3](course) begins
 - Tell me the start date of [KKRUHY](course)
 - What day will [TERY4(course) start
 - When do I have [SOSM1](course)
@@ -979,11 +979,11 @@
 - When will [KKIN5](course) start
 - When is [KIRS5](course)
 - [KKSUHUK1](course) when
-- When [TERKANP3][course]
-- [ESPFA1](KASVAR10) start
-- [MEJOS15](KATYVA44) start date
-- [JOVPVS5](TEE2) starting date
-- [VENS3](HALYAA13) begins
+- When [TERKANP3](course)
+- [ESPFA1](course) start
+- [MEJOS15](course) start date
+- [JOVPVS5](course) starting date
+- [VENS3](course) begins
 - Tell me the start date of [KATLITO8](course)
 - What day will [DPHSR403(course) start
 - When do I have [HALJUA14](course)
@@ -1013,11 +1013,11 @@
 - When will [TERY4](course) start
 - When is [KASERIT1](course)
 - [KAMVRS99](course) when
-- When [SOS6.3.3][course]
-- [ESPFA1](POLKVA41) start
-- [MEJOS15](POLKVS22) start date
-- [JOVPVS5](HALKAA12) starting date
-- [VENS3](KKSUKK) begins
+- When [SOS6.3.3](course)
+- [ESPFA1](course) start
+- [MEJOS15](course) start date
+- [JOVPVS5](course) starting date
+- [VENS3](course) begins
 - Tell me the start date of [KKSAVAL3](course)
 - What day will [KKRA2(course) start
 - When do I have [KATVRA12](course)
@@ -1047,11 +1047,11 @@
 - When will [STYA3A2](course) start
 - When is [HALVALS10](course)
 - [JOVTS5](course) when
-- When [TERY4][course]
-- [ESPFA1](BIO2250) start
-- [MEJOS15](TERHOIA6) start date
-- [JOVPVS5](KASLOM5) starting date
-- [VENS3](IGS006) begins
+- When [TERY4](course)
+- [ESPFA1](course) start
+- [MEJOS15](course) start date
+- [JOVPVS5](course) starting date
+- [VENS3](course) begins
 - Tell me the start date of [MTTMA11](course)
 - What day will [KASA3(course) start
 - When do I have [BIO4230](course)
@@ -1081,11 +1081,11 @@
 - When will [LTLY214](course) start
 - When is [HISS2](course)
 - [KATSTA14](course) when
-- When [FILJATKO][course]
-- [ESPFA1](POLVOA31) start
-- [MEJOS15](POHP0) start date
-- [JOVPVS5](HISJATKO) starting date
-- [VENS3](TERHOI4) begins
+- When [FILJATKO](course)
+- [ESPFA1](course) start
+- [MEJOS15](course) start date
+- [JOVPVS5](course) starting date
+- [VENS3](course) begins
 - Tell me the start date of [JOVP5](course)
 - What day will [PSYS2(course) start
 - When do I have [KATJOA99](course)
