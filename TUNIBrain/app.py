@@ -1,5 +1,5 @@
 from bottle import Bottle, run, \
-template, debug, static_file, request, post, get, route
+template, debug, static_file, request, post, get, route, hook, response
 
 import os, sys
 import requests
@@ -10,7 +10,9 @@ from inspect import getsourcefile
 from os.path import abspath
 from parse_uta_databank import UTAJsonParser
 from TAMK_API_implementations import *
+
 from Log import Logger
+
 import re
 
 dirname = os.path.dirname(abspath(getsourcefile(lambda:0)))
@@ -28,8 +30,17 @@ UTA_PARSER = UTAJsonParser("jsons")
 
 from gevent import monkey; monkey.patch_all()
 
+@app.hook('after_request')
+def enable_cors():
+    response.headers['Access-Control-Allow-Origin'] = 'http://localhost:8080'
+
+@app.route('/static/<filename>')
+def server_static(filename):
+    #return "hey"
+    return static_file(filename, root='static')
+
 logger = Logger(logs_on)
-    
+
 def query_chatscript(query, userID="TestUser"):
     # Lokaalin testiympäristön osoite. Muistetaan muokata, kunhan CS
     # on serverillä.
@@ -69,9 +80,13 @@ def login():
 def test():
     username = request.forms.get('username') #+ ":tunibottitoo"
     query = request.forms.get('query')
+
+    #Are logs working
+    logs_on = False
     #Removes special characters from query, and makes it start with lowercase letter
     cleaning_query = ''.join(e for e in query if e.isalnum() or e.isspace())
     cleaned_query = "".join(c.lower() if i is 0 else c for i, c in enumerate(cleaning_query))
+    
     
     #response = requests.get("api-address")
     #response = '{"intent": {"confidence": 0.5}}'
@@ -80,10 +95,7 @@ def test():
     rasa_json = json.loads(rasa_response.text)
     print(rasa_json)
     #print(moi['intent']['confidence'])
-    if 'intent' in rasa_json:
-        receivedThreshold = rasa_json['intent']['confidence']
-    else:
-        receivedThreshold = 0
+    receivedThreshold = rasa_json['intent']['confidence']
     print("rasa conf " + "{0:.2f}".format(receivedThreshold))
     need_cs_response = True
     response = ""
@@ -99,7 +111,7 @@ def test():
                     if len(uta) > 2:
                         response += uta
                         need_cs_response = False
-                    '''tamk = tamk_startDate(coursecode)
+                    '''tamk = TAMK_startDate(coursecode)
                     if len(tamk) > 2:
                         if len(uta) > 2:
                             response += "\n"
@@ -126,18 +138,19 @@ def test():
         print("Error in rasa code:")
         print(e)
     
-
+    
     if need_cs_response:
-        response += query_chatscript(query, userID=username)
+        response += query_chatscript(query)
     
     #Logs
     if logs_on:
         success = True
-        #Which program gave the answer
+        
         if need_cs_response:
             Source = 'Chatscript'
         else:
             Source = 'Rasa'
+
         #Was ChatScript able to answer?
         if response.startswith("Please ask me anything you"):
             success = False
@@ -162,7 +175,7 @@ def test():
     header = "<html><body>"
 
     footer = "</body></html>"
-    
+
     return header + response.replace("\n", "<br>").replace("  ", "&nbsp&nbsp") + footer
 
 
