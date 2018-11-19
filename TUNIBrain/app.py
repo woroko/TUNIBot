@@ -34,7 +34,7 @@ from gevent import monkey; monkey.patch_all()
 
 @app.hook('after_request')
 def enable_cors():
-    response.headers['Access-Control-Allow-Origin'] = 'http://localhost:8080'
+    response.headers['Access-Control-Allow-Origin'] = 'http://localhost:8082'
 
 @app.route('/static/<filename>')
 def server_static(filename):
