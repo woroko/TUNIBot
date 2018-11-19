@@ -2403,7 +2403,8 @@
 - I want to know the location of [SAKA9](course)
 - I want to know where [JOVPVA7](course) is
 - I want to know the classroom for [TERKAN11](course)
-- I want to know how to find [JKKYTUO2](course)- Where is [TAYJ11](course)
+- I want to know how to find [JKKYTUO2](course)
+- Where is [TAYJ11](course)
 - Where is course [SOS6.3.3](course)
 - Where is class [TERTIETO3](course)
 - Where is lecture [JKKYVP11](course)
@@ -2431,7 +2432,8 @@
 - I want to know the location of [COSOPOM2](course)
 - I want to know where [KKSAVAL0](course) is
 - I want to know the classroom for [PEDA3](course)
-- I want to know how to find [KASLOK3](course)- Where is [KASA12](course)
+- I want to know how to find [KASLOK3](course)
+- Where is [KASA12](course)
 - Where is course [FILA7](course)
 - Where is class [KATTAS34](course)
 - Where is lecture [MTTMP1A](course)
@@ -2459,7 +2461,8 @@
 - I want to know the location of [MTTS1](course)
 - I want to know where [ITIP5](course) is
 - I want to know the classroom for [POLVOS33](course)
-- I want to know how to find [KATTAA12A](course)- Where is [KATYVA44](course)
+- I want to know how to find [KATTAA12A](course)
+- Where is [KATYVA44](course)
 - Where is course [ESPFA1](course)
 - Where is class [KASP5](course)
 - Where is lecture [JKKYOA12](course)
@@ -2515,7 +2518,8 @@
 - I want to know the location of [ITIP2](course)
 - I want to know where [KKENMP3](course) is
 - I want to know the classroom for [KKSUVAL3](course)
-- I want to know how to find [KKENVAL8](course)- Where is [KATLAA99](course)
+- I want to know how to find [KKENVAL8](course)
+- Where is [KATLAA99](course)
 - Where is course [TERHOI4](course)
 - Where is class [BTK2020](course)
 - Where is lecture [PEDA4](course)
@@ -2543,7 +2547,8 @@
 - I want to know the location of [TIETS05](course)
 - I want to know where [POLKVA22](course) is
 - I want to know the classroom for [STYP1A](course)
-- I want to know how to find [TIETS13](course)- Where is [KKENKTMO](course)
+- I want to know how to find [TIETS13](course)
+- Where is [KKENKTMO](course)
 - Where is course [POLKVA23](course)
 - Where is class [KASLOE4.1](course)
 - Where is lecture [TAYJ032](course)
@@ -2571,7 +2576,8 @@
 - I want to know the location of [POLKVS22](course)
 - I want to know where [DPEDUB.1A](course) is
 - I want to know the classroom for [PSYS14](course)
-- I want to know how to find [KASP4](course)- Where is [LTLY16](course)
+- I want to know how to find [KASP4](course)
+- Where is [LTLY16](course)
 - Where is course [PSYA1](course)
 - Where is class [BTK1099](course)
 - Where is lecture [POHA12](course)
@@ -2599,7 +2605,8 @@
 - I want to know the location of [STYS3B2](course)
 - I want to know where [STYS3](course) is
 - I want to know the classroom for [JOVAT2](course)
-- I want to know how to find [KATYVA52](course)- Where is [ENGP7](course)
+- I want to know how to find [KATYVA52](course)
+- Where is [ENGP7](course)
 - Where is course [KASVAR1](course)
 - Where is class [KIRA2](course)
 - Where is lecture [BTK4501](course)
@@ -2627,7 +2634,8 @@
 - I want to know the location of [KASS1](course)
 - I want to know where [ITIS23](course) is
 - I want to know the classroom for [TERTIETO3](course)
-- I want to know how to find [FILS1](course)- Where is [TAYJ034](course)
+- I want to know how to find [FILS1](course)
+- Where is [TAYJ034](course)
 - Where is course [POLKAA99](course)
 - Where is class [DPMED15](course)
 - Where is lecture [SUOS1](course)
@@ -2655,7 +2663,8 @@
 - I want to know the location of [KASA13](course)
 - I want to know where [SOS04.4](course) is
 - I want to know the classroom for [KATYVS42](course)
-- I want to know how to find [KKSUBMT](course)- Where is [SUKKP5A](course)
+- I want to know how to find [KKSUBMT](course)
+- Where is [SUKKP5A](course)
 - Where is course [SUOR1/A6](course)
 - Where is class [KATTAA35](course)
 - Where is lecture [MVKS34](course)
@@ -2683,7 +2692,8 @@
 - I want to know the location of [KATVRP12](course)
 - I want to know where [POLKVS21](course) is
 - I want to know the classroom for [DPHSFC01](course)
-- I want to know how to find [BIO4440](course)- Where is [KKIN5](course)
+- I want to know how to find [BIO4440](course)
+- Where is [KKIN5](course)
 - Where is course [TECHS5](course)
 - Where is class [KATSTA11](course)
 - Where is lecture [HALJTJ00](course)
@@ -2711,7 +2721,8 @@
 - I want to know the location of [KKENKTM](course)
 - I want to know where [KASVAR11](course) is
 - I want to know the classroom for [HTIS54](course)
-- I want to know how to find [KATRAA11](course)- Where is [KKRULL](course)
+- I want to know how to find [KATRAA11](course)
+- Where is [KKRULL](course)
 - Where is course [HALJTS99](course)
 - Where is class [KASVAR11](course)
 - Where is lecture [KKENVAL4](course)
@@ -2739,7 +2750,8 @@
 - I want to know the location of [POLKVA11](course)
 - I want to know where [TAYJ12](course) is
 - I want to know the classroom for [KASA8](course)
-- I want to know how to find [KATYVS24](course)- Where is [LOGP1](course)
+- I want to know how to find [KATYVS24](course)
+- Where is [LOGP1](course)
 - Where is course [FONEA4](course)
 - Where is class [KKIN1](course)
 - Where is lecture [KATVRS55](course)
@@ -2767,7 +2779,8 @@
 - I want to know the location of [KATVRA30](course)
 - I want to know where [MOLI](course) is
 - I want to know the classroom for [KASPUHP1](course)
-- I want to know how to find [HISA4](course)- Where is [SOS6.4.2](course)
+- I want to know how to find [HISA4](course)
+- Where is [SOS6.4.2](course)
 - Where is course [HALTTS11](course)
 - Where is class [KKSAPRE1](course)
 - Where is lecture [KKKI2](course)
@@ -2795,7 +2808,8 @@
 - I want to know the location of [POLPOP02](course)
 - I want to know where [HALYAP01](course) is
 - I want to know the classroom for [LTLY16](course)
-- I want to know how to find [KASLOM4](course)- Where is [KASLOM11](course)
+- I want to know how to find [KASLOM4](course)
+- Where is [KASLOM11](course)
 - Where is course [DPIS1](course)
 - Where is class [PEDAYOP2](course)
 - Where is lecture [HALYAS11](course)
@@ -2823,7 +2837,8 @@
 - I want to know the location of [KKRUYHT](course)
 - I want to know where [POLKVA11](course) is
 - I want to know the classroom for [HISA1B](course)
-- I want to know how to find [KASLOM1](course)- Where is [YKYYHT5](course)
+- I want to know how to find [KASLOM1](course)
+- Where is [YKYYHT5](course)
 - Where is course [ENGA10](course)
 - Where is class [LTLY16](course)
 - Where is lecture [POLPOP01](course)
@@ -2851,7 +2866,8 @@
 - I want to know the location of [PSYA1](course)
 - I want to know where [FILA3](course) is
 - I want to know the classroom for [KKSUYP](course)
-- I want to know how to find [KATTAS40](course)- Where is [KKIN5](course)
+- I want to know how to find [KATTAS40](course)
+- Where is [KKIN5](course)
 - Where is course [KASLOH1](course)
 - Where is class [SUKKP4](course)
 - Where is lecture [KATJOA15](course)
@@ -2879,7 +2895,8 @@
 - I want to know the location of [ENGS7-9](course)
 - I want to know where [KKES4](course) is
 - I want to know the classroom for [KKENKTM](course)
-- I want to know how to find [KASSM2](course)- Where is [PEDA2](course)
+- I want to know how to find [KASSM2](course)
+- Where is [PEDA2](course)
 - Where is course [KASA15](course)
 - Where is class [STYS3C](course)
 - Where is lecture [KASLOE7.2](course)
@@ -2907,7 +2924,8 @@
 - I want to know the location of [SOS6.1.3](course)
 - I want to know where [KASVAR4](course) is
 - I want to know the classroom for [TIEA5](course)
-- I want to know how to find [KKVE4](course)- Where is [HALJTP01](course)
+- I want to know how to find [KKVE4](course)
+- Where is [HALJTP01](course)
 - Where is course [MVKS30](course)
 - Where is class [JOVP5](course)
 - Where is lecture [MTTY4](course)
@@ -4755,7 +4773,8 @@
 - I want to know which semester will [DPCMTJ2/JMMETUS](course) start
 - I want to know which semester is [RANP5](course)
 - I want to know the study period of [HALHAA99](course)
-- I want to know the academic term for [MVKS36/31](course)- Period [KATTAP11](course)
+- I want to know the academic term for [MVKS36/31](course)
+- Period [KATTAP11](course)
 - Semester [KIRA2](course)
 - Quarter [POLVOA31](course)
 - Academic term [TERY4](course)
@@ -4796,7 +4815,8 @@
 - I want to know which semester will [MTTTP1](course) start
 - I want to know which semester is [KASVART3](course)
 - I want to know the study period of [LTLY16](course)
-- I want to know the academic term for [KIRS3](course)- Period [KATTAP11](course)
+- I want to know the academic term for [KIRS3](course)
+- Period [KATTAP11](course)
 - Semester [JKKYVAP](course)
 - Quarter [KKSUHY](course)
 - Academic term [SOSM1](course)
@@ -4837,7 +4857,8 @@
 - I want to know which semester will [KASLOK1](course) start
 - I want to know which semester is [KKSUSC](course)
 - I want to know the study period of [POHA6](course)
-- I want to know the academic term for [STYA3B](course)- Period [KATTAP11](course)
+- I want to know the academic term for [STYA3B](course)
+- Period [KATTAP11](course)
 - Semester [SUOK2/A6](course)
 - Quarter [BTK5557](course)
 - Academic term [TERKAN16](course)
@@ -4878,7 +4899,8 @@
 - I want to know which semester will [HALKOS22](course) start
 - I want to know which semester is [KASLOM2](course)
 - I want to know the study period of [JOUJOVTS](course)
-- I want to know the academic term for [MTTMA1C](course)- Period [KATTAP11](course)
+- I want to know the academic term for [MTTMA1C](course)
+- Period [KATTAP11](course)
 - Semester [KATRAS11](course)
 - Quarter [JOVAT2](course)
 - Academic term [POLVOA12](course)
@@ -4919,7 +4941,8 @@
 - I want to know which semester will [KATRAA11](course) start
 - I want to know which semester is [ESPFP4](course)
 - I want to know the study period of [LUOYA200](course)
-- I want to know the academic term for [KASP2](course)- Period [KATTAP11](course)
+- I want to know the academic term for [KASP2](course)
+- Period [KATTAP11](course)
 - Semester [POLKVA31](course)
 - Quarter [KKSAVAL1](course)
 - Academic term [KATLITO3](course)
@@ -4960,7 +4983,8 @@
 - I want to know which semester will [PEDAYOA1](course) start
 - I want to know which semester is [LOGA9](course)
 - I want to know the study period of [KATLITO8](course)
-- I want to know the academic term for [KKRUYHT](course)- Period [KATTAP11](course)
+- I want to know the academic term for [KKRUYHT](course)
+- Period [KATTAP11](course)
 - Semester [STYA3B](course)
 - Quarter [ITIS14](course)
 - Academic term [KKRULL](course)
@@ -5001,7 +5025,8 @@
 - I want to know which semester will [TIETS21](course) start
 - I want to know which semester is [YKT09.4](course)
 - I want to know the study period of [STYP1A](course)
-- I want to know the academic term for [JKKYVAP](course)- Period [KATTAP11](course)
+- I want to know the academic term for [JKKYVAP](course)
+- Period [KATTAP11](course)
 - Semester [DPHSR404](course)
 - Quarter [HALJUA65](course)
 - Academic term [HALHAS20](course)
@@ -5042,7 +5067,8 @@
 - I want to know which semester will [TIETS19](course) start
 - I want to know which semester is [KASA9](course)
 - I want to know the study period of [KKVE2](course)
-- I want to know the academic term for [MVKS42E](course)- Period [KATTAP11](course)
+- I want to know the academic term for [MVKS42E](course)
+- Period [KATTAP11](course)
 - Semester [KIRP3](course)
 - Quarter [STYS1B1](course)
 - Academic term [ENGA11](course)
@@ -5083,7 +5109,8 @@
 - I want to know which semester will [KKKI4](course) start
 - I want to know which semester is [STYA3B2](course)
 - I want to know the study period of [VENP1](course)
-- I want to know the academic term for [PSYS7](course)- Period [KATTAP11](course)
+- I want to know the academic term for [PSYS7](course)
+- Period [KATTAP11](course)
 - Semester [PEDA5](course)
 - Quarter [HALJUS22](course)
 - Academic term [VENA11](course)
@@ -5124,7 +5151,8 @@
 - I want to know which semester will [KATLITO7](course) start
 - I want to know which semester is [TAYJ12](course)
 - I want to know the study period of [MVKS28](course)
-- I want to know the academic term for [SOS10.10.1](course)- Period [KATTAP11](course)
+- I want to know the academic term for [SOS10.10.1](course)
+- Period [KATTAP11](course)
 - Semester [SAKA12](course)
 - Quarter [POLKVA12](course)
 - Academic term [KASVAR2](course)
@@ -5165,7 +5193,8 @@
 - I want to know which semester will [SAKA12](course) start
 - I want to know which semester is [HISS2](course)
 - I want to know the study period of [TERHOIA1](course)
-- I want to know the academic term for [KATLAS14](course)- Period [KATTAP11](course)
+- I want to know the academic term for [KATLAS14](course)
+- Period [KATTAP11](course)
 - Semester [KKENVAL2](course)
 - Quarter [TAYJ035](course)
 - Academic term [KKSUPRO](course)
@@ -5206,7 +5235,8 @@
 - I want to know which semester will [KASMAT1](course) start
 - I want to know which semester is [TAYJ12](course)
 - I want to know the study period of [ENGA3](course)
-- I want to know the academic term for [JOVTS1/SOS10.6](course)- Period [KATTAP11](course)
+- I want to know the academic term for [JOVTS1/SOS10.6](course)
+- Period [KATTAP11](course)
 - Semester [KASMULTI5](course)
 - Quarter [HISP2](course)
 - Academic term [HALJUA65](course)
@@ -5247,7 +5277,8 @@
 - I want to know which semester will [NORDIG1](course) start
 - I want to know which semester is [JOVPVS6](course)
 - I want to know the study period of [POLPOP02](course)
-- I want to know the academic term for [KATVRS55](course)- Period [KATTAP11](course)
+- I want to know the academic term for [KATVRS55](course)
+- Period [KATTAP11](course)
 - Semester [SOS4.3](course)
 - Quarter [VENA10](course)
 - Academic term [KATMAS14](course)
@@ -5288,7 +5319,8 @@
 - I want to know which semester will [MTTTP1](course) start
 - I want to know which semester is [DPEDUC.3](course)
 - I want to know the study period of [KKSAVAL1](course)
-- I want to know the academic term for [COSOPOM3](course)- Period [KATTAP11](course)
+- I want to know the academic term for [COSOPOM3](course)
+- Period [KATTAP11](course)
 - Semester [DPMED15](course)
 - Quarter [HALJTA14](course)
 - Academic term [KATYVS99](course)
@@ -5329,7 +5361,8 @@
 - I want to know which semester will [JKKYOA12](course) start
 - I want to know which semester is [TERY3](course)
 - I want to know the study period of [DPJKK20](course)
-- I want to know the academic term for [JOVA1](course)- Period [KATTAP11](course)
+- I want to know the academic term for [JOVA1](course)
+- Period [KATTAP11](course)
 - Semester [SOS4.4](course)
 - Quarter [YKT10.1.2](course)
 - Academic term [LTLY16](course)
@@ -5370,7 +5403,8 @@
 - I want to know which semester will [ITIS11](course) start
 - I want to know which semester is [SUOR1/A6](course)
 - I want to know the study period of [YKYYHT1](course)
-- I want to know the academic term for [STYS3B2](course)- Period [KATTAP11](course)
+- I want to know the academic term for [STYS3B2](course)
+- Period [KATTAP11](course)
 - Semester [SOSM2](course)
 - Quarter [JOVA6/JMMETUS](course)
 - Academic term [FONEP3](course)
@@ -5411,7 +5445,8 @@
 - I want to know which semester will [STYP3](course) start
 - I want to know which semester is [PGHES03](course)
 - I want to know the study period of [ITIA8](course)
-- I want to know the academic term for [TRSU02](course)- Period [KATTAP11](course)
+- I want to know the academic term for [TRSU02](course)
+- Period [KATTAP11](course)
 - Semester [SUOS4](course)
 - Quarter [STYP2](course)
 - Academic term [HALJUS22](course)
@@ -5452,7 +5487,8 @@
 - I want to know which semester will [TERY4](course) start
 - I want to know which semester is [HALTVA12](course)
 - I want to know the study period of [SOS08.2](course)
-- I want to know the academic term for [TERHOI6](course)- Period [KATTAP11](course)
+- I want to know the academic term for [TERHOI6](course)
+- Period [KATTAP11](course)
 - Semester [TERA3](course)
 - Quarter [YKYYHT4A](course)
 - Academic term [PSYA3](course)
@@ -5493,7 +5529,8 @@
 - I want to know which semester will [HALJUA21](course) start
 - I want to know which semester is [JKKYVAL00](course)
 - I want to know the study period of [KASVAR9](course)
-- I want to know the academic term for [KASLOM6](course)- Period [KATTAP11](course)
+- I want to know the academic term for [KASLOM6](course)
+- Period [KATTAP11](course)
 - Semester [MTTTP1](course)
 - Quarter [DPCMTJ1/JT1](course)
 - Academic term [SUOK2/A6](course)
@@ -5534,7 +5571,8 @@
 - I want to know which semester will [MEDU07](course) start
 - I want to know which semester is [TERTIETO2](course)
 - I want to know the study period of [KASA15](course)
-- I want to know the academic term for [KASA11](course)- Period [KATTAP11](course)
+- I want to know the academic term for [KASA11](course)
+- Period [KATTAP11](course)
 - Semester [KATYVS42](course)
 - Quarter [SOS7.2/STYA4B](course)
 - Academic term [JOVY3](course)
@@ -5575,7 +5613,8 @@
 - I want to know which semester will [SAKA4](course) start
 - I want to know which semester is [STYS3C](course)
 - I want to know the study period of [COSOPC3](course)
-- I want to know the academic term for [KKENVAL8](course)- Period [KATTAP11](course)
+- I want to know the academic term for [KKENVAL8](course)
+- Period [KATTAP11](course)
 - Semester [ITIA03](course)
 - Quarter [MTTY1](course)
 - Academic term [TAYJ025](course)
@@ -5616,7 +5655,8 @@
 - I want to know which semester will [PEACE046](course) start
 - I want to know which semester is [KASP5](course)
 - I want to know the study period of [KASLOH4A](course)
-- I want to know the academic term for [POHP3](course)- Period [KATTAP11](course)
+- I want to know the academic term for [POHP3](course)
+- Period [KATTAP11](course)
 - Semester [ROMAP5](course)
 - Quarter [SOCYKV2/RES012](course)
 - Academic term [SAKP3](course)
@@ -5657,7 +5697,8 @@
 - I want to know which semester will [HALJTA99](course) start
 - I want to know which semester is [KASSM2](course)
 - I want to know the study period of [KIRA3G](course)
-- I want to know the academic term for [KASA11](course)- Period [KATTAP11](course)
+- I want to know the academic term for [KASA11](course)
+- Period [KATTAP11](course)
 - Semester [KKSUPRO](course)
 - Quarter [STYA7](course)
 - Academic term [HALJUA21](course)
@@ -5698,7 +5739,8 @@
 - I want to know which semester will [MVKS15R](course) start
 - I want to know which semester is [BTK2112](course)
 - I want to know the study period of [ESPFP1](course)
-- I want to know the academic term for [BIO2250](course)- Period [KATTAP11](course)
+- I want to know the academic term for [BIO2250](course)
+- Period [KATTAP11](course)
 - Semester [KATLAS90](course)
 - Quarter [JKKYINA11](course)
 - Academic term [JOVMS2A](course)
@@ -5739,7 +5781,8 @@
 - I want to know which semester will [SOS9](course) start
 - I want to know which semester is [HISA2](course)
 - I want to know the study period of [KIRP3](course)
-- I want to know the academic term for [KATVRA12](course)- Period [KATTAP11](course)
+- I want to know the academic term for [KATVRA12](course)
+- Period [KATTAP11](course)
 - Semester [VENS1](course)
 - Quarter [SOS6.5.2](course)
 - Academic term [TIETS26](course)
@@ -5780,7 +5823,8 @@
 - I want to know which semester will [KATTAA13A](course) start
 - I want to know which semester is [JOVTS5](course)
 - I want to know the study period of [KKSU2](course)
-- I want to know the academic term for [KASLOH3](course)- Period [KATTAP11](course)
+- I want to know the academic term for [KASLOH3](course)
+- Period [KATTAP11](course)
 - Semester [KASP3](course)
 - Quarter [JOUJOVTS](course)
 - Academic term [KASA12](course)
@@ -5821,7 +5865,8 @@
 - I want to know which semester will [KASLOE8.1](course) start
 - I want to know which semester is [JOVTS5](course)
 - I want to know the study period of [MTTTA6](course)
-- I want to know the academic term for [KASA11](course)- Period [KATTAP11](course)
+- I want to know the academic term for [KASA11](course)
+- Period [KATTAP11](course)
 - Semester [HALYAA14](course)
 - Quarter [HALKAS11](course)
 - Academic term [RANA1](course)
@@ -5862,7 +5907,8 @@
 - I want to know which semester will [KASLOM8](course) start
 - I want to know which semester is [ENGS13/15-16](course)
 - I want to know the study period of [JKKYINA15](course)
-- I want to know the academic term for [HALJUA42](course)- Period [KATTAP11](course)
+- I want to know the academic term for [HALJUA42](course)
+- Period [KATTAP11](course)
 - Semester [TERKANP3](course)
 - Quarter [KASPUHA5](course)
 - Academic term [LTLY16](course)
@@ -5903,7 +5949,8 @@
 - I want to know which semester will [KATJOS99](course) start
 - I want to know which semester is [MVKS11](course)
 - I want to know the study period of [POHP2](course)
-- I want to know the academic term for [KATSTA11](course)- Period [KATTAP11](course)
+- I want to know the academic term for [KATSTA11](course)
+- Period [KATTAP11](course)
 - Semester [JKKYPS1](course)
 - Quarter [SOP03.6](course)
 - Academic term [GTS8](course)
@@ -5978,7 +6025,8 @@
 - I want to know the exceptions in lessons for [KASVAR2](course)
 - I want to know special teaching times for [SOS6.2.3](course)
 - I want to know does the schedule for [POLVOA12](course) have any exceptions
-- I want to know Teaching times exceptions for [COSOPOM2](course)- Exceptions [TERY4](course)
+- I want to know Teaching times exceptions for [COSOPOM2](course)
+- Exceptions [TERY4](course)
 - Exception [TRSU05](course)
 - What are the exceptions for [KASLOM10](course)
 - [KASA9](course) exceptions
@@ -6009,7 +6057,8 @@
 - I want to know the exceptions in lessons for [HALYAA14](course)
 - I want to know special teaching times for [KASSM3](course)
 - I want to know does the schedule for [KATLITO7](course) have any exceptions
-- I want to know Teaching times exceptions for [KASLOM8](course)- Exceptions [PSYS16](course)
+- I want to know Teaching times exceptions for [KASLOM8](course)
+- Exceptions [PSYS16](course)
 - Exception [KASA3](course)
 - What are the exceptions for [POLKVA42](course)
 - [KASSM2](course) exceptions
@@ -6040,7 +6089,8 @@
 - I want to know the exceptions in lessons for [ITIP1](course)
 - I want to know special teaching times for [KASS1](course)
 - I want to know does the schedule for [KATLITO5](course) have any exceptions
-- I want to know Teaching times exceptions for [MOLI](course)- Exceptions [KATLAS12](course)
+- I want to know Teaching times exceptions for [MOLI](course)
+- Exceptions [KATLAS12](course)
 - Exception [KKSA2](course)
 - What are the exceptions for [KASLOM6](course)
 - [KASLOE7.2](course) exceptions
@@ -6071,7 +6121,8 @@
 - I want to know the exceptions in lessons for [LFCS01](course)
 - I want to know special teaching times for [VENA13](course)
 - I want to know does the schedule for [PEACE046/047](course) have any exceptions
-- I want to know Teaching times exceptions for [HALJUA63](course)- Exceptions [JOVP2](course)
+- I want to know Teaching times exceptions for [HALJUA63](course)
+- Exceptions [JOVP2](course)
 - Exception [TERKANP1](course)
 - What are the exceptions for [KASS3](course)
 - [LOGP2](course) exceptions
@@ -6102,7 +6153,8 @@
 - I want to know the exceptions in lessons for [DPHSS204](course)
 - I want to know special teaching times for [TAYJ12](course)
 - I want to know does the schedule for [POLYEP11](course) have any exceptions
-- I want to know Teaching times exceptions for [SUOT1](course)- Exceptions [ITIA11](course)
+- I want to know Teaching times exceptions for [SUOT1](course)
+- Exceptions [ITIA11](course)
 - Exception [JOVP4](course)
 - What are the exceptions for [POLKVA22](course)
 - [YKIEP1](course) exceptions
@@ -6133,7 +6185,8 @@
 - I want to know the exceptions in lessons for [SAKP4](course)
 - I want to know special teaching times for [KKRUYHT](course)
 - I want to know does the schedule for [LUOYY003](course) have any exceptions
-- I want to know Teaching times exceptions for [KKENKTM](course)- Exceptions [LOGS8](course)
+- I want to know Teaching times exceptions for [KKENKTM](course)
+- Exceptions [LOGS8](course)
 - Exception [LUOYA200](course)
 - What are the exceptions for [GTS3](course)
 - [ENGP5](course) exceptions
@@ -6164,7 +6217,8 @@
 - I want to know the exceptions in lessons for [KATJOA99](course)
 - I want to know special teaching times for [PSYP4](course)
 - I want to know does the schedule for [MTTTS17](course) have any exceptions
-- I want to know Teaching times exceptions for [POLVOS27](course)- Exceptions [KASVAR8](course)
+- I want to know Teaching times exceptions for [POLVOS27](course)
+- Exceptions [KASVAR8](course)
 - Exception [POLYEP12](course)
 - What are the exceptions for [KKSU4](course)
 - [COSOPON1](course) exceptions
@@ -6195,7 +6249,8 @@
 - I want to know the exceptions in lessons for [KASA6](course)
 - I want to know special teaching times for [KASLOE7.1](course)
 - I want to know does the schedule for [SOSM4](course) have any exceptions
-- I want to know Teaching times exceptions for [TIETA6](course)- Exceptions [HALJTP01](course)
+- I want to know Teaching times exceptions for [TIETA6](course)
+- Exceptions [HALJTP01](course)
 - Exception [POLVOS32](course)
 - What are the exceptions for [KKSU2](course)
 - [POLYEP12](course) exceptions
@@ -6226,7 +6281,8 @@
 - I want to know the exceptions in lessons for [TERKANP1](course)
 - I want to know special teaching times for [KASSO4](course)
 - I want to know does the schedule for [TERHOIA6](course) have any exceptions
-- I want to know Teaching times exceptions for [MTTMA1B](course)- Exceptions [HTIS64](course)
+- I want to know Teaching times exceptions for [MTTMA1B](course)
+- Exceptions [HTIS64](course)
 - Exception [KKSUHUK1](course)
 - What are the exceptions for [STYA9](course)
 - [KASLOM8](course) exceptions
@@ -6257,7 +6313,8 @@
 - I want to know the exceptions in lessons for [POLKVA22](course)
 - I want to know special teaching times for [LTLY16](course)
 - I want to know does the schedule for [BTK4501](course) have any exceptions
-- I want to know Teaching times exceptions for [JOVAT2](course)- Exceptions [TERHOIA6](course)
+- I want to know Teaching times exceptions for [JOVAT2](course)
+- Exceptions [TERHOIA6](course)
 - Exception [PSYS14](course)
 - What are the exceptions for [KASA9](course)
 - [KKSUVAL3](course) exceptions
@@ -6288,7 +6345,8 @@
 - I want to know the exceptions in lessons for [DPHSFC06](course)
 - I want to know special teaching times for [KASP1-2, KASP5](course)
 - I want to know does the schedule for [HISA2](course) have any exceptions
-- I want to know Teaching times exceptions for [HALTTS13](course)- Exceptions [KASA11](course)
+- I want to know Teaching times exceptions for [HALTTS13](course)
+- Exceptions [KASA11](course)
 - Exception [ENGA1](course)
 - What are the exceptions for [KASLOE7.2](course)
 - [HALJTA02](course) exceptions
@@ -6319,7 +6377,8 @@
 - I want to know the exceptions in lessons for [ENGA10](course)
 - I want to know special teaching times for [POLKVA42](course)
 - I want to know does the schedule for [HALJTS06](course) have any exceptions
-- I want to know Teaching times exceptions for [STYP1A](course)- Exceptions [KASA10](course)
+- I want to know Teaching times exceptions for [STYP1A](course)
+- Exceptions [KASA10](course)
 - Exception [HTIS80](course)
 - What are the exceptions for [PSYP2](course)
 - [TIETS31](course) exceptions
@@ -6350,7 +6409,8 @@
 - I want to know the exceptions in lessons for [POLVOS40](course)
 - I want to know special teaching times for [FILA4A](course)
 - I want to know does the schedule for [VIROP3](course) have any exceptions
-- I want to know Teaching times exceptions for [VENP0](course)- Exceptions [POHP2](course)
+- I want to know Teaching times exceptions for [VENP0](course)
+- Exceptions [POHP2](course)
 - Exception [HALJTA02](course)
 - What are the exceptions for [POLKVS22](course)
 - [POLVOA42/52/S23](course) exceptions
@@ -6381,7 +6441,8 @@
 - I want to know the exceptions in lessons for [KASVAR2](course)
 - I want to know special teaching times for [KATVAS11](course)
 - I want to know does the schedule for [KATLAA22](course) have any exceptions
-- I want to know Teaching times exceptions for [KATJOS43](course)- Exceptions [LOGA9](course)
+- I want to know Teaching times exceptions for [KATJOS43](course)
+- Exceptions [LOGA9](course)
 - Exception [KKSUPRO](course)
 - What are the exceptions for [JOVTS2](course)
 - [BIO2450](course) exceptions
@@ -6412,7 +6473,8 @@
 - I want to know the exceptions in lessons for [BTK1013](course)
 - I want to know special teaching times for [POLVOA51](course)
 - I want to know does the schedule for [SOS09.3](course) have any exceptions
-- I want to know Teaching times exceptions for [ITIA01](course)- Exceptions [ENGA9](course)
+- I want to know Teaching times exceptions for [ITIA01](course)
+- Exceptions [ENGA9](course)
 - Exception [KASP4](course)
 - What are the exceptions for [LOGA4](course)
 - [KATLAS12](course) exceptions
@@ -6443,7 +6505,8 @@
 - I want to know the exceptions in lessons for [YKT10.5](course)
 - I want to know special teaching times for [KKSA3](course)
 - I want to know does the schedule for [YKT6.6.2](course) have any exceptions
-- I want to know Teaching times exceptions for [KASA4](course)- Exceptions [SOSM5.1](course)
+- I want to know Teaching times exceptions for [KASA4](course)
+- Exceptions [SOSM5.1](course)
 - Exception [POHP1](course)
 - What are the exceptions for [SUOP3](course)
 - [BTK1053](course) exceptions
@@ -6474,7 +6537,8 @@
 - I want to know the exceptions in lessons for [KKENYHT](course)
 - I want to know special teaching times for [TERY6](course)
 - I want to know does the schedule for [KATJOP11](course) have any exceptions
-- I want to know Teaching times exceptions for [TRSU01](course)- Exceptions [VENA13](course)
+- I want to know Teaching times exceptions for [TRSU01](course)
+- Exceptions [VENA13](course)
 - Exception [MTTTS17](course)
 - What are the exceptions for [BIO4460](course)
 - [HALHAS21](course) exceptions
@@ -6505,7 +6569,8 @@
 - I want to know the exceptions in lessons for [HISP2](course)
 - I want to know special teaching times for [KASA13](course)
 - I want to know does the schedule for [KASA13](course) have any exceptions
-- I want to know Teaching times exceptions for [SOS4.2](course)- Exceptions [ITIS61](course)
+- I want to know Teaching times exceptions for [SOS4.2](course)
+- Exceptions [ITIS61](course)
 - Exception [LOGS8](course)
 - What are the exceptions for [NORDIG2](course)
 - [KKENYHT](course) exceptions
@@ -6536,7 +6601,8 @@
 - I want to know the exceptions in lessons for [KASP4](course)
 - I want to know special teaching times for [MTTS1](course)
 - I want to know does the schedule for [KATYVS26](course) have any exceptions
-- I want to know Teaching times exceptions for [STYA8](course)- Exceptions [KASVAR3](course)
+- I want to know Teaching times exceptions for [STYA8](course)
+- Exceptions [KASVAR3](course)
 - Exception [POLPOP02](course)
 - What are the exceptions for [KKENVAL3](course)
 - [LOGM2](course) exceptions
@@ -6567,7 +6633,8 @@
 - I want to know the exceptions in lessons for [KASVARH](course)
 - I want to know special teaching times for [TERHOJ4](course)
 - I want to know does the schedule for [ENGA13](course) have any exceptions
-- I want to know Teaching times exceptions for [TRMU1](course)- Exceptions [KATYVA36](course)
+- I want to know Teaching times exceptions for [TRMU1](course)
+- Exceptions [KATYVA36](course)
 - Exception [LTLY01](course)
 - What are the exceptions for [KATVAA13](course)
 - [VIROP2](course) exceptions
@@ -6598,7 +6665,8 @@
 - I want to know the exceptions in lessons for [KASA8](course)
 - I want to know special teaching times for [HALHAP01](course)
 - I want to know does the schedule for [KASLOM5](course) have any exceptions
-- I want to know Teaching times exceptions for [POLKVA22](course)- Exceptions [HALYAP01](course)
+- I want to know Teaching times exceptions for [POLKVA22](course)
+- Exceptions [HALYAP01](course)
 - Exception [JKKYTVA13](course)
 - What are the exceptions for [ENGA12](course)
 - [VENA10](course) exceptions
@@ -6629,7 +6697,8 @@
 - I want to know the exceptions in lessons for [JOVP1](course)
 - I want to know special teaching times for [KASA13](course)
 - I want to know does the schedule for [TERY1](course) have any exceptions
-- I want to know Teaching times exceptions for [KATJOA12](course)- Exceptions [TIEP5](course)
+- I want to know Teaching times exceptions for [KATJOA12](course)
+- Exceptions [TIEP5](course)
 - Exception [HISP3](course)
 - What are the exceptions for [POLKVS31](course)
 - [KATLAS27](course) exceptions
@@ -6660,7 +6729,8 @@
 - I want to know the exceptions in lessons for [TIEP3](course)
 - I want to know special teaching times for [KKRUYHT](course)
 - I want to know does the schedule for [STYVA](course) have any exceptions
-- I want to know Teaching times exceptions for [KATJOA99](course)- Exceptions [DPJKK20](course)
+- I want to know Teaching times exceptions for [KATJOA99](course)
+- Exceptions [DPJKK20](course)
 - Exception [ITIS44](course)
 - What are the exceptions for [POHP6](course)
 - [TERA6](course) exceptions
@@ -6691,7 +6761,8 @@
 - I want to know the exceptions in lessons for [KATVRS51](course)
 - I want to know special teaching times for [MTTA2](course)
 - I want to know does the schedule for [TERVAL5](course) have any exceptions
-- I want to know Teaching times exceptions for [KASSO7](course)- Exceptions [KATTAA13B](course)
+- I want to know Teaching times exceptions for [KASSO7](course)
+- Exceptions [KATTAA13B](course)
 - Exception [ENGP3](course)
 - What are the exceptions for [PSYP5](course)
 - [HIS](course) exceptions
@@ -6722,7 +6793,8 @@
 - I want to know the exceptions in lessons for [KASLOE6.2](course)
 - I want to know special teaching times for [FILJATKO](course)
 - I want to know does the schedule for [MTTMA4](course) have any exceptions
-- I want to know Teaching times exceptions for [HALYAA14](course)- Exceptions [POLKVS31](course)
+- I want to know Teaching times exceptions for [HALYAA14](course)
+- Exceptions [POLKVS31](course)
 - Exception [KASSG](course)
 - What are the exceptions for [KATLAA99](course)
 - [TECHS2](course) exceptions
@@ -6753,7 +6825,8 @@
 - I want to know the exceptions in lessons for [MTTMP4](course)
 - I want to know special teaching times for [KKENYHT](course)
 - I want to know does the schedule for [POHA3](course) have any exceptions
-- I want to know Teaching times exceptions for [POLVOA22](course)- Exceptions [BTK4121](course)
+- I want to know Teaching times exceptions for [POLVOA22](course)
+- Exceptions [BTK4121](course)
 - Exception [KASMAT2](course)
 - What are the exceptions for [ENGS2](course)
 - [TRMU2](course) exceptions
@@ -6784,7 +6857,8 @@
 - I want to know the exceptions in lessons for [SOS6.4.4](course)
 - I want to know special teaching times for [KIRP4](course)
 - I want to know does the schedule for [TERTIETO5](course) have any exceptions
-- I want to know Teaching times exceptions for [KASP5](course)- Exceptions [POHP0](course)
+- I want to know Teaching times exceptions for [KASP5](course)
+- Exceptions [POHP0](course)
 - Exception [KASA9](course)
 - What are the exceptions for [ITIS61](course)
 - [POLKVA22](course) exceptions
@@ -6815,7 +6889,8 @@
 - I want to know the exceptions in lessons for [MTTTY1](course)
 - I want to know special teaching times for [KASP2](course)
 - I want to know does the schedule for [POLKVA32](course) have any exceptions
-- I want to know Teaching times exceptions for [TERTIETO4](course)- Exceptions [KASA1.3](course)
+- I want to know Teaching times exceptions for [TERTIETO4](course)
+- Exceptions [KASA1.3](course)
 - Exception [KASLOK2](course)
 - What are the exceptions for [KATVRA00](course)
 - [JOVA11](course) exceptions
@@ -6846,7 +6921,8 @@
 - I want to know the exceptions in lessons for [MOLI](course)
 - I want to know special teaching times for [RANA6](course)
 - I want to know does the schedule for [ENGP5](course) have any exceptions
-- I want to know Teaching times exceptions for [POLKVA23](course)- Exceptions [POLKVA42](course)
+- I want to know Teaching times exceptions for [POLKVA23](course)
+- Exceptions [POLKVA42](course)
 - Exception [FONEP3](course)
 - What are the exceptions for [FILAPRO](course)
 - [TERHOI3](course) exceptions
@@ -6917,7 +6993,8 @@
 - I want to know what [ENGS7-9](course) stands for
 - I want to know the full name of course code [KASA13](course)
 - I want to know the whole name of [KASSM2](course)
-- I want to know the name of [KKENMP3](course)- What is the name of [NORDIG1](course)
+- I want to know the name of [KKENMP3](course)
+- What is the name of [NORDIG1](course)
 - [TERHOIA4](course) name
 - [KKSUSC](course) name is
 - [KASP3](course) name full
@@ -6954,7 +7031,8 @@
 - I want to know what [HTIS87](course) stands for
 - I want to know the full name of course code [SOS7.2/STYA4B](course)
 - I want to know the whole name of [KKES1](course)
-- I want to know the name of [JOVPVS9](course)- What is the name of [KASSA4](course)
+- I want to know the name of [JOVPVS9](course)
+- What is the name of [KASSA4](course)
 - [YKTM6.3](course) name
 - [KASSY3](course) name is
 - [ENGA9](course) name full
@@ -6991,7 +7069,8 @@
 - I want to know what [KASA1.3](course) stands for
 - I want to know the full name of course code [KASVAR12](course)
 - I want to know the whole name of [KASP3](course)
-- I want to know the name of [JOVTS7](course)- What is the name of [KASPUHP1](course)
+- I want to know the name of [JOVTS7](course)
+- What is the name of [KASPUHP1](course)
 - [KASVAR5](course) name
 - [POLVOA22/A32](course) name is
 - [KASLOM4](course) name full
@@ -7028,7 +7107,8 @@
 - I want to know what [TIETS05](course) stands for
 - I want to know the full name of course code [YKIEP4](course)
 - I want to know the whole name of [KIRA3B](course)
-- I want to know the name of [SOS6.1.2](course)- What is the name of [GTS2](course)
+- I want to know the name of [SOS6.1.2](course)
+- What is the name of [GTS2](course)
 - [KASSA3](course) name
 - [KASA8](course) name is
 - [MVKS47](course) name full
@@ -7065,7 +7145,8 @@
 - I want to know what [TIEA2.1A](course) stands for
 - I want to know the full name of course code [KASLOM6](course)
 - I want to know the whole name of [SOSM5.1](course)
-- I want to know the name of [ITIS61](course)- What is the name of [SAKA1](course)
+- I want to know the name of [ITIS61](course)
+- What is the name of [SAKA1](course)
 - [KIRP5](course) name
 - [KATRAS11](course) name is
 - [TIETA8](course) name full
@@ -7102,7 +7183,8 @@
 - I want to know what [MTTTA14](course) stands for
 - I want to know the full name of course code [STYA5](course)
 - I want to know the whole name of [KIRA3G](course)
-- I want to know the name of [ITIS12](course)- What is the name of [JOVPVA7](course)
+- I want to know the name of [ITIS12](course)
+- What is the name of [JOVPVA7](course)
 - [HISA4](course) name
 - [HALJUA44](course) name is
 - [TIETA18](course) name full
@@ -7139,7 +7221,8 @@
 - I want to know what [SOS7.2/STYA4B](course) stands for
 - I want to know the full name of course code [KKENYHT](course)
 - I want to know the whole name of [TAYJ033](course)
-- I want to know the name of [VENS2](course)- What is the name of [POLKVA33](course)
+- I want to know the name of [VENS2](course)
+- What is the name of [POLKVA33](course)
 - [SOS10.1.5](course) name
 - [TRMU5](course) name is
 - [PSYS16](course) name full
@@ -7176,7 +7259,8 @@
 - I want to know what [KATYVA52](course) stands for
 - I want to know the full name of course code [LUOYA200](course)
 - I want to know the whole name of [ITIP3](course)
-- I want to know the name of [GTS9](course)- What is the name of [LOGP2](course)
+- I want to know the name of [GTS9](course)
+- What is the name of [LOGP2](course)
 - [DPHSR402](course) name
 - [JOVY3](course) name is
 - [KASA11](course) name full
@@ -7213,7 +7297,8 @@
 - I want to know what [KASLOM9](course) stands for
 - I want to know the full name of course code [RANA6](course)
 - I want to know the whole name of [KATSTA12](course)
-- I want to know the name of [PSYS5](course)- What is the name of [POLKVA21](course)
+- I want to know the name of [PSYS5](course)
+- What is the name of [POLKVA21](course)
 - [KKSU8](course) name
 - [KKENVAL4](course) name is
 - [KKKI1](course) name full
@@ -7250,7 +7335,8 @@
 - I want to know what [VENP2](course) stands for
 - I want to know the full name of course code [LUOYY004](course)
 - I want to know the whole name of [POLKVA33](course)
-- I want to know the name of [VENA10](course)- What is the name of [TSEKP1](course)
+- I want to know the name of [VENA10](course)
+- What is the name of [TSEKP1](course)
 - [KATJOA99](course) name
 - [COSOPON3](course) name is
 - [POLKVS31](course) name full
@@ -7287,7 +7373,8 @@
 - I want to know what [TIEP1](course) stands for
 - I want to know the full name of course code [KATJOS21](course)
 - I want to know the whole name of [KKRULL](course)
-- I want to know the name of [SOSM1](course)- What is the name of [BIO2085](course)
+- I want to know the name of [SOSM1](course)
+- What is the name of [BIO2085](course)
 - [JKKYTUA02](course) name
 - [SOCYKV2](course) name is
 - [TAYJ11](course) name full
@@ -7324,7 +7411,8 @@
 - I want to know what [SOS6.3.3](course) stands for
 - I want to know the full name of course code [KKSULUK](course)
 - I want to know the whole name of [KASLOE7.2](course)
-- I want to know the name of [KASSM2](course)- What is the name of [YKT07.1](course)
+- I want to know the name of [KASSM2](course)
+- What is the name of [YKT07.1](course)
 - [HISS1B](course) name
 - [KATVRA23](course) name is
 - [KKENYHT](course) name full
@@ -7361,7 +7449,8 @@
 - I want to know what [KKRUYHT](course) stands for
 - I want to know the full name of course code [TAYJ11](course)
 - I want to know the whole name of [KKIN4](course)
-- I want to know the name of [POLVOS21](course)- What is the name of [POLKAA99](course)
+- I want to know the name of [POLVOS21](course)
+- What is the name of [POLKAA99](course)
 - [ENGP3](course) name
 - [DPHSS205](course) name is
 - [KKVE2](course) name full
@@ -7398,7 +7487,8 @@
 - I want to know what [TERKAN18](course) stands for
 - I want to know the full name of course code [MTTTP5](course)
 - I want to know the whole name of [KATJOP11](course)
-- I want to know the name of [KKSUVAL3](course)- What is the name of [POLKVA33](course)
+- I want to know the name of [KKSUVAL3](course)
+- What is the name of [POLKVA33](course)
 - [DPLASEM](course) name
 - [TAYJ024](course) name is
 - [KATYVA23](course) name full
@@ -7435,7 +7525,8 @@
 - I want to know what [KASSO1](course) stands for
 - I want to know the full name of course code [STYS3B2](course)
 - I want to know the whole name of [RANS2](course)
-- I want to know the name of [KATJOS13](course)- What is the name of [HALHAA16](course)
+- I want to know the name of [KATJOS13](course)
+- What is the name of [HALHAA16](course)
 - [KASLOM11](course) name
 - [POHA1](course) name is
 - [KASMULTI4](course) name full
@@ -7472,7 +7563,8 @@
 - I want to know what [ROMAP1](course) stands for
 - I want to know the full name of course code [DPHSFC07](course)
 - I want to know the whole name of [KATLAS13](course)
-- I want to know the name of [KKVE3](course)- What is the name of [TERA3](course)
+- I want to know the name of [KKVE3](course)
+- What is the name of [TERA3](course)
 - [KATTAS22B](course) name
 - [YKYYKV1](course) name is
 - [POHA6](course) name full
@@ -7509,7 +7601,8 @@
 - I want to know what [LTLY16](course) stands for
 - I want to know the full name of course code [SOSM5.1](course)
 - I want to know the whole name of [KATVRP11](course)
-- I want to know the name of [ITIP1](course)- What is the name of [PGHES03](course)
+- I want to know the name of [ITIP1](course)
+- What is the name of [PGHES03](course)
 - [HALHAS15](course) name
 - [TERVAL4](course) name is
 - [KASVAR3](course) name full
@@ -7546,7 +7639,8 @@
 - I want to know what [SAKP6](course) stands for
 - I want to know the full name of course code [TIETS21](course)
 - I want to know the whole name of [POLVOS24](course)
-- I want to know the name of [YKT6.6.2](course)- What is the name of [BTK2112](course)
+- I want to know the name of [YKT6.6.2](course)
+- What is the name of [BTK2112](course)
 - [DPCMTJT3](course) name
 - [DPHSR403](course) name is
 - [KASSO8](course) name full
@@ -7583,7 +7677,8 @@
 - I want to know what [JOVP2](course) stands for
 - I want to know the full name of course code [KASVAR1](course)
 - I want to know the whole name of [PCP10/NAM IV](course)
-- I want to know the name of [KKENVAL2](course)- What is the name of [JKKYTUO2](course)
+- I want to know the name of [KKENVAL2](course)
+- What is the name of [JKKYTUO2](course)
 - [TRMU5](course) name
 - [HALJUA24](course) name is
 - [MTTTA4](course) name full
@@ -7620,7 +7715,8 @@
 - I want to know what [ENGA20](course) stands for
 - I want to know the full name of course code [MOLI](course)
 - I want to know the whole name of [SUOA8](course)
-- I want to know the name of [HALHAA99](course)- What is the name of [ENGA1](course)
+- I want to know the name of [HALHAA99](course)
+- What is the name of [ENGA1](course)
 - [KKES2](course) name
 - [POLKVA33](course) name is
 - [HALKOS22](course) name full
@@ -7657,7 +7753,8 @@
 - I want to know what [TIETS19](course) stands for
 - I want to know the full name of course code [KATRAS11](course)
 - I want to know the whole name of [FONEA4](course)
-- I want to know the name of [KKVEVAL1](course)- What is the name of [KKKI2](course)
+- I want to know the name of [KKVEVAL1](course)
+- What is the name of [KKKI2](course)
 - [PGHAS06](course) name
 - [LTLY01](course) name is
 - [KKSU2](course) name full
@@ -7694,7 +7791,8 @@
 - I want to know what [BTK4665](course) stands for
 - I want to know the full name of course code [KATLAS14](course)
 - I want to know the whole name of [KKENVAL4](course)
-- I want to know the name of [DPLSSEM](course)- What is the name of [KASA10](course)
+- I want to know the name of [DPLSSEM](course)
+- What is the name of [KASA10](course)
 - [KASP5](course) name
 - [FONEA4](course) name is
 - [ITIS32](course) name full
@@ -7731,7 +7829,8 @@
 - I want to know what [TIETS13](course) stands for
 - I want to know the full name of course code [POHA6](course)
 - I want to know the whole name of [TERHOIA2](course)
-- I want to know the name of [LOGA10](course)- What is the name of [ENGS4](course)
+- I want to know the name of [LOGA10](course)
+- What is the name of [ENGS4](course)
 - [SOS4.4](course) name
 - [SOS06.4](course) name is
 - [TERY6](course) name full
@@ -7768,7 +7867,8 @@
 - I want to know what [SOS6.5.1](course) stands for
 - I want to know the full name of course code [KKVE4](course)
 - I want to know the whole name of [LTLY01](course)
-- I want to know the name of [KATYVA23](course)- What is the name of [STYA3B](course)
+- I want to know the name of [KATYVA23](course)
+- What is the name of [STYA3B](course)
 - [SUOA8](course) name
 - [MVKS40/62](course) name is
 - [ENGS13](course) name full
@@ -7805,7 +7905,8 @@
 - I want to know what [LTLY01](course) stands for
 - I want to know the full name of course code [POLPOP04](course)
 - I want to know the whole name of [KATJOS32](course)
-- I want to know the name of [KATVAA14](course)- What is the name of [YKYYKEKE1](course)
+- I want to know the name of [KATVAA14](course)
+- What is the name of [YKYYKEKE1](course)
 - [TERKAN1](course) name
 - [LTLY16](course) name is
 - [KATVRP11](course) name full
@@ -7842,7 +7943,8 @@
 - I want to know what [TIEP3](course) stands for
 - I want to know the full name of course code [KASORIENT](course)
 - I want to know the whole name of [TIETS46](course)
-- I want to know the name of [ITIS61](course)- What is the name of [KKRA4](course)
+- I want to know the name of [ITIS61](course)
+- What is the name of [KKRA4](course)
 - [TECHS1](course) name
 - [KKVE5](course) name is
 - [TAYJ041](course) name full
@@ -7879,7 +7981,8 @@
 - I want to know what [TERVAL4](course) stands for
 - I want to know the full name of course code [SAKA12](course)
 - I want to know the whole name of [ITIA01](course)
-- I want to know the name of [STYS2B](course)- What is the name of [MTTA1](course)
+- I want to know the name of [STYS2B](course)
+- What is the name of [MTTA1](course)
 - [KATTV01](course) name
 - [KATMAA15](course) name is
 - [DPIT1](course) name full
@@ -7916,7 +8019,8 @@
 - I want to know what [TERVAL7](course) stands for
 - I want to know the full name of course code [FONEA4](course)
 - I want to know the whole name of [MTTTP5](course)
-- I want to know the name of [TERKANA4](course)- What is the name of [STYA3B](course)
+- I want to know the name of [TERKANA4](course)
+- What is the name of [STYA3B](course)
 - [KATYVA13](course) name
 - [BTK1031](course) name is
 - [JOVTS2](course) name full
@@ -7953,7 +8057,8 @@
 - I want to know what [TIETA13](course) stands for
 - I want to know the full name of course code [KKSULL](course)
 - I want to know the whole name of [HALJTS08](course)
-- I want to know the name of [MTTMS10](course)- What is the name of [COSOPON1](course)
+- I want to know the name of [MTTMS10](course)
+- What is the name of [COSOPON1](course)
 - [MVKS18E](course) name
 - [SUOS4](course) name is
 - [TERY5B](course) name full
