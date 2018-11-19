@@ -2940,7 +2940,7 @@
 - Which classroom is [HISA4](course)
 - What is the classroom for [TERKANA2](course)
 - Which room is [KASP4](course)
-- I'd like to find [JOVTS5(course)
+- I'd like to find [JOVTS5](course)
 - Where can I find [KATVRP11](course)
 - [KATLAA13](course) place
 - [MVKS02](course) where
@@ -3043,7 +3043,8 @@
 - I want to know when [HISA2](course) teaching times are
 - I want to know teaching times of [POLKAA99](course)
 - I want to know the schedule of [TIETS46](course)
-- I want to know when the lectures in course [HALJTA04](course) are- Schedule [KASLOE4.3](course)
+- I want to know when the lectures in course [HALJTA04](course) are
+- Schedule [KASLOE4.3](course)
 - [KASLOM7](course) schedule
 - [PEDAYOP4](course) weekly schedule
 - [KASA2](course) weekly
@@ -3072,7 +3073,8 @@
 - I want to know when [LOGS8](course) teaching times are
 - I want to know teaching times of [KKIN5](course)
 - I want to know the schedule of [POLKVA42](course)
-- I want to know when the lectures in course [POLKVS40](course) are- Schedule [POLVOS27](course)
+- I want to know when the lectures in course [POLKVS40](course) are
+- Schedule [POLVOS27](course)
 - [JOUJOVTS](course) schedule
 - [KATJOA14](course) weekly schedule
 - [HALJUA63](course) weekly
@@ -3101,7 +3103,8 @@
 - I want to know when [ENGP6](course) teaching times are
 - I want to know teaching times of [FILP1B](course)
 - I want to know the schedule of [TERHOIA7](course)
-- I want to know when the lectures in course [KKENVAL1](course) are- Schedule [TERKANP6](course)
+- I want to know when the lectures in course [KKENVAL1](course) are
+- Schedule [TERKANP6](course)
 - [KASLOM10](course) schedule
 - [KATJOA14](course) weekly schedule
 - [POLKVA42](course) weekly
@@ -3130,7 +3133,8 @@
 - I want to know when [TERY6](course) teaching times are
 - I want to know teaching times of [TSEKP3](course)
 - I want to know the schedule of [MVKS26](course)
-- I want to know when the lectures in course [TRMU1](course) are- Schedule [KKENYHT](course)
+- I want to know when the lectures in course [TRMU1](course) are
+- Schedule [KKENYHT](course)
 - [TIETA6](course) schedule
 - [JOUJOVTS](course) weekly schedule
 - [TAYJ12](course) weekly
@@ -3159,7 +3163,8 @@
 - I want to know when [KATVAS99](course) teaching times are
 - I want to know teaching times of [KKES3](course)
 - I want to know the schedule of [TIEY4](course)
-- I want to know when the lectures in course [SUOR4/A6](course) are- Schedule [JOVAT1](course)
+- I want to know when the lectures in course [SUOR4/A6](course) are
+- Schedule [JOVAT1](course)
 - [KATTAS22A](course) schedule
 - [KATYVS11](course) weekly schedule
 - [KASA2](course) weekly
@@ -3188,7 +3193,8 @@
 - I want to know when [KASPUHP3](course) teaching times are
 - I want to know teaching times of [SOSM5.1](course)
 - I want to know the schedule of [KATVAA13](course)
-- I want to know when the lectures in course [ENGA6](course) are- Schedule [TIEA3](course)
+- I want to know when the lectures in course [ENGA6](course) are
+- Schedule [TIEA3](course)
 - [KASP1](course) schedule
 - [KASELOHA](course) weekly schedule
 - [HISP1](course) weekly
@@ -3217,7 +3223,8 @@
 - I want to know when [MOLI](course) teaching times are
 - I want to know teaching times of [JOVA15](course)
 - I want to know the schedule of [KASLOH3](course)
-- I want to know when the lectures in course [YKYYHT3](course) are- Schedule [KASLOH3](course)
+- I want to know when the lectures in course [YKYYHT3](course) are
+- Schedule [KASLOH3](course)
 - [KATVAS11](course) schedule
 - [KASP4](course) weekly schedule
 - [HALJTA12](course) weekly
@@ -3246,7 +3253,8 @@
 - I want to know when [STYS2B](course) teaching times are
 - I want to know teaching times of [KATVAA12](course)
 - I want to know the schedule of [LTLY01](course)
-- I want to know when the lectures in course [MTTTA13](course) are- Schedule [ENGP7](course)
+- I want to know when the lectures in course [MTTTA13](course) are
+- Schedule [ENGP7](course)
 - [VENP1](course) schedule
 - [LOGS3](course) weekly schedule
 - [SOS10.2](course) weekly
@@ -3275,7 +3283,8 @@
 - I want to know when [KASS1](course) teaching times are
 - I want to know teaching times of [LUOYA200](course)
 - I want to know the schedule of [POLKVS22](course)
-- I want to know when the lectures in course [ENGA9](course) are- Schedule [HTIS51](course)
+- I want to know when the lectures in course [ENGA9](course) are
+- Schedule [HTIS51](course)
 - [KATYVA12](course) schedule
 - [JKKYOA12](course) weekly schedule
 - [ENGA6](course) weekly
@@ -3304,7 +3313,8 @@
 - I want to know when [POHP0](course) teaching times are
 - I want to know teaching times of [KATLITO4](course)
 - I want to know the schedule of [BTK4300](course)
-- I want to know when the lectures in course [TIEA4](course) are- Schedule [KKENKTM](course)
+- I want to know when the lectures in course [TIEA4](course) are
+- Schedule [KKENKTM](course)
 - [KATYVA35](course) schedule
 - [ENGP3](course) weekly schedule
 - [PEACE045](course) weekly
@@ -3333,7 +3343,8 @@
 - I want to know when [KKENKTMO](course) teaching times are
 - I want to know teaching times of [POLKVA31](course)
 - I want to know the schedule of [KASELOHA](course)
-- I want to know when the lectures in course [JKKYY](course) are- Schedule [LATAP1](course)
+- I want to know when the lectures in course [JKKYY](course) are
+- Schedule [LATAP1](course)
 - [KATTAS36](course) schedule
 - [KATYVA33](course) weekly schedule
 - [KASP1](course) weekly
@@ -3362,7 +3373,8 @@
 - I want to know when [VENA8](course) teaching times are
 - I want to know teaching times of [NORDIG2](course)
 - I want to know the schedule of [TERHOIA4](course)
-- I want to know when the lectures in course [KIRP5](course) are- Schedule [BTK1031](course)
+- I want to know when the lectures in course [KIRP5](course) are
+- Schedule [BTK1031](course)
 - [SOS6.3.2](course) schedule
 - [SOSM6.1](course) weekly schedule
 - [COSOPC3](course) weekly
@@ -3391,7 +3403,8 @@
 - I want to know when [RANAV3](course) teaching times are
 - I want to know teaching times of [KKENPRE1](course)
 - I want to know the schedule of [TIETA11](course)
-- I want to know when the lectures in course [SOS10.6](course) are- Schedule [JOVA4](course)
+- I want to know when the lectures in course [SOS10.6](course) are
+- Schedule [JOVA4](course)
 - [HISP1](course) schedule
 - [BIO4450](course) weekly schedule
 - [TIETS07](course) weekly
@@ -3420,7 +3433,8 @@
 - I want to know when [POLKVA22](course) teaching times are
 - I want to know teaching times of [KASLOM10](course)
 - I want to know the schedule of [ITIP5](course)
-- I want to know when the lectures in course [TAYJ029](course) are- Schedule [SAKP2](course)
+- I want to know when the lectures in course [TAYJ029](course) are
+- Schedule [SAKP2](course)
 - [MVKS11](course) schedule
 - [DPJKKHS](course) weekly schedule
 - [KKENVAL4](course) weekly
@@ -3449,7 +3463,8 @@
 - I want to know when [TERTIETO1](course) teaching times are
 - I want to know teaching times of [STYP5](course)
 - I want to know the schedule of [MVKS02](course)
-- I want to know when the lectures in course [PSYS2](course) are- Schedule [DPJKKPS](course)
+- I want to know when the lectures in course [PSYS2](course) are
+- Schedule [DPJKKPS](course)
 - [KATJOA12](course) schedule
 - [RANP6](course) weekly schedule
 - [POLVOA31](course) weekly
@@ -3478,7 +3493,8 @@
 - I want to know when [PSYS10](course) teaching times are
 - I want to know teaching times of [MVKS39V](course)
 - I want to know the schedule of [MOLI](course)
-- I want to know when the lectures in course [HALJUA99](course) are- Schedule [KASVAR7](course)
+- I want to know when the lectures in course [HALJUA99](course) are
+- Schedule [KASVAR7](course)
 - [TAYJ11](course) schedule
 - [HISA2](course) weekly schedule
 - [KASA13](course) weekly
@@ -3507,7 +3523,8 @@
 - I want to know when [KASA11](course) teaching times are
 - I want to know teaching times of [SAKA6](course)
 - I want to know the schedule of [KKVE3](course)
-- I want to know when the lectures in course [STYS2A](course) are- Schedule [MTTTY1](course)
+- I want to know when the lectures in course [STYS2A](course) are
+- Schedule [MTTTY1](course)
 - [KASP1](course) schedule
 - [POLKVA41](course) weekly schedule
 - [SOS9](course) weekly
@@ -3536,7 +3553,8 @@
 - I want to know when [KATTAS22B](course) teaching times are
 - I want to know teaching times of [POLVOS21](course)
 - I want to know the schedule of [POLKVS99](course)
-- I want to know when the lectures in course [LFCS02](course) are- Schedule [KATLAS20](course)
+- I want to know when the lectures in course [LFCS02](course) are
+- Schedule [KATLAS20](course)
 - [SUKKP1](course) schedule
 - [KKSU9](course) weekly schedule
 - [MTTMS3](course) weekly
@@ -3565,7 +3583,8 @@
 - I want to know when [STYS3B2](course) teaching times are
 - I want to know teaching times of [KATLITO5](course)
 - I want to know the schedule of [TIEA5](course)
-- I want to know when the lectures in course [KATMAA99](course) are- Schedule [KAMYVS99](course)
+- I want to know when the lectures in course [KATMAA99](course) are
+- Schedule [KAMYVS99](course)
 - [SOS9](course) schedule
 - [PEACE2](course) weekly schedule
 - [KASLOE6.4](course) weekly
@@ -3594,7 +3613,8 @@
 - I want to know when [PCP02/NAM-VII](course) teaching times are
 - I want to know teaching times of [KASA11](course)
 - I want to know the schedule of [KATTAA40](course)
-- I want to know when the lectures in course [HISA1B](course) are- Schedule [KASP5](course)
+- I want to know when the lectures in course [HISA1B](course) are
+- Schedule [KASP5](course)
 - [KKENVAL7](course) schedule
 - [SOSM5.1](course) weekly schedule
 - [DPIS1](course) weekly
@@ -3623,7 +3643,8 @@
 - I want to know when [JKKYTU01](course) teaching times are
 - I want to know teaching times of [KATLITO8](course)
 - I want to know the schedule of [STYA7](course)
-- I want to know when the lectures in course [HALTTS11](course) are- Schedule [KATJOA13](course)
+- I want to know when the lectures in course [HALTTS11](course) are
+- Schedule [KATJOA13](course)
 - [STYA1A](course) schedule
 - [BTK1013](course) weekly schedule
 - [KATVAS12](course) weekly
@@ -3652,7 +3673,8 @@
 - I want to know when [TERVAL7](course) teaching times are
 - I want to know teaching times of [KASA10](course)
 - I want to know the schedule of [BTK1031](course)
-- I want to know when the lectures in course [YKT09.6](course) are- Schedule [KASLOM5](course)
+- I want to know when the lectures in course [YKT09.6](course) are
+- Schedule [KASLOM5](course)
 - [FILA9](course) schedule
 - [TAYJ032](course) weekly schedule
 - [KKES2](course) weekly
@@ -3681,7 +3703,8 @@
 - I want to know when [HTIS54](course) teaching times are
 - I want to know teaching times of [KKSU6](course)
 - I want to know the schedule of [KATYVS21](course)
-- I want to know when the lectures in course [SOSM6.1](course) are- Schedule [PCP11](course)
+- I want to know when the lectures in course [SOSM6.1](course) are
+- Schedule [PCP11](course)
 - [GTS8](course) schedule
 - [KASLOM10](course) weekly schedule
 - [FILA6](course) weekly
@@ -3710,7 +3733,8 @@
 - I want to know when [POLVOA41](course) teaching times are
 - I want to know teaching times of [TAYJ035](course)
 - I want to know the schedule of [KASA13](course)
-- I want to know when the lectures in course [LFCS03](course) are- Schedule [HALKAP01](course)
+- I want to know when the lectures in course [LFCS03](course) are
+- Schedule [HALKAP01](course)
 - [KKIN1](course) schedule
 - [VENS4](course) weekly schedule
 - [KATLAA99](course) weekly
@@ -3739,7 +3763,8 @@
 - I want to know when [SOSKV3](course) teaching times are
 - I want to know teaching times of [KATLAP21](course)
 - I want to know the schedule of [KASA11](course)
-- I want to know when the lectures in course [TAYJ033](course) are- Schedule [HALJUA21](course)
+- I want to know when the lectures in course [TAYJ033](course) are
+- Schedule [HALJUA21](course)
 - [LTLY16](course) schedule
 - [KATLITO5](course) weekly schedule
 - [KKSUKTK](course) weekly
@@ -3768,7 +3793,8 @@
 - I want to know when [KASLOH3](course) teaching times are
 - I want to know teaching times of [JOVPVS12](course)
 - I want to know the schedule of [KASSM2](course)
-- I want to know when the lectures in course [KATJOA12](course) are- Schedule [KATJOS12](course)
+- I want to know when the lectures in course [KATJOA12](course) are
+- Schedule [KATJOS12](course)
 - [RANP5](course) schedule
 - [KATVRA30](course) weekly schedule
 - [KASA11](course) weekly
@@ -3797,7 +3823,8 @@
 - I want to know when [KASPUHP2](course) teaching times are
 - I want to know teaching times of [ITIY3](course)
 - I want to know the schedule of [KKSUPRO](course)
-- I want to know when the lectures in course [KASVAR4](course) are- Schedule [KATMAP11](course)
+- I want to know when the lectures in course [KASVAR4](course) are
+- Schedule [KATMAP11](course)
 - [KASSO8](course) schedule
 - [POHA14](course) weekly schedule
 - [KKENYHT](course) weekly
@@ -3859,7 +3886,8 @@
 - I want to know which language [SUKKP6](course) is used
 - I want to know the language of [FILA9](course)
 - I want to know what language do they speak in [ITIA11](course)
-- I want to know is [SOS9](course) taught in english- Teaching language [LUOYY020](course)
+- I want to know is [SOS9](course) taught in english
+- Teaching language [LUOYY020](course)
 - Lecture language [YKYYHT4A](course)
 - What is the teaching language in [KATLAA99](course)
 - Teaching language in [MTTTP1](course)
@@ -3889,7 +3917,8 @@
 - I want to know which language [JOVA1](course) is used
 - I want to know the language of [MVKS26](course)
 - I want to know what language do they speak in [KASA12](course)
-- I want to know is [MVKS23](course) taught in english- Teaching language [KATVRP12](course)
+- I want to know is [MVKS23](course) taught in english
+- Teaching language [KATVRP12](course)
 - Lecture language [KASMULTI1](course)
 - What is the teaching language in [TERY4](course)
 - Teaching language in [KASA9](course)
@@ -3919,7 +3948,8 @@
 - I want to know which language [KKSUOPE](course) is used
 - I want to know the language of [KATTAP11](course)
 - I want to know what language do they speak in [MVKS24E](course)
-- I want to know is [TAYJ12](course) taught in english- Teaching language [DPHSR402](course)
+- I want to know is [TAYJ12](course) taught in english
+- Teaching language [DPHSR402](course)
 - Lecture language [KASLOH4B](course)
 - What is the teaching language in [LTLY229](course)
 - Teaching language in [SUOV2](course)
@@ -3949,7 +3979,8 @@
 - I want to know which language [KATLITO2](course) is used
 - I want to know the language of [POHS5](course)
 - I want to know what language do they speak in [TERA1](course)
-- I want to know is [KASVAR9](course) taught in english- Teaching language [SOSM4](course)
+- I want to know is [KASVAR9](course) taught in english
+- Teaching language [SOSM4](course)
 - Lecture language [RANP6](course)
 - What is the teaching language in [MTTMP3](course)
 - Teaching language in [POLKVS31](course)
@@ -3979,7 +4010,8 @@
 - I want to know which language [KASP5](course) is used
 - I want to know the language of [KKSA3](course)
 - I want to know what language do they speak in [ENGS40](course)
-- I want to know is [JOVKA4](course) taught in english- Teaching language [SOP03.6](course)
+- I want to know is [JOVKA4](course) taught in english
+- Teaching language [SOP03.6](course)
 - Lecture language [KATTAA32](course)
 - What is the teaching language in [KKSUVAL3](course)
 - Teaching language in [POLKVA11](course)
@@ -4009,7 +4041,8 @@
 - I want to know which language [FILJATKO](course) is used
 - I want to know the language of [NORDIG1](course)
 - I want to know what language do they speak in [IGS006](course)
-- I want to know is [HIST03](course) taught in english- Teaching language [HALYAS99](course)
+- I want to know is [HIST03](course) taught in english
+- Teaching language [HALYAS99](course)
 - Lecture language [KASA6](course)
 - What is the teaching language in [MTTTS13](course)
 - Teaching language in [YKT10.5](course)
@@ -4039,7 +4072,8 @@
 - I want to know which language [KASLOH4A](course) is used
 - I want to know the language of [KKENVAL4](course)
 - I want to know what language do they speak in [KASERIT3](course)
-- I want to know is [HTIS60](course) taught in english- Teaching language [LATAP3](course)
+- I want to know is [HTIS60](course) taught in english
+- Teaching language [LATAP3](course)
 - Lecture language [HALJUA14](course)
 - What is the teaching language in [LATAP2](course)
 - Teaching language in [MTTMS11](course)
@@ -4069,7 +4103,8 @@
 - I want to know which language [SOCYKV2](course) is used
 - I want to know the language of [MTTTA13](course)
 - I want to know what language do they speak in [LOGP2](course)
-- I want to know is [JOVTS5](course) taught in english- Teaching language [TIEP3](course)
+- I want to know is [JOVTS5](course) taught in english
+- Teaching language [TIEP3](course)
 - Lecture language [FONEP1](course)
 - What is the teaching language in [KKRAVAL1](course)
 - Teaching language in [KKRULL](course)
@@ -4099,7 +4134,8 @@
 - I want to know which language [BTK2223](course) is used
 - I want to know the language of [POLKVA11](course)
 - I want to know what language do they speak in [POHA1](course)
-- I want to know is [VENS15](course) taught in english- Teaching language [FILAPRO](course)
+- I want to know is [VENS15](course) taught in english
+- Teaching language [FILAPRO](course)
 - Lecture language [PSYA5](course)
 - What is the teaching language in [POLVOA31](course)
 - Teaching language in [ITIA03](course)
@@ -4129,7 +4165,8 @@
 - I want to know which language [KASLOM6](course) is used
 - I want to know the language of [KATVRS55](course)
 - I want to know what language do they speak in [POLVOS33](course)
-- I want to know is [JOUJOVTS](course) taught in english- Teaching language [SOSM6.2](course)
+- I want to know is [JOUJOVTS](course) taught in english
+- Teaching language [SOSM6.2](course)
 - Lecture language [PSYP2](course)
 - What is the teaching language in [KASS1](course)
 - Teaching language in [DPJKK20](course)
@@ -4159,7 +4196,8 @@
 - I want to know which language [HALKAS13](course) is used
 - I want to know the language of [TAYJ12](course)
 - I want to know what language do they speak in [KASLOM10](course)
-- I want to know is [KASMULTI4](course) taught in english- Teaching language [TIEP1](course)
+- I want to know is [KASMULTI4](course) taught in english
+- Teaching language [TIEP1](course)
 - Lecture language [SUOS1](course)
 - What is the teaching language in [KKENVAL9](course)
 - Teaching language in [SAKA12](course)
@@ -4189,7 +4227,8 @@
 - I want to know which language [JKKYLII](course) is used
 - I want to know the language of [ENGA8](course)
 - I want to know what language do they speak in [POLKVA23](course)
-- I want to know is [KASVAR7](course) taught in english- Teaching language [SOS4.2](course)
+- I want to know is [KASVAR7](course) taught in english
+- Teaching language [SOS4.2](course)
 - Lecture language [KIRP4](course)
 - What is the teaching language in [SOSKV1](course)
 - Teaching language in [KASLOM4](course)
@@ -4219,7 +4258,8 @@
 - I want to know which language [STYP1A](course) is used
 - I want to know the language of [LTLY16](course)
 - I want to know what language do they speak in [KASLOE8.1](course)
-- I want to know is [VIROP3](course) taught in english- Teaching language [POLPOP05](course)
+- I want to know is [VIROP3](course) taught in english
+- Teaching language [POLPOP05](course)
 - Lecture language [NORDIG4](course)
 - What is the teaching language in [KASLOM6](course)
 - Teaching language in [TERVAL7](course)
@@ -4249,7 +4289,8 @@
 - I want to know which language [POLPOP02](course) is used
 - I want to know the language of [HISA3B](course)
 - I want to know what language do they speak in [MTTTS14](course)
-- I want to know is [JOVA8](course) taught in english- Teaching language [MVKS17/13S](course)
+- I want to know is [JOVA8](course) taught in english
+- Teaching language [MVKS17/13S](course)
 - Lecture language [KKRUKK](course)
 - What is the teaching language in [POLKVA32](course)
 - Teaching language in [TRSU02](course)
@@ -4279,7 +4320,8 @@
 - I want to know which language [HALJUA13](course) is used
 - I want to know the language of [POLVOS32](course)
 - I want to know what language do they speak in [ITIY3](course)
-- I want to know is [FILP1A](course) taught in english- Teaching language [TAYJ042](course)
+- I want to know is [FILP1A](course) taught in english
+- Teaching language [TAYJ042](course)
 - Lecture language [KKSUBMT](course)
 - What is the teaching language in [HALYAP01](course)
 - Teaching language in [ENGP7](course)
@@ -4309,7 +4351,8 @@
 - I want to know which language [DPIS1](course) is used
 - I want to know the language of [SOS10.6](course)
 - I want to know what language do they speak in [LTLY01](course)
-- I want to know is [MEDU02](course) taught in english- Teaching language [SAKP3](course)
+- I want to know is [MEDU02](course) taught in english
+- Teaching language [SAKP3](course)
 - Lecture language [KASSG](course)
 - What is the teaching language in [KKKI1](course)
 - Teaching language in [POLVOS24](course)
@@ -4339,7 +4382,8 @@
 - I want to know which language [KASP5](course) is used
 - I want to know the language of [POLKVS21](course)
 - I want to know what language do they speak in [KASPUHS6](course)
-- I want to know is [TAYJ042](course) taught in english- Teaching language [POLKVS31](course)
+- I want to know is [TAYJ042](course) taught in english
+- Teaching language [POLKVS31](course)
 - Lecture language [POLKVA41](course)
 - What is the teaching language in [DPEDUB.1C](course)
 - Teaching language in [RANS1](course)
@@ -4369,7 +4413,8 @@
 - I want to know which language [TIETA18](course) is used
 - I want to know the language of [KATJOP11](course)
 - I want to know what language do they speak in [POLKVA22](course)
-- I want to know is [KKSUSOTE](course) taught in english- Teaching language [KASLOM11](course)
+- I want to know is [KKSUSOTE](course) taught in english
+- Teaching language [KASLOM11](course)
 - Lecture language [KKRUKK](course)
 - What is the teaching language in [HALYAS14](course)
 - Teaching language in [POHA1](course)
@@ -4399,7 +4444,8 @@
 - I want to know which language [MOLI](course) is used
 - I want to know the language of [YKYYHT2](course)
 - I want to know what language do they speak in [HISA1B](course)
-- I want to know is [HALYAA99](course) taught in english- Teaching language [TERKAN6](course)
+- I want to know is [HALYAA99](course) taught in english
+- Teaching language [TERKAN6](course)
 - Lecture language [PSYP0](course)
 - What is the teaching language in [KASSM2](course)
 - Teaching language in [TAYJ031](course)
@@ -4429,7 +4475,8 @@
 - I want to know which language [LUOYY003](course) is used
 - I want to know the language of [DPEDUB.2](course)
 - I want to know what language do they speak in [KASA5](course)
-- I want to know is [SAKA7](course) taught in english- Teaching language [ITIS61](course)
+- I want to know is [SAKA7](course) taught in english
+- Teaching language [ITIS61](course)
 - Lecture language [STYVA](course)
 - What is the teaching language in [STYS3B](course)
 - Teaching language in [KATRAA11](course)
@@ -4459,7 +4506,8 @@
 - I want to know which language [YKT09.4](course) is used
 - I want to know the language of [KKSUSOTE](course)
 - I want to know what language do they speak in [ENGS29](course)
-- I want to know is [KASP4](course) taught in english- Teaching language [ESPFA2](course)
+- I want to know is [KASP4](course) taught in english
+- Teaching language [ESPFA2](course)
 - Lecture language [STYA3B2](course)
 - What is the teaching language in [JOVA6](course)
 - Teaching language in [JOVA5](course)
@@ -4489,7 +4537,8 @@
 - I want to know which language [KASTUTVA](course) is used
 - I want to know the language of [POLVOA21](course)
 - I want to know what language do they speak in [KKENVAL3](course)
-- I want to know is [TIETS21](course) taught in english- Teaching language [KKRA2](course)
+- I want to know is [TIETS21](course) taught in english
+- Teaching language [KKRA2](course)
 - Lecture language [KKSA3](course)
 - What is the teaching language in [POLVOA31/S21](course)
 - Teaching language in [MTTTP5](course)
@@ -4519,7 +4568,8 @@
 - I want to know which language [JOVA20](course) is used
 - I want to know the language of [DPYT](course)
 - I want to know what language do they speak in [DPHSFC06](course)
-- I want to know is [HALJUS22](course) taught in english- Teaching language [LOGS2](course)
+- I want to know is [HALJUS22](course) taught in english
+- Teaching language [LOGS2](course)
 - Lecture language [LTLY229](course)
 - What is the teaching language in [KATTV01](course)
 - Teaching language in [DPHSS207](course)
@@ -4549,7 +4599,8 @@
 - I want to know which language [KASLOM11](course) is used
 - I want to know the language of [TERKAN18](course)
 - I want to know what language do they speak in [KATTAA12A](course)
-- I want to know is [LTLY16](course) taught in english- Teaching language [YKYYHT4A](course)
+- I want to know is [LTLY16](course) taught in english
+- Teaching language [YKYYHT4A](course)
 - Lecture language [SAKP0](course)
 - What is the teaching language in [KATYVA44](course)
 - Teaching language in [KIRA4D](course)
@@ -4579,7 +4630,8 @@
 - I want to know which language [LUOYY027](course) is used
 - I want to know the language of [SOS10.1.5](course)
 - I want to know what language do they speak in [KASLOE8.1](course)
-- I want to know is [TIEVA36](course) taught in english- Teaching language [KKRUVAL1](course)
+- I want to know is [TIEVA36](course) taught in english
+- Teaching language [KKRUVAL1](course)
 - Lecture language [LOGA6](course)
 - What is the teaching language in [LUOYY021](course)
 - Teaching language in [PEDAYOP4](course)
@@ -4609,7 +4661,8 @@
 - I want to know which language [TAYJ035](course) is used
 - I want to know the language of [POLKVS21](course)
 - I want to know what language do they speak in [FONEP2](course)
-- I want to know is [SUOP3](course) taught in english- Teaching language [PSYS17](course)
+- I want to know is [SUOP3](course) taught in english
+- Teaching language [PSYS17](course)
 - Lecture language [SOS7.2/STYA4B](course)
 - What is the teaching language in [DPEDUC.3](course)
 - Teaching language in [MOLI](course)
@@ -4639,7 +4692,8 @@
 - I want to know which language [HALJTA06](course) is used
 - I want to know the language of [KASLOE4.3](course)
 - I want to know what language do they speak in [SOSM5.1](course)
-- I want to know is [KKVE2](course) taught in english- Teaching language [JOVPVS6](course)
+- I want to know is [KKVE2](course) taught in english
+- Teaching language [JOVPVS6](course)
 - Lecture language [HALJTJ00](course)
 - What is the teaching language in [POLKVA42](course)
 - Teaching language in [PSYP1](course)
@@ -4669,7 +4723,8 @@
 - I want to know which language [HALJUA22](course) is used
 - I want to know the language of [POLKVS32](course)
 - I want to know what language do they speak in [TIETA10](course)
-- I want to know is [RANP3](course) taught in english- Teaching language [MTTA1](course)
+- I want to know is [RANP3](course) taught in english
+- Teaching language [MTTA1](course)
 - Lecture language [POLKVA43](course)
 - What is the teaching language in [KASVAR2](course)
 - Teaching language in [JOVPVS5](course)
@@ -4699,7 +4754,8 @@
 - I want to know which language [JKKYVP11](course) is used
 - I want to know the language of [POLKVA44](course)
 - I want to know what language do they speak in [JOVPVA7](course)
-- I want to know is [KATJOS11](course) taught in english- Teaching language [TAYJ031](course)
+- I want to know is [KATJOS11](course) taught in english
+- Teaching language [TAYJ031](course)
 - Lecture language [PSYS11](course)
 - What is the teaching language in [KIRP3](course)
 - Teaching language in [PSYA9](course)
