@@ -1,0 +1,27 @@
+- How many points [*](course)
+- How many credits [*](course)
+- How many ECTS [*](course)
+- How many student credits [*](course)
+- How many student points [*](course)
+- How many student credits from [*](course)
+- How many student points from [*](course)
+- How many ECTS from [*](course)
+- How many student credits is [*](course)
+- How many points is [*](course)
+- How many credits is [*](course)
+- How many ECTS is [*](course)
+- How many student credits is [*](course)
+- How many student points is [*](course)
+- Student points [*](course)
+- Student credits [*](course)
+- ECTS [*](course)
+- [*](course) ECTS
+- [*](course) course points
+- [*](course) student points
+- [*](course) points
+- [*](course) amount of points
+- [*](course) credits
+- [*](course) the amount of ECTS
+- How many points [*](course) is
+- How many ECTS [*](course) will be
+- Credits [*](course)
