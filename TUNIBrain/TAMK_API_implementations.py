@@ -38,7 +38,7 @@ def tamk_teachingLanguage(id):
         print(e)
     return ""
 
-#print(TAMK_teachingLanguage("IM00BR45-3003"))
+#print(tamk_teachingLanguage("IM00BR45-3003"))
 
 #Searches courses starting date by its id
 def tamk_startDate(id):
@@ -51,7 +51,7 @@ def tamk_startDate(id):
         print(e)
     return ""
 
-#print(TAMK_startDate("IM00BR45-3003"))
+#print(tamk_startDate("IM00BR45-3003"))
 
 #Searches courses location by its id
 def tamk_location(id):
@@ -72,4 +72,16 @@ def tamk_location(id):
 
     return ""
 
-#print(TAMK_location("IM00BR45-3003"))
+#print(tamk_location("IM00BR45-3003"))
+
+#Searches courses exam dates by its id
+def tamk_examSchedule(id):
+    try:
+        info = tamk_API_implementations(id)
+        exams = info['realizations'][0]['examSchedule']
+        return("Exam schedule of the course is: "+exams)
+    except Exception as e:
+        print(e)
+    return""
+    
+print(tamk_examSchedule("IM00BR45-3003"))

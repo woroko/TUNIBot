@@ -5,18 +5,20 @@ import os, sys
 import requests
 import json
 import socket
+
 from inspect import getsourcefile
 from os.path import abspath
 from parse_uta_databank import UTAJsonParser
-from tamk_API_implementations import *
-from log import *
-
+from TAMK_API_implementations import *
+from Log import Logger
 import re
 
 dirname = os.path.dirname(abspath(getsourcefile(lambda:0)))
 
 app = Bottle()
 debug(True)
+#Are logs working
+logs_on = True
 
 RASA_ADDRESS = "http://localhost:5000/parse"
 RASA_THRESHOLD = 0.6
@@ -26,6 +28,8 @@ UTA_PARSER = UTAJsonParser("jsons")
 
 from gevent import monkey; monkey.patch_all()
 
+logger = Logger(logs_on)
+    
 def query_chatscript(query, userID="TestUser"):
     # Lokaalin testiympäristön osoite. Muistetaan muokata, kunhan CS
     # on serverillä.
@@ -65,13 +69,13 @@ def login():
 def test():
     username = request.forms.get('username') #+ ":tunibottitoo"
     query = request.forms.get('query')
-    
-    #Are logs working
-    logs_on = True
+    #Removes special characters from query, and makes it start with lowercase letter
+    cleaning_query = ''.join(e for e in query if e.isalnum() or e.isspace())
+    cleaned_query = "".join(c.lower() if i is 0 else c for i, c in enumerate(cleaning_query))
     
     #response = requests.get("api-address")
     #response = '{"intent": {"confidence": 0.5}}'
-    rasa_query = '{"query":"' + query + '", "project": "current"}'
+    rasa_query = '{"query":"' + cleaned_query + '", "project": "current"}'
     rasa_response = requests.post(RASA_ADDRESS, data=rasa_query)
     rasa_json = json.loads(rasa_response.text)
     print(rasa_json)
@@ -140,20 +144,20 @@ def test():
         #Was the answer successful or not
         if receivedThreshold == 0:
             if success:
-                successful_log(query, response, 0, "none", 0, "none", Source)
+                logger.log_success(query, response, 0, "none", 0, "none", Source)
             else:
-                failed_log(query, response, 0, "none", 0, "none", Source)
+                logger.log_failed(query, response, 0, "none", 0, "none", Source)
         elif len(rasa_json["entities"]) == 0:
             if success:
-                successful_log(query, response, rasa_json['intent']['confidence'], rasa_json['intent']['name'], 0, "none", Source)
+                logger.log_success(query, response, rasa_json['intent']['confidence'], rasa_json['intent']['name'], 0, "none", Source)
             else:
-                failed_log(query, response, rasa_json['intent']['confidence'], rasa_json['intent']['name'], 0, "none", Source)
+                logger.log_failed(query, response, rasa_json['intent']['confidence'], rasa_json['intent']['name'], 0, "none", Source)
         else:
             if success:
-                successful_log(query, response, rasa_json['intent']['confidence'], rasa_json['intent']['name'], rasa_json["entities"][0]["confidence"], rasa_json["entities"][0]["entity"], Source)
+                logger.log_success(query, response, rasa_json['intent']['confidence'], rasa_json['intent']['name'], rasa_json["entities"][0]["confidence"], rasa_json["entities"][0]["entity"], Source)
             else:
-                failed_log(query, response, rasa_json['intent']['confidence'], rasa_json['intent']['name'], rasa_json["entities"][0]["confidence"], rasa_json["entities"][0]["entity"], Source)
-            
+                logger.log_failed(query, response, rasa_json['intent']['confidence'], rasa_json['intent']['name'], rasa_json["entities"][0]["confidence"], rasa_json["entities"][0]["entity"], Source)
+
 
     header = "<html><body>"
 
@@ -161,4 +165,10 @@ def test():
     
     return header + response.replace("\n", "<br>").replace("  ", "&nbsp&nbsp") + footer
 
-run(app, host='localhost', port=8080)
+
+
+def main():
+    run(app, host='localhost', port=8080)
+
+if __name__ == "__main__":
+    main()
