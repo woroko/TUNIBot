@@ -35,27 +35,59 @@
                 event.preventDefault();
                 if(event.keyCode === 13) {
                     document.getElementById("submit_button").click();
+                    document.getElementById("input_field").value = '';
                 }
             });
+
             bindCallback();
+
+            function createUserChatBubble(text)
+            {
+                var table = document.getElementById("chat_content");
+                var row = table.insertRow(-1);
+                var cell = row.insertCell(0);
+                var child = document.createElement("div");
+
+                child.textContent = "You said: " + text;
+                cell.appendChild(child);
+
+            };
+
+            function createBotChatBubble(text)
+            {
+                var table = document.getElementById("chat_content");
+                var row = table.insertRow(-1);
+                var cell = row.insertCell(0);
+                var child = document.createElement("div");
+
+                //
+                var str = text;
+                var i;
+                var parsed_text = '';
+
+                for(i = 0; i < str.length; i++)
+                {
+                    if(i > 11 && i < str.length - 14)
+                    {
+                        parsed_text += str[i];
+                    }
+                }
+
+                child.textContent = "Bot says: " + parsed_text;
+                cell.appendChild(child);
+
+            };
 
             function bindCallback()
             {
-                
+                document.getElementById("input_field").value = '';
 
                 $(document).ready(function()
                 { 
                     $("#submit_button").click(function()
                     {
                         var text_value = document.getElementById("input_field").value;
-
-                        var table = document.getElementById("chat_content");
-                        var row = table.insertRow(-1);
-                        var cell = row.insertCell(0);
-                        var child = document.createElement("div");
-
-                        child.textContent = "You said: " + text_value;
-                        cell.appendChild(child);
+                        createUserChatBubble(text_value);
 
                         $.post("http://localhost:8082/msg",
                         {
@@ -63,7 +95,8 @@
                         },
                         function(data, status)
                         {
-                            alert("Data: " + data + "\nStatus: " + status);
+                            //alert("Data: " + data + "\nStatus: " + status);
+                            createBotChatBubble(data);
                         });
                     });
 
