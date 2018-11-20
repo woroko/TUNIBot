@@ -67,6 +67,44 @@ class UTAJsonParser:
 
         return response
 
+    def find_course_credits(self, id=None, name=None):
+        if(id is not None):
+            matches = self.search_regular_course_implementation(id=id)
+        elif(name is not None):
+            matches = self.search_regular_course_implementation(name=name)
+        ordered_matches = []    
+        currentDate = datetime.now()
+        for i in range(0, len(matches)):
+            try:
+                start = dateutil.parser.parse(matches[i]['startDate'])
+                diff = start - currentDate
+                ordered_matches.append((i, math.fabs(diff.total_seconds())))
+            except Exception as e:
+                print(e)
+                print("find_course_credits invalid")
+        response = ""
+        
+        if len(matches) > 0:
+            try:
+                i=0
+                for match in sorted(ordered_matches, key=lambda x: x[1]):
+                    if i > 2:
+                        break
+                    course_json = matches[match[0]]
+                    if match[1] < 63113851.0: # 2 years
+                        if (course_json['creditsMax'] is None or course_json['creditsMax'] == course_json['creditsMin']):
+                            response += "  Course " + course_json['name'] + " is worth " + str(course_json['creditsMin']) +" credits.\n"
+                        else:
+                            response += "  Course " + course_json['name'] + " is worth " + str(course_json['creditsMin']) +"-"+ str(course_json['creditsMax']) + " credits.\n"
+                    i += 1
+            except Exception as e:
+                traceback.print_exc()
+                print("find_course_credits error")
+
+        return response
+            
+        
+        
     def find_course_teachinglanguage(self, id):
         matches = self.search_regular_course_implementation(id=id)
         ordered_matches = []
@@ -204,6 +242,7 @@ def main():
     print(parser.find_course_start_date("KKSULUK"))
     print(parser.find_course_teaching_times("KKSULUK"))
     print(parser.find_course_teachinglanguage("KKSULUK"))
+    print(parser.find_course_credits("KKSULUK"))
 
 
 if __name__ == "__main__":

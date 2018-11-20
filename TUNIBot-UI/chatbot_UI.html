@@ -14,7 +14,7 @@
     <body>
         <div id="chatbot_frame">
             <div id="banner">
-                <!--<p id="banner_text">TUNIBot Prototype</p>-->
+                <p id="banner_text">TUNIBot Prototype</p>
             </div>
             <div id="chatbot_contentpane" style="overflow-y:auto;">
                 <table id="chat_content">
@@ -23,7 +23,7 @@
             </div>
             <div id="textfield_frame">
                 <input id="input_field" type="search" placeholder="Type your message...">
-                <button id="submit_button" onclick="submitClicked()">Submit</button>
+                <button id="submit_button">Submit</button>
             </div>
 
         </div>
@@ -37,72 +37,40 @@
                     document.getElementById("submit_button").click();
                 }
             });
+            bindCallback();
 
-            function submitClicked()
+            function bindCallback()
             {
-
-                var text_value = document.getElementById("input_field").value;
-
-                //BACK-END kutsu
+                
 
                 $(document).ready(function()
-                {
-	                $("#submit_button").click(function(){
-					    $.post("http://localhost:8082/msg",
-					    {
-					        "query": text_value
-					    },
-					    function(data, status){
-					        alert("Data: " + data + "\nStatus: " + status);
-					    });
-					}); 
-				});
+                { 
+                    $("#submit_button").click(function()
+                    {
+                        var text_value = document.getElementById("input_field").value;
 
-                var table = document.getElementById("chat_content");
-                var row = table.insertRow(-1);
-                var cell = row.insertCell(0);
-                var child = document.createElement("div");
+                        var table = document.getElementById("chat_content");
+                        var row = table.insertRow(-1);
+                        var cell = row.insertCell(0);
+                        var child = document.createElement("div");
 
+                        child.textContent = "You said: " + text_value;
+                        cell.appendChild(child);
 
-                child.textContent = "You said: " + text_value;
-                cell.appendChild(child);
-                chat();
-            }
+                        $.post("http://localhost:8082/msg",
+                        {
+                            "query": text_value
+                        },
+                        function(data, status)
+                        {
+                            alert("Data: " + data + "\nStatus: " + status);
+                        });
+                    });
 
-            let bot = new RiveScript({utf8: true});
+                });
+            };
 
-			bot.loadFile("brain.rive").then(brainReady).catch(brainError);
-
-			function brainReady()
-			{
-				console.log("Chatbot ready!");
-				bot.sortReplies();
-			}
-
-			function brainError()
-			{
-				console.log("Brain error!");
-			}
-
-			function chat()
-			{
-				let user_input = document.getElementById("input_field").value;
-				let reply = bot.reply("local-user", user_input).then( function(reply) 
-				{
-					console.log(reply);
-					var text_value = reply;
-
-               		var table = document.getElementById("chat_content");
-               		var row = table.insertRow(-1);
-               		var cell = row.insertCell(0);
-               		var child = document.createElement("div");
-
-
-               		child.textContent = "Bot says: " + text_value;
-               		cell.appendChild(child);
-               		document.getElementById("input_field").value = '';
-		    	});
-			}
+            
 
         </script>    
     </body>

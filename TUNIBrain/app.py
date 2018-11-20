@@ -27,12 +27,14 @@ RASA_THRESHOLD = 0.6
 RASA_SPECIAL = 0.2
 RASA_SPECIAL_ENTITY = 0.35
 UTA_PARSER = UTAJsonParser("jsons")
+PROGRAMY_ENDPOINT = "http://localhost:8989/api/rest/v1.0/ask?question=*1&userid=*2"
+
 
 from gevent import monkey; monkey.patch_all()
 
 @app.hook('after_request')
 def enable_cors():
-    response.headers['Access-Control-Allow-Origin'] = 'http://localhost:8080'
+    response.headers['Access-Control-Allow-Origin'] = 'http://localhost:8082'
 
 @app.route('/static/<filename>')
 def server_static(filename):
@@ -76,86 +78,116 @@ def login():
         </form>
     '''
 
-@app.route('/msg', method='POST')
-def test():
-    username = request.forms.get('username') #+ ":tunibottitoo"
-    query = request.forms.get('query')
-
-    #Are logs working
-    logs_on = False
-    #Removes special characters from query, and makes it start with lowercase letter
-    cleaning_query = ''.join(e for e in query if e.isalnum() or e.isspace())
-    cleaned_query = "".join(c.lower() if i is 0 else c for i, c in enumerate(cleaning_query))
-    
-    
-    #response = requests.get("api-address")
-    #response = '{"intent": {"confidence": 0.5}}'
-    rasa_query = '{"query":"' + cleaned_query + '", "project": "current"}'
-    rasa_response = requests.post(RASA_ADDRESS, data=rasa_query)
-    rasa_json = json.loads(rasa_response.text)
-    print(rasa_json)
-    #print(moi['intent']['confidence'])
-    receivedThreshold = rasa_json['intent']['confidence']
-    print("rasa conf " + "{0:.2f}".format(receivedThreshold))
-    need_cs_response = True
-    response = ""
-
+def parse_rasa_json(receivedThreshold, rasa_json):
+    response = None
     try:
         if receivedThreshold > RASA_THRESHOLD or (receivedThreshold > RASA_SPECIAL and \
         "entities" in rasa_json and len(rasa_json['entities']) > 0 and \
         rasa_json['entities'][0]['confidence'] > RASA_SPECIAL_ENTITY):
             if rasa_json['intent']['name'] == 'startDate':
-                if rasa_json["entities"][0]["entity"] == "course":
-                    coursecode = rasa_json["entities"][0]['value']
-                    uta = UTA_PARSER.find_course_start_date(coursecode)
-                    if len(uta) > 2:
-                        response += uta
-                        need_cs_response = False
-                    '''tamk = TAMK_startDate(coursecode)
-                    if len(tamk) > 2:
+                if len(rasa_json["entities"]) > 0:
+                    if rasa_json["entities"][0]["entity"] == "course":
+                        coursecode = rasa_json["entities"][0]['value']
+                        uta = UTA_PARSER.find_course_start_date(coursecode)
                         if len(uta) > 2:
-                            response += "\n"
-                        response += tamk
-                        need_cs_response = False'''
+                            response = uta
+                        '''tamk = tamk_startDate(coursecode)
+                        if len(tamk) > 2:
+                            if len(uta) > 2:
+                                response += "\n"
+                            response += tamk
+                            need_cs_response = False'''
+                else:
+                    response = "Are you asking for course starting dates?\nYou need to mention a course code to help me search."
             if rasa_json['intent']['name'] == 'kieli':
-                if rasa_json["entities"][0]["entity"] == "course":
-                    coursecode = rasa_json["entities"][0]['value']
-                    uta = UTA_PARSER.find_course_teachinglanguage(coursecode)
-                    if len(uta) > 2:
-                        response += uta
-                        need_cs_response = False
+                if len(rasa_json["entities"]) > 0:
+                    if rasa_json["entities"][0]["entity"] == "course":
+                        coursecode = rasa_json["entities"][0]['value']
+                        uta = UTA_PARSER.find_course_teachinglanguage(coursecode)
+                        if len(uta) > 2:
+                            response = uta
+                else:
+                    response = "Are you asking for course teaching language?\nYou need to mention a course code to help me search."
             if rasa_json['intent']['name'] == 'opetusajat' or \
                         rasa_json['intent']['name'] == 'periodi':
-                if rasa_json["entities"][0]["entity"] == "course":
-                    coursecode = rasa_json["entities"][0]['value']
-                    uta = UTA_PARSER.find_course_teaching_times(coursecode)
-                    if len(uta) > 2:
-                        response += uta
-                        need_cs_response = False
-
+                if len(rasa_json["entities"]) > 0:
+                    if rasa_json["entities"][0]["entity"] == "course":
+                        coursecode = rasa_json["entities"][0]['value']
+                        uta = UTA_PARSER.find_course_teaching_times(coursecode)
+                        if len(uta) > 2:
+                            response = uta
+                else:
+                    response = "Are you asking for course schedules?\nYou need to mention a course code to help me search."
 
     except Exception as e:
         print("Error in rasa code:")
         print(e)
-    
-    
+
+    return response
+
+@app.route('/msg', method='POST')
+def test():
+    username = request.forms.get('username') #+ ":tunibottitoo"
+    if username is None:
+        username = "TestUser"
+    query = request.forms.get('query')
+
+    #Are logs working
+    logs_on = False
+    #Removes special characters from query, and makes it start with uppercase letter
+    cleaning_query = ''.join(e for e in query if e.isalnum() or e.isspace())
+    cleaned_query = "".join(c.upper() if i is 0 else c for i, c in enumerate(cleaning_query))
+
+
+    #response = requests.get("api-address")
+    #response = '{"intent": {"confidence": 0.5}}'
+    rasa_query = '{"query":"' + cleaned_query + '", "project": "current"}'
+    rasa_response = requests.post(RASA_ADDRESS, data=rasa_query)
+    rasa_json = json.loads(rasa_response.text)
+    #print(rasa_json)
+    #print(moi['intent']['confidence'])
+    receivedThreshold = rasa_json['intent']['confidence']
+    print("rasa conf " + "{0:.2f}".format(receivedThreshold))
+    need_cs_response = True
+    response = parse_rasa_json(receivedThreshold, rasa_json)
+    success = True
+
+    if response is not None:
+        need_cs_response = False
+
     if need_cs_response:
-        response += query_chatscript(query)
-    
+        response = query_chatscript(query)
+        print("Chatscript response: " + response)
+
+    #Was ChatScript able to answer?
+    if need_cs_response and \
+    "Please ask me anything you" in response:
+        print("did not succeed at rasa or chatscript")
+        success = False
+
+    if not success:
+        print("trying program-y")
+        try:
+            aiml_response = requests.get(PROGRAMY_ENDPOINT.replace("*1",query)\
+            .replace("*2",username))
+            aiml_json = json.loads(aiml_response.text)
+            response = aiml_json[0]['response']['answer']
+            Source = "Program-Y"
+        except Exception as e:
+            print("aiml failed: " + str(e))
+
     #Logs
     if logs_on:
-        success = True
-        
         if need_cs_response:
             Source = 'Chatscript'
+            receivedThreshold = 0
+            if not success:
+                Source = 'Program-Y'
         else:
             Source = 'Rasa'
 
-        #Was ChatScript able to answer?
-        if response.startswith("Please ask me anything you"):
-            success = False
         #Was the answer successful or not
-        if receivedThreshold == 0:
+        if receivedThreshold <= 0:
             if success:
                 logger.log_success(query, response, 0, "none", 0, "none", Source)
             else:
@@ -181,7 +213,7 @@ def test():
 
 
 def main():
-    run(app, host='localhost', port=8080)
+    run(app, host='localhost', port=8082)
 
 if __name__ == "__main__":
     main()
