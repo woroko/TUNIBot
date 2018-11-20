@@ -1,0 +1,16300 @@
+<!--- Make sure to update this training data file with more training examples from https://forum.rasa.com/t/grab-the-nlu-training-dataset-and-starter-packs/903 --> 
+
+
+
+## intent:bye <!--- The label of the intent --> 
+- Bye 			<!--- Training examples for intent 'bye'--> 
+- Goodbye
+- See you later
+- Bye bot
+- Goodbye friend
+- bye
+- bye for now
+- catch you later
+- gotta go
+- See you
+- goodnight
+- have a nice day
+- i'm off
+- see you later alligator
+- we'll speak soon
+
+## intent:greet
+- Hi
+- Hey
+- Hi bot
+- Hey bot
+- Hello
+- Good morning
+- hi again
+- hi folks
+- hi Mister
+- hi pal!
+- hi there
+- greetings
+- hello everybody
+- hello is anybody there
+- hello robot
+
+## intent:thank
+- Thanks
+- Thank you
+- Thank you so much
+- Thanks bot
+- Thanks for that
+- cheers
+- cheers bro
+- ok thanks!
+- perfect thank you
+- thanks a bunch for everything
+- thanks for the help
+- thanks a lot
+- amazing, thanks
+- cool, thanks
+- cool thank you
+
+## intent:affirm
+- yes
+- yes sure
+- absolutely
+- for sure
+- yes yes yes
+- definitely
+
+## intent:name
+- My name is [Alice](name)  <!--- Square brackets contain the value of entity while the text inside the parentheses is a a label of the entity --> 
+- I am [Josh](name)
+- I'm [Lucy](name)
+- People call me [Greg](name)
+- It's [David](name)
+- Usually people call me [Amy](name)
+- My name is [John](name)
+- You can call me [Sam](name)
+- Please call me [Linda](name)
+- Name name is [Tom](name)
+- I am [Richard](name)
+- I'm [Tracy](name)
+- Call me [Sally](name)
+- I am [Philipp](name)
+- I am [Charlie](name)
+
+## intent:startDate
+- When does [Kandidaatin tutkielma ja seminaari (Kansanterveystieteen opiskelijoille)](course) start
+- When does [Kirjallisuudentutkimuksen menetelmät - Menetelmät ja sovellukset](course) start
+- When does [Filosofian historia](course) start
+- When does [Kirjallinen viestintä II / Schriftliche Kommunikation II](course) begin
+- When does [Saksa I](course) begin
+- When will [Introduction to Academic English (online / JKK, EDU, LUO, COMS & SOC)](course) begin
+- When will [Europe in transition](course) begin
+- When will [Kirjoitusviestintä / COMS](course) begin
+- When will [Musiikin perusteet / Harjoitukset - 1.vsk](course) begin
+- When does [Sosiaaliturvan ajankohtaisia kysymyksiä](course) begin
+- When will [Social Scientific Perspectives on Consumption (online course)](course) start
+- When will [Saksa III](course) start
+- When will [Arvonlisäverotus](course) start
+- When will [Embryology](course) start
+- When is [Kasvatustieteen metodologiset lähtökohdat - Luennot ja kirjatentti TAI kirjatentti](course)
+- [Terveyden edistämisen interventiot](course) when
+- When [Suomen kielen ja sen tutkimuksen historia](course)
+- [Kunnallisoikeus](course) start
+- [Matematiikkakasvatus / Harjoitukset - 2.vsk + 1.vsk ryhmät 6 ja 7](course) start date
+- [Cultural Transitions](course) starting date
+- [Sosiaalityön harjoittelu](course) begins
+- Tell me the start date of [Multi-level Governance and Europeanisation (book exam/essay)](course)
+- What day will [Käännösten suomi(course) start
+- When do I have [Teoria perhehoitotieteessä](course)
+- When do we have [Antropologian osa-alueet](course)
+- The start date of [Johdon laskentatoimen perusteet](course)
+- Start date for [Embryology](course)
+- Start of [Liike- ja työsopimukset](course)
+- I want to know when [Verkostoitunut maailma](course) starts
+- I want to know when will [Moniammatilliset oppimisyhteisöt - Luennot](course) start
+- I want to know the start date of [Software Project Management, Software Project Management (Spring term)](course)
+- I want to know when [Lesen, Verstehen, Schreiben](course) begin
+- Tell me the start date of [Pohjoismaisten kielten lähtötasokoe](course)
+- Tell me when [Kehitys, kasvatus ja elämänkulku, monimuoto-opetus](course) begins
+- What day will [Advanced International Relations Research Methods (book exam/essay)](course) start
+- When does [Rauha, turvallisuus ja kansainväliset instituutiot (kirjatentti/essee)](course) start
+- When does [Maisteriopintojen esittely -  SDE](course) start
+- When does [Kandidaatintutkielma - Seminaari ja tutkielma](course) start
+- When does [Professional Writing (online course)](course) begin
+- When does [Monimuuttujamenetelmien perusteet](course) begin
+- When will [Introduction to Academic English (diverse learners)](course) begin
+- When will [Opetus, ohjaus, oppiminen - Varhaiskasvatuksen opiskelijoille luennot (1 op) verkkotallenteena](course) begin
+- When will [Erot, jaot ja niiden rakentuminen - Luennot ja lukupiiri (klk) TAI kirjatentti (slk ja klk)](course) begin
+- When will [Julkisen talousjohtamisen informaatio](course) begin
+- When does [Orientaatio tutkielman tekemiseen](course) begin
+- When will [Doctoral Studies](course) start
+- When will [Literary Theory and Methodology](course) start
+- When will [Hoitot. tiedon hyödyntäminen johtamisessa ja opettamisessa: syventävä projektityö (kurssi jatkuu keväältä 2018)](course) start
+- When will [Special Issues in Design Research](course) start
+- When is [Kuva-  ja mediakulttuurit - Mediakulttuurit- I vsk ja  erillisen opinto-oikeuden POM-opintoihin saaneet opiskelijat (luennot)](course)
+- [History of English](course) when
+- When [Henkilöstöjohtaminen](course)
+- [Graduseminaari / Kekäläinen (jatkuu keväältä 2018)](course) start
+- [Research on Society and Organisations](course) start date
+- [Tietojärjestelmän suunnittelun perusteet - Näyttökoe, syksy 2018](course) starting date
+- [Master´s Thesis and Seminar - for the group that started in 2017](course) begins
+- Tell me the start date of [Kasvatuksen historialliset ja filosofiset lähtökohdat - Luennot ja kirjallisuus](course)
+- What day will [Feministiset politiikat ja asiantuntijuus(course) start
+- When do I have [Business Models](course)
+- When do we have [Kuvataidekasvatus / Harjoitukset - 2.vsk](course)
+- The start date of [Opetus, ohjaus, oppiminen, monimuoto-opeus](course)
+- Start date for [Nuorten ja aikuisten mielenterveyden arviointi](course)
+- Start of [Kilpailuoikeus](course)
+- I want to know when [Tutkijan työpaja](course) starts
+- I want to know when will [Microfinance and development](course) start
+- I want to know the start date of [Kansainvälisen politiikan yleiset syventävät menetelmäopinnot](course)
+- I want to know when [Sosiaalipolitiikka (lähi- ja monimuotokurssi)](course) begin
+- Tell me the start date of [Scientific Writing - Module A - Writing Clinic](course)
+- Tell me when [Research seminar for postgraduate studies](course) begins
+- What day will [Asiantuntijan ja esimiehen työelämätaidot](course) start
+- When does [Ruotsin kielen kirjallinen ja suullinen viestintä (myös TTY:n biotekniikan opiskelijoille)](course) start
+- When does [Moniammatillisuus, yhteisö ja vuorovaikutus / Harjoitukset - 3.vsk + 2.vsk ryhmä 4](course) start
+- When does [Kandidaattiseminaari ja tutkielma (markkinointi) - kevät 2019](course) start
+- When does [Nationalismi ja poliittiset ideologiat](course) begin
+- When does [Puolueet ja vaalit (kirjatentti/essee)](course) begin
+- When will [Business Writing](course) begin
+- When will [Kestävän kehityksen käytäntöjä](course) begin
+- When will [Ranska II](course) begin
+- When will [Kehitys, kasvatus ja elämänkulku, monimuoto-opetus](course) begin
+- When does [Rahatalous](course) begin
+- When will [Valtio-opin teoriat (kirjatentti/essee)](course) start
+- When will [Inklusiivinen koulu - Luennot, seminaarit, kenttätehtävä ja raportointi](course) start
+- When will [Making sense of globalization - Theorizing beyond the nation-state - seminar](course) start
+- When will [Advanced course in Czech language](course) start
+- When is [Kandidaattiseminaari ja tutkielma (laskentatoimi) - Kandidaattiseminaari, syksy 2018](course)
+- [Pedagoginen johtaminen - Luennot ja ryhmätyöskentely](course) when
+- When [Academic Presentations](course)
+- [Valtiosääntöoikeuden syventävä jakso](course) start
+- [Väitöskirja (tutkijaseminaarit)](course) start date
+- [Kasvatus tieteellisen tutkimuksen kohteena, avoin yo, lähi- ja monimuotototeutus](course) starting date
+- [Itsenäinen projekti: Opintopassi](course) begins
+- Tell me the start date of [Tieteellinen kommunikaatio ja bibliometriikka](course)
+- What day will [Opintojen ohjattu suunnittelu(course) start
+- When do I have [Todennäköisyyslaskenta](course)
+- When do we have [Yrityksen johtamisen perusteet (avoin yliopisto-opetus), monimuoto-opetus](course)
+- The start date of [Academic Presentations](course)
+- Start date for [Civil Society and Political Participation (book exam/essay)](course)
+- Start of [Riskienhallinta](course)
+- I want to know when [Lähtötasokoe](course) starts
+- I want to know when will [Espanja IV](course) start
+- I want to know the start date of [Nuorisotyön ja nuorisotutkimuksen maisteriohjelman lähijakso 14.-15.2.2019](course)
+- I want to know when [Government and Society: Inequality](course) begin
+- Tell me the start date of [Nuorisotyön ja nuorisotutkimuksen maisteriohjelman lähijakso 3.-4.10.2018](course)
+- Tell me when [Näkökulmia kääntämiseen - Johdatus käännösprosessiin](course) begins
+- What day will [Development, Education and Lifecourse](course) start
+- When does [Kandidaattiseminaari ja tutkielma (taloustiede) - kevät 2019](course) start
+- When does [Henkilöstöjohtaminen](course) start
+- When does [Orientaatio yhteiskuntatutkimuksen opintoihin](course) start
+- When does [Deviance and Social Control](course) begin
+- When does [Critical theory and social ontology](course) begin
+- When will [Näkökulmia kääntämiseen - Käännös-, rakenne- ja sanastoharjoitukset I / Perspektiven auf Übersetzen](course) begin
+- When will [Comparative Education Policy](course) begin
+- When will [Orientation - Orientation to studying in the Software Development programme](course) begin
+- When will [Ympäristö ja hyvinvointi](course) begin
+- When does [Sosiaalityön peruskurssi (kirjatentti)](course) begin
+- When will [Tutkimustyön perusteet - d) Kandidaattiseminaari (syksyllä 2018 alkava)](course) start
+- When will [Tutkimustyön perusteet (syksy)](course) start
+- When will [Laadullinen tutkimus - menetelmät ja prosessi](course) start
+- When will [The Employment Protection in Russia](course) start
+- When is [Maisteriopintojen esittely -  SDE](course)
+- [Social Scientific Perspectives on Consumption (online course)](course) when
+- When [Matemaattiset aineet - Loogisesta ajattelusta automaatioon - 1 vsk  ja erillisen opinto-oikeuden POM-opintoihin saaneet opiskelijat](course)
+- [Maailmanpolitiikan tutkimus (kirjatentti/essee)](course) start
+- [Näkökulmia kääntämiseen - Tekstin ymmärtäminen](course) start date
+- [Äänne- ja muoto-oppi](course) starting date
+- [Methods in Human-Centered Design](course) begins
+- Tell me the start date of [Käsitteellinen mallintaminen I](course)
+- What day will [Mediakulttuurit / Luennot - 2.vsk + 1.vsk ryhmät 6 ja 7(course) start
+- When do I have [Johdatus filosofian historiaan](course)
+- When do we have [Imagining Persia/Iran: Orientalism, Revolution and Diaspora](course)
+- The start date of [Research Mobility for Doctoral Researchers](course)
+- Start date for [Pedagoginen kehittäminen ja johtajuus / Harjoitukset - 3.vsk + 2.vsk ryhmä 4](course)
+- Start of [Kuluttajakäyttäytyminen](course)
+- I want to know when [Parhaat filosofiset artikkelit](course) starts
+- I want to know when will [Experimental animal course](course) start
+- I want to know the start date of [Kehittyminen hoitotyön opettajaksi ja kouluttajaksi](course)
+- I want to know when [KEB-61430 Laaja kemia 3](course) begin
+- Tell me the start date of [Liike-elämän ruotsia I](course)
+- Tell me when [Introduction to Academic English (JKK, EDU, LUO, COMS & SOC)](course) begins
+- What day will [Tutkimusseminaari ja pro gradu -tutkielma - Tutkimusseminaari](course) start
+- When does [Sosiaalitieteiden kvantitatiiviset tutkimusmenetelmät (verkkokurssi)](course) start
+- When does [Agenda-Setting in Public Policy (POMLFCS1)](course) start
+- When does [EU Financial Management](course) start
+- When does [Asiantuntijan puheviestintä ja vuorovaikutus opetus- ja kasvatustyössä (3. periodi)](course) begin
+- When does [Puolueet ja vaalit (kirjatentti/essee)](course) begin
+- When will [Kvantitatiivinen tutkimus kasvatustieteissä - Verkkokurssi, varhaiskasvatuksen opiskelijat](course) begin
+- When will [Seminaari (Seppänen)](course) begin
+- When will [Nuorisotyön ja nuorisotutkimuksen maisteriohjelman lähijakso 4.-5.10.2018](course) begin
+- When will [Graduseminaari, alkava (Niemi)](course) begin
+- When does [Johdatus historiantutkimukseen - Johdatus historiantutkimukseen -luentokurssi](course) begin
+- When will [Pakolaisuus, tila ja hallinta](course) start
+- When will [Simultaanitulkkaus I saksa-suomi-saksa](course) start
+- When will [Opintojen ohjattu suunnittelu](course) start
+- When will [Master's Thesis Seminar in Human-Technology Interaction (Starting Spring term)](course) start
+- When is [Ethnographic Research](course)
+- [Journal club](course) when
+- When [Julkisoikeuden syventävä tutkimusjakso](course)
+- [Tieteenfilosofiaa kasvatustieteen näkökulmasta](course) start
+- [Klassinen länsimainen kertomakirjallisuus](course) start date
+- [Historian määrällisen tiedon esittäminen](course) starting date
+- [Varhaiskasvatuksen kehittyvä asiantuntijuus - Työssäoppiminen (2.vsk ryhmä 4)](course) begins
+- Tell me the start date of [Moniulotteinen markkinointi](course)
+- What day will [Tutkimustyön perusteet - d) Kandidaattiseminaari (keväällä 2019 alkava)(course) start
+- When do I have [Käännösviestintä I - Käännösviestintä I suomi-englanti](course)
+- When do we have [COURSE CANCELLED: Islamism](course)
+- The start date of [Asiantuntijuuden kehittymiseen orientoiva opintojakso - v. 2018 EDUn opiskelijoiksi hyväksyttyjen ryhmät](course)
+- Start date for [Tieteellisen artikkelin tehokas kirjoittaminen](course)
+- Start of [Terveys ja talous](course)
+- I want to know when [Yksilö, yhteiskunta ja kulttuuri - historian ja yhteiskuntaopin harjoitusryhmät - 2. vsk](course) starts
+- I want to know when will [Tutkielmaseminaari (kevätlukukaudelta 2018 jatkavat seminaarit)](course) start
+- I want to know the start date of [Government and Society: Inequality](course)
+- I want to know when [Poliittiset järjestelmät (kirjatentti/essee)](course) begin
+- Tell me the start date of [Kehittyminen hoitotyön opettajaksi ja kouluttajaksi](course)
+- Tell me when [Romanian kielen jatkokurssi II / Advanced Course 2 in Romanian -](course) begins
+- What day will [Bolognasta Erasmukseen: Keskiajan opiskelijoiden kulttuuriset ja sosiaaliset verkostot](course) start
+- When does [Managing e-commerce; Consumers and Community Perspective](course) start
+- When does [Julkisen talousjohtamisen vaihtuvasisältöinen opintojakso](course) start
+- When does [Valtio-opin teoriat (kirjatentti/essee)](course) start
+- When does [Tutkijan digi- ja medianäkyvyys](course) begin
+- When does [Asiantuntemus ja arjen ympäristöpolitiikka (esseesuoritusvaihtoehto) - oppimispaivakirja ja teemaessee](course) begin
+- When will [Littérature et société françaises/Ranskan kirjallisuus ja yhteiskunta](course) begin
+- When will [Ympäristöoikeus](course) begin
+- When will [Johdatus viestintään ja mediaan](course) begin
+- When will [Tietotekniikkataidot (syksy)](course) begin
+- When does [Muuttuvat oppimisympäristöt - Luennot ja opintopiiri](course) begin
+- When will [Kieli käyttöön/Språket i bruk](course) start
+- When will [Parametric and Non-Parametric Statistics](course) start
+- When will [Tiimi toimii - puheviestinnän syventävä kurssi (3. - 4. periodi)](course) start
+- When will [Theory and practice of peaceful change: The Baltic Sea Region](course) start
+- When is [Sosiaalityön harjoittelu + kehittämistyön harjoittelu - STYS2B2 Harjoitteluseminaari](course)
+- [Principles of Programming Graphical User Interfaces](course) when
+- When [Pro gradu -tutkielma ja seminaari](course)
+- [Introduction to Programming I (Tampere Summer School 2018)](course) start
+- [Poliittiset ongelmat ja niiden muuttuvat kontekstit](course) start date
+- [Filosofian työpaja](course) starting date
+- [Business Writing](course) begins
+- Tell me the start date of [Nuorisotyön ja nuorisotutkimuksen maisteriohjelman lähijakso 3.-4.10.2018](course)
+- What day will [Perusharjoittelu A - Ohjattu opetusharjoittelu(course) start
+- When do I have [Tietojärjestelmän suunnittelun perusteet - Näyttökoe, syksy 2018](course)
+- When do we have [Laskentatoimi ja talousjohtaminen](course)
+- The start date of [Understanding and Managing a Business as a Dynamic Whole - VIBU Business Simulation Game](course)
+- Start date for [Muu valinnainen kurssi](course)
+- Start of [Master´s Thesis and Seminar - for the group that started in 2017](course)
+- I want to know when [Teaching, Pedagogical Facilitating, Learning](course) starts
+- I want to know when will [Fonetiikan tutkimusmenetelmät - Menetelmäkurssi](course) start
+- I want to know the start date of [Käännösteknologian harjoituskurssi](course)
+- I want to know when [Kansainvälisen politiikan johdantokurssi (tutkinto-ohjelman opiskelijat)](course) begin
+- Tell me the start date of [Satututkimuksen lukupiiri](course)
+- Tell me when [European Integration and Disintegration (BOOK EXAM POLKVS32)](course) begins
+- What day will [Identity Conflicts in the Arab Worlds](course) start
+- When does [Nordic Model: Nordic Welfare Societies](course) start
+- When does [Monikulttuurisen sosiaalityön erityiskysymykset - Sosnet verkkokurssi](course) start
+- When does [Liberalismi ja demokratia](course) start
+- When does [Introduction to Academic English (JKK, EDU, LUO, COMS & SOC)](course) begin
+- When does [Tilastollisen päättelyn perusteet, iltaryhmä](course) begin
+- When will [Tekninen ihmisyys](course) begin
+- When will [Tekstin tekemisen perusteet](course) begin
+- When will [Johdatus filosofiaan](course) begin
+- When will [Introduction to Risk Management and Insurance (spring semester)](course) begin
+- When does [Tieteellinen kirjoittaminen / LUO & COMS](course) begin
+- When will [Yhteisöt ja yhteisösosiaalityön lähtökohdat - Sosnet verkkokurssi](course) start
+- When will [Terveystiedon sisällöt (sähköinen tentti)](course) start
+- When will [United States History, 1877-1945](course) start
+- When will [Molekyylibiologian työt](course) start
+- When is [Jatkokoulutusseminaari](course)
+- [Ranska II](course) when
+- When [Liikuntapedagogiikka varhaiskasvatuksessa / Luennot - 2.vsk](course)
+- [Kansainvälisen politiikan teoria ja metateoria - Luentokurssi](course) start
+- [Struggles on Education](course) start date
+- [Terveyden ja mielenterveyden psykologia I (avoin yliopisto)](course) starting date
+- [Individual project course](course) begins
+- Tell me the start date of [Eriytyvä syventävä tutkimusmenetelmäkurssi A: Research methods in education policy](course)
+- What day will [Re-Thinking Value Creation(course) start
+- When do I have [Tietojärjestelmän suunnittelun perusteet - Näyttökoe, syksy 2018](course)
+- When do we have [Political Systems (book exam/essay)](course)
+- The start date of [Welfare State Theories](course)
+- Start date for [SGN-41007 Pattern Recognition and Machine Learning](course)
+- Start of [Kuva-  ja mediakulttuurit - Mediakulttuurit - 1. vsk ja erillisen opinto-oikeuden POM-opintoihin saaneet opiskelijat  (ryhmätyöskentely)](course)
+- I want to know when [Tutkielmaseminaari - Seminaari](course) starts
+- I want to know when will [Julkisoikeuden perusteet (verkkototeutus)](course) start
+- I want to know the start date of [Johdon laskentatoimen jatkokurssi](course)
+- I want to know when [Terveyttä viestinnästä- viestintää terveydestä](course) begin
+- Tell me the start date of [Johdatus logiikkaan 2](course)
+- Tell me when [Sosiaalityön teoriahistoria](course) begins
+- What day will [PhD by publication: writing integrative chapter](course) start
+- When does [Ympäristöpolitiikan vaikutuskeinot](course) start
+- When does [Approaches and Tools for Conflict Analysis and Peace Mediation](course) start
+- When does [Tiimi toimii - puheviestinnän syventävä kurssi (2. periodi)](course) start
+- When does [Monikielisyys ja -kulttuurisuus](course) begin
+- When does [Käsityö - Käsityö -1. vsk ja erillisen opinto-oikeuden POM-opintoihin saaneet opiskelijat (luennot)](course) begin
+- When will [Fonetiikan ja yleisen kielitieteen perusteet - Yleinen kielitiede](course) begin
+- When will [Kvalitatiivinen tutkimus kasvatustieteissä - Harjoitukset, luokanopettajaryhmä](course) begin
+- When will [Laatu, arviointi ja kehittäminen korkeakouluissa - Harjoitustyö](course) begin
+- When will [Pelit ja pelillisyys (keväällä 2018 perusopinnot aloittaneille) - verkkokurssi](course) begin
+- When does [Semantiikka ja pragmatiikka / Semantik und Pragmatik](course) begin
+- When will [Kandidaattiseminaari (JATKAVA, Nevala)](course) start
+- When will [Tietoresurssien tuotanto ja kokoelmatyö](course) start
+- When will [Suomen kulttuuri ja yhteiskunta -lukupiiri](course) start
+- When will [Perintö-, lahja- ja varainsiirtoverotus](course) start
+- When is [Lokalisoinnin peruskurssi](course)
+- [Viestinnän ja median tutkimussuuntauksia](course) when
+- When [Managing Research Information](course)
+- [Graduseminaari / Kekäläinen](course) start
+- [Legal English](course) start date
+- [Ulko- ja turvallisuuspoliittinen päätöksentekoharjoitus](course) starting date
+- [Sustainable business practices (Lectures)](course) begins
+- Tell me the start date of [Kirjallinen viestintä I / Schriftliche Kommunikation I](course)
+- What day will [Scientific Writing - Module A - Writing Clinic(course) start
+- When do I have [Tuloksellisuuden arvioinnin teoria](course)
+- When do we have [Käännösviestintä venäjä-suomi](course)
+- The start date of [Tila, teknologia ja toiminta: Lukuseminaari: Julkinen toiminta teknoyhteiskunnassa](course)
+- Start date for [Media maailmassa - verkkokurssi](course)
+- Start of [Persoonallisuuspsykologia II](course)
+- I want to know when [Pohjoismaisten kielten lähtötasokoe](course) starts
+- I want to know when will [Software Project Management, Software Project Management (Fall term)](course) start
+- I want to know the start date of [Tekoäly ja vakuutustoiminta](course)
+- I want to know when [Kirjallisuuden- ja kulttuurintutkimuksen teoriat](course) begin
+- Tell me the start date of [Sosiaalipolitiikan teoreettinen ajattelu -lukuseminaari](course)
+- Tell me when [Introduction to International Relations (book exam)](course) begins
+- What day will [Tekstiklinikka tutkielman kirjoittajille](course) start
+- When does [Tyylioppi](course) start
+- When does [Tieteellisen kirjoittamisen seminaari kvantitatiivista tutkimusta tekeville](course) start
+- When does [Seminaari, kandidaatintutkielma ja kypsyysnäyte - Seminaari (kääntäminen ja tulkkaus)](course) start
+- When does [Dialogitulkkaus / Dialogdolmetschen](course) begin
+- When does [Matemaattiset aineet - Loogisesta ajattelusta automaatioon - 1 vsk  ja erillisen opinto-oikeuden POM-opintoihin saaneet opiskelijat](course) begin
+- When will [Mental Health Research: Using the Knowledge and Adding to it](course) begin
+- When will [Postcolonial Literature](course) begin
+- When will [Kandidaatintutkielmaseminaari - Muuntotyöryhmä, klk19](course) begin
+- When will [Courses in Computer Science in TUT](course) begin
+- When does [Fonetiikan ja yleisen kielitieteen perusteet - Fonetiikka](course) begin
+- When will [Valtio-opin maisteriseminaari](course) start
+- When will [Normit ja asiakirjoittaminen - Tieteellinen kirjoittaminen](course) start
+- When will [Learning About Language with Corpora](course) start
+- When will [English Word Formation](course) start
+- When is [KEB-62100 Orgaaninen kemia](course)
+- [Praktikum](course) when
+- When [Tutkielmaseminaari (keväällä 2019 alkavat seminaarit) - Seminaari](course)
+- [Readings in Entrepreneurship](course) start
+- [Venäjän kielen rakenne - Tekstin ymmärtäminen II](course) start date
+- [Johdatus filosofian historiaan](course) starting date
+- [Klinikkaharjoittelu](course) begins
+- Tell me the start date of [Laatu, arviointi ja kehittäminen korkeakouluissa - Harjoitustyö](course)
+- What day will [Moniammatillisuus, yhteisö ja vuorovaikutus / Luennot - 3.vsk + 2.vsk ryhmä 4(course) start
+- When do I have [Transcultural perspectives in developing media education](course)
+- When do we have [Kontrastiivisen fonetiikan perusteet -](course)
+- The start date of [New Wars and How to Study Them (POMLFCS3)](course)
+- Start date for [Master's Thesis Seminar in Human-Technology Interaction (Starting Fall term)](course)
+- Start of [Analyyttinen geometria (itseopiskelumateriaali ja opintopiiri)](course)
+- I want to know when [Implementation and Evaluation of Public Policies](course) starts
+- I want to know when will [Kielioppi- ja sanastoharjoitukset / Grammatik und Wortschatzübungen](course) start
+- I want to know the start date of [Aktuelle Texte aus Presse und Studium](course)
+- I want to know when [Eriytyvä syventävä tutkimusmenetelmäkurssi A: Diskurssianalyysi](course) begin
+- Tell me the start date of [Toiminnanohjausjärjestelmät (ERP)](course)
+- Tell me when [Yhteisöviestintä kunta- ja aluejohtamisessa](course) begins
+- What day will [Johdatus politiikan teoriaan (kirjatentti/essee)](course) start
+- When does [Kilpailuoikeus](course) start
+- When does [Aktuelle Texte aus Presse und Studium](course) start
+- When does [Syntaxe du français/ Ranskan syntaksi](course) start
+- When does [Sosiaalityön peruskurssi (luennot)](course) begin
+- When does [Pro gradu -seminaari ja -tutkielma (taloustiede) - Pro gradu -seminaari](course) begin
+- When will [Henkilöstöjohtaminen](course) begin
+- When will [Usean muuttujan differentiaalilaskenta](course) begin
+- When will [Yritysjuridiikan perusteet (avoin yliopisto-opetus)](course) begin
+- When will [Johdatus yhteiskuntahistoriaan](course) begin
+- When does [Orientaatio filosofian tutkinto-ohjelman opintoihin](course) begin
+- When will [Psykologiharjoittelu](course) start
+- When will [Kansainväliset vakuutusmarkkinat ja jälleenvakuutus](course) start
+- When will [Liikunta - Liikuntapedagogiikka perusopetuksessa A ensisijaisesti opinnot 1½ lukuvuodessa suorittavat POM-opintoihin opinto-oikeuden saaneet opiskelijat](course) start
+- When will [Kognitiivinen neurotiede I](course) start
+- When is [Kirjallinen viestintä I - Sanasto- ja rakenneharjoitukset](course)
+- [Eheyttävä musiikkikasvatus / Luennot - 2.vsk](course) when
+- When [Suullinen ja kirjallinen esitys/Expresión oral y redacción](course)
+- [Talouselämän käännösviestinnän seminaari suomi-saksa -](course) start
+- [Projektin suunnittelu ja johtaminen](course) start date
+- [Johdatus yhteiskuntafilosofiaan](course) starting date
+- [Practical Observation of Finnish School System for Incoming Exchange Students - Observation, written tasks, report](course) begins
+- Tell me the start date of [Hoitotieteen tohtorikoulutusseminaari](course)
+- What day will [Liikunta - Liikuntapedagogiikka perusopetuksessa A - 2. vsk(course) start
+- When do I have [Usean muuttujan integraalilaskenta](course)
+- When do we have [Käytännön opetus ja ohjaus](course)
+- The start date of [Julkisen hallinnon reformit ja muutos](course)
+- Start date for [Graduseminaari / Harviainen](course)
+- Start of [Behavioral Finance](course)
+- I want to know when [Laaja-alaistava harjoittelu - Opetus- ja koulutushallinnon luennot](course) starts
+- I want to know when will [Basics I: Basics of Czech language II](course) start
+- I want to know the start date of [Kaupunkien maankäytön pelikenttä](course)
+- I want to know when [Johdatus sosiaalitieteisiin (verkkokurssi)](course) begin
+- Tell me the start date of [Tilastollisen päättelyn perusteet, iltaryhmä](course)
+- Tell me when [Opetus, ohjaus, oppiminen - elokas ja avoimen lähiop.: pienryhmäopetus (2 op)  ja kirjallisuus (2 op)](course) begins
+- What day will [Toimittajan tieto- ja viestintätekniikkataidot](course) start
+- When does [Tieteellinen kirjoittaminen / avoin yliopisto-opetus](course) start
+- When does [Practical Observation and Reflection of ECEC - Observation, written tasks, report](course) start
+- When does [Nuorisotyön ja nuorisotutkimuksen maisteriohjelman lähijakso 11.-12.4.2019](course) start
+- When does [Epidemiologian perusteet](course) begin
+- When does [Kuoleman sosiaali- ja kulttuurihistoriaa antiikista uuden ajan alkuun](course) begin
+- When will [Sosiaalityön harjoittelu](course) begin
+- When will [Pro gradu -seminaari](course) begin
+- When will [Nykyajan filosofia](course) begin
+- When will [Poliittiset järjestelmät (kirjatentti/essee)](course) begin
+- When does [Diskurssianalyysi](course) begin
+- When will [Deutsch im Alltag und Studium](course) start
+- When will [Emotions and Sociality in Human-Technology Interaction](course) start
+- When will [Liikuntapedagogiikka varhaiskasvatuksessa / Luennot - 2.vsk](course) start
+- When will [Suullinen viestintä / Mündliche Kommunikation](course) start
+- When is [Johdatus erikoisalojen käännösviestintään](course)
+- [Pratiques de l'oral et de l'écrit / Ranskan kielen tuottaminen](course) when
+- When [Ympäristön ja alueiden poliittisuus](course)
+- [Statistics](course) start
+- [Seminaari, kandidaatintutkielma ja kypsyysnäyte - Seminaari (kääntäminen ja tulkkaus)](course) start date
+- [Terveys, tieto, asiantuntijuus](course) starting date
+- [Terveysteknologia](course) begins
+- Tell me the start date of [Political Systems Outside of Europe (book exam/essay)](course)
+- What day will [Graduseminaari, alkava (Niemi)(course) start
+- When do I have [Semantiikan harjoituskurssi](course)
+- When do we have [Tutkimuspraktikum](course)
+- The start date of [Latinan kielen alkeiskurssi](course)
+- Start date for [Tilastotieteen perusteet](course)
+- Start of [Conflict Resolution (book exam/essay)](course)
+- I want to know when [Planning, Managing and Completing Your Doctoral Thesis](course) starts
+- I want to know when will [Työhyvinvointi](course) start
+- I want to know the start date of [Epävarmuuden hallinta](course)
+- I want to know when [Eriytyvä syventävä tutkimusmenetelmäkurssi A: Kehittävän työntutkimuksen menetelmät](course) begin
+- Tell me the start date of [Ammattimainen tekstintarkistus](course)
+- Tell me when [Varhaiskasvatuksen kehittyvä asiantuntijuus - Työssäoppiminen (2.vsk ryhmä 4)](course) begins
+- What day will [Introduction to Public Administration Research, Reforms and Trends](course) start
+- When does [Antiikintutkimuksen lähteet ja menetelmät](course) start
+- When does [Yhteisöllinen oppiminen ja ohjaus - Seminaari](course) start
+- When does [Teeman "Sosiaalinen kognitio ja vuorovaikutus" johdantokurssi](course) start
+- When does [Johdatus visuaaliseen kulttuuriin](course) begin
+- When does [Writing Scientific Journal Articles](course) begin
+- When will [Seminaari (Nikunen)](course) begin
+- When will [Introduction to Web Publishing (Tampere Summer School 2018)](course) begin
+- When will [Johdatus analyysiin](course) begin
+- When will [Media and Globalization - Seminar](course) begin
+- When does [Orientoivat opinnot - Alkuorientaatio](course) begin
+- When will [Kommunikationstraining I](course) start
+- When will [EI toteutusta 2018-19 Advanced immunology](course) start
+- When will [Espanjan kielioppi II/Gramática española II](course) start
+- When will [Orientoivat opinnot - Tiedonhankintataidot I (TIE)](course) start
+- When is [Käännös suomi-espanja I/Traducción finés-español I](course)
+- [Preparatory Course in Communicative Skills](course) when
+- When [Talouselämän käännösviestinnän seminaari suomi-saksa -](course)
+- [Romanit etnisenä vähemmistönä Euroopassa - Sosnet verkkokurssi](course) start
+- [Kunnallisoikeus](course) start date
+- [Inklusiivinen pedagogiikka ja oppimisen tukeminen](course) starting date
+- [Historiankirjoituksen historia](course) begins
+- Tell me the start date of [Luontokirjoittamisen klassikot](course)
+- What day will [Tendances de la littérature française moderne/Ranskalaisen nykykirjallisuuden suuntauksia(course) start
+- When do I have [Järjestöjen rooli sosiaalipolitiikassa ja vapaaehtoistyö](course)
+- When do we have [Ranska III](course)
+- The start date of [Eheyttävä temaattinen loppuprojekti - projekti/käytännön työ ja portfolio](course)
+- Start date for [Speakers Series](course)
+- Start of [Terveyden ja mielenterveyden psykologia I (avoin yliopisto)](course)
+- I want to know when [Hoitot. tiedon hyödyntäminen johtamisessa ja opettamisessa: syventävä projektityö (kurssi jatkuu syksyllä 2019)](course) starts
+- I want to know when will [Johdatus kunta- ja aluejohtamiseen (avoin yliopisto-opetus), monimuoto-opetus](course) start
+- I want to know the start date of [Käännös suomi-espanja I/Traducción finés-español I](course)
+- I want to know when [Terveyttä viestinnästä- viestintää terveydestä](course) begin
+- Tell me the start date of [Johdanto tietokäytäntöjen tutkimukseen](course)
+- Tell me when [Lasten monipaikkainen asuminen](course) begins
+- What day will [Informaatio- ja mediajärjestelmien historiaa ja nykypäivää (syksyllä 2018 perusopinnot aloittaville) - verkkokurssi](course) start
+- When does [Suullinen ja kirjallinen esitys/Expresión oral y redacción](course) start
+- When does [Cell Technology Laboratory Course](course) start
+- When does [Kuntien ja alueiden kansainväliset hallintasuhteet](course) start
+- When does [Literature and Change after 1900 (British Literature)](course) begin
+- When does [Johdatus kirjallisuuden poetiikkaan](course) begin
+- When will [Yhteiskunnallinen muutos](course) begin
+- When will [Yhteiskunnan mittaaminen](course) begin
+- When will [Tieteellinen kirjoittaminen / avoin yliopisto-opetus](course) begin
+- When will [Nuorten ryhmät ja ryhmän ohjaus, harjoitukset](course) begin
+- When does [Sidosryhmäteoria ja -johtaminen](course) begin
+- When will [Persoonallisuuspsykologia II](course) start
+- When will [Luentateatteri](course) start
+- When will [Espanja II](course) start
+- When will [Asiantuntijan puheviestintä ja vuorovaikutus / AHOT (näyttökoe)](course) start
+- When is [Organisaatiokäyttäytyminen](course)
+- [Sosiaalityön peruskurssi (kirjatentti)](course) when
+- When [Pro gradu - seminaari 2018 (jatkava)  (vaihe I)](course)
+- [Terveyden edistämisen interventiot, Seinäjoki](course) start
+- [Sosiologia](course) start date
+- [Johdatus vuorovaikutteiseen teknologiaan](course) starting date
+- [Rakennebiologia](course) begins
+- Tell me the start date of [Viestinnän ja median tutkimussuuntauksia](course)
+- What day will [Tietojärjestelmätieteen jatkokoulutusseminaari - Seminaari(course) start
+- When do I have [Työelämän tekstitaidot](course)
+- When do we have [Structure of English II - Phonology and Pronunciation II](course)
+- The start date of [Persoonallisuuspsykologia I](course)
+- Start date for [Tutkimus ja teoria](course)
+- Start of [Kognitiivinen neurotiede I](course)
+- I want to know when [Orientoivat opinnot ja HOPS](course) starts
+- I want to know when will [Puhetekniikan ja äänenkäytön perusteet](course) start
+- I want to know the start date of [Immunologian perusteet](course)
+- I want to know when [Biologia ja ympäristötieto - Biologian kenttäkurssi (1-4 ryhmät, Arboretum ja Pyynikinharju)](course) begin
+- Tell me the start date of [Julkistalouden jatkokurssi](course)
+- Tell me when [Terveyden ja mielenterveyden psykologia I (avoin yliopisto)](course) begins
+- What day will [Organisational Change Dynamics and Management](course) start
+- When does [Praktikum](course) start
+- When does [Digitaalinen historia](course) start
+- When does [Johdatus tietojenkäsittelytieteisiin](course) start
+- When does [Espanjan historia ja kirjallisuus - Historia y literatura de España](course) begin
+- When does [Kielioppi II/Språkets strukturer II](course) begin
+- When will [Yritysetiikka (verkkokurssi)](course) begin
+- When will [Tietojärjestelmän suunnittelun perusteet - Näyttökoe, syksy 2018](course) begin
+- When will [Johdatus kunta- ja aluejohtamiseen (avoin yliopisto-opetus), monimuoto-opetus](course) begin
+- When will [Tutkielmaseminaari](course) begin
+- When does [Liiketoimintaosaamisen kokonaisdynamiikka ja sen ohjaaminen - VIBU-yritysstimulaatio](course) begin
+- When will [Kirjallinen ja suullinen viestintä II: suullinen viestintä](course) start
+- When will [Graduseminaari / Kekäläinen](course) start
+- When will [Tutkimusprosessin hallinta tohtoriopinnoissa](course) start
+- When will [Biodiversity Offsetting Game](course) start
+- When is [Viron peruskurssi](course)
+- [Työelämän tekstitaidot](course) when
+- When [Sustainable business practices (Lectures)](course)
+- [Uuden ajan alun murroksia](course) start
+- [Tekninen kirjoittaminen (suomi)](course) start date
+- [Teksti, keskustelu ja vuorovaikutus](course) starting date
+- [Oppimispelien käyttö ja evaluaatio](course) begins
+- Tell me the start date of [Kielen variaatio](course)
+- What day will [Kansainväliset vakuutusmarkkinat ja jälleenvakuutus(course) start
+- When do I have [Biological data analysis with R](course)
+- When do we have [Vuorovaikutuksen perusteet - verkkokurssina II](course)
+- The start date of [Knowledge, business and work in a digital society](course)
+- Start date for [Poliittinen kommunikointi ja retoriikka (kirjatentti/essee)](course)
+- Start of [Kiina I](course)
+- I want to know when [Kirjallinen ja suullinen viestintä II: suullinen viestintä](course) starts
+- I want to know when will [Professional Writing (online course)](course) start
+- I want to know the start date of [Yhteisöviestintä kunta- ja aluejohtamisessa](course)
+- I want to know when [Monikielisyys ja -kulttuurisuus](course) begin
+- Tell me the start date of [Työhyvinvoinnin johtaminen (itsenäinen suoritustapa, kesäopinnot)](course)
+- Tell me when [Seminaari I, kandidaatintutkielma ja kypsyysnäyte](course) begins
+- What day will [Saksa II](course) start
+- When does [KEB-62100 Orgaaninen kemia](course) start
+- When does [Kirjallisuus ja tunteet](course) start
+- When does [Maailmanpolitiikan tutkimus (kirjatentti/essee)](course) start
+- When does [Monikielinen käännöstyöpaja](course) begin
+- When does [Introduction to Academic English (online / JKK, EDU, LUO, COMS & SOC)](course) begin
+- When will [Korkeakoulut työyhteisöinä - Kehittämistehtävä](course) begin
+- When will [Tutkimustyön perusteet - d) Kandidaattiseminaari (syksyllä 2018 alkava)](course) begin
+- When will [Neurocomputing](course) begin
+- When will [Antiikin ja keskiajan ryhmä](course) begin
+- When does [Retoriikka ja argumentaatioanalyysi/Retorik och argumentationsanalys](course) begin
+- When will [Verkkojulkaisemisen perusteet - kevät 2019](course) start
+- When will [Journalismin tulevaisuus, harjoittelun kielikritiikki](course) start
+- When will [Kandidaatintutkielmaseminaari - Seminaari](course) start
+- When will [Julkisorganisaation talouden suunnittelu ja päätöksenteko](course) start
+- When is [Laatu, arviointi ja kehittäminen korkeakouluissa - Harjoitustyö](course)
+- [Implementation and Evaluation of Public Policies](course) when
+- When [Opimme lisää venäjän kielen suullisia taitoja](course)
+- [Aluetalous ja kaupunkitalous](course) start
+- [Eastern European Model: Lithuanian System of Work and Social Security](course) start date
+- [Projektinhallinnan perusteet](course) starting date
+- [Ympäristöoikeus](course) begins
+- Tell me the start date of [Kuvataide - 2. vsk ja opinnot 1½ lukuvuodessa suorittavat  1.vsk ja POM-opintoihin opinto-oikeuden saaneet opiskelijat](course)
+- What day will [Tulkin työkalupakki(course) start
+- When do I have [Tutkimusprosessin hallinta tohtoriopinnoissa](course)
+- When do we have [Tissue biology](course)
+- The start date of [Tekstiklinikka tutkielman kirjoittajille](course)
+- Start date for [Science and Biotechnology Journal Club](course)
+- Start of [Johdatus kielitieteeseen / Initiation à la linguistique](course)
+- I want to know when [Biokemian menetelmät](course) starts
+- I want to know when will [Finnish Reading Comprehension and Conversation Course 2 (taught in Finnish)](course) start
+- I want to know the start date of [Kvantitatiivinen tutkimus kasvatustieteissä - Harjoitukset, luokanop. opiskelijat](course)
+- I want to know when [Linguistics I: Introduction to Basic Concepts](course) begin
+- Tell me the start date of [Käsityö - Projektiosio - 2.vsk ja opinnot 1½ lukuvuodessa suorittavat 1.vsk ja POM-opintoihin opinto-oikeuden saaneet opiskelijat](course)
+- Tell me when [Kaunokirjallisen kääntämisen peruskurssi](course) begins
+- What day will [Asiantuntijan puheviestintä ja vuorovaikutus (2. periodi) / KTM-tutkinto](course) start
+- When does [European, Eurasian and Global Energy Policies](course) start
+- When does [Talous - politiikka - kulttuuri -lukupiiri](course) start
+- When does [Juridisk svenska](course) start
+- When does [Romanit etnisenä vähemmistönä Euroopassa - Sosnet verkkokurssi](course) begin
+- When does [Perehdyttäminen tietotekniikan alkeisiin (kevät)](course) begin
+- When will [Feministinen teoria ja metodologia](course) begin
+- When will [Kansainvälisen politiikan teoria ja menetelmät (kirjatentti)](course) begin
+- When will [Practical Programming in Python](course) begin
+- When will [Kirjasto- ja tietopalvelujen suunnittelu ja arviointi](course) begin
+- When does [Cultural Transitions](course) begin
+- When will [Bachelor's Thesis Seminar - seminar in English](course) start
+- When will [Kandidaatintutkielma ja seminaari, lukuvuosi 2018-2019](course) start
+- When will [Johdatus Euroopan unioniin](course) start
+- When will [Gender in Society](course) start
+- When is [Puhelääketiede](course)
+- [Digital Media Landscape and Media Policies](course) when
+- When [Sosiaaliantropologian teoreettinen ajattelu](course)
+- [Johdatus sosiaaliantropologiaan -seminaari](course) start
+- [Käännös suomi-espanja I/Traducción finés-español I](course) start date
+- [Lähtötasokoe - Kirjallinen tentti](course) starting date
+- [Varhaiskasvatuksen ja esiopetuksen pedagogiikka - Työssäoppiminen 1.vsk:n monimuotoryhmien opiskelijoille](course) begins
+- Tell me the start date of [Laskentatoimen teoria ja IFRS I](course)
+- What day will [Tiimi toimii - puheviestinnän syventävä kurssi (4. periodi)(course) start
+- When do I have [Graduseminaari, alkava (Kaarninen)](course)
+- When do we have [Syntaksi](course)
+- The start date of [Sosiaalitieteiden teoria I - SOS5b luennot](course)
+- Start date for [Kieli ja kielentäminen - 2 vsk (pienryhmät)](course)
+- Start of [Kvalitatiiviset menetelmät](course)
+- I want to know when [Introduction to Web Publishing (Tampere Summer School 2018)](course) starts
+- I want to know when will [Valinnainen jakso: Podcastit ja äänimedian ajankohtaisjournalismi](course) start
+- I want to know the start date of [Kandidaatin tutkielma ja seminaari, (hoitotieteen opiskelijoille), Seinäjoki](course)
+- I want to know when [Ympäristöoikeus](course) begin
+- Tell me the start date of [Introduction to Academic English (JKK, EDU, LUO, COMS & SOC)](course)
+- Tell me when [Tulkkauksen teoria](course) begins
+- What day will [Informaatio- ja mediajärjestelmien historiaa ja nykypäivää](course) start
+- When does [Pro gradu -seminaari ja -tutkielma](course) start
+- When does [Kommunikationstraining II](course) start
+- When does [Kasvatus tieteellisen tutkimuksen kohteena - verkko-opetus, II-periodi](course) start
+- When does [OASIS Key Master 2018-2019](course) begin
+- When does [Visuaalisen kulttuurin teoria - luennot ja pienryhmätyöskentely](course) begin
+- When will [Pro gradu -tutkielma ja -seminaari, syksyllä 2018 aloittavat ryhmät](course) begin
+- When will [Orientoivat opinnot - Orientoivat opinnot](course) begin
+- When will [Bachelor's Thesis Seminar - seminar in English](course) begin
+- When will [Simultaaninen konferenssitulkkaus](course) begin
+- When does [Tekstitaidot](course) begin
+- When will [Arctic Fantasies](course) start
+- When will [Introduction to Academic English (diverse learners)](course) start
+- When will [Recommender Systems](course) start
+- When will [Työmarkkinat, työvoiman käyttö ja työllisyysturva](course) start
+- When is [Tieteellinen kirjoittaminen (3. vuosikurssin opiskelijoille)](course)
+- [Ethics of Technology](course) when
+- When [Kansainvälistymistä ja verkostoitumista tukevat opinnot](course)
+- [Phylogenetics](course) start
+- [Kasvatus tieteellisen tutkimuksen kohteena - avoin yo, lähi- ja monimuotototeutus](course) start date
+- [European Union Law](course) starting date
+- [Mediakasvatus, osallisuus ja aktiivinen kansalaisuus, kirjatentti](course) begins
+- Tell me the start date of [Current Trends in Leadership](course)
+- What day will [Digital Media Landscape and Media Policies(course) start
+- When do I have [Ruotsin kielen kirjallinen ja suullinen viestintä](course)
+- When do we have [Johdatus kääntäjän suomen opintoihin](course)
+- The start date of [Finnish Education System - Seminar](course)
+- Start date for [Markkina- ja immateriaalioikeus](course)
+- Start of [Finnish Advanced Course 1 (taught in Finnish)](course)
+- I want to know when [Orientoiva tutkielmaseminaari](course) starts
+- I want to know when will [Vero-oikeuden perusteet](course) start
+- I want to know the start date of [Asiakastyön menetelmät, luennot](course)
+- I want to know when [Verkkojulkaisemisen perusteet - kevät 2019](course) begin
+- Tell me the start date of [Työhyvinvointi](course)
+- Tell me when [Kasvatuksen historialliset ja filosofiset lähtökohdat, monimuoto-opetus](course) begins
+- What day will [Kontrastiivisen fonetiikan perusteet -](course) start
+- When does [Activity Theory and Formative Interventions in Educational Research](course) start
+- When does [Opetussuunnitelmateoria - Luennot, seminaari ja lukupiiri (slk) TAI kirjatentti (slk ja klk)](course) start
+- When does [Työ- ja virkamiesoikeus](course) start
+- When does [Terveys, tieto, asiantuntijuus](course) begin
+- When does [Ainedidaktinen tutkimus ja tutkiva opettajuus](course) begin
+- When will [Mediatutkimuksen valinn. jakso: Työseminaari: Euroopan hullu vuosi 1968 ja sen perintö](course) begin
+- When will [Kielioppi II (suomenkieliset opiskelijat)](course) begin
+- When will [Kansainvälisen politiikan erikoistuvat menetelmäopinnot (kirjatentti/essee)](course) begin
+- When will [Sciences du langage/Kielitiede](course) begin
+- When does [Kielen käyttö I](course) begin
+- When will [Tutkimushaastattelu: taito, tyylit ja kohderyhmät](course) start
+- When will [Contemporary Peace and Conflict Studies](course) start
+- When will [Johdatus yhteiskuntahistoriaan](course) start
+- When will [Kokeellinen, kokeileva ja kokemuksellinen sosiaalipsykologia](course) start
+- When is [Analyysi B](course)
+- [Kasvatustieteiden perusopinnot lukuvuonna 2018-2019 - yhteinen johdantoluento](course) when
+- When [Erilaisuuden kohtaaminen ja inklusiivinen varhaiskasvatus - Kirjatentti (vaihtoehtoinen suoritustapa)](course)
+- [Seminaari](course) start
+- [Graduseminaari / Harviainen](course) start date
+- [Radiokääntäminen (venäjä)](course) starting date
+- [Valtio-opin maisteriseminaari](course) begins
+- Tell me the start date of [Musiikin tiedolliset valmiudet ja niiden soveltaminen - Harmonia ja improvisointi koskettimilla](course)
+- What day will [Basics II: Intermediate Czech II(course) start
+- When do I have [Hoitotieteen tohtorikoulutusseminaari](course)
+- When do we have [BMT-61227 Medical Biomaterials](course)
+- The start date of [Seminaari (Ridell)](course)
+- Start date for [Tutkielmaseminaari (keväällä 2019 alkavat seminaarit) - Seminaari](course)
+- Start of [Tiedonhankintataidot (hoitotiede)](course)
+- I want to know when [Ainedidaktiikka I](course) starts
+- I want to know when will [Sociolinguistics](course) start
+- I want to know the start date of [Sosiaalityön tutkimuksen metodologisia suunnistuksia](course)
+- I want to know when [Yritysetiikka (verkkokurssi)](course) begin
+- Tell me the start date of [Tilastomenetelmien perusteet](course)
+- Tell me when [Kiina II](course) begins
+- What day will [Terveys ja yhteiskuntapolitiikka](course) start
+- When does [Ruututekstikääntämisen peruskurssi](course) start
+- When does [Yritysverkoston juridinen hallinta](course) start
+- When does [Viron peruskurssi](course) start
+- When does [Pääoma-lukuseminaari](course) begin
+- When does [Riskienhallinta- ja vakuutuscaset](course) begin
+- When will [Radio Project](course) begin
+- When will [Recommender Systems](course) begin
+- When will [Terveystiedon didaktiikan perusteet](course) begin
+- When will [Ruotsin kielen valmentava kurssi](course) begin
+- When does [Kielellinen merkitys, käyttö ja konteksti](course) begin
+- When will [Sukupuoli, perhe ja yhteiskunta](course) start
+- When will [Suunnittelu ja kehittäminen hoitotyön johtamisessa](course) start
+- When will [Innovation Project (2018-I)](course) start
+- When will [Tila, teknologia ja toiminta](course) start
+- When is [Ekonometrian jatkokurssi](course)
+- [EU ja Länsi-Balkan: ehdollistettua demokratiaa ja valtionrakennusta](course) when
+- When [Tieteellinen kirjoittaminen / LUO & COMS](course)
+- [Johdatus tilastotieteeseen](course) start
+- [Scientific Writing - Module B - Thesis Writing (online)](course) start date
+- [Venäjä II](course) starting date
+- [Presentation Skills](course) begins
+- Tell me the start date of [Kvantitatiivinen tutkimus kasvatustieteissä - Harjoitukset, yleinen](course)
+- What day will [Master's Thesis Seminar and Master's Thesis (2nd year students)(course) start
+- When do I have [Vastuullisen liiketoiminnan case-kurssi](course)
+- When do we have [Kvantitatiivinen tutkimus kasvatustieteissä - Harjoitukset, luokanop.](course)
+- The start date of [Kirjallisuustieteen syysseminaari: Ihmesaduista adaptaatioihin. Näkökulmia sadun ja fantasian tutkimukseen](course)
+- Start date for [Terveystaloustieteen tohtorikoulutussemiaari](course)
+- Start of [Business Translation Seminar Finnish - English](course)
+- I want to know when [Äidinkieli ja kirjallisuus - Lukeminen ja kirjoittaminen - 1. vsk (luennot)](course) starts
+- I want to know when will [Tietokantojen perusteet - Näyttökoe, syksy 2018](course) start
+- I want to know the start date of [Kvantitatiiviset tutkimusmenetelmät (kirjatentti/essee)](course)
+- I want to know when [Aikuiskasvatus ja työelämä, kirjatentti, Pori](course) begin
+- Tell me the start date of [Johdatus viestinnän tutkimukseen ja analyysiin](course)
+- Tell me when [Ekoterveys, luonto ja ihminen](course) begins
+- What day will [Welfare State Theories](course) start
+- When does [Politiikan tutkimuksen kandidaatintutkielma ja -seminaari](course) start
+- When does [Imagining Persia/Iran: Orientalism, Revolution and Diaspora](course) start
+- When does [Musiikki - Musiikin teoria alakoulussa - 1. vsk ja  erillisen opinto-oikeuden POM-opintoihin saaneet opiskelijat](course) start
+- When does [Pro gradu -tutkielma ja -seminaari](course) begin
+- When does [Erilaisuuden kohtaaminen ja inklusiivinen varhaiskasvatus - Kirjatentti (vaihtoehtoinen suoritustapa)](course) begin
+- When will [Valtiosääntöoikeuden syventävä jakso](course) begin
+- When will [Teeman "Sosiaalinen kognitio ja vuorovaikutus" johdantokurssi](course) begin
+- When will [Democratic Decision-Making (BOOK EXAM)](course) begin
+- When will [Internship or work placement](course) begin
+- When does [Responsible Business and Social Accounting (Lectures)](course) begin
+- When will [Kandidaatintutkielma ja seminaari - Seminaari](course) start
+- When will [Introduction to Cultural Psychology](course) start
+- When will [Muuttuvat oppimisympäristöt - Luennot ja opintopiiri](course) start
+- When will [Contemporary Peace and Conflict Studies](course) start
+- When is [Johdatus kääntäjän suomen opintoihin](course)
+- [Inklusiivinen varhaiskasvatus / Luennot - 3.vsk + 2.vsk ryhmä 4](course) when
+- When [Johdatus hoitotieteelliseen tutkimukseen, kirjatentti, Seinäjoki](course)
+- [Venäjän historia, kirjallisuus ja kulttuuri](course) start
+- [Nuorisotyön toimintaympäristöt, työmuodot ja menetelmät](course) start date
+- [Julkisen talousjohtamisen tutkimusotteet](course) starting date
+- [Tilastollisten tutkimusmenetelmien soveltaminen hoitotieteessä](course) begins
+- Tell me the start date of [Media and the Arctic (POMLFCS3)](course)
+- What day will [Tutkielmaseminaari (keväällä 2019 alkavat seminaarit) - Seminaari(course) start
+- When do I have [Käännösviestintä I - Käännösviestintä I suomi-englanti](course)
+- When do we have [Sijoitustoiminta](course)
+- The start date of [Introduction to International Relations (book exam)](course)
+- Start date for [Julkissektorin instituutioiden talous (monimuoto-opetus)](course)
+- Start of [Multidisciplinary Games and Internet Research](course)
+- I want to know when [Tutustuminen psykologin työhön](course) starts
+- I want to know when will [Käännösviestintä ruotsi-suomi/Översättning svenska-finska](course) start
+- I want to know the start date of [Tekninen työ -](course)
+- I want to know when [Orientaatio yhteiskuntatutkimuksen opintoihin](course) begin
+- Tell me the start date of [Visuaalisen journalismin perusteet, harjoitukset](course)
+- Tell me when [Keskiajan paleografia ja diplomatiikka (PERUTTU)](course) begins
+- What day will [Seminar, Bachelor's Thesis and Maturity Test - Seminar](course) start
+- When does [Verkkojulkaiseminen](course) start
+- When does [Asiantuntijan puheviestintä ja vuorovaikutus, 3.-4. periodi / VIESTINTÄROHKEUDEN RYHMÄ](course) start
+- When does [Yhteiskunnan mittaaminen](course) start
+- When does [Käännösviestintä suomi-venäjä](course) begin
+- When does [Peace, Human Rights and Democracy in the Korean Peninsula and East Asia (Tampere Summer School 2018)](course) begin
+- When will [Tiimi toimii - puheviestinnän syventävä kurssi (4. periodi)](course) begin
+- When will [Asioimistulkkaus venäjä-suomi-venäjä](course) begin
+- When will [Romanian kielen jatkokurssi I / Advanced Course 1 in Romanian](course) begin
+- When will [Tutkiva opiskelu (syksyllä 2018 perusopinnot aloittaville) - verkkokurssi](course) begin
+- When does [Biologia ja ympäristötieto - Biologian ja maantieteen perusteet- 1.vsk ja erillisen opinto-oikeuden POM-opintoihin saaneet opiskelijat (luennot)](course) begin
+- When will [Lähtötasokoe / Schwellentest](course) start
+- When will [Kandidaattiseminaari ja tutkielma (taloustiede) - syksy 2018](course) start
+- When will [Harjoittelu / Elinikäinen oppiminen ja kasvatus, Essee työkokemuksen pohjalta, slk18](course) start
+- When will [The Cancer Biology Journal Club](course) start
+- When is [Lausekielinen ohjelmointi I - Näyttökoe, syksy 2018](course)
+- [Academic Presentations](course) when
+- When [Laskentatoimen teoria ja IFRS I](course)
+- [Käännösviestintä I - Käännösviestintä I englanti-suomi](course) start
+- [Kansanterveystieteen käsitteitä ja teoreettisia kysymyksiä](course) start date
+- [Study Skills - Basics of Information Literacy](course) starting date
+- [Introduction to Political Theory (book exam/essay)](course) begins
+- Tell me the start date of [Theories of Welfare States and Comparative Social Policy: An introduction](course)
+- What day will [Opimme lisää venäjän kielen suullisia taitoja(course) start
+- When do I have [Vähittäiskaupan konseptit](course)
+- When do we have [Kielioppi II](course)
+- The start date of [Tilastotieteen johdantokurssi, syksy](course)
+- Start date for [Longitudinal and Finite Nonlinear Mixture Modelling and Associated Experimental Design Strategies (independent work and exams)](course)
+- Start of [Introduction to Web Publishing (Tampere Summer School 2018)](course)
+- I want to know when [Kirjallinen viestintä I/Skriftlig kommunikation I](course) starts
+- I want to know when will [Kuva-  ja mediakulttuurit - Kuvakulttuurit  1 vsk ja erillisen opinto-oikeuden POM-opintoihin saaneet opiskelijat (ryhmätyöskentely/taidemuseot harjoitusryhmät)](course) start
+- I want to know the start date of [Orientoivat opinnot ja HOPS (pohjoismaiset kielet)](course)
+- I want to know when [Valinnainen jakso: Radioprojekti (kevät)](course) begin
+- Tell me the start date of [Työ- ja organisaatiopsykologia I](course)
+- Tell me when [Euroopan unionin finanssihallinto-oikeus - Luennot ja tentti.](course) begins
+- What day will [Markkinointioikeuden oikeustaloustiede](course) start
+- When does [Lukeminen ja kirjoittaminen oppimisen haasteena (seminaarit 1-4 ryhmät)](course) start
+- When does [Orientaatio historian tutkinto-ohjelman opintoihin](course) start
+- When does [Käännösviestintä I - Käännösviestintä I englanti-suomi](course) start
+- When does [Vertaisohjaus tietojenkäsittelytieteissä (kevät)](course) begin
+- When does [Tuutorivastaavana toimiminen](course) begin
+- When will [Historiankirjoituksen historia](course) begin
+- When will [Molekyylibiologian työt](course) begin
+- When will [Tilastotieteen johdantokurssi, kevät](course) begin
+- When will [Terveys ja yhteiskuntapolitiikka](course) begin
+- When does [Korkeakoulut ja korkeakoulutus tutkimuksen kohteena - Kirjallinen tentti](course) begin
+- When will [Suullinen viestintä II/Muntlig kommunikation II](course) start
+- When will [Taloustieteen matematiikka I](course) start
+- When will [Kandidaatintutkielma - Seminaari ja tutkielma](course) start
+- When will [SPSS:n perusteet, kevät](course) start
+- When is [Talouselämän käännösviestinnän seminaari venäjä-suomi](course)
+- [A seminar on theoretical social research: Schmitt, Arendt, and The Political](course) when
+- When [Ajankohtaisia kansanterveyskysymyksiä](course)
+- [Neurologia](course) start
+- [Ylirajaiset ilmiöt historiassa: näkökulmia tutkimukseen ja tulkintaan](course) start date
+- [Suullinen viestintä II/Muntlig kommunikation II](course) starting date
+- [Lapsuuden antropologia ja transnationaali lapsuus](course) begins
+- Tell me the start date of [Erot, jaot ja niiden rakentuminen, kirjatentti](course)
+- What day will [Jatkokoulutusseminaari(course) start
+- When do I have [Johdatus historiantutkimukseen - Johdatus historiantutkimukseen -luentokurssi](course)
+- When do we have [Tieteellinen kirjoittaminen / SOC (historia & filosofia)](course)
+- The start date of [Liikuntatuutorina toimiminen - Liikuntatuutoriperehdytys](course)
+- Start date for [Littérature française I /Ranskan kirjallisuus I](course)
+- Start of [Äänen häiriöt](course)
+- I want to know when [Ruotsin kielen kirjallinen ja suullinen viestintä](course) starts
+- I want to know when will [Graduseminaari, jatkava (Markkola)](course) start
+- I want to know the start date of [Organisaatiokäyttäytyminen (itsenäinen suoritustapa, kevät 2019)](course)
+- I want to know when [Moniulotteinen markkinointi](course) begin
+- Tell me the start date of [Tekstiklinikka tutkielman kirjoittajille](course)
+- Tell me when [Tutkielmaseminaari - Seminaari](course) begins
+- What day will [Dimensionality Reduction and Visualization](course) start
+- When does [Talous - politiikka - kulttuuri -lukupiiri](course) start
+- When does [Poliittiset aatteet ja ideologiat](course) start
+- When does [Teknologiakasvatus - Käsityökasvatuksen pedagogiikka ja työsuojelu](course) start
+- When does [Ruotsin kielen kirjallinen ja suullinen viestintä](course) begin
+- When does [Käsityö - Käsityö 1. vsk ja erillisen opinto-oikeuden POM-opintoihin saaneet opiskelijat (pienryhmäopetus)](course) begin
+- When will [Teknologiakasvatus - Käsityökasvatuksen pedagogiikka ja työsuojelu](course) begin
+- When will [Lapset kehittyvinä ja sosiaalisina toimijoina varhaiskasvatuksessa / Luennot - 1.vsk](course) begin
+- When will [Äidinkieli ja kirjallisuus - Lasten- ja nuortenkirjallisuus  -1. vsk ensijaisesi opinnot 1½ lukuvuodessa suorittavat 1.vsk lo-opiskelijat ja kaikkki erillisen opinto-oikeuden POM-opintoihin saaneet opiskelijat](course) begin
+- When will [Organisation Theory and Analysis](course) begin
+- When does [Sustainable business practices (Lectures)](course) begin
+- When will [Viestintä ammatillisissa ja läheisissä vuorovaikutussuhteissa](course) start
+- When will [Longitudinal and Finite Nonlinear Mixture Modelling and Associated Experimental Design Strategies (independent study and exams) 5 ECTS](course) start
+- When will [Lesen, Verstehen, Schreiben](course) start
+- When will [Taiteen historia, filosofia ja kulttuurit: Populaarit esitysmuodot (avoin yliopisto)](course) start
+- When is [Viestinnän ja median tutkimuksen metodologia, harjoitukset vaihtoehtoisissa työpajoissa](course)
+- [Eriytyvä syventävä tutkimusmenetelmäkurssi A: Laadullisen aineiston analyysi](course) when
+- When [Sanaston tuntemus/Ordkunskap](course)
+- [Hallinto-oikeuden harjoituskurssi](course) start
+- [Tutkimustyön perusteet - b) Tutkimusmenetelmät](course) start date
+- [Kandidaatintutkielma](course) starting date
+- [Lapset kehittyvinä ja sosiaalisina toimijoina varhaiskasvatuksessa / Harjoitukset - 1.vsk](course) begins
+- Tell me the start date of [Eettinen johtajuus](course)
+- What day will [Markkinoinnin teoria(course) start
+- When do I have [Government and Society: Inequality](course)
+- When do we have [Intercultural Communication](course)
+- The start date of [Vanhuus ja gerontologinen sosiaalityö](course)
+- Start date for [PlayLab! Game Journalism Project](course)
+- Start of [Julkisen toiminnan tuloksellisuuden arviointi](course)
+- I want to know when [Julkisen hallinnon reformit ja muutos](course) starts
+- I want to know when will [Terveyden edistämisen interventiot, Seinäjoki](course) start
+- I want to know the start date of [Muutosjohtaminen sosiaalityössä - Sosnet verkkokurssi](course)
+- I want to know when [Kasvatuksen historialliset ja filosofiset lähtökohdat, monimuoto-opetus](course) begin
+- Tell me the start date of [Research on Public Management and Organizations](course)
+- Tell me when [Tuutorivastaavana toimiminen](course) begins
+- What day will [Maailmanpolitiikan tutkimus (kirjatentti/essee)](course) start
+- When does [Epävarmuuden hallinta](course) start
+- When does [Musiikki - Musiikkikasvatuksen perusteet 1- 1. vsk ja  erillisen opinto-oikeuden POM-opintoihin saaneet opiskelijat](course) start
+- When does [Rakenteinen dokumentaatio ja DITA](course) start
+- When does [Käytännön opetus ja ohjaus](course) begin
+- When does [Research seminar for postgraduate studies](course) begin
+- When will [Liikuntapedagogiikan perusteet / Harjoitukset - 1.vsk](course) begin
+- When will [Laadullisen aineiston analysointi](course) begin
+- When will [Tutkijan digi- ja medianäkyvyys](course) begin
+- When will [Kerronnan monet muodot (luentokurssi korvaa kirjatentin)](course) begin
+- When does [Quantitative Research Methods and Comparative Research Design (only COSOPO students)](course) begin
+- When will [Environmental History and Cultural Ecology of Russia (VENS20)](course) start
+- When will [Contemporary Political Theory (book exam/essay)](course) start
+- When will [Uutisjournalismi](course) start
+- When will [Immunologian perusteet](course) start
+- When is [Visuaalisen kulttuurin teoria - lukupiiri ja essee](course)
+- [Seminaari II](course) when
+- When [Asevelvollisuus Suomessa ja kansainvälisesti](course)
+- [Perspectives in Educational Research](course) start
+- [Eriytyvä syventävä tutkimusmenetelmäkurssi A: Kehittävän työntutkimuksen menetelmät](course) start date
+- [Structure of English I - Grammar I](course) starting date
+- [Tieteellinen kirjoittaminen / avoin yliopisto-opetus](course) begins
+- Tell me the start date of [Terveys ja talous](course)
+- What day will [Arjen latinaa ja kulttuurihistoriaa(course) start
+- When do I have [Tieteellinen kirjoittaminen (2. vuosikurssin opiskelijoille)](course)
+- When do we have [Kerronnan monet muodot (luentokurssi korvaa kirjatentin)](course)
+- The start date of [Espanjan kielen kirjallinen ja suullinen taito](course)
+- Start date for [Graduvauhditus](course)
+- Start of [Ohjaus yliopistossa](course)
+- I want to know when [Korkeakoulut ja korkeakoulutus tutkimuksen kohteena - Kirjallinen tentti](course) starts
+- I want to know when will [Tutkijan digi- ja medianäkyvyys](course) start
+- I want to know the start date of [Liike-elämän ruotsia I](course)
+- I want to know when [Seminaari II/Seminarium II](course) begin
+- Tell me the start date of [Toimittajan tieto- ja viestintätekniikkataidot](course)
+- Tell me when [Tekstiklinikka tutkielman kirjoittajille](course) begins
+- What day will [Psykologian tutkimusmenetelmät II: kokeellinen ja korrelatiivinen tutkimus](course) start
+- When does [Sosiaalityön toimintaympäristöt](course) start
+- When does [Filosofian tutkija- ja tohtorikoulutusseminaari](course) start
+- When does [Yhteiskunnan tutkimuksen ajankohtaisia kysymyksiä - Luennot](course) start
+- When does [Valinnainen jakso: Toimitustyön johtaminen/ JOVVJS1 Visuaalisen työn johtaminen](course) begin
+- When does [Ruotsin kielen kirjallinen ja suullinen viestintä](course) begin
+- When will [Quantitative Research Methods and Comparative Research Design (Global Society students)](course) begin
+- When will [Vastuullisen liiketoiminnan case-kurssi](course) begin
+- When will [Fördjupad kurs i skriftlig och muntlig affärskommunikation](course) begin
+- When will [Journalistinen kieli - Kielenhuolto, lauseoppi](course) begin
+- When does [Yritysverotuksen syventävä opintojakso](course) begin
+- When will [Yksilö, yhteiskunta ja kulttuuri - historian ja yhteiskuntaopin harjoitusryhmät - 2. vsk](course) start
+- When will [Seminaari (Nikunen)](course) start
+- When will [Yhteiskunnallinen laskentatoimi](course) start
+- When will [Kokeellinen tiedonhaku](course) start
+- When is [Varhaiskasvatuksen ja esiopetuksen pedagogiikka - Työssäoppiminen 2.vsk (ryhmä 4)](course)
+- [Kandidaattiseminaari (JATKAVA, Vuolanto)](course) when
+- When [Tutkiva ja kehittävä opettaja](course)
+- [Kandidaattiseminaari ja -tutkielma (julkinen talousjohtaminen), kevät](course) start
+- [Maisteriopintojen esittely -  SDE](course) start date
+- [Latinankielinen kirjallisuus I: klassinen latina](course) starting date
+- [Eheyttävä musiikkikasvatus - Musiikkiteknologia](course) begins
+- Tell me the start date of [Sosiaalityön toimintaympäristöt (kirjatentti)](course)
+- What day will [Fundamentals of Finance (Tampere Summer School)(course) start
+- When do I have [Pro gradu -seminaari ja -tutkielma (2018-2019)](course)
+- When do we have [Hoitot. tiedon hyödyntäminen johtamisessa ja opettamisessa: syventävä projektityö (kurssi jatkuu keväältä 2018)](course)
+- The start date of [Mental Health Research: Using the Knowledge and Adding to it](course)
+- Start date for [Kliininen neuropsykologia II](course)
+- Start of [Symbols that move us - popular culture/deep culture](course)
+- I want to know when [Practical Observation of Finnish School System for Incoming Exchange Students - Observation, written tasks, report](course) starts
+- I want to know when will [Medioitu vuorovaikutus](course) start
+- I want to know the start date of [Yritysjuridiikan case-kurssi](course)
+- I want to know when [Oman äänen analyysi ja harjoittaminen](course) begin
+- Tell me the start date of [Tietokantojen perusteet - Näyttökoe, syksy 2018](course)
+- Tell me when [Käännösviestintä venäjä-suomi](course) begins
+- What day will [Thesis seminar and Master's Thesis](course) start
+- When does [Terve ja turvallinen kouluyhteisö](course) start
+- When does [Johdatus vuorovaikutteiseen teknologiaan](course) start
+- When does [Työmarkkinat, työvoiman käyttö ja työllisyysturva](course) start
+- When does [Peace Research Design](course) begin
+- When does [Civil Society and Political Participation (book exam/essay)](course) begin
+- When will [Kehitys, kasvatus ja elämänkulku, verkko-opetus](course) begin
+- When will [Vanhat ja uudet klassikot (kirjatentti/essee)](course) begin
+- When will [Aikuisten mielenterveysinterventiot](course) begin
+- When will [Visuaalisen journalismin erityisalueet](course) begin
+- When does [Finnish Education System - Seminar](course) begin
+- When will [Laaja-alaistava harjoittelu - Ohjattu opetusharjoittelu](course) start
+- When will [Writing Scientific Journal Articles](course) start
+- When will [Addiktiot, yksilö ja yhteiskunta](course) start
+- When will [Orientation Course - General Orientation Course for International Students](course) start
+- When is [Demola-projektityö I](course)
+- [Seminaarit 1. lukukausi/2. lukukausi](course) when
+- When [Nuorisotyön ja nuorisotutkimuksen maisteriohjelman lähijakso 10.-11.1.2019](course)
+- [Johdatus logiikkaan 2](course) start
+- [Orientoivat opinnot - Tiedonhankintataidot](course) start date
+- [Finnish Elementary Course 2 (taught in 4. period)](course) starting date
+- [Terveys, tieto, asiantuntijuus](course) begins
+- Tell me the start date of [Introduction to Web Publishing - Spring 2019](course)
+- What day will [History, Culture and Literature: Culture and Literature(course) start
+- When do I have [Peace Research Design](course)
+- When do we have [Tragedy of the Commons? Problems and Solutions](course)
+- The start date of [Sosiaalioikeus - STYA1A1 Sosiaalioikeus I](course)
+- Start date for [Sosiaalioikeus - STYA1A1 Sosiaalioikeus I](course)
+- Start of [EU ja Länsi-Balkan: ehdollistettua demokratiaa ja valtionrakennusta](course)
+- I want to know when [Mediated Learning Experinces in Multicultural Settings](course) starts
+- I want to know when will [Romanian kielen jatkokurssi II / Advanced Course 2 in Romanian -](course) start
+- I want to know the start date of [The Liberal Welfare State](course)
+- I want to know when [Maisteriopintojen esittely -  SDE](course) begin
+- Tell me the start date of [Julkisoikeuden perusteet (verkkototeutus)](course)
+- Tell me when [Tissue biology](course) begins
+- What day will [Pratiques de l'écrit: méthodes et techniques d'expression écrite/Kirjoitusharjoituksia: kirjallisen esityksen metodit ja tekniikka](course) start
+- When does [Puhelääketiede](course) start
+- When does [Managing Research Information](course) start
+- When does [Tutkielmaseminaari - Seminaari](course) start
+- When does [Tutkimusseminaari ja pro gradu -tutkielma](course) begin
+- When does [Makrotalousteoria II](course) begin
+- When will [Introduction to leadership and management](course) begin
+- When will [Teknologiat ja materiaalisuus terveyskysymyksissä](course) begin
+- When will [Orientation - Orientation to studying in the Degree Programme](course) begin
+- When will [Vuorovaikutuksen perusteet - verkkokurssina I](course) begin
+- When does [Literature and Society in Early Modern Britain](course) begin
+- When will [Kielitaito ja kielitaidon arviointi](course) start
+- When will [Dialogue: Constructive Talk at Work (Tampere Summer School 2018)](course) start
+- When will [Euroopan unioni (kirjatentti/essee)](course) start
+- When will [Kandidaatin tutkielma ja seminaari (Kansanterveystieteen opiskelijoille)](course) start
+- When is [Comparative Education Policy](course)
+- [Orientation - Introduction to Academic Culture and Degree Studies](course) when
+- When [Environment and Well-Being](course)
+- [Johtamisen ja organisaatioiden perusteet](course) start
+- [Orientoivat opinnot - Tiedonhankintataidot I](course) start date
+- [Opetus, ohjaus, oppiminen, monimuoto-opetus](course) starting date
+- [Kansainvälisen politiikan yleiset syventävät menetelmäopinnot (kirjatentti/essee)](course) begins
+- Tell me the start date of [Lähtötasokoe / Schwellentest](course)
+- What day will [Venäjä III(course) start
+- When do I have [Grammaire/Kielioppi](course)
+- When do we have [Orientoivat opinnot - Orientoivat opinnot](course)
+- The start date of [Suomi ja maailman kielet](course)
+- Start date for [Feministisen ajattelun klassikot (verkkokurssi)](course)
+- Start of [Kansainvälisen historian tutkijaseminaari](course)
+- I want to know when [Rahoitusoikeus](course) starts
+- I want to know when will [Teoria- ja metodiopinnot teatteritaiteen tohtorin tutkinnossa](course) start
+- I want to know the start date of [Liikunnan projekti (5 op)](course)
+- I want to know when [Terveysviestintä](course) begin
+- Tell me the start date of [Conflicts over the Use of Natural Resources and the Environment](course)
+- Tell me when [Kehittävä asiantuntijatyö organisaatioissa](course) begins
+- What day will [Kliinisen neuropsykologian perusteet](course) start
+- When does [Näkökulmia kääntämiseen - Johdatus käännösprosessiin](course) start
+- When does [Ruotsin kielen kirjallinen ja suullinen viestintä / AHOT (näyttökoe)](course) start
+- When does [Johtaminen ja organisaatiot I (kirjallisuus)](course) start
+- When does [Ruotsin kielen kirjallinen ja suullinen viestintä / avoin yliopisto-opetus](course) begin
+- When does [Literature and Urban Space](course) begin
+- When will [Venäjän kielen rakenne - Syntaksi](course) begin
+- When will [Romanian kielen jatkokurssi I / Advanced Course 1 in Romanian](course) begin
+- When will [Uuden ajan alun ryhmä](course) begin
+- When will [Teeman "Sosiaalinen kognitio ja vuorovaikutus" johdantokurssi](course) begin
+- When does [Yhteiskunnan tutkimuksen ajankohtaisia kysymyksiä - Luennot](course) begin
+- When will [Orientoivat opinnot ja HOPS (kirjallisuustiede)](course) start
+- When will [Orientoivat opinnot - Tiedonhankintataidot I (TIE)](course) start
+- When will [Vakuutustiede ja vakuutustutkimus](course) start
+- When will [Creative Writing in English](course) start
+- When is [International Dynamics and Policy Transfer in Education](course)
+- [Kandidaatintutkielma, seminaari](course) when
+- When [Legal English](course)
+- [Kasvatus tieteellisen tutkimuksen kohteena, verkko-opetus, II-periodi](course) start
+- [Asiantuntijuus ja tietopalvelujen kehittäminen](course) start date
+- [Suomen historian tutkijaseminaari](course) starting date
+- [Ranska II](course) begins
+- Tell me the start date of [Käännösviestintä ruotsi-suomi/Översättning svenska-finska](course)
+- What day will [Language and Identity(course) start
+- When do I have [Radio Project](course)
+- When do we have [Knowledge Discovery](course)
+- The start date of [Kandidaattiseminaari ja -tutkielma (hallintotiede), kevät -](course)
+- Start date for [Web-tutkimus](course)
+- Start of [Varhaiskasvatuksen ja esiopetuksen pedagogiikka - Työssäoppiminen 2.vsk (ryhmä 4)](course)
+- I want to know when [Sosiaalityön peruskurssi (kirjatentti)](course) starts
+- I want to know when will [Äkilliset traumaattiset kriisit ja niiden käsittely](course) start
+- I want to know the start date of [Työhyvinvointi](course)
+- I want to know when [Developing a Proposal for Community-Based Qualitative Research](course) begin
+- Tell me the start date of [Aineopintojen valinnainen jakso: Metso Talk - suoran lähetyksen ja yleisötilaisuuden tuottaminen](course)
+- Tell me when [Approaches and Tools for Conflict Analysis and Peace Mediation](course) begins
+- What day will [Murder and Representation](course) start
+- When does [Kuluttajakäyttäytyminen](course) start
+- When does [European, Eurasian and Global Energy Policy (book exam/essay)](course) start
+- When does [Shakespeare: Past and Present](course) start
+- When does [Talousviestintä / Wirtschaftskommunikation](course) begin
+- When does [Latinankielinen kirjallisuus II: keski- ja uuden ajan latina](course) begin
+- When will [Media and Cultural Industries](course) begin
+- When will [Talous ja yhteiskunta](course) begin
+- When will [Radio Project](course) begin
+- When will [Seminaari (Ridell)](course) begin
+- When does [Eurooppa-vero-oikeus](course) begin
+- When will [Mediakasvatus, osallisuus ja aktiivinen kansalaisuus, kirjatentti, Pori](course) start
+- When will [Strateginen brändijohtaminen](course) start
+- When will [Asiantuntijan ja esimiehen työelämätaidot](course) start
+- When will [Sosiaalitieteiden kvantitatiiviset tutkimusmenetelmät (verkkokurssi)](course) start
+- When is [Tieteellinen kirjoittaminen / LUO & COMS](course)
+- [Yhteisö, terveys ja sairaus](course) when
+- When [Reportaasi](course)
+- [Representations and Identities](course) start
+- [Kansainvälisen politiikan johdantokurssi (tutkinto-ohjelman opiskelijat)](course) start date
+- [Tuutorina toimiminen](course) starting date
+- [Terveyden ja mielenterveyden psykologia II](course) begins
+- Tell me the start date of [Tutkimustyötä tukevat tohtoriopinnot (tilastotiede)](course)
+- What day will [Gypsies in Hungary (intensive course)(course) start
+- When do I have [Asiantuntijan puheviestintä ja vuorovaikutus / AHOT (näyttökoe)](course)
+- When do we have [Contemporary Political Theory (book exam/essay)](course)
+- The start date of [Juridisk svenska (vain KTM:ksi klklla 2019 valmistuville)](course)
+- Start date for [Economic renewal of cities and regions](course)
+- Start of [Lasten arviointi](course)
+- I want to know when [Basic Studies in Education -courses, introductory meetings, reading circles and book exams](course) starts
+- I want to know when will [Julkisorganisaation talouden suunnittelu ja päätöksenteko](course) start
+- I want to know the start date of [Hoitotieteen tohtorikoulutusseminaari](course)
+- I want to know when [Julkissektorin instituutioiden talous (monimuoto-opetus)](course) begin
+- Tell me the start date of [Ruotsin kielen kirjallinen ja suullinen viestintä (JKK: HK & YTK / EDU / LUO / COMS: HuK, LuK & YTK / SOC)](course)
+- Tell me when [Monikulttuurisen sosiaalityön erityiskysymykset - Sosnet verkkokurssi](course) begins
+- What day will [Internet ja vuorovaikutteinen media](course) start
+- When does [Tieteellinen kirjoittaminen](course) start
+- When does [Information Visualization](course) start
+- When does [Kvalitatiivinen tutkimus kasvatustieteissä - Verkkokurssi, varhaiskasvatuksen opiskelijat](course) start
+- When does [Making sense of globalization - Theorizing beyond the nation-state - seminar](course) begin
+- When does [Teknologiakasvatus - Käsityökasvatuksen pedagogiikka ja työsuojelu](course) begin
+- When will [Valtio-opin maisteriseminaari](course) begin
+- When will [Variety in Present-day English](course) begin
+- When will [Merkitys](course) begin
+- When will [Nuorisokasvatuksen ja nuorisotyön teoreettisia suuntauksia (verkkokurssi)](course) begin
+- When does [Ruotsin kielen kirjallinen ja suullinen viestintä](course) begin
+- When will [BMT-70100 Kudosteknologian perusteet](course) start
+- When will [Yritysverkoston juridinen hallinta](course) start
+- When will [Käytännön opetus ja ohjaus - STYA3B2 Käytännön opetus ja ohjaus](course) start
+- When will [Theory and practice of peaceful change: The Baltic Sea Region](course) start
+- When is [Johdatus historiantutkimukseen - Johdatus historiantutkimukseen -luentokurssi (avoin yo)](course)
+- [Valinnainen jakso: Radioprojekti (kevät)](course) when
+- When [Tuutorina toimiminen](course)
+- [Ryhmät ja ryhmien väliset suhteet](course) start
+- [Finlaysonin kielimaailmat](course) start date
+- [Second Language Acquisition](course) starting date
+- [Journalistinen kieli - Tekstinhuolto](course) begins
+- Tell me the start date of [Monikielinen käännöstyöpaja](course)
+- What day will [Oppimisyhteisöt ja vuorovaikutus, kirjatentti, Pori(course) start
+- When do I have [Kielen opettaminen / Fremdsprachenlehren](course)
+- When do we have [Nuorisotyön harjoittelu](course)
+- The start date of [Inklusiivinen pedagogiikka ja oppimisen tukeminen](course)
+- Start date for [Kielioppi II (venäjänkieliset opiskelijat)](course)
+- Start of [SGN-41007 Pattern Recognition and Machine Learning](course)
+- I want to know when [Psykologian tutkimusmenetelmät I (avoin yliopisto)](course) starts
+- I want to know when will [Yksilö, yhteiskunta ja kulttuuri - Monikulttuurisuus koulussa - 2. vsk](course) start
+- I want to know the start date of [Opetus, ohjaus, oppiminen - Varhaiskasvatus: Pienryhmäopetus ja orientaatioharjoittelu (2 op)  ja kirjallisuus (2 op)](course)
+- I want to know when [Orientaatio psykologiaan](course) begin
+- Tell me the start date of [Käännösviestintä suomi-ruotsi/Översättning finska-svenska](course)
+- Tell me when [Lapset kehittyvinä ja sosiaalisina toimijoina varhaiskasvatuksessa / Harjoitukset - 1.vsk](course) begins
+- What day will [Puheviestinnän tutkimuskurssi](course) start
+- When does [KATLAS27](course) start
+- When does [KKSA2](course) start
+- When does [KIRP4](course) start
+- When does [KATJOA14](course) begin
+- When does [KASLIITU](course) begin
+- When will [FILP1A](course) begin
+- When will [KATVRS51](course) begin
+- When will [KKSUVAL3](course) begin
+- When will [KKENVAL4](course) begin
+- When does [TIEA1](course) begin
+- When will [MVKS10](course) start
+- When will [KIRA3G](course) start
+- When will [KATVAA11](course) start
+- When will [HALJUA64](course) start
+- When is [SUOV3](course)
+- [TRSU01](course) when
+- When [YKYYV07](course)
+- [ESPFA1](course) start
+- [MEJOS15](course) start date
+- [JOVPVS5](course) starting date
+- [VENS3](course) begins
+- Tell me the start date of [TIEA5](course)
+- What day will [RANA7(course) start
+- When do I have [TAYJ041](course)
+- When do we have [JOVP5](course)
+- The start date of [KKRUKK](course)
+- Start date for [POLVOA31](course)
+- Start of [SOS6.2.2](course)
+- I want to know when [ITIS11](course) starts
+- I want to know when will [KATTAS40](course) start
+- I want to know the start date of [KATYVA33](course)
+- I want to know when [POLKVA33](course) begin
+- Tell me the start date of [KATVRA00](course)
+- Tell me when [KASELOHA](course) begins
+- What day will [BTK4620](course) start
+- When does [KASA11](course) start
+- When does [ITIY3](course) start
+- When does [KKENYHT](course) start
+- When does [POLKVA41](course) begin
+- When does [KASVAR7](course) begin
+- When will [ITIS42](course) begin
+- When will [SAKA9](course) begin
+- When will [KATTAA90](course) begin
+- When will [JOVA16](course) begin
+- When does [KASA10](course) begin
+- When will [HALJUS31](course) start
+- When will [KASSM3](course) start
+- When will [TRSU01](course) start
+- When will [KKSU1](course) start
+- When is [HISA1A](course)
+- [HALJUA14](course) when
+- When [TEE4](course)
+- [ESPFA1](course) start
+- [MEJOS15](course) start date
+- [JOVPVS5](course) starting date
+- [VENS3](course) begins
+- Tell me the start date of [FILAPRO](course)
+- What day will [PSYS12(course) start
+- When do I have [KASLOE7.1](course)
+- When do we have [RANA1](course)
+- The start date of [KASLOM10](course)
+- Start date for [POLVOA41](course)
+- Start of [HALYAA14](course)
+- I want to know when [HALTVA12](course) starts
+- I want to know when will [KATLAS17](course) start
+- I want to know the start date of [KASA12](course)
+- I want to know when [SOSM5.1](course) begin
+- Tell me the start date of [KATMAS12](course)
+- Tell me when [STYVA](course) begins
+- What day will [ITIA8](course) start
+- When does [KASKVTUT](course) start
+- When does [JOVA15](course) start
+- When does [MTTTS12](course) start
+- When does [KATTAA21](course) begin
+- When does [TAYJ11](course) begin
+- When will [KASSG](course) begin
+- When will [HALYAA14](course) begin
+- When will [ENGA4](course) begin
+- When will [KKRA3](course) begin
+- When does [KASVART2](course) begin
+- When will [ITIA11](course) start
+- When will [TRMU2](course) start
+- When will [KATLITO4](course) start
+- When will [KKENMP3](course) start
+- When is [MTTS1](course)
+- [POLVOA51](course) when
+- When [MTTA1](course)
+- [ESPFA1](course) start
+- [MEJOS15](course) start date
+- [JOVPVS5](course) starting date
+- [VENS3](course) begins
+- Tell me the start date of [JOVA6/JMMETUS](course)
+- What day will [DPIS2(course) start
+- When do I have [JOVP1](course)
+- When do we have [MEDU10](course)
+- The start date of [KASLOE1.1](course)
+- Start date for [KASLOM10](course)
+- Start of [STYA3A](course)
+- I want to know when [KATYVS43](course) starts
+- I want to know when will [TSEKP2](course) start
+- I want to know the start date of [KKRAVAL1](course)
+- I want to know when [LOGS2](course) begin
+- Tell me the start date of [KKSAVAL3](course)
+- Tell me when [KASSM2](course) begins
+- What day will [TRSU03](course) start
+- When does [SOST10.4](course) start
+- When does [ITIY003](course) start
+- When does [TERHOIA4](course) start
+- When does [LFCS01](course) begin
+- When does [MTTTA13](course) begin
+- When will [JOVPVS3](course) begin
+- When will [RANA7](course) begin
+- When will [POLKVS33](course) begin
+- When will [KASA11](course) begin
+- When does [KATJOS21](course) begin
+- When will [JKKYTVA12](course) start
+- When will [JOVPVA7](course) start
+- When will [PSYS6E](course) start
+- When will [JOVPVS3](course) start
+- When is [PGHMTS](course)
+- [TAYJ11](course) when
+- When [TECHS3](course)
+- [ESPFA1](course) start
+- [MEJOS15](course) start date
+- [JOVPVS5](course) starting date
+- [VENS3](course) begins
+- Tell me the start date of [HEAAE03](course)
+- What day will [TRMU1(course) start
+- When do I have [KASSM2](course)
+- When do we have [ENGS13/15-16](course)
+- The start date of [KKSUSC](course)
+- Start date for [KASLOH4B](course)
+- Start of [MVKS40/62](course)
+- I want to know when [FILA6](course) starts
+- I want to know when will [KATVAA11](course) start
+- I want to know the start date of [LATAP3](course)
+- I want to know when [POLVOS24](course) begin
+- Tell me the start date of [KKSUKK](course)
+- Tell me when [ENGA6](course) begins
+- What day will [NAM-IV](course) start
+- When does [KKENVAL2](course) start
+- When does [KATYVS27](course) start
+- When does [HALYAA15](course) start
+- When does [LTLY16](course) begin
+- When does [KASA13](course) begin
+- When will [KASJOHT3](course) begin
+- When will [DPEDUA.1B](course) begin
+- When will [SOS6.2.3](course) begin
+- When will [ITIA11](course) begin
+- When does [DPHSFC01](course) begin
+- When will [BTK2060](course) start
+- When will [TEE2](course) start
+- When will [ITIA8](course) start
+- When will [POLPOP04](course) start
+- When is [ENGS2](course)
+- [ENGP7](course) when
+- When [KASSM2](course)
+- [ESPFA1](course) start
+- [MEJOS15](course) start date
+- [JOVPVS5](course) starting date
+- [VENS3](course) begins
+- Tell me the start date of [KASVAR10](course)
+- What day will [JOVAT2(course) start
+- When do I have [KKRA2](course)
+- When do we have [JOVPVS12](course)
+- The start date of [KASP5](course)
+- Start date for [ENGS3](course)
+- Start of [HISA1A](course)
+- I want to know when [BIO4380](course) starts
+- I want to know when will [FONEP1](course) start
+- I want to know the start date of [KASA2](course)
+- I want to know when [TERKAN9](course) begin
+- Tell me the start date of [KASLOE7.2](course)
+- Tell me when [JOVA4](course) begins
+- What day will [SAKA5](course) start
+- When does [KATMAS15](course) start
+- When does [JKKYLECT](course) start
+- When does [KASSG](course) start
+- When does [KKENKTMO](course) begin
+- When does [KATLAS99](course) begin
+- When will [RANP5](course) begin
+- When will [HISP2](course) begin
+- When will [TERKAN18](course) begin
+- When will [KASP5](course) begin
+- When does [KATPAL12](course) begin
+- When will [KATVRP11](course) start
+- When will [POLPOP02](course) start
+- When will [ENGS3](course) start
+- When will [KKVE2](course) start
+- When is [HISA4](course)
+- [SAKS2](course) when
+- When [TRSU03](course)
+- [ESPFA1](course) start
+- [MEJOS15](course) start date
+- [JOVPVS5](course) starting date
+- [VENS3](course) begins
+- Tell me the start date of [KKSU7](course)
+- What day will [KASLOM11(course) start
+- When do I have [SUOV1](course)
+- When do we have [KATVAA11](course)
+- The start date of [KATYVS22](course)
+- Start date for [KKRULL](course)
+- Start of [KKENKTM](course)
+- I want to know when [KKSUHUK](course) starts
+- I want to know when will [KASLOE6.2](course) start
+- I want to know the start date of [KASVAR6](course)
+- I want to know when [FILA3](course) begin
+- Tell me the start date of [PSYS6A](course)
+- Tell me when [TERTIETO4](course) begins
+- What day will [KATJOA99](course) start
+- When does [KASVAR2](course) start
+- When does [TSEKP1](course) start
+- When does [ITIY3](course) start
+- When does [STYS3C](course) begin
+- When does [KASMULTI4](course) begin
+- When will [SOS7.1/STYA4A](course) begin
+- When will [KIRA3G](course) begin
+- When will [KATMAA99](course) begin
+- When will [KASA2](course) begin
+- When does [POLKVA21](course) begin
+- When will [TIETS19](course) start
+- When will [KKENMP3](course) start
+- When will [SOS6.1.1](course) start
+- When will [KASVAR5](course) start
+- When is [TIETS05](course)
+- [SOSM1](course) when
+- When [SOCYKV1](course)
+- [ESPFA1](course) start
+- [MEJOS15](course) start date
+- [JOVPVS5](course) starting date
+- [VENS3](course) begins
+- Tell me the start date of [SOS6.1.1](course)
+- What day will [KKIN5(course) start
+- When do I have [ENGP2](course)
+- When do we have [KKSUOPE](course)
+- The start date of [KKKI4](course)
+- Start date for [SAKA5](course)
+- Start of [KASERIT2](course)
+- I want to know when [TERHOJ2](course) starts
+- I want to know when will [MVKS17V](course) start
+- I want to know the start date of [JOVVAL](course)
+- I want to know when [POLVOA32/S23/24](course) begin
+- Tell me the start date of [FILA3](course)
+- Tell me when [TERKAN9](course) begins
+- What day will [HALJTS02](course) start
+- When does [HISA2](course) start
+- When does [KASLOH3](course) start
+- When does [KATPAL11](course) start
+- When does [ITIY3](course) begin
+- When does [TERHOI5](course) begin
+- When will [BTK2223](course) begin
+- When will [SUOK2/A6/S8](course) begin
+- When will [KASP3](course) begin
+- When will [SOCYKV2](course) begin
+- When does [SUOT4](course) begin
+- When will [POLKVA43](course) start
+- When will [JOVVAL](course) start
+- When will [ITIS22](course) start
+- When will [KASLOM5](course) start
+- When is [HTIS85](course)
+- [MVKS39V](course) when
+- When [LOGA8](course)
+- [ESPFA1](course) start
+- [MEJOS15](course) start date
+- [JOVPVS5](course) starting date
+- [VENS3](course) begins
+- Tell me the start date of [KASA12](course)
+- What day will [KATLAP21(course) start
+- When do I have [HALYAA14](course)
+- When do we have [TAYJ027](course)
+- The start date of [KASLOM8](course)
+- Start date for [ITIA11](course)
+- Start of [HISS2](course)
+- I want to know when [HALKAA99](course) starts
+- I want to know when will [TSEKP1](course) start
+- I want to know the start date of [BTK3125](course)
+- I want to know when [KATTAA13A](course) begin
+- Tell me the start date of [KASA13](course)
+- Tell me when [YKYYHT1](course) begins
+- What day will [ENGS3](course) start
+- When does [TERTIETO5](course) start
+- When does [MVKS28](course) start
+- When does [KASA7](course) start
+- When does [KASSO6](course) begin
+- When does [LOGM1](course) begin
+- When will [KKSUPRO](course) begin
+- When will [MVKS29](course) begin
+- When will [KATJOA12](course) begin
+- When will [SOS06.1](course) begin
+- When does [ITIP3](course) begin
+- When will [HTIS87](course) start
+- When will [HALKAP01](course) start
+- When will [KATLAS15](course) start
+- When will [KASA11](course) start
+- When is [JOVPVA7](course)
+- [ITIA2](course) when
+- When [BTK4663](course)
+- [ESPFA1](course) start
+- [MEJOS15](course) start date
+- [JOVPVS5](course) starting date
+- [VENS3](course) begins
+- Tell me the start date of [VENA5](course)
+- What day will [ITIS61(course) start
+- When do I have [KATMAA16](course)
+- When do we have [KASLOE7.2](course)
+- The start date of [SOS1](course)
+- Start date for [PSYA11](course)
+- Start of [POLPOP01](course)
+- I want to know when [ITIP2](course) starts
+- I want to know when will [BTK0030](course) start
+- I want to know the start date of [KASSY3](course)
+- I want to know when [KASA5](course) begin
+- Tell me the start date of [POLKVA11](course)
+- Tell me when [HISS2](course) begins
+- What day will [KASSY5](course) start
+- When does [KASSY1](course) start
+- When does [ITIP3](course) start
+- When does [TIEY4](course) start
+- When does [ENGP9](course) begin
+- When does [VENS3](course) begin
+- When will [KKSUTTK](course) begin
+- When will [POLKVA23](course) begin
+- When will [POLKVA41](course) begin
+- When will [VENP4](course) begin
+- When does [KASS3](course) begin
+- When will [KASS2](course) start
+- When will [POLPOP03](course) start
+- When will [BTK3115](course) start
+- When will [HALYAP01](course) start
+- When is [JOVA2](course)
+- [FILA7](course) when
+- When [DPEDUB.1B](course)
+- [ESPFA1](course) start
+- [MEJOS15](course) start date
+- [JOVPVS5](course) starting date
+- [VENS3](course) begins
+- Tell me the start date of [DPEDUB.1A](course)
+- What day will [POLVOA41/S28(course) start
+- When do I have [KASA13](course)
+- When do we have [POLKVA43](course)
+- The start date of [HIST04](course)
+- Start date for [HALKAS12](course)
+- Start of [HEAAE03](course)
+- I want to know when [MTTMS10](course) starts
+- I want to know when will [JOVAT1](course) start
+- I want to know the start date of [KASSM2](course)
+- I want to know when [KATVAA11](course) begin
+- Tell me the start date of [SOS9](course)
+- Tell me when [ITIS61](course) begins
+- What day will [TIETS41](course) start
+- When does [PSYP4](course) start
+- When does [KATVAA11](course) start
+- When does [VENS15](course) start
+- When does [POLVOA32](course) begin
+- When does [KASA13](course) begin
+- When will [POHS1](course) begin
+- When will [KASLOM11](course) begin
+- When will [SAKP5](course) begin
+- When will [POLVOA22/A32](course) begin
+- When does [YKT6.6.4](course) begin
+- When will [TERTIETO4](course) start
+- When will [POLVOA51/52/S24](course) start
+- When will [TERTIETO2](course) start
+- When will [JOVP5](course) start
+- When is [POLKVA41](course)
+- [JOVA1](course) when
+- When [YKIEP4](course)
+- [ESPFA1](course) start
+- [MEJOS15](course) start date
+- [JOVPVS5](course) starting date
+- [VENS3](course) begins
+- Tell me the start date of [POHP2](course)
+- What day will [TERHOIA2(course) start
+- When do I have [STYA3A2](course)
+- When do we have [JOVA18](course)
+- The start date of [VENP2](course)
+- Start date for [KKSUBMT](course)
+- Start of [POHA14](course)
+- I want to know when [KKSUVAL3](course) starts
+- I want to know when will [ITIS22](course) start
+- I want to know the start date of [KASLOM5](course)
+- I want to know when [KIRA4E](course) begin
+- Tell me the start date of [SOSKV3](course)
+- Tell me when [KKVE2](course) begins
+- What day will [KATTAS33](course) start
+- When does [DPCMTJ3](course) start
+- When does [PSYA8](course) start
+- When does [KASVAR11](course) start
+- When does [POLVOS26](course) begin
+- When does [YKTM4](course) begin
+- When will [KATJOA19](course) begin
+- When will [FIL](course) begin
+- When will [TRMU1](course) begin
+- When will [KATVAA11](course) begin
+- When does [JOVA16](course) begin
+- When will [KATSTA16](course) start
+- When will [TECHS6](course) start
+- When will [HALJUA23](course) start
+- When will [SOS6.3.2](course) start
+- When is [KKSUKTK](course)
+- [TERTIETO2](course) when
+- When [VENA12](course)
+- [ESPFA1](course) start
+- [MEJOS15](course) start date
+- [JOVPVS5](course) starting date
+- [VENS3](course) begins
+- Tell me the start date of [KKVE5](course)
+- What day will [SOS4.1(course) start
+- When do I have [ENGA1](course)
+- When do we have [JOVAT1](course)
+- The start date of [STYP1A](course)
+- Start date for [POLVOA51](course)
+- Start of [TECHS2](course)
+- I want to know when [JOUJOVTS](course) starts
+- I want to know when will [BIO4380](course) start
+- I want to know the start date of [TERVAL7](course)
+- I want to know when [JOVP4](course) begin
+- Tell me the start date of [MTTMS1](course)
+- Tell me when [YKTM6.3](course) begins
+- What day will [SOS4.5](course) start
+- When does [KASP4](course) start
+- When does [KASELOHA](course) start
+- When does [KASA2](course) start
+- When does [DPHSS206](course) begin
+- When does [POLKVA41](course) begin
+- When will [TERHOIA2](course) begin
+- When will [KASA12](course) begin
+- When will [POLKVA31](course) begin
+- When will [POLVOS40](course) begin
+- When does [ITIY003](course) begin
+- When will [ITIP2](course) start
+- When will [KASLOE6.3](course) start
+- When will [SOS10.6](course) start
+- When will [JOVTETUS3](course) start
+- When is [JOVPVA7](course)
+- [BTK2223](course) when
+- When [VENA13](course)
+- [ESPFA1](course) start
+- [MEJOS15](course) start date
+- [JOVPVS5](course) starting date
+- [VENS3](course) begins
+- Tell me the start date of [PSYA9](course)
+- What day will [KATYVA36(course) start
+- When do I have [POHS1](course)
+- When do we have [HALJUA99](course)
+- The start date of [KASELOHA](course)
+- Start date for [POLKVA32](course)
+- Start of [STYA6](course)
+- I want to know when [JOVA2](course) starts
+- I want to know when will [COSOPN2](course) start
+- I want to know the start date of [KKSAVAL4](course)
+- I want to know when [KASMULTI3](course) begin
+- Tell me the start date of [POLVOA22/A32](course)
+- Tell me when [KASA11](course) begins
+- What day will [KKSAVAL2](course) start
+- When does [KASLOE7.1](course) start
+- When does [PEACE046](course) start
+- When does [POLKVA32](course) start
+- When does [KKES1](course) begin
+- When does [ENGP4](course) begin
+- When will [STYA1B](course) begin
+- When will [MTTA1](course) begin
+- When will [KASVAR12](course) begin
+- When will [KATYVS22](course) begin
+- When does [KKSUPRO](course) begin
+- When will [LUOYY026](course) start
+- When will [SUOT1](course) start
+- When will [VENS4](course) start
+- When will [TIETA19](course) start
+- When is [JOVA13](course)
+- [KKENYHT](course) when
+- When [BTK4665](course)
+- [ESPFA1](course) start
+- [MEJOS15](course) start date
+- [JOVPVS5](course) starting date
+- [VENS3](course) begins
+- Tell me the start date of [KATVRP11](course)
+- What day will [TAYJ041(course) start
+- When do I have [SOS4.2](course)
+- When do we have [KATMAA99](course)
+- The start date of [JKKYVP11](course)
+- Start date for [KASA7](course)
+- Start of [JOVKA4](course)
+- I want to know when [KATJOS13](course) starts
+- I want to know when will [KKENVAL2](course) start
+- I want to know the start date of [KATTAA40](course)
+- I want to know when [KKSA4](course) begin
+- Tell me the start date of [RANS4](course)
+- Tell me when [JOVA13](course) begins
+- What day will [TRSU06](course) start
+- When does [KKENVAL4](course) start
+- When does [POLKVA12](course) start
+- When does [BTK1015](course) start
+- When does [HALTVA15](course) begin
+- When does [KKRUBMT](course) begin
+- When will [KATLAA13](course) begin
+- When will [MTTMA1C](course) begin
+- When will [TRMU5](course) begin
+- When will [FONEP2](course) begin
+- When does [KATYVA51](course) begin
+- When will [PSYA7](course) start
+- When will [POLKVA44](course) start
+- When will [SUKKP0](course) start
+- When will [JOVAT1](course) start
+- When is [TIETS19](course)
+- [HALTTS13](course) when
+- When [SOSM2](course)
+- [ESPFA1](course) start
+- [MEJOS15](course) start date
+- [JOVPVS5](course) starting date
+- [VENS3](course) begins
+- Tell me the start date of [KASVAR8](course)
+- What day will [KASA13(course) start
+- When do I have [POLPOP01](course)
+- When do we have [JOVY2](course)
+- The start date of [DPJKKKS](course)
+- Start date for [JOVP4](course)
+- Start of [TIETA8](course)
+- I want to know when [POLVOS40](course) starts
+- I want to know when will [ITIS35](course) start
+- I want to know the start date of [TERHOI5](course)
+- I want to know when [BTK4663](course) begin
+- Tell me the start date of [KATVAA15](course)
+- Tell me when [ITIS33](course) begins
+- What day will [ITIY3](course) start
+- When does [SOS9](course) start
+- When does [KATYVA12](course) start
+- When does [MTTMP4](course) start
+- When does [BTK1015](course) begin
+- When does [KKSUPRO](course) begin
+- When will [TERHOI6](course) begin
+- When will [KASLOM4](course) begin
+- When will [KATMAA99](course) begin
+- When will [PEDA3](course) begin
+- When does [TSEKP3](course) begin
+- When will [KASA12](course) start
+- When will [POLVOA31](course) start
+- When will [DPCMTJ4](course) start
+- When will [KASLOM7](course) start
+- When is [POLKVS22](course)
+- [HALYAS12](course) when
+- When [STYA9](course)
+- [ESPFA1](course) start
+- [MEJOS15](course) start date
+- [JOVPVS5](course) starting date
+- [VENS3](course) begins
+- Tell me the start date of [NORDIG3](course)
+- What day will [MTTMP4(course) start
+- When do I have [POLKVA11](course)
+- When do we have [MTTTA13](course)
+- The start date of [KIRA5](course)
+- Start date for [TERY4](course)
+- Start of [HISA2](course)
+- I want to know when [KKSAVAL2](course) starts
+- I want to know when will [JOVP4](course) start
+- I want to know the start date of [KASP5](course)
+- I want to know when [ITIP5](course) begin
+- Tell me the start date of [HIST04](course)
+- Tell me when [PSYS2](course) begins
+- What day will [TAYJ035](course) start
+- When does [KKRUKTK](course) start
+- When does [TERHOI2](course) start
+- When does [ITIS44](course) start
+- When does [JOVA1](course) begin
+- When does [KASLOM6](course) begin
+- When will [HALYAA13](course) begin
+- When will [POHP0](course) begin
+- When will [TERA2](course) begin
+- When will [TAYJ035](course) begin
+- When does [JOVA13](course) begin
+- When will [GTS3](course) start
+- When will [ENGP5](course) start
+- When will [JKKYVAP](course) start
+- When will [PCP10/NAM IV](course) start
+- When is [KATTAA40](course)
+- [KASP4](course) when
+- When [POLKVA21](course)
+- [ESPFA1](course) start
+- [MEJOS15](course) start date
+- [JOVPVS5](course) starting date
+- [VENS3](course) begins
+- Tell me the start date of [TRMU1](course)
+- What day will [JOVA14(course) start
+- When do I have [TIETA19](course)
+- When do we have [KASLOE7.1](course)
+- The start date of [ITIS61](course)
+- Start date for [PSYS11](course)
+- Start of [POLKVS21](course)
+- I want to know when [FILJATKO](course) starts
+- I want to know when will [KASA7](course) start
+- I want to know the start date of [KASERIT3](course)
+- I want to know when [JOVVAL](course) begin
+- Tell me the start date of [TERHOIA5](course)
+- Tell me when [SUOA3](course) begins
+- What day will [JOVP5](course) start
+- When does [KASP5](course) start
+- When does [KATYVA21](course) start
+- When does [KATTAA90](course) start
+- When does [DPHSFC07](course) begin
+- When does [SOSM5.1](course) begin
+- When will [PSYS14](course) begin
+- When will [TSEKP2](course) begin
+- When will [SOS5](course) begin
+- When will [VENA6](course) begin
+- When does [PSYP2](course) begin
+- When will [PSYP1](course) start
+- When will [SOSM5.1](course) start
+- When will [STYVA](course) start
+- When will [FILS1A](course) start
+- When is [TECHS4](course)
+- [KASVAR6](course) when
+- When [KKSA2](course)
+- [ESPFA1](course) start
+- [MEJOS15](course) start date
+- [JOVPVS5](course) starting date
+- [VENS3](course) begins
+- Tell me the start date of [BTK1061](course)
+- What day will [DPLA01(course) start
+- When do I have [POLVOS40](course)
+- When do we have [KASLOE7.2](course)
+- The start date of [KASPUHS7](course)
+- Start date for [KATLITO4](course)
+- Start of [POLKVS31](course)
+- I want to know when [SOS06.4](course) starts
+- I want to know when will [HALKOS25](course) start
+- I want to know the start date of [SOSM5.1](course)
+- I want to know when [JOVPVS5](course) begin
+- Tell me the start date of [KATYVS21](course)
+- Tell me when [KATLAA11](course) begins
+- What day will [KATVAA13](course) start
+- When does [TERKANA2](course) start
+- When does [VENP0](course) start
+- When does [KKRUVAL2](course) start
+- When does [KASA15](course) begin
+- When does [KASA7](course) begin
+- When will [KKRA3](course) begin
+- When will [FILS2A](course) begin
+- When will [SOSM5.1](course) begin
+- When will [VENA6](course) begin
+- When does [KASP5](course) begin
+- When will [PGHAS07](course) start
+- When will [TIETS19](course) start
+- When will [KASPUHP3](course) start
+- When will [TERHOIA3](course) start
+- When is [BTK2025](course)
+- [KASP4](course) when
+- When [KASS2](course)
+- [ESPFA1](course) start
+- [MEJOS15](course) start date
+- [JOVPVS5](course) starting date
+- [VENS3](course) begins
+- Tell me the start date of [SOSM5.1](course)
+- What day will [TIETS14(course) start
+- When do I have [HISA2](course)
+- When do we have [RANP1](course)
+- The start date of [POLVOA22](course)
+- Start date for [KASS2](course)
+- Start of [KATMAS13](course)
+- I want to know when [KIRA5](course) starts
+- I want to know when will [RANP4](course) start
+- I want to know the start date of [KASLOH4B](course)
+- I want to know when [BTK1062](course) begin
+- Tell me the start date of [SAKS2](course)
+- Tell me when [RANA5](course) begins
+- What day will [HISA4](course) start
+- When does [MEDU10](course) start
+- When does [KASLOM11](course) start
+- When does [TERY6](course) start
+- When does [SUOK2/A6](course) begin
+- When does [FILS2A](course) begin
+- When will [ROMAP2](course) begin
+- When will [MTTTA14](course) begin
+- When will [KKKI4](course) begin
+- When will [JOVTS2](course) begin
+- When does [MTTMS11](course) begin
+- When will [MTTTP1](course) start
+- When will [KASP1](course) start
+- When will [POLKVA22](course) start
+- When will [KKSUSOTE](course) start
+- When is [KASA11](course)
+- [SUKKP5B](course) when
+- When [COSOPOM1](course)
+- [ESPFA1](course) start
+- [MEJOS15](course) start date
+- [JOVPVS5](course) starting date
+- [VENS3](course) begins
+- Tell me the start date of [TERA3](course)
+- What day will [DPCMTJ2/JMMETUS(course) start
+- When do I have [POLKVA43](course)
+- When do we have [POLVOA41/S23/28](course)
+- The start date of [ENGP8](course)
+- Start date for [JOUJOVTS](course)
+- Start of [FILP2](course)
+- I want to know when [RANA5](course) starts
+- I want to know when will [FONEP1](course) start
+- I want to know the start date of [TAYJ031](course)
+- I want to know when [SUKKP4](course) begin
+- Tell me the start date of [MVKS46](course)
+- Tell me when [HTIS66](course) begins
+- What day will [KATJOA14](course) start
+- When does [KASLOM11](course) start
+- When does [POMLFCS3](course) start
+- When does [VENP2](course) start
+- When does [MVKS18S](course) begin
+- When does [KKIN5](course) begin
+- When will [HALJUA99](course) begin
+- When will [BTK4400](course) begin
+- When will [KKENYHT](course) begin
+- When will [SUOA2](course) begin
+- When does [DPHSS201](course) begin
+- When will [KASSO8](course) start
+- When will [POLVOA51/S10/24](course) start
+- When will [KASVAR10](course) start
+- When will [TAYJ031](course) start
+- When is [POLPOP05](course)
+- [HALJUA25](course) when
+- When [MTTY1](course)
+- [ESPFA1](course) start
+- [MEJOS15](course) start date
+- [JOVPVS5](course) starting date
+- [VENS3](course) begins
+- Tell me the start date of [MTTMA2](course)
+- What day will [LFCS99(course) start
+- When do I have [DPHSM304](course)
+- When do we have [MVKS17/13S](course)
+- The start date of [JOVP5](course)
+- Start date for [SUOP2](course)
+- Start of [TERHOI6](course)
+- I want to know when [KATJOA13](course) starts
+- I want to know when will [KKSAVAL3](course) start
+- I want to know the start date of [POLHAR10](course)
+- I want to know when [HISA2](course) begin
+- Tell me the start date of [HALKOS21](course)
+- Tell me when [POHP0](course) begins
+- What day will [STYS3B](course) start
+- When does [ENGA1](course) start
+- When does [TERKAN6](course) start
+- When does [HTIS84](course) start
+- When does [POLKVA41](course) begin
+- When does [TEE9](course) begin
+- When will [ESPFA5](course) begin
+- When will [HALJUS15](course) begin
+- When will [MVKS34](course) begin
+- When will [KASVART2](course) begin
+- When does [STYS3A](course) begin
+- When will [SUOR1/A6](course) start
+- When will [SOS6.2.4](course) start
+- When will [TERKAN16](course) start
+- When will [PSYS10](course) start
+- When is [SOS6.5.2](course)
+- [HALKAS14](course) when
+- When [POLPOP04](course)
+- [ESPFA1](course) start
+- [MEJOS15](course) start date
+- [JOVPVS5](course) starting date
+- [VENS3](course) begins
+- Tell me the start date of [ENGS46](course)
+- What day will [VENP4(course) start
+- When do I have [BTK2223](course)
+- When do we have [KATVRA15](course)
+- The start date of [HALHAA13](course)
+- Start date for [KASVAR7](course)
+- Start of [KASP1-2, KASP5](course)
+- I want to know when [ESPFP5](course) starts
+- I want to know when will [ENGS3](course) start
+- I want to know the start date of [KKRULUK](course)
+- I want to know when [BTK0030](course) begin
+- Tell me the start date of [KKRUYHT](course)
+- Tell me when [PSYA5](course) begins
+- What day will [SOS08.3](course) start
+- When does [NORDIG4](course) start
+- When does [JOVP5](course) start
+- When does [POLHAR10](course) start
+- When does [SOSM2](course) begin
+- When does [SOS6.4.4](course) begin
+- When will [KASA13](course) begin
+- When will [KASP1](course) begin
+- When will [SAKP3](course) begin
+- When will [KASVARH](course) begin
+- When does [PSYS6A](course) begin
+- When will [POHP3](course) start
+- When will [HALTVP11](course) start
+- When will [TERHOIA1](course) start
+- When will [TERY4](course) start
+- When is [LTLY16](course)
+- [KASA13](course) when
+- When [POLVOA21](course)
+- [ESPFA1](course) start
+- [MEJOS15](course) start date
+- [JOVPVS5](course) starting date
+- [VENS3](course) begins
+- Tell me the start date of [TERHOI2](course)
+- What day will [YKT6.6.4(course) start
+- When do I have [HALKAP01](course)
+- When do we have [HISA1B](course)
+- The start date of [BTK4311](course)
+- Start date for [COSOPON1](course)
+- Start of [TIEA2.1](course)
+- I want to know when [SOS6.1.1](course) starts
+- I want to know when will [KASA11](course) start
+- I want to know the start date of [HALYAA99](course)
+- I want to know when [KASP5](course) begin
+- Tell me the start date of [POLVOA22](course)
+- Tell me when [KATYVA99](course) begins
+- What day will [MVKS39V](course) start
+- When does [ESPFA6](course) start
+- When does [TERKAN6](course) start
+- When does [MVKS42S](course) start
+- When does [COSOPON5](course) begin
+- When does [KKRUKTK](course) begin
+- When will [HALYAS13](course) begin
+- When will [HALHAS19](course) begin
+- When will [DPCMTJ2/JMMETUS](course) begin
+- When will [JOVTS5](course) begin
+- When does [TIEP3](course) begin
+- When will [KATSTA12](course) start
+- When will [MTTA1](course) start
+- When will [KASVAR9](course) start
+- When will [MVKS17V](course) start
+- When is [SOS6.2.3](course)
+- [MTTY1](course) when
+- When [KATYVA34](course)
+- [ESPFA1](course) start
+- [MEJOS15](course) start date
+- [JOVPVS5](course) starting date
+- [VENS3](course) begins
+- Tell me the start date of [MOLI](course)
+- What day will [HTIS54(course) start
+- When do I have [KKENKTMO](course)
+- When do we have [JKKYINA15](course)
+- The start date of [LTLY16](course)
+- Start date for [SUKKP0](course)
+- Start of [KASSM2](course)
+- I want to know when [TERY4](course) starts
+- I want to know when will [HALHAP01](course) start
+- I want to know the start date of [TAYJ024](course)
+- I want to know when [POLPOP03](course) begin
+- Tell me the start date of [STYS2A](course)
+- Tell me when [ITIA11](course) begins
+- What day will [GTS2](course) start
+- When does [KKSAPRE2](course) start
+- When does [POLKVA22](course) start
+- When does [POLKVS31](course) start
+- When does [SAKP0](course) begin
+- When does [SAKS3](course) begin
+- When will [KASLOM10](course) begin
+- When will [KKVE3](course) begin
+- When will [DPIT2](course) begin
+- When will [HTIS86](course) begin
+- When does [POLPOP01](course) begin
+- When will [POLPOP01](course) start
+- When will [VENP4/VENK2](course) start
+- When will [HALHAA13](course) start
+- When will [TIETA13](course) start
+- When is [POLVOA32/S27](course)
+- [KKRAVAL1](course) when
+- When [SAKP0](course)
+- [ESPFA1](course) start
+- [MEJOS15](course) start date
+- [JOVPVS5](course) starting date
+- [VENS3](course) begins
+- Tell me the start date of [MTTS1](course)
+- What day will [TIEY4(course) start
+- When do I have [KATJOS99](course)
+- When do we have [BIOMJ016](course)
+- The start date of [POLPOP04](course)
+- Start date for [KKSUVAL1](course)
+- Start of [FILA2](course)
+- I want to know when [KKENMP3](course) starts
+- I want to know when will [MTTY4](course) start
+- I want to know the start date of [KATLAS26](course)
+- I want to know when [ENGA12](course) begin
+- Tell me the start date of [MVKS63](course)
+- Tell me when [KATTAA37](course) begins
+- What day will [KKRUHY](course) start
+- When does [POLVOA22](course) start
+- When does [JKKYVAP](course) start
+- When does [KASLOM6](course) start
+- When does [KKSUPRO](course) begin
+- When does [JOVTKS3](course) begin
+- When will [KASSG](course) begin
+- When will [PSYA7](course) begin
+- When will [KATVAS21](course) begin
+- When will [JOVTS5](course) begin
+- When does [POHP5](course) begin
+- When will [KASMULTI4](course) start
+- When will [HALJUA25](course) start
+- When will [RUST5/VENS19/20](course) start
+- When will [KATVAS99](course) start
+- When is [KIRP3](course)
+- [SUKKP5B](course) when
+- When [TIEP1](course)
+- [ESPFA1](course) start
+- [MEJOS15](course) start date
+- [JOVPVS5](course) starting date
+- [VENS3](course) begins
+- Tell me the start date of [KKRUHY](course)
+- What day will [TERY4(course) start
+- When do I have [SOSM1](course)
+- When do we have [KKVE4](course)
+- The start date of [STYS2B](course)
+- Start date for [KASMAT2](course)
+- Start of [KASP1](course)
+- I want to know when [VENP2](course) starts
+- I want to know when will [POLPOP05](course) start
+- I want to know the start date of [KASSO1](course)
+- I want to know when [PSYP0](course) begin
+- Tell me the start date of [KASLOM6](course)
+- Tell me when [TERKAN4](course) begins
+- What day will [POLVOS32](course) start
+- When does [PEDA4](course) start
+- When does [FILS2A](course) start
+- When does [KATMAA12](course) start
+- When does [KKENVAL9](course) begin
+- When does [KATJOS31](course) begin
+- When will [TERVAL7](course) begin
+- When will [ESPFA4](course) begin
+- When will [KKES2](course) begin
+- When will [ENGA9](course) begin
+- When does [TERKAN6](course) begin
+- When will [KASSM2](course) start
+- When will [HISA2](course) start
+- When will [HIST03](course) start
+- When will [KKIN5](course) start
+- When is [KIRS5](course)
+- [KKSUHUK1](course) when
+- When [TERKANP3](course)
+- [ESPFA1](course) start
+- [MEJOS15](course) start date
+- [JOVPVS5](course) starting date
+- [VENS3](course) begins
+- Tell me the start date of [KATLITO8](course)
+- What day will [DPHSR403(course) start
+- When do I have [HALJUA14](course)
+- When do we have [POLKVA22](course)
+- The start date of [KATTAA13A](course)
+- Start date for [KKES2](course)
+- Start of [SOS6.4.1](course)
+- I want to know when [KASSO1](course) starts
+- I want to know when will [ITIA4](course) start
+- I want to know the start date of [KKSAVAL4](course)
+- I want to know when [KASA11](course) begin
+- Tell me the start date of [KASSM2](course)
+- Tell me when [DPIPEF05](course) begins
+- What day will [POLKVA43](course) start
+- When does [TERKAN4](course) start
+- When does [SAKS4/K4](course) start
+- When does [HALHAP01](course) start
+- When does [DPHSS204](course) begin
+- When does [MVKS17V](course) begin
+- When will [SOSM2](course) begin
+- When will [KATJOS99](course) begin
+- When will [SUKKP6](course) begin
+- When will [TECHS5](course) begin
+- When does [KKENYHT](course) begin
+- When will [MTTTA7](course) start
+- When will [TAYJ12](course) start
+- When will [SOS3](course) start
+- When will [TERY4](course) start
+- When is [KASERIT1](course)
+- [KAMVRS99](course) when
+- When [SOS6.3.3](course)
+- [ESPFA1](course) start
+- [MEJOS15](course) start date
+- [JOVPVS5](course) starting date
+- [VENS3](course) begins
+- Tell me the start date of [KKSAVAL3](course)
+- What day will [KKRA2(course) start
+- When do I have [KATVRA12](course)
+- When do we have [KASMULTI2C](course)
+- The start date of [PSYP4](course)
+- Start date for [LUOYA200](course)
+- Start of [JOVTS5](course)
+- I want to know when [PEDAYOP3](course) starts
+- I want to know when will [KKENVAL4](course) start
+- I want to know the start date of [KKSUVAL3](course)
+- I want to know when [HTIS81](course) begin
+- Tell me the start date of [MTTY4](course)
+- Tell me when [KASA15](course) begins
+- What day will [SOS6.4.2](course) start
+- When does [ITIS42](course) start
+- When does [POLKVA21](course) start
+- When does [JKKYTU01](course) start
+- When does [FIL](course) begin
+- When does [SOS6.2.1](course) begin
+- When will [HISS1B](course) begin
+- When will [KATRAA12](course) begin
+- When will [TERHOIA7](course) begin
+- When will [KATTAA13B](course) begin
+- When does [JOVPVS5](course) begin
+- When will [DPJKKKS](course) start
+- When will [DPIS2](course) start
+- When will [MTTMA1C](course) start
+- When will [STYA3A2](course) start
+- When is [HALVALS10](course)
+- [JOVTS5](course) when
+- When [TERY4](course)
+- [ESPFA1](course) start
+- [MEJOS15](course) start date
+- [JOVPVS5](course) starting date
+- [VENS3](course) begins
+- Tell me the start date of [MTTMA11](course)
+- What day will [KASA3(course) start
+- When do I have [BIO4230](course)
+- When do we have [KASLOM3](course)
+- The start date of [KATTAS22B](course)
+- Start date for [SOSM5.1](course)
+- Start of [ITIS24](course)
+- I want to know when [KATMAP11](course) starts
+- I want to know when will [KIRA3G](course) start
+- I want to know the start date of [BTK0011](course)
+- I want to know when [KASA11](course) begin
+- Tell me the start date of [BIO4661](course)
+- Tell me when [KASVAR7](course) begins
+- What day will [HALJUA14](course) start
+- When does [POLVOA41](course) start
+- When does [POLVOA22](course) start
+- When does [JKKYORP1](course) start
+- When does [KATVRA30](course) begin
+- When does [KATYVA33](course) begin
+- When will [ROMAP2](course) begin
+- When will [LTLY01](course) begin
+- When will [MVKS47](course) begin
+- When will [DPIS2](course) begin
+- When does [JOVA5](course) begin
+- When will [JKKYTVA13](course) start
+- When will [JKKYTUA02](course) start
+- When will [DPHSF503](course) start
+- When will [LTLY214](course) start
+- When is [HISS2](course)
+- [KATSTA14](course) when
+- When [FILJATKO](course)
+- [ESPFA1](course) start
+- [MEJOS15](course) start date
+- [JOVPVS5](course) starting date
+- [VENS3](course) begins
+- Tell me the start date of [JOVP5](course)
+- What day will [PSYS2(course) start
+- When do I have [KATJOA99](course)
+- When do we have [KKSUKTK](course)
+- The start date of [KASLOH3](course)
+- Start date for [ENGS1](course)
+- Start of [KASLOM4](course)
+- I want to know when [BTK1023](course) starts
+- I want to know when will [DPHSFC01](course) start
+- I want to know the start date of [KATSTA16](course)
+- I want to know when [GEN7](course) begin
+- Tell me the start date of [KASMULTI4](course)
+- Tell me when [ITIA03](course) begins
+- What day will [JOVVAL](course) start
+
+## intent:creditsMin
+- How many points [Grammaire/Kielioppi](course)
+- How many credits [Orientaatio psykologiaan](course)
+- How many ECTS [Biostatistiikka ja tilastollinen tietojenkäsittely](course)
+- How many student credits [Sosiaalisen median yhteisöt: menetelmällisiä ratkaisuja määrällisestä laadulliseen](course)
+- How many student points [Tyylioppi](course)
+- How many student credits from [Ympäristön ja alueiden poliittisuus](course)
+- How many student points from [Ydinaseet ja kansainvälinen politiikka(course)
+- How many ECTS from [Kognitiivinen neurotiede I (avoin yliopisto)](course)
+- How many student credits is [Finnish Education System - Seminar](course)
+- How many points is [Sosiaaliturvan ajankohtaisia kysymyksiä](course)
+- How many credits is [Methods in Human-Centered Design](course)
+- How many ECTS is [Ruotsin kielen kirjallinen ja suullinen viestintä / Monenlaisten oppijoiden ryhmä](course)
+- How many student credits is [Tieteellisen kirjoittamisen seminaari kvantitatiivista tutkimusta tekeville](course)
+- How many student points is [Suullinen viestintä I/Muntlig kommunikation I](course)
+- Student points [Tieteellinen kirjoittaminen](course)
+- Student credits [Nuorten ryhmät ja ryhmän ohjaus, harjoitukset](course)
+- ECTS [Inklusiivinen koulu - Luennot, seminaarit, kenttätehtävä ja raportointi](course)
+- [Writing for Research (online course)](course) ECTS
+- [Seminaarit 1. lukukausi/2. lukukausi](course) course points
+- [Project Work (Fall term 2018)](course) student points
+- [Pohjoismaisten kielten lähtötasokoe](course) points
+- [Digital Image Processing - Self-studying](course) amount of points
+- [Pro gradu -seminaari ja -tutkielma (2018-2019)](course) credits
+- [Kielitieto ja -taito - Käännös-, rakenne- ja sanastoharjoitukset II  Sprachwissen und Sprachfertigkeiten: Kontrastive Text- und Wortschatzübungen](course) the amount of ECTS
+- How many points [Kielioppi II (venäjänkieliset opiskelijat)](course) is
+- How many ECTS [Perheen vuorovaikutus](course) will be
+- Credits [Rakennebiologia](course)
+- How many credits can I get from [Introduction to Risk Management and Insurance (autumn semester)](course)
+- How many ECTS can I get from [Tuutorina toimiminen](course)
+- How many student points can I get from [Kandidaatintutkielmaseminaari - Seminaari, II-periodissa alkava nopeasti etenevä ryhmä](course)
+- I want to know how many credits can I get from [Olio-ohjelmoinnin perusteet II](course)
+- I want to know how many ECTS can I get from [Fonetiikan ja yleisen kielitieteen perusteet - Yleinen kielitiede](course)
+- I want to know how many student points can I get from [Kliininen neuropsykologia II](course)
+- I want to know the amount of student points [Advanced English Business Communication](course)
+- How many points [Tieteenfilosofia](course)
+- How many credits [Liiketoimintaosaamisen kokonaisdynamiikka ja sen ohjaaminen - VIBU-yritysstimulaatio](course)
+- How many ECTS [Kansainvälisen politiikan yleiset syventävät menetelmäopinnot](course)
+- How many student credits [Kirjallisuuden teoria - Kirjallisuuden teorian suuntia](course)
+- How many student points [Opetus, ohjaus, oppiminen (toteutus aineenopettajan pedagogisia opintoja lukuvuonna 2018-2019 suorittaville)](course)
+- How many student credits from [Johdatus kunta- ja aluejohtamiseen (avoin yliopisto-opetus), monimuoto-opetus](course)
+- How many student points from [Tiimi toimii - puheviestinnän syventävä kurssi (3. periodi)(course)
+- How many ECTS from [Tiedonhankintataidot - Tiedonhankintataidot IV - Viitteiden hallinta (hoitotieteen opiskelijoille)](course)
+- How many student credits is [Visualization of Quantitative Data](course)
+- How many points is [Käännösviestintä I - Käännösviestintä I suomi-englanti](course)
+- How many credits is [Kehitys, kasvatus ja elämänkulku - Luennot EDUn opiskelijoille (2 op) TAI muille opiskelijoille luennot (2 op) ja kirjallisuus (3 op)](course)
+- How many ECTS is [Talouselämän käännösviestinnän seminaari venäjä-suomi](course)
+- How many student credits is [Monimuuttujamenetelmien perusteet](course)
+- How many student points is [Yritysjuridiikan case-kurssi](course)
+- Student points [Psykiatria](course)
+- Student credits [Historian tutkimusprosessi ja historiantutkijan etiikka](course)
+- ECTS [Rahoitusoikeuden syventävä opintojakso - kirjatentti](course)
+- [Thesis seminar and Master's Thesis](course) ECTS
+- [Tietokantojen perusteet](course) course points
+- [Valinnainen jakso: Valokuva historian tekijänä - luennot](course) student points
+- [Uuden ajan alun (1500-1800) tutkimuksen lähteet ja menetelmät](course) points
+- [Tuutorivastaavana toimiminen](course) amount of points
+- [Visualization of Quantitative Data](course) credits
+- [Kehittyminen johtajaksi terveydenhuollossa](course) the amount of ECTS
+- How many points [Politiikan tutkimuksen kandidaatintutkielma ja -seminaari](course) is
+- How many ECTS [Väestön vanheneminen, terveys ja hyvinvointi](course) will be
+- Credits [Science and Biotechnology Journal Club](course)
+- How many credits can I get from [Kirjallisuus, kulttuuri ja yhteiskunta](course)
+- How many ECTS can I get from [Musiikki - Musiikkikasvatuksen perusteet 2 - 1. vsk  ja erillisen opinto-oikeuden POM-opintoihin saaneet opiskelijat](course)
+- How many student points can I get from [Dialogue: Constructive Talk at Work](course)
+- I want to know how many credits can I get from [Kontrastiivisen fonetiikan perusteet -](course)
+- I want to know how many ECTS can I get from [Perehdyttäminen tietotekniikan alkeisiin](course)
+- I want to know how many student points can I get from [Informaatio- ja mediajärjestelmien historiaa ja nykypäivää](course)
+- I want to know the amount of student points [Inklusiivinen varhaiskasvatus / Harjoitukset - 3.vsk](course)
+- How many points [Harjoittelu / Elinikäinen oppiminen ja kasvatus - Arviointiseminaari vuonna 2018 harjoitteleville](course)
+- How many credits [Statistics Workshop](course)
+- How many ECTS [Espanja II](course)
+- How many student credits [Pedagoginen kehittäminen ja johtajuus / Harjoitukset - 3.vsk + 2.vsk ryhmä 4](course)
+- How many student points [Kansainvälinen verotus](course)
+- How many student credits from [Improving the quality and safety of health care through outcomes research](course)
+- How many student points from [Kandidaatintutkielma - Seminaari ja tutkielma(course)
+- How many ECTS from [Lähihistorian ryhmä](course)
+- How many student credits is [Radiokääntäminen (saksa)](course)
+- How many points is [Teknologiakasvatus - Teknologia](course)
+- How many credits is [Antropologian osa-alueet](course)
+- How many ECTS is [Kasvatus tieteellisen tutkimuksen kohteena - verkko-opetus, II-periodi](course)
+- How many student credits is [Seminaari I, kandidaatintutkielma ja kypsyysnäyte / Bachelor-Seminar, Bachelorarbeit und Klausur zum Thema der Arbeit](course)
+- How many student points is [Tutkijan työpaja](course)
+- Student points [English Word Formation](course)
+- Student credits [Kvantitatiivinen tutkimus kasvatustieteissä - Harjoitukset, yleinen OPETUS PERUUTETTU](course)
+- ECTS [Seminaari I, kandidaatintutkielma ja kypsyysnäyte / Bachelor-Seminar, Bachelorarbeit und Klausur zum Thema der Arbeit](course)
+- [Doctoral course on health policy](course) ECTS
+- [PhD by publication: writing integrative chapter](course) course points
+- [Kielellinen merkitys, käyttö ja konteksti](course) student points
+- [Praktikum](course) points
+- [Kielen käyttö I](course) amount of points
+- [Työelämän myytit ja todellisuus](course) credits
+- [Näkökulmia kääntämiseen - Kääntäminen viestinnällisenä asiantuntijatehtävänä / Perspektiven auf Übersetzen](course) the amount of ECTS
+- How many points [Opetus, ohjaus, oppiminen - Varhaiskasvatuksen opiskelijoille luennot (1 op) verkkotallenteena](course) is
+- How many ECTS [Practical Programming in Python](course) will be
+- Credits [Johdatus matematiikkaan ja tilastotieteeseen](course)
+- How many credits can I get from [Basic Studies in Education -courses,  introductory meetings, reading circles and book exams](course)
+- How many ECTS can I get from [Tutkiva opiskelu](course)
+- How many student points can I get from [Tekstiklinikka tutkielman kirjoittajille](course)
+- I want to know how many credits can I get from [Kasvatusfilosofia: ihminen, luonto ja kulttuuri - Luennot](course)
+- I want to know how many ECTS can I get from [Venäjän historia, kirjallisuus ja kulttuuri](course)
+- I want to know how many student points can I get from [Politiikan tutkimuksen kandidaatintutkielma ja -seminaari](course)
+- I want to know the amount of student points [Ranska III](course)
+- How many points [Moniammatillisuus, yhteisö ja vuorovaikutus / Luennot - 3.vsk + 2.vsk ryhmä 4](course)
+- How many credits [Kuva-  ja mediakulttuurit - Mediakulttuurit- I vsk ja  erillisen opinto-oikeuden POM-opintoihin saaneet opiskelijat (luennot)](course)
+- How many ECTS [Kasvatuksen historialliset ja filosofiset lähtökohdat, monimuoto-opetus](course)
+- How many student credits [Statistical Inference 1](course)
+- How many student points [Re-Thinking Value Creation](course)
+- How many student credits from [Yhteiskuntatutkimuksen tutkinto-ohjelman esittely](course)
+- How many student points from [Terveyden edistämisen perusteet(course)
+- How many ECTS from [Diskurssianalyysi](course)
+- How many student credits is [Perintö-, lahja- ja varainsiirtoverotus](course)
+- How many points is [Kandidaatintutkielmaseminaari - Seminaari](course)
+- How many credits is [Introduction to Finnish History](course)
+- How many ECTS is [Valinnainen jakso: Audiovisuaalisen kerronnan teoria ja dramaturgia](course)
+- How many student credits is [Tieteenfilosofia](course)
+- How many student points is [Latinalaisen amerikan lähihistoria ja kirjallisuus/Historia y literature contemporáneas de Latinoamérica](course)
+- Student points [Tutkimusseminaari ja pro gradu -tutkielma - Tutkimusseminaari](course)
+- Student credits [Jatkokoulutusseminaari](course)
+- ECTS [Johdanto tietokäytäntöjen tutkimukseen](course)
+- [Nuorten ryhmät ja ryhmän ohjaus, harjoitukset](course) ECTS
+- [Kasvatus tieteellisen tutkimuksen kohteena - verkko-opetus, IV-periodi](course) course points
+- [Tieteellinen kirjoittaminen / LUO & COMS](course) student points
+- [Ruotsin kielen kirjallinen ja suullinen viestintä (myös TTY:n biotekniikan opiskelijoille)](course) points
+- [Työhyvinvoinnin johtaminen (itsenäinen suoritustapa, kesäopinnot)](course) amount of points
+- [Orientaatio maisteriopintoihin](course) credits
+- [Tutkimuspraktikum](course) the amount of ECTS
+- How many points [Matemaattisen tilastotieteen perusteet](course) is
+- How many ECTS [Gradu-kvantimetodit](course) will be
+- Credits [Kansainvälisen politiikan teoria ja metateoria - Luentokurssi](course)
+- How many credits can I get from [Introduction to R](course)
+- How many ECTS can I get from [Innovation Project (2018-I)](course)
+- How many student points can I get from [ABC of Scientific Communication](course)
+- I want to know how many credits can I get from [Osallistuminen opiskelijavaihtoon](course)
+- I want to know how many ECTS can I get from [Fonetiikan tutkimusmenetelmät - Transkriptioharjoitukset](course)
+- I want to know how many student points can I get from [Johdatus kunta- ja aluejohtamiseen (avoin yliopisto-opetus), monimuoto-opetus](course)
+- I want to know the amount of student points [Vastuullisen liiketoiminnan case-kurssi](course)
+- How many points [TUTU2 Tulevaisuudentutkimuksen menetelmät](course)
+- How many credits [Media Landscape in Russia: Regional Perspective](course)
+- How many ECTS [Julkisen talousjohtamisen informaatio](course)
+- How many student credits [Vieraan kielen taito, perustaso](course)
+- How many student points [Tieteellinen kommunikaatio ja bibliometriikka](course)
+- How many student credits from [Gradu-kvantimetodit](course)
+- How many student points from [Kandidaatintutkielma(course)
+- How many ECTS from [Ympäristöpolitiikan vaikutuskeinot](course)
+- How many student credits is [Introduction to Academic English (diverse learners)](course)
+- How many points is [Tekstianalyysi - Harjoitukset](course)
+- How many credits is [Eduskuntavaalikurssi 2019 ja valinnainen tutkimusprojekti](course)
+- How many ECTS is [History of Education - book exam](course)
+- How many student credits is [Tekninen työ -](course)
+- How many student points is [Ruotsin kielen valmentava kurssi](course)
+- Student points [Laskentatoimen teoria ja IFRS II](course)
+- Student credits [Tuutorina toimiminen](course)
+- ECTS [Johdatus seminaarityöskentelyyn](course)
+- [Organisation Theory and Analysis](course) ECTS
+- [Opetus, ohjaus, oppiminen (toteutus aineenopettajan pedagogisia opintoja lukuvuonna 2018-2019 suorittaville)](course) course points
+- [Organisation Theory and Analysis](course) student points
+- [Foundations of Ecological Economics](course) points
+- [Communication Skills in English - Speaking Practice](course) amount of points
+- [Macroprudential Policy and Financial Stability](course) credits
+- [Introduction to Social Circus Pedagogy - (Tampere Summer School 2018)](course) the amount of ECTS
+- How many points [Saksa III](course) is
+- How many ECTS [New Forms of Violence, Change in Security Paradigm (book exam/essay)](course) will be
+- Credits [Julkisyhteisöjen kirjanpito ja tilinpäätös](course)
+- How many credits can I get from [Vuorovaikutuksen perusteet](course)
+- How many ECTS can I get from [Behavioral Finance](course)
+- How many student points can I get from [Erot, jaot ja niiden rakentuminen, kirjatentti, Pori](course)
+- I want to know how many credits can I get from [Biokemian menetelmät](course)
+- I want to know how many ECTS can I get from [Rahoitusoikeus](course)
+- I want to know how many student points can I get from [Kvantitatiivinen tutkimus kasvatustieteissä - Harjoitukset, varhaiskasv. ryhmä, luokanop. ja varhaiskasv. yhteinen ryhmä](course)
+- I want to know the amount of student points [Graduseminaari, alkava (Markkola)](course)
+- How many points [Lasten arki suomalaisessa yhteiskunnassa / Luennot - 1.vsk](course)
+- How many credits [Tuutorivastaavana toimiminen - Projekti/käytännön työ](course)
+- How many ECTS [Julkistalous](course)
+- How many student credits [Visuaalisen journalismin perusteet, luennot](course)
+- How many student points [Tutkimusseminaari ja pro gradu -tutkielma](course)
+- How many student credits from [Mediakasvatus, osallisuus ja aktiivinen kansalaisuus, kirjatentti, Seinäjoki](course)
+- How many student points from [Lasten arki suomalaisessa yhteiskunnassa / Luennot - 1.vsk(course)
+- How many ECTS from [Laatu, arviointi ja kehittäminen korkeakouluissa - Harjoitustyö](course)
+- How many student credits is [WWW Programming](course)
+- How many points is [Kandidaattiseminaari (JATKAVA, Vuolanto)](course)
+- How many credits is [Projektin suunnittelu ja johtaminen](course)
+- How many ECTS is [Liiketoiminnan analysoinnin ja kehittämisen case-kurssi](course)
+- How many student credits is [Kunnallisoikeuden syventävä jakso](course)
+- How many student points is [Pro gradu -seminaari 2018-2019 (vaihe I)](course)
+- Student points [Terve ja sairas ihminen](course)
+- Student credits [Psykologiharjoittelu](course)
+- ECTS [Eheyttävä musiikkikasvatus - Soitinrakennus](course)
+- [Tiimi toimii - puheviestinnän syventävä kurssi (3. - 4. periodi)](course) ECTS
+- [Intercultural Communication](course) course points
+- [Orientoivat opinnot Pori](course) student points
+- [Käännösviestintä I - Käännösviestintä I englanti-suomi](course) points
+- [Johdon laskentatoimen teoria -](course) amount of points
+- [Tutkielmapiiri: sota-ajan kirjeenvaihdon lingvistinen tutkimus](course) credits
+- [Language, Communication and Culture](course) the amount of ECTS
+- How many points [Scottish Literature](course) is
+- How many ECTS [Vanheneminen ikääntyvässä yhteiskunnassa](course) will be
+- Credits [The Transformation of Global Environmental Politics (Tampere Summer School 2018)](course)
+- How many credits can I get from [Venäjän kielen rakenne - Syntaksi](course)
+- How many ECTS can I get from [Tietotekniikka ja yhteiskunta](course)
+- How many student points can I get from [Teknologiat ja materiaalisuus terveyskysymyksissä](course)
+- I want to know how many credits can I get from [Media and the Arctic](course)
+- I want to know how many ECTS can I get from [Käsityöilmaisu - projekti/käytännön työ ja portfolio](course)
+- I want to know how many student points can I get from [Kuvataiteen perusteet - 1.vsk](course)
+- I want to know the amount of student points [Televisiojournalismi](course)
+- How many points [Kommunikationstraining I](course)
+- How many credits [Harjoittelu / Elinikäinen oppiminen ja kasvatus, Essee työkokemuksen pohjalta, klk19](course)
+- How many ECTS [Internet ja vuorovaikutteinen media](course)
+- How many student credits [Terveyden edistämisen perusteet (hoitotieteen opiskelijoille), kirjatentti, Seinäjoki](course)
+- How many student points [History of Education - book exam](course)
+- How many student credits from [Poliittiset ongelmat ja niiden muuttuvat kontekstit](course)
+- How many student points from [Kandidaatintutkielma - Seminaari ja tutkielma(course)
+- How many ECTS from [European, Eurasian and Global Energy Policies](course)
+- How many student credits is [Current Trends in Leadership](course)
+- How many points is [Kandidaattiseminaari ja -tutkielma (hallintotiede), syksy](course)
+- How many credits is [Henkilöstöjohtaminen](course)
+- How many ECTS is [Nordic Parliaments (POMLFCS1)](course)
+- How many student credits is [Käsityömuotoilu - projekti/käytännön työ ja protfolio](course)
+- How many student points is [Finlaysonin kielimaailmat](course)
+- Student points [Puheviestintä tieteenä](course)
+- Student credits [Valinnainen jakso: Valokuva historian tekijänä - luennot](course)
+- ECTS [Legal English](course)
+- [Musiikin tiedolliset valmiudet ja niiden soveltaminen - Harmonia ja improvisointi koskettimilla](course) ECTS
+- [Postcolonial Literature](course) course points
+- [Writing Scientific Journal Articles](course) student points
+- [Kansainvälinen talous](course) points
+- [English Word Formation](course) amount of points
+- [Valinnainen jakso: Tiedeviestinnän projekti](course) credits
+- [Valtiosääntöoikeus](course) the amount of ECTS
+- How many points [Valtakurssi](course) is
+- How many ECTS [Finnish Elementary Course 2 (taught in 4. period)](course) will be
+- Credits [Systemaattinen tiedonhaku hoitotieteessä, Seinäjoki](course)
+- How many credits can I get from [Translation and Academic Writing - Introduction to Academic Writing](course)
+- How many ECTS can I get from [Seminaari](course)
+- How many student points can I get from [Vastuullisen liiketoiminnan case-kurssi](course)
+- I want to know how many credits can I get from [Europe in transition](course)
+- I want to know how many ECTS can I get from [Johdatus hoitotieteelliseen tutkimukseen](course)
+- I want to know how many student points can I get from [Markkinoinnin johtaminen ja organisointi](course)
+- I want to know the amount of student points [Postgraduate seminar in Interactive Technology (Surakka)](course)
+- How many points [Eurooppalainen, euraasialainen ja globaali energiapolitiikka (kirjatentti/essee)](course)
+- How many credits [Human Mobility in Peace and Conflict Research](course)
+- How many ECTS [Eduskuntavaalikurssi 2019 ja valinnainen tutkimusprojekti](course)
+- How many student credits [Makrotalousteorian jatkokurssi II](course)
+- How many student points [Viestinnän ja median tutkimussuuntauksia](course)
+- How many student credits from [Minuus, identiteetti ja sosiaalinen konteksti](course)
+- How many student points from [Political Ideologies (book exam)(course)
+- How many ECTS from [Erikoiskurssi](course)
+- How many student credits is [Liikunnan projekti (5 op)](course)
+- How many points is [Eheyttävä musiikkikasvatus / Harjoitukset - 2.vsk](course)
+- How many credits is [Tutustuminen psykologin työhön](course)
+- How many ECTS is [Johdatus hoitotieteelliseen tutkimukseen, kirjatentti, Seinäjoki](course)
+- How many student credits is [Deutsch im Alltag und Studium](course)
+- How many student points is [Venäjä III](course)
+- Student points [Eriytyvä syventävä tutkimusmenetelmäkurssi A: Research methods in education policy](course)
+- Student credits [Poliittinen filosofia (kirjatentti/essee)](course)
+- ECTS [Media Landscape in Russia: Regional Perspective](course)
+- [Työelämäviestinnän tutkimus- tai kehityshanke](course) ECTS
+- [Biological data analysis with R](course) course points
+- [Introduction to Programming I (Tampere Summer School 2018)](course) student points
+- [Master's Thesis Seminar / Internet and Game Studies](course) points
+- [Käytännön opetus ja ohjaus - STYA3B2 Käytännön opetus ja ohjaus](course) amount of points
+- [Ympäristön ja alueiden poliittisuus (avoin yliopisto-opetus), monimuoto-opetus](course) credits
+- [Gender and wellbeing in the global South and North](course) the amount of ECTS
+- How many points [Äänne- ja muoto-oppi](course) is
+- How many ECTS [Näkökulmia kääntämiseen - Johdatus käännösprosessiin](course) will be
+- Credits [Speakers Series](course)
+- How many credits can I get from [Talous - politiikka - kulttuuri -lukupiiri](course)
+- How many ECTS can I get from [Ruotsin kielen kirjallinen ja suullinen viestintä](course)
+- How many student points can I get from [Advanced International Relations Research Methods (book exam/essay)](course)
+- I want to know how many credits can I get from [Eettinen johtajuus](course)
+- I want to know how many ECTS can I get from [Political Systems (book exam/essay)](course)
+- I want to know how many student points can I get from [Poliittiset ongelmat ja niiden muuttuvat kontekstit](course)
+- I want to know the amount of student points [Tutkimuspraktikum](course)
+- How many points [Kiina II](course)
+- How many credits [Inklusiivinen koulu - Luennot, seminaarit, kenttätehtävä ja raportointi](course)
+- How many ECTS [Research seminar for postgraduate studies](course)
+- How many student credits [Introduction to R](course)
+- How many student points [Yhteisöllinen oppiminen ja ohjaus - Seminaari](course)
+- How many student credits from [Kirjallinen ja suullinen viestintä III/Pis'mennaja i razgovornaja praktika](course)
+- How many student points from [Tieteellinen kirjoittaminen(course)
+- How many ECTS from [Conflict Resolution (book exam/essay)](course)
+- How many student credits is [Visuaalisen journalismin perusteet, luennot](course)
+- How many points is [Everything You Wanted to Know about Political Parties - But Never Dared to Ask (POMLFCS1)](course)
+- How many credits is [Yksilö, yhteiskunta ja kulttuuri - evankelisluterilaiset uskonnon ja elämänkatsomustiedon harjoitusryhmät - 2. vsk](course)
+- How many ECTS is [Research Seminar, Doctoral Programme in Language Studies](course)
+- How many student credits is [Strategia ja yrittäjyys](course)
+- How many student points is [Talous ja yhteiskunta](course)
+- Student points [Business Writing](course)
+- Student credits [Kvalitatiiviset menetelmät](course)
+- ECTS [Terveystaloustieteen tohtorikoulutussemiaari](course)
+- [MA Thesis Seminar](course) ECTS
+- [Tutkimusetiikka](course) course points
+- [Historiankirjoituksen historia](course) student points
+- [Emotions and Sociality in Human-Technology Interaction](course) points
+- [Väittelijän puheviestintä](course) amount of points
+- [Teoria- ja metodiopinnot teatteritaiteen tohtorin tutkinnossa](course) credits
+- [Terve ja turvallinen kouluyhteisö](course) the amount of ECTS
+- How many points [Kieliopin harjoitukset](course) is
+- How many ECTS [Kandidaattiseminaari ja -tutkielma (julkisoikeus), kevät -](course) will be
+- Credits [Literature and Society in Early Modern Britain](course)
+- How many credits can I get from [Current theoretical questions of educational research](course)
+- How many ECTS can I get from [Opetussuunnitelmatyö yliopistossa](course)
+- How many student points can I get from [Omaan tieteenalaan ja tutkimusaiheeseen liittyvät opinnot teatteritaiteen tohtorin tutkinnossa](course)
+- I want to know how many credits can I get from [Perusharjoittelu](course)
+- I want to know how many ECTS can I get from [Tiedonhankintataidot (hoitotiede)](course)
+- I want to know how many student points can I get from [Intercultural Communication](course)
+- I want to know the amount of student points [Studies of expansive learning: Foundations, findings and challenges](course)
+- How many points [Kokeellinen tiedonhaku](course)
+- How many credits [Filosofian tutkija- ja tohtorikoulutusseminaari](course)
+- How many ECTS [Julkistalouden jatkokurssi](course)
+- How many student credits [Moniammatillinen -klinikkaopetus](course)
+- How many student points [Media and the Arctic (POMLFCS3)](course)
+- How many student credits from [Genes and Genomes](course)
+- How many student points from [Kandidaatintutkielmaseminaari - Seminaari(course)
+- How many ECTS from [Usean muuttujan differentiaalilaskenta](course)
+- How many student credits is [Tietokäytännöt (syksyllä 2018 perusopinnot aloittaville) - verkkokurssi](course)
+- How many points is [Kirjallisuuden- ja kulttuurintutkimuksen teoriat](course)
+- How many credits is [Orientoivat opinnot - Tiedonhankintataidot I](course)
+- How many ECTS is [Äärellisten mallien teorian seminaari (Finite model theory seminar)](course)
+- How many student credits is [Foreign Policy and Diplomacy (book exam/essay)](course)
+- How many student points is [Teoria, ideologia & talouspolitiikka - Keynesiläisyydestä uusliberalismiin](course)
+- Student points [Laskentatoimen perusteet](course)
+- Student credits [Informaatio- ja mediajärjestelmien historiaa ja nykypäivää (keväällä 2019 perusopinnot aloittaville) - verkkokurssi](course)
+- ECTS [Aktuelle Texte aus Presse und Studium](course)
+- [Kirjallisuuden opettaminen](course) ECTS
+- [Liikunta - Liikuntapedagogiikka perusopetuksessa A ensisijaisesti opinnot 1½ lukuvuodessa suorittavat lo-opiskelijat](course) course points
+- [Welfare State Theories](course) student points
+- [Tutkielmaseminaari - Seminaari](course) points
+- [Empiiristen tutkimusmenetelmien yleisesitykset (kirjatentti/essee)](course) amount of points
+- [Lukuteoria ja algebra opettajille -](course) credits
+- [Talouselämän käännösviestinnän seminaari suomi-saksa -](course) the amount of ECTS
+- How many points [Kandidaatin tutkielma ja seminaari, (hoitotieteen opiskelijoille), Seinäjoki](course) is
+- How many ECTS [Kvantitatiivinen tutkimus kasvatustieteissä - Harjoitukset, varhaiskasv. ryhmä, luokanop. ja varhaiskasv. yhteinen ryhmä](course) will be
+- Credits [Seminaari II / Seminar II](course)
+- How many credits can I get from [Terveys, tieto, asiantuntijuus](course)
+- How many ECTS can I get from [Media maailmassa - verkkokurssi](course)
+- How many student points can I get from [Kirjallisuudentutkijan työkalupakki tieteellisiin kertomuksiin](course)
+- I want to know how many credits can I get from [Master's Thesis Seminar / Internet and Game Studies](course)
+- I want to know how many ECTS can I get from [Medioitu vuorovaikutus](course)
+- I want to know how many student points can I get from [Structure of English II - Grammar II](course)
+- I want to know the amount of student points [Uuden ajan alun (1500-1800) tutkimuksen lähteet ja menetelmät](course)
+- How many points [Kääntämisen ja tulkkauksen teoria ja käytäntö - Terminologia](course)
+- How many credits [Oppimisen ja opiskelun taidot](course)
+- How many ECTS [Orientaatio filosofian tutkinto-ohjelman opintoihin](course)
+- How many student credits [Kulutuksen ja ostokäyttäytymisen teoria](course)
+- How many student points [Yritysetiikka (verkkokurssi)](course)
+- How many student credits from [Kuva-  ja mediakulttuurit - Kuvakulttuurit - 1. vsk ja erillisen opinto-oikeuden POM-opintoihin saaneet opiskelijat (luennot)](course)
+- How many student points from [Introduction to Academic English (online / JKK, EDU, LUO, COMS & SOC)(course)
+- How many ECTS from [Internet ja vuorovaikutteinen media (keväällä 2018 perusopinnot aloittaneille) - verkkokurssi](course)
+- How many student credits is [Linguistics I: Introduction to Basic Concepts](course)
+- How many points is [Espanjan historia ja kirjallisuus - Historia y literatura de España](course)
+- How many credits is [Pro gradu -seminaari ja -tutkielma](course)
+- How many ECTS is [Julkissektorin instituutioiden talous (monimuoto-opetus)](course)
+- How many student credits is [Comparative Criminal Justice](course)
+- How many student points is [Kehittävä asiantuntijatyö organisaatioissa](course)
+- Student points [Projektiharjoittelu](course)
+- Student credits [Writing the Nation](course)
+- ECTS [Visuaalisen journalismin perusteet, harjoitukset](course)
+- [Väestön vanheneminen, terveys ja hyvinvointi](course) ECTS
+- [Lapset ympäristönsä tutkijoina - Matematiikka](course) course points
+- [Ruotsin kielen kirjallinen ja suullinen viestintä](course) student points
+- [Moniammatillinen -klinikkaopetus](course) points
+- [Kandidaattiseminaari (JATKAVA, Katermaa)](course) amount of points
+- [Visuality, security and peace: Introduction into visual peace research and visual security studies](course) credits
+- [Minustako asiantuntijamyynnin ammattilainen?](course) the amount of ECTS
+- How many points [Tiedon rajat](course) is
+- How many ECTS [Introduction to computational biology](course) will be
+- Credits [Political Ideologies (book exam)](course)
+- How many credits can I get from [Orientoivat opinnot ja HOPS (pohjoismaiset kielet)](course)
+- How many ECTS can I get from [Protein technology Laboratory Course A](course)
+- How many student points can I get from [Tutkimustyön perusteet - a) Tieteenfilosofia](course)
+- I want to know how many credits can I get from [Pro gradu -seminaari ja -tutkielma (2018-2019)](course)
+- I want to know how many ECTS can I get from [Suullinen viestintä I/Muntlig kommunikation I](course)
+- I want to know how many student points can I get from [Seminaari (Seppänen) jatkuu keväältä](course)
+- I want to know the amount of student points [Master's Thesis Seminar in Software Development](course)
+- How many points [Tutkielmakurssi (periodi I)](course)
+- How many credits [Tasa-arvon ja yhdenvertaisuuden edistäminen työnä (verkkokurssi)](course)
+- How many ECTS [Liiketoimintamallit](course)
+- How many student credits [Käännös suomi-espanja I/Traducción finés-español I](course)
+- How many student points [Linguistics I: Introduction to Basic Concepts](course)
+- How many student credits from [Specialised International Relations Research Methods (book exam/essay)](course)
+- How many student points from [Kielioppi I (suomenkieliset opiskelijat)(course)
+- How many ECTS from [Kehitys, kasvatus ja elämänkulku, monimuoto-opetus](course)
+- How many student credits is [High-throughput data analysis](course)
+- How many points is [Kandidaattiseminaari ja tutkielma (yrityksen johtaminen) - syksy 2018](course)
+- How many credits is [Introduction to research methods in public administration](course)
+- How many ECTS is [Media and Globalization - Lectures + essay](course)
+- How many student credits is [Asiantuntijan puheviestintä ja vuorovaikutus / avoin yliopisto-opetus](course)
+- How many student points is [Johdatus logiikkaan 1](course)
+- Student points [Äidinkieli ja kirjallisuus - Lukeminen ja kirjoittaminen - 1. vsk (luennot)](course)
+- Student credits [Biostatistics](course)
+- ECTS [Syventävä projekti, syksyllä 2018 alkava](course)
+- [Nimistöntutkimus](course) ECTS
+- [Tieteellinen kirjoittaminen / SOC (historia & filosofia)](course) course points
+- [Russia beyond Russia. Case Study Finland](course) student points
+- [Lausekielinen ohjelmointi I](course) points
+- [Graduseminaari (Junkkari)](course) amount of points
+- [Venäjä IV](course) credits
+- [NEDIS tohtorikoulutusseminaari (Lasten ja nuorten terveyden edistämisen tutkimus)](course) the amount of ECTS
+- How many points [ABC of Scientific Communication](course) is
+- How many ECTS [Kasvatus tieteellisen tutkimuksen kohteena, avoin yo, lähi- ja monimuotototeutus](course) will be
+- Credits [Graduseminaari (Ruohonen)](course)
+- How many credits can I get from [Opetus, ohjaus, oppiminen - Luennot (1 op) EDUn opiskelijoille TAI luennot (1 op) ja kirjatentti (4 op) opintojakson valinnaisena suorittaville](course)
+- How many ECTS can I get from [Systems biology methods](course)
+- How many student points can I get from [Kasvatustieteen metodologiset lähtökohdat - Luennot ja kirjatentti TAI kirjatentti](course)
+- I want to know how many credits can I get from [Vaihtuva-alainen kurssi: Oppimisvaikeudet](course)
+- I want to know how many ECTS can I get from [Liikunta - Liikuntapedagogiikan perusteet - 1 vsk ja  erillisen opinto-oikeuden POM-opintoihin saaneet opiskelijat](course)
+- I want to know how many student points can I get from [Yritysverotus](course)
+- I want to know the amount of student points [Orientoivat opinnot ja HOPS](course)
+- How many points [Perspectives to sustainable organisational and societal change](course)
+- How many credits [Työn taloustiede](course)
+- How many ECTS [Osallisuudet, oikeudet ja vastuut palvelujärjestelmäkohtaamisissa](course)
+- How many student credits [Sosiaalityön harjoittelu + kehittämistyön harjoittelu - STYS2B2 Harjoitteluseminaari](course)
+- How many student points [Kulttuuripsykologian perusteet](course)
+- How many student credits from [Tieteellinen kirjoittaminen / SOC (historia & filosofia)](course)
+- How many student points from [Julkisyhteisöjen kirjanpito ja tilinpäätös(course)
+- How many ECTS from [Networks in Service Business](course)
+- How many student credits is [Case study: Examining leadership challenges](course)
+- How many points is [Studies of expansive learning: Foundations, findings and challenges](course)
+- How many credits is [Political Economy](course)
+- How many ECTS is [Bioinformatics tools (spring 2019)](course)
+- How many student credits is [Teoria, ideologia & talouspolitiikka - Keynesiläisyydestä uusliberalismiin](course)
+- How many student points is [Asiantuntijan puheviestintä ja vuorovaikutus (4. periodi) / KTM-tutkinto](course)
+- Student points [Euroopan unionin finanssihallinto-oikeus - Luennot ja tentti.](course)
+- Student credits [Terveystiedon asiantuntijuus (sähköinen tentti)](course)
+- ECTS [Valokuva historian tekijänä](course)
+- [Political Systems Outside of Europe (book exam/essay)](course) ECTS
+- [PlayLab! Game Journalism Project](course) course points
+- [Finnish Society and Culture (spring)](course) student points
+- [Talous ja yhteiskunta](course) points
+- [Tieteellinen kirjoittaminen (SOC)](course) amount of points
+- [Asiakastyön teorioita ja menetelmiä - STYA3A2 Asiakastyön menetelmät, luennot](course) credits
+- [Kehittyminen hoitotyön opettajaksi ja kouluttajaksi](course) the amount of ECTS
+- How many points [Kokeellinen, kokeileva ja kokemuksellinen sosiaalipsykologia](course) is
+- How many ECTS [Tekninen viestintä ja informaation suunnittelu](course) will be
+- Credits [Fonetiikan ja yleisen kielitieteen perusteet - Yleinen kielitiede](course)
+- How many credits can I get from [Orientation - Orientation to studying in the Computational Big Data Analytics programme](course)
+- How many ECTS can I get from [Käytännön opetus ja ohjaus](course)
+- How many student points can I get from [Seminaari](course)
+- I want to know how many credits can I get from [Kansainvälinen yhteisö (kirjatentti/essee)](course)
+- I want to know how many ECTS can I get from [Introduction to Statistics (Tampere Summer School)](course)
+- I want to know how many student points can I get from [Introduction to research methods in public administration](course)
+- I want to know the amount of student points [Radiojournalismi](course)
+- How many points [Media and the Arctic (POMLFCS3)](course)
+- How many credits [Suunnittelu ja kehittäminen hoitotyön johtamisessa](course)
+- How many ECTS [Feministiset politiikat ja asiantuntijuus](course)
+- How many student credits [Sanastotyö](course)
+- How many student points [Seminaari](course)
+- How many student credits from [Luottamustehtävissä toimiminen - Luottamustehtäväraportti](course)
+- How many student points from [Individual project course(course)
+- How many ECTS from [Kognitiivinen neurotiede II](course)
+- How many student credits is [Children, young people, politics and participation](course)
+- How many points is [Rahoituksen jatkokurssi](course)
+- How many credits is [Tutkimusseminaari ja pro gradu -tutkielma](course)
+- How many ECTS is [Kielen kehitys / Luennot- 2.vsk + 1.vsk ryhmät 6 ja 7](course)
+- How many student credits is [Johdatus länsimaiseen kirjallisuushistoriaan - harjoitukset](course)
+- How many student points is [Dialogue: Constructive Talk at Work](course)
+- Student points [Draama - 2.vsk ja   opinnot 1½ lukuvuodessa suorittavat 1.vsk ja POM-opintoihin opinto-oikeuden saaneet opiskelijat( luennot)](course)
+- Student credits [Johdatus hallintotieteeseen (avoin yliopisto-opetus), monimuoto-opetus](course)
+- ECTS [Case study: Examining leadership challenges](course)
+- [Nuorisotyön ja nuorisotutkimuksen maisteriohjelman lähijakso 29.-30.8.2018](course) ECTS
+- [Konfliktinratkaisu (kirjatentti/essee)](course) course points
+- [Peace, Security and International Institutions (book exam/essay)](course) student points
+- [Pratiques de l'oral et de l'écrit / Ranskan kielen tuottaminen](course) points
+- [Organisational Change Dynamics and Management](course) amount of points
+- [Romanian kielen jatkokurssi II / Advanced Course 2 in Romanian -](course) credits
+- [Valtio-opin johdantokurssi](course) the amount of ECTS
+- How many points [Eliittiteoriat ja -tutkimus](course) is
+- How many ECTS [Minuus, identiteetti ja sosiaalinen konteksti](course) will be
+- Credits [Johdatus kulttuurisosiologiaan](course)
+- How many credits can I get from [Macroprudential Policy and Financial Stability](course)
+- How many ECTS can I get from [Empiiristen tutkimusmenetelmien yleisesitykset (kirjatentti/essee)](course)
+- How many student points can I get from [Monimuuttujamenetelmien perusteet](course)
+- I want to know how many credits can I get from [Reading Waste](course)
+- I want to know how many ECTS can I get from [Uuden ajan alun (1500-1800) tutkimuksen lähteet ja menetelmät](course)
+- I want to know how many student points can I get from [Inklusiivinen varhaiskasvatus / Harjoitukset - 3.vsk](course)
+- I want to know the amount of student points [Harjoittelu / Elinikäinen oppiminen ja kasvatus - Arviointiseminaari vuonna 2018 harjoitteleville](course)
+- How many points [Tutkielmaseminaari (keväällä 2019 alkavat seminaarit) - Seminaari](course)
+- How many credits [Liike-elämän ruotsia I](course)
+- How many ECTS [Sociolinguistics](course)
+- How many student credits [Tieteellinen kirjoittaminen / SOC (historia & filosofia)](course)
+- How many student points [Strategisen markkinoinnin caset](course)
+- How many student credits from [Julkisen hallinnon reformit ja muutos](course)
+- How many student points from [Software Project Management, Theory(course)
+- How many ECTS from [Digitaalinen historia](course)
+- How many student credits is [Academic Presentations](course)
+- How many points is [Kirjallinen viestintä I - Sanasto- ja rakenneharjoitukset](course)
+- How many credits is [Terveystiedon didaktiikan perusteet](course)
+- How many ECTS is [Regression analysis](course)
+- How many student credits is [Algebra 1A](course)
+- How many student points is [Tieteellinen kirjoittaminen ja politiikan tutkimuksen aineistot](course)
+- Student points [Moniammatilliset oppimisyhteisöt - Seminaari](course)
+- Student credits [Universal Basic Income](course)
+- ECTS [Arviointimenetelmät](course)
+- [Rakennebiologia](course) ECTS
+- [Tuutorina toimiminen](course) course points
+- [Sosiaalityön toimintaympäristöt (kirjatentti)](course) student points
+- [Global Ghallenges to the Future of Welfare State (Tampere Summer School 2018)](course) points
+- [Political Systems Outside of Europe (book exam/essay)](course) amount of points
+- [Bachelor's Thesis Seminar - seminar in English](course) credits
+- [Johdon laskentatoimen perusteet (avoin yliopisto-opetus)](course) the amount of ECTS
+- How many points [Kehittävä asiantuntijatyö organisaatioissa](course) is
+- How many ECTS [Kansainvälisen politiikan teoria ja metateoria - Luentokurssi](course) will be
+- Credits [Accounting Information Systems](course)
+- How many credits can I get from [Applied and Effective Project Management, Leadership and Communication - (Tampere Summer School)](course)
+- How many ECTS can I get from [Parhaat filosofiset artikkelit](course)
+- How many student points can I get from [Medical English - Introduction to Scientific Writing](course)
+- I want to know how many credits can I get from [Espanja IV](course)
+- I want to know how many ECTS can I get from [Government and Society: Inequality](course)
+- I want to know how many student points can I get from [Terveys ja talous](course)
+- I want to know the amount of student points [Kuvataiteen vaihtuvateemainen opintojakso/Elokuva mediakasvatuksen välineenä](course)
+- How many points [Research seminar for postgraduate studies](course)
+- How many credits [Julkisoikeuden perusteet (järjestäjä TAMK)](course)
+- How many ECTS [Kandidaattiseminaari (JATKAVA, Nevala)](course)
+- How many student credits [Pohjoismaiden yhteiskuntaolot ja kulttuurit](course)
+- How many student points [Terveys, arki ja toimijuus, luennot](course)
+- How many student credits from [Todennäköisyyslaskenta](course)
+- How many student points from [Proseminaari (ryhmä 2)(course)
+- How many ECTS from [Talouselämän ja tekniikan käännösviestinnän seminaari saksa-suomi](course)
+- How many student credits is [Introduction to Pharmacology and Drug Modelling](course)
+- How many points is [Media and the Arctic](course)
+- How many credits is [Venäjän kulttuuri](course)
+- How many ECTS is [Pratiques de l'écrit: méthodes et techniques d'expression écrite/Kirjoitusharjoituksia: kirjallisen esityksen metodit ja tekniikka](course)
+- How many student credits is [Tutkimustyötä tukevat tohtoriopinnot - Doctoral Studies in Information Studies and Interactive Media](course)
+- How many student points is [Laskentatoimen teoria ja IFRS II](course)
+- Student points [Pohjoismaisten kielten lähtötasokoe](course)
+- Student credits [Lääketieteellisen tutkimuksen etiikka](course)
+- ECTS [Planning, Managing and Completing Your Doctoral Thesis](course)
+- [Ruotsin kielen kirjallinen ja suullinen viestintä (myös TTY:n biotekniikan opiskelijoille)](course) ECTS
+- [Innovation Project (2018-I)](course) course points
+- [Oppimisyhteisöt ja vuorovaikutus, kirjatentti, Pori](course) student points
+- [Erot, jaot ja niiden rakentuminen, kirjatentti, Pori](course) points
+- [Kansainvälisen politiikan menetelmäseminaari (kirjatentti)](course) amount of points
+- [Kauppatieteellisen tutkimuksen menetelmät (vakuutus ja riskienhallinta + laskentatoimi)](course) credits
+- [Musiikin tiedolliset valmiudet ja niiden soveltaminen - Musiikkitieto](course) the amount of ECTS
+- How many points [Becoming an Efficient Researcher](course) is
+- How many ECTS [Romanticism and Its Legacy](course) will be
+- Credits [Symbols that move us - popular culture/deep culture](course)
+- How many credits can I get from [Translating and Editing for Publication](course)
+- How many ECTS can I get from [Mediakasvatus, osallisuus ja aktiivinen kansalaisuus, kirjatentti](course)
+- How many student points can I get from [Nuorisotyö ja nuorten elämänkulku](course)
+- I want to know how many credits can I get from [Asiantuntijan puheviestintä ja vuorovaikutusosaaminen](course)
+- I want to know how many ECTS can I get from [Musiikki - Musiikin teoria alakoulussa - 1. vsk ja  erillisen opinto-oikeuden POM-opintoihin saaneet opiskelijat](course)
+- I want to know how many student points can I get from [Poliittiset instituutiot ja prosessit (kirjatentti/essee)](course)
+- I want to know the amount of student points [Basics II: Intermediate Czech I](course)
+- How many points [Venäjä I](course)
+- How many credits [Kirjasto- ja tietopalvelujen suunnittelu ja arviointi](course)
+- How many ECTS [Terveydenhuollon koulutuspolitiikka](course)
+- How many student credits [Tietojärjestelmän suunnittelun perusteet - Näyttökoe, syksy 2018](course)
+- How many student points [Arviointimenetelmät](course)
+- How many student credits from [Civil Society and Political Participation (book exam/essay)](course)
+- How many student points from [Laajentava harjoittelu(course)
+- How many ECTS from [Erot, jaot ja niiden rakentuminen - Luennot ja lukupiiri (klk) TAI kirjatentti (slk ja klk)](course)
+- How many student credits is [Johdon laskentatoimen jatkokurssi](course)
+- How many points is [Responsible Business and Social Accounting (Lectures)](course)
+- How many credits is [Basic Studies in Education -courses, introductory meetings, reading circles and book exams](course)
+- How many ECTS is [Kirjallisuustieteen syysseminaari: Ihmesaduista adaptaatioihin. Näkökulmia sadun ja fantasian tutkimukseen](course)
+- How many student credits is [Syntyvyys, hoiva, sukupolvi](course)
+- How many student points is [Ainedidaktiikka I](course)
+- Student points [Menetelmäopinnot / Kielentutkimuksen metodit](course)
+- Student credits [Mediatutkimuksen valinn. jakso: Ääni, teknologia ja kulttuuri](course)
+- ECTS [Immunologian perusteet](course)
+- [Orientation - Orientation to studying in the Degree Programme](course) ECTS
+- [Oikeudellisen tutkimuksen perusteet](course) course points
+- [Lapset ympäristönsä tutkijoina - Käsityö](course) student points
+- [Toisen kielen oppiminen ja opetus](course) points
+- [Nuorisotyön toimintaympäristöt, työmuodot ja menetelmät](course) amount of points
+- [Introduction to Statistics](course) credits
+- [Suullinen ja kirjallinen taito - Ääntämisharjoitukset ja tekstinymmärtäminen/Expresión oral y escrita - Pronunciación y Comprensión de textos](course) the amount of ECTS
+- How many points [Poliittinen filosofia (kirjatentti/essee)](course) is
+- How many ECTS [Liike-elämän ruotsia I](course) will be
+- Credits [Genetics and Pathogenesis of Common Killers](course)
+- How many credits can I get from [Studia generalia: Lastenkirja kääntäjän kädessä](course)
+- How many ECTS can I get from [Systemaattinen tiedonhaku hoitotieteessä, Seinäjoki](course)
+- How many student points can I get from [Journalistinen kieli - Kielenhuolto, lauseoppi](course)
+- I want to know how many credits can I get from [Kielioppi II/Språkets strukturer II](course)
+- I want to know how many ECTS can I get from [Sopimusoikeus](course)
+- I want to know how many student points can I get from [Foundations of English Business Communication](course)
+- I want to know the amount of student points [Käsitteellinen mallintaminen I](course)
+- How many points [Puheviestinnän tutkimuskurssi](course)
+- How many credits [Monikulttuurisuus ja koulutuspolitiikka - Seminaari](course)
+- How many ECTS [Espanjan kielioppi II/Gramática española II](course)
+- How many student credits [Tekninen kirjoittaminen (englanti)](course)
+- How many student points [Tieteellinen kirjoittaminen](course)
+- How many student credits from [Seminaari](course)
+- How many student points from [Terve ja turvallinen kouluyhteisö(course)
+- How many ECTS from [Kvalitatiivinen tutkimus kasvatustieteissä - Verkkokurssi, yhteisopetus avoimen yo:n ja tutkinto-opiskelijoille](course)
+- How many student credits is [Eriytyvä syventävä tutkimusmenetelmäkurssi A: Etnografia](course)
+- How many points is [Tietojärjestelmän suunnittelun perusteet](course)
+- How many credits is [Kieli käyttöön/Språket i bruk](course)
+- How many ECTS is [Orientaatio tutkielman tekemiseen -](course)
+- How many student credits is [Johdatus länsimaiseen kirjallisuushistoriaan - luennot](course)
+- How many student points is [Musiikin perusteet / Luennot - 1.vsk ryhmät 1-5](course)
+- Student points [Making sense of globalization - Theorizing beyond the nation-state - Lectures + essay](course)
+- Student credits [Tutkielmapiiri](course)
+- ECTS [Introduction to International Criminal Justice System](course)
+- [Scientific Writing - Module A - Writing Clinic](course) ECTS
+- [Monikulttuurisen sosiaalityön erityiskysymykset - Sosnet verkkokurssi](course) course points
+- [Johtaminen ja organisaatiot II](course) student points
+- [Espanja IV](course) points
+- [Tilastotieteen johdantokurssi, iltaryhmä](course) amount of points
+- [Terveys, arki ja toimijuus, luennot](course) credits
+- [Eriytyvä syventävä tutkimusmenetelmäkurssi A: Laadullisen aineiston analyysi](course) the amount of ECTS
+- How many points [Practical Observation and Reflection of ECEC - Observation, written tasks, report](course) is
+- How many ECTS [Johdatus vuorovaikutteiseen teknologiaan](course) will be
+- Credits [Johdatus Suomen kirjallisuushistoriaan - luennot](course)
+- How many credits can I get from [Liberalismi ja demokratia](course)
+- How many ECTS can I get from [Sosiaalipolitiikka (lähi- ja monimuotokurssi)](course)
+- How many student points can I get from [Matematiikan gradustartti](course)
+- I want to know how many credits can I get from [Tekstin tekemisen perusteet](course)
+- I want to know how many ECTS can I get from [Rahoitusekonometria](course)
+- I want to know how many student points can I get from [Ruotsin kielen kirjallinen ja suullinen viestintä / Monenlaisten oppijoiden ryhmä](course)
+- I want to know the amount of student points [Harjoittelu / Elinikäinen oppiminen ja kasvatus, Essee työkokemuksen pohjalta, klk19](course)
+- How many points [Asiantuntijan puheviestintä ja vuorovaikutus opetus- ja kasvatustyössä (2. periodi)](course)
+- How many credits [Orientation](course)
+- How many ECTS [Statistical Modeling 1](course)
+- How many student credits [Environmental History and Cultural Ecology of Russia (VENS20)](course)
+- How many student points [Valinnainen jakso: Radioprojekti (kevät)](course)
+- How many student credits from [Hallintotieteen teoriat ja käsitteet](course)
+- How many student points from [Nykyajan filosofia(course)
+- How many ECTS from [Media and Globalization - Lectures + essay](course)
+- How many student credits is [Rahoituksen perusteet](course)
+- How many points is [International Political Economy](course)
+- How many credits is [Kvalitatiivinen tutkimus kasvatustieteissä - Harjoitukset, luokanopettajaopiskelijat](course)
+- How many ECTS is [Kehitys, kasvatus ja elämänkulku, monimuoto-opetus](course)
+- How many student credits is [Orientoivat ja asiantuntijuuden kehittymistä tukevat opinnot - Kasvatustieteellinen luku- ja kirjoitustaito](course)
+- How many student points is [Monikielinen käännöstyöpaja](course)
+- Student points [Biologia ja ympäristötieto - Biologian ja maantieteen perusteet- 1.vsk ja erillisen opinto-oikeuden POM-opintoihin saaneet opiskelijat (luennot)](course)
+- Student credits [Dialogitulkkaus / Dialogdolmetschen](course)
+- ECTS [Gender in Society](course)
+- [Kandidaattiseminaari (JATKAVA, Nenonen)](course) ECTS
+- [Työelämän korttipakka](course) course points
+- [Kohti matematiikan opettajuutta 2 (TTY)](course) student points
+- [Kertomuksen vaarat](course) points
+- [Bioinformatics](course) amount of points
+- [Current and Future Challenges of World Politics and Economy (POMLFCS3)](course) credits
+- [Bioinformatics project](course) the amount of ECTS
+- How many points [European Integration and Disintegration (BOOK EXAM POLKVS32)](course) is
+- How many ECTS [Politiikan tutkimuksen kandidaatintutkielma ja -seminaari](course) will be
+- Credits [Deutsch im Alltag und Studium](course)
+- How many credits can I get from [Johdatus kirjallisuuden poetiikkaan](course)
+- How many ECTS can I get from [Personal Study Planning](course)
+- How many student points can I get from [Tutkielmaseminaari (logopedia)](course)
+- I want to know how many credits can I get from [Kognitiivinen neurotiede I](course)
+- I want to know how many ECTS can I get from [Medioitu vuorovaikutus](course)
+- I want to know how many student points can I get from [Lapset kehittyvinä ja sosiaalisina toimijoina varhaiskasvatuksessa / Harjoitukset - 1.vsk](course)
+- I want to know the amount of student points [Literature and Urban Space](course)
+- How many points [Postcolonial Literature](course)
+- How many credits [Sidosryhmäteoria ja -johtaminen](course)
+- How many ECTS [Pro gradu -tutkielma ja -seminaari](course)
+- How many student credits [Kandidaatintutkielma](course)
+- How many student points [Genes and Genomes](course)
+- How many student credits from [Business, Society and Nature (Independent study) Autumn 2018](course)
+- How many student points from [Learning difficulties and the challenges in schooling in multicultural settings: critical reflections on the role of teachers(course)
+- How many ECTS from [Sukupuoli, perhe ja yhteiskunta](course)
+- How many student credits is [Pääoma-lukuseminaari](course)
+- How many points is [Vuorovaikutuksen perusteet](course)
+- How many credits is [Speakers Series](course)
+- How many ECTS is [Markkinoinnin teoria](course)
+- How many student credits is [Regression analysis](course)
+- How many student points is [Statistics](course)
+- Student points [Terveystiedon didaktiikan perusteet](course)
+- Student credits [SPSS:n perusteet, kevät](course)
+- ECTS [EU:n ulkosuhteiden erityiskysymykset: turvallisuus, talous ja arvot (kirjatentti/essee)](course)
+- [Saksan kielen valmentava kurssi - Interkulturelles Training](course) ECTS
+- [Espanjan historia ja kirjallisuus - Historia y literatura de España](course) course points
+- [Julkisen toiminnan tuloksellisuuden arviointi](course) student points
+- [Sosiaalioikeus I](course) points
+- [Molekulaarinen solubiologia](course) amount of points
+- [Pro gradu -tutkielma ja -seminaari, tammikuussa 2018 aloittaneet ryhmät](course) credits
+- [Johdon laskentatoimen jatkokurssi](course) the amount of ECTS
+- How many points [Kandidaatintutkielma ja seminaari, lukuvuosi 2018-2019](course) is
+- How many ECTS [Kiina I](course) will be
+- Credits [Laskentatoimi ja talousjohtaminen](course)
+- How many credits can I get from [Moniammatilliset johtamisopinnot](course)
+- How many ECTS can I get from [Variety in Present-day English](course)
+- How many student points can I get from [Kehityspsykologia I](course)
+- I want to know how many credits can I get from [Maisteriopintojen esittely - TIM](course)
+- I want to know how many ECTS can I get from [Foundations of English Business Communication (RPL) / näyttökoe](course)
+- I want to know how many student points can I get from [Tieteellinen kirjoittaminen](course)
+- I want to know the amount of student points [Valokuva historian tekijänä](course)
+- How many points [Cancer Biology](course)
+- How many credits [Ruotsin kielen kirjallinen ja suullinen viestintä](course)
+- How many ECTS [Pelit ja pelillisyys (syksyllä 2017 perusopinnot aloittaneille) - verkkokurssi](course)
+- How many student credits [Terveystieteiden tilastolliset tutkimusmenetelmät](course)
+- How many student points [Latinalaisen Amerikan historia ja kirjallisuus - Historia y literatura de Latinoamérica](course)
+- How many student credits from [Saksan kielen valmentava kurssi - Interkulturelles Training](course)
+- How many student points from [Soveltava projekti - projekti(course)
+- How many ECTS from [Kuva-  ja mediakulttuurit - Mediakulttuurit- I vsk ja  erillisen opinto-oikeuden POM-opintoihin saaneet opiskelijat (luennot)](course)
+- How many student credits is [Research on Society and Organisations](course)
+- How many points is [Innovation Project (2018-II)](course)
+- How many credits is [Master's Seminar and Thesis](course)
+- How many ECTS is [Laboroinnin perusteet](course)
+- How many student credits is [Journalism Start-Ups and Enterpreneurialism](course)
+- How many student points is [Moniammatilliset johtamisopinnot](course)
+- Student points [Research work](course)
+- Student credits [PlayLab! Game Journalism Project](course)
+- ECTS [Poliittinen kommunikointi ja retoriikka (kirjatentti/essee)](course)
+- [Eriytyvä syventävä tutkimusmenetelmäkurssi A: Research methods in education policy](course) ECTS
+- [Johdatus länsimaiseen kirjallisuushistoriaan - luennot](course) course points
+- [Work and Health](course) student points
+- [Opetuksen, oppimisen ja koulutuksen arviointi ja laatu - Seminaari](course) points
+- [Media, Information and Democracy](course) amount of points
+- [Ohjelmistotuotannon käytännöt](course) credits
+- [Näkökulmia kääntämiseen - Johdatus käännösprosessiin](course) the amount of ECTS
+- How many points [Nordic Model: Nordic Welfare Societies](course) is
+- How many ECTS [Matematiikan peruskäsitteitä](course) will be
+- Credits [Julkistalouden valvonta ja tarkastus](course)
+- How many credits can I get from [Luottamustehtävissä toimiminen - Luottamustehtäväraportti](course)
+- How many ECTS can I get from [Perusharjoittelu](course)
+- How many student points can I get from [Tuutorivastaavana toimiminen - Projekti/käytännön työ](course)
+- I want to know how many credits can I get from [Asiantuntijan puheviestintä ja vuorovaikutus / avoin yliopisto-opetus](course)
+- I want to know how many ECTS can I get from [Asiantuntijuuden kehittymiseen orientoiva opintojakso - v. 2018 EDUn opiskelijoiksi hyväksyttyjen ryhmät](course)
+- I want to know how many student points can I get from [Kasvatushistoria, kirjatentti, Seinäjoki](course)
+- I want to know the amount of student points [Tila, teknologia ja toiminta - essee](course)
+- How many points [Toiminnanohjausjärjestelmät (ERP)](course)
+- How many credits [Puhetekniikan ja äänenkäytön perusteet](course)
+- How many ECTS [Espanjan kielioppi II/Gramática española II](course)
+- How many student credits [KEB-21101 Mikrobiologia](course)
+- How many student points [Research in Practice](course)
+- How many student credits from [Ammattimainen tekstintarkistus](course)
+- How many student points from [Ihmisoikeudet ja kansainvälinen yhteisö (kirjatentti/essee)(course)
+- How many ECTS from [Kuva-  ja mediakulttuurit - Mediakulttuurit- I vsk ja  erillisen opinto-oikeuden POM-opintoihin saaneet opiskelijat (luennot)](course)
+- How many student credits is [Matemaattiset aineet - Johdatus lukukäsitteeseen ja toimintamateriaalit - 1. vsk  ja erillisen opinto-oikeuden POM-opintoihin saaneet opiskelijat (harjoitukset)](course)
+- How many points is [Yhteiskunnalliset kiistat ja niiden hallinta (esseesuoritusvaihtoehto)](course)
+- How many credits is [Kielen kehitys](course)
+- How many ECTS is [Kääntäminen äidinkieleen](course)
+- How many student credits is [Erilaisuuden kohtaaminen ja inklusiivinen varhaiskasvatus - Kirjatentti (vaihtoehtoinen suoritustapa)](course)
+- How many student points is [Basics of Project Management](course)
+- Student points [Yrityksen taloustieteellisen tutkimuksen perusteet](course)
+- Student credits [Analyysi A](course)
+- ECTS [Terveys, arki ja toimijuus, luennot](course)
+- [Social Constructionism](course) ECTS
+- [Identity and Lifecourse - Lectures, reading groups and essay](course) course points
+- [Vanhat ja uudet klassikot (kirjatentti/essee)](course) student points
+- [Satututkimuksen lukupiiri](course) points
+- [Sosiaalinen maailma](course) amount of points
+- [Lapset ympäristönsä tutkijoina - Ympäristökasvatus](course) credits
+- [Rauhan- ja konfliktintutkimus (kirjatentti/essee)](course) the amount of ECTS
+- How many points [Kehittävä asiantuntijatyö organisaatioissa](course) is
+- How many ECTS [Äärellisten mallien teorian seminaari (Finite model theory seminar)](course) will be
+- Credits [Projektin suunnittelu ja johtaminen](course)
+- How many credits can I get from [Basics of Project Management](course)
+- How many ECTS can I get from [Kansainvälisen politiikan yleiset syventävät menetelmäopinnot (kirjatentti/essee)](course)
+- How many student points can I get from [Vastuullisen liiketoiminnan case-kurssi](course)
+- I want to know how many credits can I get from [Research on Public Management and Organizations](course)
+- I want to know how many ECTS can I get from [Nuorisotyön ja nuorisotutkimuksen maisteriohjelman lähijakso 14.-15.3.2019](course)
+- I want to know how many student points can I get from [Viron peruskurssi](course)
+- I want to know the amount of student points [Tiedon organisointi ja informaatioarkkitehtuuri](course)
+- How many points [Verkostoitunut maailma](course)
+- How many credits [Asiantuntijan puheviestintä ja vuorovaikutus sosiaali- ja terveysalalla (2. periodi)](course)
+- How many ECTS [Master´s Thesis and Seminar - for the group that started in 2018](course)
+- How many student credits [Academic Presentations](course)
+- How many student points [English Word Formation](course)
+- How many student credits from [Writing for Research (online course)](course)
+- How many student points from [Kandidaattiseminaari (JATKAVA, Nenonen)(course)
+- How many ECTS from [Big Data Entity Resolution](course)
+- How many student credits is [Tieteellinen kirjoittaminen / COMS (kirjallisuuden opiskelijoille)](course)
+- How many points is [Yhteisöviestintä kunta- ja aluejohtamisessa](course)
+- How many credits is [Jatkokoulutusseminaari](course)
+- How many ECTS is [Kandidaatintutkielma ja seminaari, syksy 2018](course)
+- How many student credits is [SOTEPO - Tohtorikoulutusseminaari (Sos.- ja terv.pol., tervh.tutk., terv.huollon joht.)](course)
+- How many student points is [Human-Technology Interaction Project Work](course)
+- Student points [Tutkimustyötä tukevat tohtoriopinnot - Doctoral Studies in Information Studies and Interactive Media](course)
+- Student credits [Hoitotieteen tohtorikoulutusseminaari](course)
+- ECTS [Kääntämisen ja tulkkauksen teoria ja käytäntö - Käännösteoria](course)
+- [Orientation to study in the Programme](course) ECTS
+- [Tieteellinen kirjoittaminen / SOC (historia & filosofia)](course) course points
+- [Kandidaattiseminaari](course) student points
+- [Kehityspsykologia II](course) points
+- [Kansainvälistymistä ja verkostoitumista tukevat opinnot teatteritaiteen tohtorin tutkinnossa](course) amount of points
+- [Seminaari (Kunelius) jatkuu keväältä](course) credits
+- [Poverty in the world: Hunger, inequalities and action](course) the amount of ECTS
+- How many points [Venäjä III](course) is
+- How many ECTS [Varhaiskasvatuksen pedagogiikka ja opetussuunnitelmatyö / Luennot - 2.vsk + 1.vsk ryhmät 6 ja 7](course) will be
+- Credits [Keskustelunanalyysi (verkkokurssi), syksy 2018](course)
+- How many credits can I get from [Johdatus politiikan teoriaan (kirjatentti/essee)](course)
+- How many ECTS can I get from [Asiantuntijan puheviestintä ja vuorovaikutus opetus- ja kasvatustyössä (3. periodi)](course)
+- How many student points can I get from [Lukeminen ja kirjoittaminen oppimisen haasteena - (luennot)](course)
+- I want to know how many credits can I get from [Tutkimusasetelman menetelmällinen rakentuminen tohtoriopinnoissa - Dialogipajat](course)
+- I want to know how many ECTS can I get from [Ruututekstikääntämisen peruskurssi](course)
+- I want to know how many student points can I get from [SGN-53007 Computational Diagnostics](course)
+- I want to know the amount of student points [Käsityöilmaisu - projekti/käytännön työ ja portfolio](course)
+- How many points [Historiankirjoituksen historia](course)
+- How many credits [Speakers Series](course)
+- How many ECTS [Kandidaatintutkielmaseminaari - Seminaari, tammikuussa 2018 alkanut ryhmä, yhteisopetusta avoimen yo:n kanssa](course)
+- How many student credits [Eheyttävä musiikkikasvatus / Harjoitukset - 2.vsk](course)
+- How many student points [Foundations of Games and Internet Research](course)
+- How many student credits from [Näkökulmia kääntämiseen - Kääntäminen viestinnällisenä asiantuntijatehtävänä / Perspektiven auf Übersetzen](course)
+- How many student points from [Yhteiskunnan tutkimuksen ajankohtaisia kysymyksiä - Luennot(course)
+- How many ECTS from [Seminaari](course)
+- How many student credits is [Seminaari II](course)
+- How many points is [Pratiques de l'écrit: méthodes et techniques d'expression écrite/Kirjoitusharjoituksia: kirjallisen esityksen metodit ja tekniikka](course)
+- How many credits is [Työhyvinvointi (itsenäinen suoritustapa)](course)
+- How many ECTS is [Käsityömuotoilu - projekti/käytännön työ ja protfolio](course)
+- How many student credits is [Sosiaalipsykologia (verkkokurssi)](course)
+- How many student points is [Syventävä projekti, syksyllä 2018 alkava](course)
+- Student points [Kandidaattiseminaari ja tutkielma (markkinointi) - syksy 2018](course)
+- Student credits [Käännösteknologian harjoituskurssi](course)
+- ECTS [Comparative Criminal Justice](course)
+- [Asiantuntemus ja arjen ympäristöpolitiikka (esseesuoritusvaihtoehto) - oppimispaivakirja ja teemaessee](course) ECTS
+- [Juridisk svenska (vain KTM:ksi klklla 2019 valmistuville)](course) course points
+- [Sosiaalityön toimintaympäristöt (kirjatentti)](course) student points
+- [Ympäristökasvatus / Harjoitukset - 2.vsk + 1.vsk ryhmät 6 ja 7](course) points
+- [Mediakasvatus, osallisuus ja aktiivinen kansalaisuus, kirjatentti, Pori](course) amount of points
+- [Basics of Marketing and Sales -](course) credits
+- [Usean muuttujan differentiaalilaskenta](course) the amount of ECTS
+- How many points [Tiedonhankintataidot - Tiedonhankintataidot III -  Systemaattinen tiedonhankinta (kansanterveystieteen opiskelijoille)](course) is
+- How many ECTS [Ethnographic Research](course) will be
+- Credits [Developing and implementing European Public Sector Accounting modules](course)
+- How many credits can I get from [Academic Writing](course)
+- How many ECTS can I get from [Palvelut ja hyvinvointivaltion murros](course)
+- How many student points can I get from [Julkisyhteisöjen kirjanpito ja tilinpäätös](course)
+- I want to know how many credits can I get from [Research Methods in HTI](course)
+- I want to know how many ECTS can I get from [Syntax](course)
+- I want to know how many student points can I get from [Fonetiikan teoriaa - Fonetiikan jatkokurssi](course)
+- I want to know the amount of student points [Empiirinen projekti](course)
+- How many points [Tekoäly ja vakuutustoiminta/ Vakuutustieteen vaihtuvasisältöinen kurssi](course)
+- How many credits [Tilintarkastusoikeus - kirjatentti](course)
+- How many ECTS [Terveystiedon didaktiikan perusteet](course)
+- How many student credits [Finnish Survival Course](course)
+- How many student points [Saksa III](course)
+- How many student credits from [Political Institutions and Processes (book exam/essay)](course)
+- How many student points from [Julkisten palvelujen johtaminen(course)
+- How many ECTS from [Tutkimusasetelman menetelmällinen rakentuminen tohtoriopinnoissa - Dialogipajat](course)
+- How many student credits is [Yritysjuridiikan perusteet](course)
+- How many points is [WWW Programming](course)
+- How many credits is [Lastenkirjallisuus ja draama / Luennot - 3.vsk + 1.vsk ryhmät 6 ja 7](course)
+- How many ECTS is [Tilastollisen päättelyn perusteet](course)
+- How many student credits is [Kieli käyttöön/Språket i bruk](course)
+- How many student points is [Academic Presentations](course)
+- Student points [Kulttuurien kohtaaminen](course)
+- Student credits [Teoria- ja metodiopinnot teatteritaiteen tohtorin tutkinnossa](course)
+- ECTS [Matemaattiset aineet - Johdatus lukukäsitteeseen ja toimintamateriaalit - 1. vsk  ja erillisen opinto-oikeuden POM-opintoihin saaneet opiskelijat (harjoitukset)](course)
+- [BMT-70100 Kudosteknologian perusteet](course) ECTS
+- [Normit ja asiakirjoittaminen - Tieteellinen kirjoittaminen](course) course points
+- [Kasvatus, koulutus ja yhteiskunta, monimuoto-opetus](course) student points
+- [Academic Presentations](course) points
+- [Tietojenkäsittelytieteiden opintojakso TTY:ltä](course) amount of points
+- [Writing Scientific Journal Articles](course) credits
+- [Lähtötasokoe - Kirjallinen tentti](course) the amount of ECTS
+- How many points [Structure of English III: Grammar and Context](course) is
+- How many ECTS [Antropologian osa-alueet](course) will be
+- Credits [Arvonlisäverotuksen syventävä opintojakso](course)
+- How many credits can I get from [Lähtötasokoe / Schwellentest](course)
+- How many ECTS can I get from [Yrityksen johtamisen perusteet](course)
+- How many student points can I get from [Maisteriopintojen esittely - CBDA](course)
+- I want to know how many credits can I get from [Matemaattiset ohjelmistot (luentokurssi)](course)
+- I want to know how many ECTS can I get from [Tietokantojen perusteet (Hervannan kampus)](course)
+- I want to know how many student points can I get from [Ryhmät ja ryhmien väliset suhteet](course)
+- I want to know the amount of student points [Scottish Literature](course)
+- How many points [Basics I: Basics of Czech language II](course)
+- How many credits [Verkkojulkaisemisen perusteet - kevät 2019](course)
+- How many ECTS [Mikrotalousteoria I](course)
+- How many student credits [Seminar, Bachelor's Thesis and Maturity Test - Seminar](course)
+- How many student points [Introduction to Bayesian Analysis 1](course)
+- How many student credits from [Asiantuntijan puheviestintä ja vuorovaikutus (2. periodi)](course)
+- How many student points from [Lastenkirjallisuus ja draama / Luennot - 3.vsk + 1.vsk ryhmät 6 ja 7(course)
+- How many ECTS from [Populaarikulttuuri ja -kirjallisuus](course)
+- How many student credits is [Eheyttävä musiikkikasvatus / Luennot - 2.vsk](course)
+- How many points is [Kirjasto- ja tietopalvelujen suunnittelu ja arviointi (keväällä 2018 opintokokonaisuuden aloittaneille)](course)
+- How many credits is [Orientoivat opinnot - Alkuorientaatio](course)
+- How many ECTS is [Diskutera som specialist](course)
+- How many student credits is [Korkeakoulut ja korkeakoulutus tutkimuksen kohteena - Kirjallinen tentti](course)
+- How many student points is [Oman äänen analyysi ja harjoittaminen](course)
+- Student points [MED Research Day](course)
+- Student credits [Kandidaatintutkielmaseminaari - Muuntotyöryhmä, klk19](course)
+- ECTS [Soveltava projekti - projekti](course)
+- [Study Skills and Personal Study Planning - Basics of Information Literacy](course) ECTS
+- [Projektiharjoittelu](course) course points
+- [Tieteellisen tiedonhankinnan perusteet (venäjä) -](course) student points
+- [Algebra 1A](course) points
+- [Eriytyvä syventävä tutkimusmenetelmäkurssi A: Design-tutkimus](course) amount of points
+- [Puheviestintä ja hyvinvointi](course) credits
+- [Vapaaehtoistyössä toimiminen](course) the amount of ECTS
+- How many points [Yhteisöllinen kehittämistehtävä](course) is
+- How many ECTS [Bioinformatics](course) will be
+- Credits [Opetus, ohjaus, oppiminen - Varhaiskasvatuksen opiskelijoille luennot (1 op) verkkotallenteena](course)
+- How many credits can I get from [Ruotsin kielen kirjallinen ja suullinen viestintä / AHOT (näyttökoe)](course)
+- How many ECTS can I get from [Kehitys, kasvatus ja elämänkulku, monimuoto-opetus](course)
+- How many student points can I get from [Ruotsin kielen kirjallinen ja suullinen viestintä (JKK: HK & YTK / EDU / LUO / COMS: HuK, LuK & YTK / SOC) verkkokurssi](course)
+- I want to know how many credits can I get from [Human Mobility in Peace and Conflict Research](course)
+- I want to know how many ECTS can I get from [Tietokantojen perusteet](course)
+- I want to know how many student points can I get from [Opetusharjoittelu](course)
+- I want to know the amount of student points [Mielenterveys, yhteiskunta ja sukupuoli](course)
+- How many points [Saksankielinen nykykirjallisuus / Deutschsprachige Gegenwartsliteratur](course)
+- How many credits [Julkisyhteisöjen kirjanpito ja tilinpäätös](course)
+- How many ECTS [Business Ethics (Lectures)](course)
+- How many student credits [Kandidaatintutkielmaseminaari - Seminaari, tammikuussa 2018 alkanut ryhmä, yhteisopetusta avoimen yo:n kanssa](course)
+- How many student points [Doctoral Studies](course)
+- How many student credits from [Tekoälyn filosofia](course)
+- How many student points from [Euroopan integraation tutkimus (kirjatentti/essee)(course)
+- How many ECTS from [Työn ja hyvinvoinnin maisteriohjelman tutkielmaseminaari (jatkava)](course)
+- How many student credits is [Orientoivat opinnot ja HOPS (englannin kieli, kirjallisuus ja kääntäminen)](course)
+- How many points is [Tragedy of the Commons? Problems and Solutions](course)
+- How many credits is [Julkisen talousjohtamisen tietojärjestelmät](course)
+- How many ECTS is [[CANCELLED] Editing Project](course)
+- How many student credits is [Basics II: Intermediate Czech I](course)
+- How many student points is [Project Work (Fall term 2018)](course)
+- Student points [Orientation - Orientation to studying in the Degree Programme](course)
+- Student credits [Itsenäinen projekti: Opintopassi](course)
+- ECTS [Introduction to Political Theory (book exam/essay)](course)
+- [Introduction to Academic English (diverse learners)](course) ECTS
+- [Nuorisotutkimuksen ajankohtaisia kysymyksiä](course) course points
+- [Player and User Studies](course) student points
+- [Esiintyminen](course) points
+- [Digitaalinen historia](course) amount of points
+- [Quantitative Research Methods and Comparative Research Design (Global Society students)](course) credits
+- [Soluviljely (1. vuosikurssin opiskelijoille)](course) the amount of ECTS
+- How many points [Erot, jaot ja niiden rakentuminen - Luennot ja lukupiiri (klk) TAI kirjatentti (slk ja klk)](course) is
+- How many ECTS [Lesen, Verstehen, Schreiben](course) will be
+- Credits [Kandidaattiseminaari (JATKAVA, Katermaa)](course)
+- How many credits can I get from [Management Accounting and Human Behaviour](course)
+- How many ECTS can I get from [Introduction to Web Publishing (Tampere Summer School 2018)](course)
+- How many student points can I get from [Asiantuntijan puheviestintä ja vuorovaikutus / AHOT (näyttökoe)](course)
+- I want to know how many credits can I get from [Maisteriopintojen esittely - TIM](course)
+- I want to know how many ECTS can I get from [Sosiaalipolitiikan teoreettinen ajattelu -lukuseminaari](course)
+- I want to know how many student points can I get from [Professional Writing (online course)](course)
+- I want to know the amount of student points [Yhteisöllinen kehittämistehtävä](course)
+- How many points [Vero-oikeuden perusteet](course)
+- How many credits [Psykologiharjoittelu](course)
+- How many ECTS [Kansainvälinen verotus](course)
+- How many student credits [Verkkopalvelujen informaatioarkkitehtuuri](course)
+- How many student points [Fonetiikan tutkimusmenetelmät - Transkriptioharjoitukset](course)
+- How many student credits from [Tekstin tekemisen perusteet](course)
+- How many student points from [Translating and Editing for Publication(course)
+- How many ECTS from [Tutkielmaseminaari (kevätlukukaudelta 2018 jatkavat seminaarit)](course)
+- How many student credits is [Biokemian työt: Proteiinit](course)
+- How many points is [Translation II Finnish-English](course)
+- How many credits is [Orientoivat opinnot ja HOPS (suomen kieli)](course)
+- How many ECTS is [Information Visualization](course)
+- How many student credits is [Esimiestyö (syksy 2018)](course)
+- How many student points is [Ruututekstikääntämisen peruskurssi](course)
+- Student points [Kandidaatintutkielmaseminaari - Seminaari](course)
+- Student credits [Taidehistoria ja näyttelypedagogiikka -](course)
+- ECTS [Omaan tieteenalaan ja tutkimusaiheeseen liittyvät opinnot teatteritaiteen tohtorin tutkinnossa](course)
+- [Open Educational Resources - Lectures, seminars etc. in other universities or institutions](course) ECTS
+- [Ajankohtaiset ilmiöt hallintotieteissä - Itsenäinen työskentely](course) course points
+- [Saksa III](course) student points
+- [Sustainable business practices (Independent study)](course) points
+- [Yksilön työhyvinvointi](course) amount of points
+- [Personal Study Planning](course) credits
+- [Vuorovaikutuksen perusteet](course) the amount of ECTS
+- How many points [Tieteellinen kirjoittaminen ja politiikan tutkimuksen aineistot (kirjallinen tentti ja essee)](course) is
+- How many ECTS [Missä mennään Mead? -seminaari](course) will be
+- Credits [Yritysetiikka (verkkokurssi)](course)
+- How many credits can I get from [Saksankielisten maiden kulttuurihistoria / Kulturgeschichte der deutschsprachigen Länder](course)
+- How many ECTS can I get from [Saksa III](course)
+- How many student points can I get from [Terveydenhuollon koulutuspolitiikka](course)
+- I want to know how many credits can I get from [Viron peruskurssi](course)
+- I want to know how many ECTS can I get from [Liikuntapedagogiikka varhaiskasvatuksessa / Harjoitukset - 2.vsk](course)
+- I want to know how many student points can I get from [Vieraan kielen taito, jatkotaso](course)
+- I want to know the amount of student points [Simultaanitulkkaus I englanti-suomi-englanti](course)
+- How many points [Tulkin oikeustieto I](course)
+- How many credits [Liiketoimintaympäristön taloustiede](course)
+- How many ECTS [Äärellisten mallien teorian seminaari (Finite model theory seminar)](course)
+- How many student credits [Basics of programming and algorithms for bioinformatics](course)
+- How many student points [Tutkimustyön perusteet - b) Tutkimusmenetelmät](course)
+- How many student credits from [Gerontologian tohtorikoulutusseminaari](course)
+- How many student points from [International Political Economy (book exam/essay)(course)
+- How many ECTS from [Poliittinen kommunikaatio ja retoriikka (kirjatentti/essee)](course)
+- How many student credits is [Sisäinen valvonta ja sisäinen tarkastus](course)
+- How many points is [Uuden ajan alun ryhmä](course)
+- How many credits is [Vanhempien aikojen tutkijaseminaari](course)
+- How many ECTS is [Inklusiivinen pedagogiikka ja oppimisen tukeminen](course)
+- How many student credits is [Romanian kielen alkeet / Basic Course in Romanian](course)
+- How many student points is [Juridisk svenska (vain KTM:ksi klklla 2019 valmistuville)](course)
+- Student points [Kirjallinen viestintä I (venäjänkieliset opiskelijat)](course)
+- Student credits [Ulko- ja turvallisuuspoliittinen päätöksentekoharjoitus](course)
+- ECTS [Yhtiöoikeus](course)
+- [Sosiaalityön harjoittelu](course) ECTS
+- [Perheen vuorovaikutus](course) course points
+- [Vauvasta vaariin. Ikä feministisessä tutkimuksessa](course) student points
+- [Media and Globalization - Seminar](course) points
+- [Tekoälyn filosofia](course) amount of points
+- [Radio Project](course) credits
+- [Laboroinnin perusteet](course) the amount of ECTS
+- How many points [Syömis- ja nielemishäiriöt](course) is
+- How many ECTS [Konfliktinratkaisu (kirjatentti/essee)](course) will be
+- Credits [Teoria, ideologia & talouspolitiikka - Keynesiläisyydestä uusliberalismiin](course)
+- How many credits can I get from [Histoteknologian ja valomikroskopian perusteet](course)
+- How many ECTS can I get from [Structure of English I - Phonology and Pronunciation I](course)
+- How many student points can I get from [Introduction to Pharmacology and Drug Modelling](course)
+- I want to know how many credits can I get from [Orientation - Orientation to studying in the Computational Big Data Analytics programme](course)
+- I want to know how many ECTS can I get from [Keskustelun- ja diskurssianalyysi / Gesprächs- und Diskursanalyse](course)
+- I want to know how many student points can I get from [Nuorisotyön ja nuorisotutkimuksen maisteriohjelman lähijakso 11.-12.4.2019](course)
+- I want to know the amount of student points [Asiantuntijan puheviestintä ja vuorovaikutus / AHOT (näyttökoe)](course)
+- How many points [Liikunta pedagogisena ilmiönä - B Liikunnan vaihtevat ympäristöt](course)
+- How many credits [Kunnallistalouden kirjanpito -](course)
+- How many ECTS [New Wars and How to Study Them (POMLFCS3)](course)
+- How many student credits [Valtio-opin johdantokurssi](course)
+- How many student points [Ranska II](course)
+- How many student credits from [Mediatutkimuksen valinn. jakso: Työseminaari: Euroopan hullu vuosi 1968 ja sen perintö](course)
+- How many student points from [Usability Evaluation Methods(course)
+- How many ECTS from [Communication Skills in English - Academic Writing II](course)
+- How many student credits is [Foundations of Games and Internet Research](course)
+- How many points is [Käsityömuotoilu - projekti/käytännön työ ja protfolio](course)
+- How many credits is [Tutkimusprosessin hallinta tohtoriopinnoissa](course)
+- How many ECTS is [Digital Image Processing - Self-studying](course)
+- How many student credits is [Käännösviestintä I - Käännösviestintä I suomi-englanti](course)
+- How many student points is [Sosiaalityö terveydenhuollossa](course)
+- Student points [Kansalaisyhteiskunta ja poliittinen osallistuminen (kirjatentti/essee)](course)
+- Student credits [Orientaatio maisteriopintoihin](course)
+- ECTS [Kandidaattiseminaari ja kandidaatin tutkielma - Kandiseminaari](course)
+- [Opetusharjoittelu](course) ECTS
+- [Tutkimusasetelman menetelmällinen rakentuminen tohtoriopinnoissa - Dialogipajat](course) course points
+- [Conflict Resolution (book exam/essay)](course) student points
+- [Väestön vanheneminen, terveys ja hyvinvointi](course) points
+- [Ruotsin kielen kirjallinen ja suullinen viestintä (JKK: HK & YTK / EDU / LUO / COMS: HuK, LuK & YTK / SOC)](course) amount of points
+- [Audiovisuaalisen kääntämisen seminaari / Kuvailutulkkaus](course) credits
+- [Harjoittelu](course) the amount of ECTS
+- How many points [Seminaari I, kandidaatintutkielma ja kypsyysnäyte / Bachelor-Seminar, Bachelorarbeit und Klausur zum Thema der Arbeit](course) is
+- How many ECTS [Pro gradu -seminaari ja -tutkielma (taloustiede) - Pro gradu -seminaari](course) will be
+- Credits [Käännösviestintä suomi-ruotsi/Översättning finska-svenska](course)
+- How many credits can I get from [Tilastotieteen johdantokurssi, kevät](course)
+- How many ECTS can I get from [Biomolekyylit](course)
+- How many student points can I get from [Kvalitatiivinen tutkimus kasvatustieteissä - Harjoitukset, Ryhmä, yhteinen varhaiskasv. ja luokanop. ryhmä](course)
+- I want to know how many credits can I get from [SPSS:n perusteet, kevät](course)
+- I want to know how many ECTS can I get from [Mediadiskurssi](course)
+- I want to know how many student points can I get from [Venäjän kielen rakenne - Morfologia](course)
+- I want to know the amount of student points [Developing and implementing European Public Sector Accounting modules](course)
+- How many points [ENGS3](course)
+- How many credits [HALJUA14](course)
+- How many ECTS [SOS6.1.2](course)
+- How many student credits [TIEP3](course)
+- How many student points [JOVTKS3](course)
+- How many student credits from [ENGP5](course)
+- How many student points from [POLKVA43(course)
+- How many ECTS from [BTK4090](course)
+- How many student credits is [KATVAA14](course)
+- How many points is [KKENVAL7](course)
+- How many credits is [KKSUBMT](course)
+- How many ECTS is [FONEP2](course)
+- How many student credits is [KATLAS17](course)
+- How many student points is [HISA2](course)
+- Student points [RANA2](course)
+- Student credits [KASSO4](course)
+- ECTS [SOSM2](course)
+- [KATVRS41](course) ECTS
+- [MTTTA14](course) course points
+- [ESPFA5](course) student points
+- [SOS10.6](course) points
+- [HALKAA16](course) amount of points
+- [POLKVS33](course) credits
+- [TSEKP2](course) the amount of ECTS
+- How many points [STYP5](course) is
+- How many ECTS [KASP4](course) will be
+- Credits [BTK1099](course)
+- How many credits can I get from [TSEKP2](course)
+- How many ECTS can I get from [KASPUHA5](course)
+- How many student points can I get from [KKENYHT](course)
+- I want to know how many credits can I get from [SOSM5.1](course)
+- I want to know how many ECTS can I get from [KASA13](course)
+- I want to know how many student points can I get from [KATJOP11](course)
+- I want to know the amount of student points [MTTTA14](course)
+- How many points [RUST5/VENS19/20](course)
+- How many credits [TEE6](course)
+- How many ECTS [BTK1014](course)
+- How many student credits [SAKS3](course)
+- How many student points [TERKAN2](course)
+- How many student credits from [TEE9](course)
+- How many student points from [KASA12(course)
+- How many ECTS from [JOUJOVTS](course)
+- How many student credits is [POLVOS10](course)
+- How many points is [KASLOE8.1](course)
+- How many credits is [POLVOA51](course)
+- How many ECTS is [HIST04](course)
+- How many student credits is [KATYVS25](course)
+- How many student points is [KKSA2](course)
+- Student points [KASSA1](course)
+- Student credits [KASELOHA](course)
+- ECTS [TERTIETO5](course)
+- [SOS6.1.3](course) ECTS
+- [YKYY0](course) course points
+- [KATTAS11](course) student points
+- [POLKVA42](course) points
+- [BTK2020](course) amount of points
+- [KATLAA99](course) credits
+- [MTTTS11](course) the amount of ECTS
+- How many points [KASPUHS8](course) is
+- How many ECTS [JOVA5](course) will be
+- Credits [TERTIETO1](course)
+- How many credits can I get from [LÄÄKA460](course)
+- How many ECTS can I get from [HISOKV1](course)
+- How many student points can I get from [KASVAR11](course)
+- I want to know how many credits can I get from [ENGS1](course)
+- I want to know how many ECTS can I get from [TERA6](course)
+- I want to know how many student points can I get from [KASELOHA](course)
+- I want to know the amount of student points [JOVAT1](course)
+- How many points [KKRUVAL2](course)
+- How many credits [TERHOI2](course)
+- How many ECTS [FILA2](course)
+- How many student credits [JOVA1](course)
+- How many student points [SUKKP5A](course)
+- How many student credits from [ITIS31](course)
+- How many student points from [TERA6(course)
+- How many ECTS from [TIEP3](course)
+- How many student credits is [JOVP3](course)
+- How many points is [TAYJ035](course)
+- How many credits is [ITIS31](course)
+- How many ECTS is [SOSM5.1](course)
+- How many student credits is [HISA2](course)
+- How many student points is [LFCS02](course)
+- Student points [SOS10.2](course)
+- Student credits [KASA2](course)
+- ECTS [TERHOJ1](course)
+- [ESPFA6](course) ECTS
+- [DPYTCON](course) course points
+- [KKENKTK](course) student points
+- [VENP5/VENK2](course) points
+- [KATYVS99](course) amount of points
+- [MTTTA1](course) credits
+- [MTTTP1](course) the amount of ECTS
+- How many points [MTTTP1](course) is
+- How many ECTS [SAKA10](course) will be
+- Credits [POHP3](course)
+- How many credits can I get from [ENGA6](course)
+- How many ECTS can I get from [KATLAP21](course)
+- How many student points can I get from [LOGS9](course)
+- I want to know how many credits can I get from [KASP4](course)
+- I want to know how many ECTS can I get from [PEACE043](course)
+- I want to know how many student points can I get from [ENGP6](course)
+- I want to know the amount of student points [JKKYTVA13](course)
+- How many points [KATVRA00](course)
+- How many credits [DPEDUB.1C](course)
+- How many ECTS [SUOA8](course)
+- How many student credits [LTLY210](course)
+- How many student points [PSYS10](course)
+- How many student credits from [JOVA15](course)
+- How many student points from [KATRAS11(course)
+- How many ECTS from [KKRULUK](course)
+- How many student credits is [KKRULUK](course)
+- How many points is [JOUJOVTS](course)
+- How many credits is [KATVAA12](course)
+- How many ECTS is [TRSU01](course)
+- How many student credits is [MTTTA1](course)
+- How many student points is [HALYAS99](course)
+- Student points [SUOA3](course)
+- Student credits [BTK2060](course)
+- ECTS [ITIS32](course)
+- [KASLOM10](course) ECTS
+- [NAM-III/VI](course) course points
+- [KASLOM5](course) student points
+- [TEATP3](course) points
+- [JKKYINA11](course) amount of points
+- [SOCYKV1](course) credits
+- [SOS6.4.1](course) the amount of ECTS
+- How many points [KATLAA22](course) is
+- How many ECTS [KATYVS23](course) will be
+- Credits [SOS4.5](course)
+- How many credits can I get from [TERHOIA3](course)
+- How many ECTS can I get from [HALYAA99](course)
+- How many student points can I get from [KASVAR2](course)
+- I want to know how many credits can I get from [POLKVA43](course)
+- I want to know how many ECTS can I get from [KATMAS15](course)
+- I want to know how many student points can I get from [SOS08.2](course)
+- I want to know the amount of student points [KASA9](course)
+- How many points [KKRUYHT](course)
+- How many credits [PEACEGS1](course)
+- How many ECTS [ITIP3](course)
+- How many student credits [KKSAVAL3](course)
+- How many student points [BTK4701](course)
+- How many student credits from [HISP2](course)
+- How many student points from [LUOYY023(course)
+- How many ECTS from [KATJOA14](course)
+- How many student credits is [KASVAR7](course)
+- How many points is [KKENYHT](course)
+- How many credits is [YKT07.1](course)
+- How many ECTS is [DPIT2](course)
+- How many student credits is [LTLY210](course)
+- How many student points is [SOS6.5.3](course)
+- Student points [KATMAS15](course)
+- Student credits [HISA4](course)
+- ECTS [BTK0024](course)
+- [KASSY5](course) ECTS
+- [BTK1061](course) course points
+- [VENA5](course) student points
+- [KASA8](course) points
+- [HALKAA99](course) amount of points
+- [KASLOM4](course) credits
+- [SOS6.1.3](course) the amount of ECTS
+- How many points [YKT09.4](course) is
+- How many ECTS [JKKYTVA13](course) will be
+- Credits [POLKVA32](course)
+- How many credits can I get from [KATJOA13](course)
+- How many ECTS can I get from [SUOA8](course)
+- How many student points can I get from [STYS1B1](course)
+- I want to know how many credits can I get from [SAKS5](course)
+- I want to know how many ECTS can I get from [BTK1015](course)
+- I want to know how many student points can I get from [MTTTA1](course)
+- I want to know the amount of student points [SOS6.3.3](course)
+- How many points [FILP1A](course)
+- How many credits [VENP0](course)
+- How many ECTS [KASLOH4A](course)
+- How many student credits [HISA2](course)
+- How many student points [SOS6.1.3](course)
+- How many student credits from [LTLY16](course)
+- How many student points from [ENGA11(course)
+- How many ECTS from [TIETS21](course)
+- How many student credits is [FILS1](course)
+- How many points is [ITIA7](course)
+- How many credits is [KASSA3](course)
+- How many ECTS is [PSYP1](course)
+- How many student credits is [MTTY4](course)
+- How many student points is [LFCS02](course)
+- Student points [SUOP2](course)
+- Student credits [POHS1](course)
+- ECTS [JOVKA5](course)
+- [ITIS45](course) ECTS
+- [JOVPVS13](course) course points
+- [SOS3](course) student points
+- [LTLY212](course) points
+- [KKENVAL3](course) amount of points
+- [MEDU02](course) credits
+- [KATLITO8](course) the amount of ECTS
+- How many points [KATLAS15](course) is
+- How many ECTS [FILT10](course) will be
+- Credits [COSOPON4](course)
+- How many credits can I get from [KATVAA11](course)
+- How many ECTS can I get from [RANA5](course)
+- How many student points can I get from [TAYJ035](course)
+- I want to know how many credits can I get from [PSYP1](course)
+- I want to know how many ECTS can I get from [POLKVA33](course)
+- I want to know how many student points can I get from [MVKS39E/S](course)
+- I want to know the amount of student points [JKKYVP11](course)
+- How many points [PSYA7](course)
+- How many credits [KASSG](course)
+- How many ECTS [ENGA1](course)
+- How many student credits [JOVA13](course)
+- How many student points [SAKS2](course)
+- How many student credits from [MTTY4](course)
+- How many student points from [ITIA03(course)
+- How many ECTS from [TERY4](course)
+- How many student credits is [LOGA5](course)
+- How many points is [SOS10.1.4](course)
+- How many credits is [POHP3](course)
+- How many ECTS is [KKSUOPE](course)
+- How many student credits is [KASSO8](course)
+- How many student points is [KASA13](course)
+- Student points [DPCMTJ4](course)
+- Student credits [RANS5](course)
+- ECTS [KASVAR8](course)
+- [KASSM2](course) ECTS
+- [LOGA9](course) course points
+- [SAKS5](course) student points
+- [KAMYVS99](course) points
+- [KKRUYHT](course) amount of points
+- [ITIS32](course) credits
+- [KASP4](course) the amount of ECTS
+- How many points [MTTTA6](course) is
+- How many ECTS [KKES4](course) will be
+- Credits [KASA13](course)
+- How many credits can I get from [SOSM5.1](course)
+- How many ECTS can I get from [PEDA2](course)
+- How many student points can I get from [KKSU1](course)
+- I want to know how many credits can I get from [JOVA3](course)
+- I want to know how many ECTS can I get from [KATLAA22](course)
+- I want to know how many student points can I get from [SOSM5.1](course)
+- I want to know the amount of student points [STYS3A](course)
+- How many points [HEAAE03](course)
+- How many credits [JKKYINA11](course)
+- How many ECTS [KASERIT4](course)
+- How many student credits [BIO4380](course)
+- How many student points [PEDA3](course)
+- How many student credits from [POHP6](course)
+- How many student points from [LOGS4(course)
+- How many ECTS from [KATTAS40](course)
+- How many student credits is [TERHOI4](course)
+- How many points is [MVKS48/58](course)
+- How many credits is [HEAAE03](course)
+- How many ECTS is [KKENMP3](course)
+- How many student credits is [STYA3B2](course)
+- How many student points is [RANP0](course)
+- Student points [SOSM5.2](course)
+- Student credits [LTLY16](course)
+- ECTS [TAYJ035](course)
+- [HALKOS27](course) ECTS
+- [VENA16](course) course points
+- [TAYJ042](course) student points
+- [HALYHT](course) points
+- [LOGS9](course) amount of points
+- [POLKVA43](course) credits
+- [KATLAA15](course) the amount of ECTS
+- How many points [NAM-IV](course) is
+- How many ECTS [POLVOA51/52/S24](course) will be
+- Credits [KKSUPRO](course)
+- How many credits can I get from [KASA9](course)
+- How many ECTS can I get from [LFCS03](course)
+- How many student points can I get from [LOGP2](course)
+- I want to know how many credits can I get from [LUOYA200](course)
+- I want to know how many ECTS can I get from [GTS8](course)
+- I want to know how many student points can I get from [TAYJ12](course)
+- I want to know the amount of student points [ENGA11](course)
+- How many points [KIRS5](course)
+- How many credits [TERY5B](course)
+- How many ECTS [KKENVAL1](course)
+- How many student credits [KASLOE6.2](course)
+- How many student points [BTK2040](course)
+- How many student credits from [SOS6.4.1](course)
+- How many student points from [HIST03(course)
+- How many ECTS from [FILS1E](course)
+- How many student credits is [KKSU5](course)
+- How many points is [KASP4](course)
+- How many credits is [YKTM6.3](course)
+- How many ECTS is [BTK2036](course)
+- How many student credits is [LUOYA200](course)
+- How many student points is [ENGS3](course)
+- Student points [NORDIG4](course)
+- Student credits [HALKAS13](course)
+- ECTS [HALJUA65](course)
+- [VENA11](course) ECTS
+- [LOGA1](course) course points
+- [KASLOM9](course) student points
+- [KKENYHT](course) points
+- [BIO2310](course) amount of points
+- [HALJTS99](course) credits
+- [JOVA18](course) the amount of ECTS
+- How many points [IGS005](course) is
+- How many ECTS [RUST5/VENS19/20](course) will be
+- Credits [DPEDUC.3](course)
+- How many credits can I get from [KKRULL](course)
+- How many ECTS can I get from [KKSUVAL1](course)
+- How many student points can I get from [KATYVA22](course)
+- I want to know how many credits can I get from [KKKI2](course)
+- I want to know how many ECTS can I get from [KASLOE8.1](course)
+- I want to know how many student points can I get from [JOVA6](course)
+- I want to know the amount of student points [ITIP4](course)
+- How many points [KATJOA15](course)
+- How many credits [KKSUKK](course)
+- How many ECTS [BIO4661](course)
+- How many student credits [SUOK2/A6](course)
+- How many student points [ITIA03](course)
+- How many student credits from [KKSUPRO](course)
+- How many student points from [POLKVA21(course)
+- How many ECTS from [MTTMY1](course)
+- How many student credits is [HALHAP01](course)
+- How many points is [TAYJ11](course)
+- How many credits is [KASLOE6.2](course)
+- How many ECTS is [BIO2250](course)
+- How many student credits is [BIO4450](course)
+- How many student points is [LUOYY006](course)
+- Student points [JKKYINA11](course)
+- Student credits [VENA7](course)
+- ECTS [KIRA2](course)
+- [TIETS02](course) ECTS
+- [HALKAA99](course) course points
+- [JOVTS2](course) student points
+- [HISA3B](course) points
+- [KATLITO6](course) amount of points
+- [KASLOH4B](course) credits
+- [VENP4](course) the amount of ECTS
+- How many points [DPHSS203](course) is
+- How many ECTS [TERHOI2](course) will be
+- Credits [TERTIETO3](course)
+- How many credits can I get from [MTTMP1A](course)
+- How many ECTS can I get from [SUKKP4](course)
+- How many student points can I get from [HISS2](course)
+- I want to know how many credits can I get from [JOUJOVTS](course)
+- I want to know how many ECTS can I get from [TERKANA1](course)
+- I want to know how many student points can I get from [ENGS46](course)
+- I want to know the amount of student points [TERHOI6](course)
+- How many points [KATTAA40](course)
+- How many credits [KASVAR11](course)
+- How many ECTS [DPIT1](course)
+- How many student credits [HALKOS22](course)
+- How many student points [KKSAVAL2](course)
+- How many student credits from [DPHSF501](course)
+- How many student points from [KKES5(course)
+- How many ECTS from [LUOYY020](course)
+- How many student credits is [KATLITO5](course)
+- How many points is [FONEP1](course)
+- How many credits is [KKSUOPE](course)
+- How many ECTS is [JOVAT1](course)
+- How many student credits is [STYVA](course)
+- How many student points is [TAYJ031](course)
+- Student points [KASSM3](course)
+- Student credits [HALYHT](course)
+- ECTS [KASLOE8.1](course)
+- [ENGP8](course) ECTS
+- [VENP4](course) course points
+- [BTK2040](course) student points
+- [POLPOP04](course) points
+- [HALJUA14](course) amount of points
+- [PEDA1](course) credits
+- [HALJTA99](course) the amount of ECTS
+- How many points [KKSUHUK1](course) is
+- How many ECTS [HALJTA05](course) will be
+- Credits [TRMU2](course)
+- How many credits can I get from [ENGS1](course)
+- How many ECTS can I get from [KKRUYHT](course)
+- How many student points can I get from [PEACE045](course)
+- I want to know how many credits can I get from [RANP4](course)
+- I want to know how many ECTS can I get from [DPHSR404](course)
+- I want to know how many student points can I get from [LÄÄKA460](course)
+- I want to know the amount of student points [HISA1B](course)
+- How many points [TEE5](course)
+- How many credits [HALYAS99](course)
+- How many ECTS [FILA1](course)
+- How many student credits [ITIA2](course)
+- How many student points [LTLY210](course)
+- How many student credits from [HALKOS24](course)
+- How many student points from [POLKVA41(course)
+- How many ECTS from [ENGA6](course)
+- How many student credits is [KKSUBMT](course)
+- How many points is [KKENVAL9](course)
+- How many credits is [ITIP4](course)
+- How many ECTS is [MOLI](course)
+- How many student credits is [KASMULTI3](course)
+- How many student points is [KATTAS40](course)
+- Student points [ENGS13](course)
+- Student credits [JOVAT2](course)
+- ECTS [STYA1A](course)
+- [MVKS47](course) ECTS
+- [KATMAS13](course) course points
+- [KASERIT1](course) student points
+- [KASVAR2](course) points
+- [HALVALS10](course) amount of points
+- [SAKW1](course) credits
+- [MVKS10](course) the amount of ECTS
+- How many points [KATLAP21](course) is
+- How many ECTS [POLVOS10](course) will be
+- Credits [YKTT10.2](course)
+- How many credits can I get from [HISA2](course)
+- How many ECTS can I get from [TIETA8](course)
+- How many student points can I get from [KKIN5](course)
+- I want to know how many credits can I get from [KASP1](course)
+- I want to know how many ECTS can I get from [MOLI](course)
+- I want to know how many student points can I get from [KATJOA99](course)
+- I want to know the amount of student points [YKYYHT1](course)
+- How many points [KKENKTMO](course)
+- How many credits [KATSTA13](course)
+- How many ECTS [TERHOIA3](course)
+- How many student credits [KASVAR2](course)
+- How many student points [TAYJ035](course)
+- How many student credits from [KASA13](course)
+- How many student points from [POHP4(course)
+- How many ECTS from [HALYAA15](course)
+- How many student credits is [LATAP4](course)
+- How many points is [KATVAA11](course)
+- How many credits is [TAYJ034](course)
+- How many ECTS is [KASLOM4](course)
+- How many student credits is [KATVAA14](course)
+- How many student points is [KASP5](course)
+- Student points [KASVAR2](course)
+- Student credits [HALKAS15](course)
+- ECTS [VENS1](course)
+- [MVKS26](course) ECTS
+- [DPCMTJ2/JMMETUS](course) course points
+- [FONEP3](course) student points
+- [KASLOM11](course) points
+- [KASLOH4B](course) amount of points
+- [KATLITO5](course) credits
+- [SUOT1](course) the amount of ECTS
+- How many points [HISA1B](course) is
+- How many ECTS [DPHSS201](course) will be
+- Credits [TAYJ032](course)
+- How many credits can I get from [COSOPOM3](course)
+- How many ECTS can I get from [TIETS05](course)
+- How many student points can I get from [KATVAA15](course)
+- I want to know how many credits can I get from [ENGA5](course)
+- I want to know how many ECTS can I get from [MVKS39V](course)
+- I want to know how many student points can I get from [HIST02](course)
+- I want to know the amount of student points [KATMAA99](course)
+- How many points [TERTIETO5](course)
+- How many credits [KKSUKTK](course)
+- How many ECTS [LOGM3](course)
+- How many student credits [ITIP5](course)
+- How many student points [HALJUA22](course)
+- How many student credits from [TAYJ031](course)
+- How many student points from [BTK1053(course)
+- How many ECTS from [KASVAR12](course)
+- How many student credits is [JOVA11](course)
+- How many points is [DPHSS205](course)
+- How many credits is [KASLOM4](course)
+- How many ECTS is [MTTTA14](course)
+- How many student credits is [HISA4](course)
+- How many student points is [KATYVS25](course)
+- Student points [KASP3](course)
+- Student credits [POLKVA11](course)
+- ECTS [LOGS2](course)
+- [BTK4121](course) ECTS
+- [KATLITO2](course) course points
+- [KASLOE1.1](course) student points
+- [ITIS21](course) points
+- [KASA8](course) amount of points
+- [KKENMP3](course) credits
+- [HISA4](course) the amount of ECTS
+- How many points [BTK4702](course) is
+- How many ECTS [JOVTS5](course) will be
+- Credits [KKSUPRO](course)
+- How many credits can I get from [TAYJ032](course)
+- How many ECTS can I get from [PCP11](course)
+- How many student points can I get from [HALYAS99](course)
+- I want to know how many credits can I get from [KASSM2](course)
+- I want to know how many ECTS can I get from [KKENPRE1](course)
+- I want to know how many student points can I get from [KASVAR3](course)
+- I want to know the amount of student points [YKT07.2](course)
+- How many points [PEDAEH](course)
+- How many credits [ENGA1](course)
+- How many ECTS [TAYJ12](course)
+- How many student credits [KIRP1](course)
+- How many student points [KASLOH4B](course)
+- How many student credits from [POLVOS28](course)
+- How many student points from [HISP3(course)
+- How many ECTS from [TAYJ034](course)
+- How many student credits is [JOVPVS8](course)
+- How many points is [POLVOS21](course)
+- How many credits is [KATTAA40](course)
+- How many ECTS is [KATJOA14](course)
+- How many student credits is [JOVVAL](course)
+- How many student points is [TIEP3](course)
+- Student points [KAMVRS99](course)
+- Student credits [HTIS87](course)
+- ECTS [STYA3B](course)
+- [JOVA2](course) ECTS
+- [BIO2200](course) course points
+- [BTK4400](course) student points
+- [VENP0](course) points
+- [KASLOK1](course) amount of points
+- [PEACE045](course) credits
+- [ENGA3](course) the amount of ECTS
+- How many points [KASELOHA](course) is
+- How many ECTS [JOVTS5](course) will be
+- Credits [KATLAP21](course)
+- How many credits can I get from [TAYJ033](course)
+- How many ECTS can I get from [SOS7.1/STYA4A](course)
+- How many student points can I get from [HALVALS10](course)
+- I want to know how many credits can I get from [POLPOP02](course)
+- I want to know how many ECTS can I get from [MTTTS13](course)
+- I want to know how many student points can I get from [HALJTA14](course)
+- I want to know the amount of student points [JOVTS5](course)
+- How many points [KASLOM4](course)
+- How many credits [BIO4450](course)
+- How many ECTS [KATLAP21](course)
+- How many student credits [RANP3](course)
+- How many student points [DPHSR401](course)
+- How many student credits from [KASP1-2, KASP5](course)
+- How many student points from [KASP4(course)
+- How many ECTS from [POLKVA23](course)
+- How many student credits is [POLVOA42](course)
+- How many points is [TIEP4](course)
+- How many credits is [KATJOS32](course)
+- How many ECTS is [HALJTA13](course)
+- How many student credits is [SOS7.1/STYA4A](course)
+- How many student points is [POLKVA23](course)
+- Student points [RANP3](course)
+- Student credits [KASVART3](course)
+- ECTS [SAKP0](course)
+- [JOVA15](course) ECTS
+- [KASLOE7.1](course) course points
+- [KASS2](course) student points
+- [KASLOM5](course) points
+- [KIRS1/A4](course) amount of points
+- [KASA12](course) credits
+- [KASVAR7](course) the amount of ECTS
+- How many points [TIEP1](course) is
+- How many ECTS [LUOYY006](course) will be
+- Credits [TAYJ033](course)
+- How many credits can I get from [MTTMA1C](course)
+- How many ECTS can I get from [KASVAR7](course)
+- How many student points can I get from [KKSAVAL3](course)
+- I want to know how many credits can I get from [BTK2045](course)
+- I want to know how many ECTS can I get from [HALTVP11](course)
+- I want to know how many student points can I get from [KASP2](course)
+- I want to know the amount of student points [MVKS10](course)
+- How many points [KASLOM11](course)
+- How many credits [KKRUKTM](course)
+- How many ECTS [KIRP3](course)
+- How many student credits [KASVAR11](course)
+- How many student points [HALYAS14](course)
+- How many student credits from [FONEP2](course)
+- How many student points from [KATVRP11(course)
+- How many ECTS from [KATRAS11](course)
+- How many student credits is [BIO2085](course)
+- How many points is [KKRA3](course)
+- How many credits is [LTLY16](course)
+- How many ECTS is [KATTAS11](course)
+- How many student credits is [YKYYHT3](course)
+- How many student points is [DPJKKPS](course)
+- Student points [HISA2](course)
+- Student credits [KASA15](course)
+- ECTS [KKSUVAL3](course)
+- [HISA2](course) ECTS
+- [MVKS46](course) course points
+- [KKIN4](course) student points
+- [SUKKP4](course) points
+- [KATLAS27](course) amount of points
+- [HALHAA99](course) credits
+- [MOLI](course) the amount of ECTS
+- How many points [ITIY3](course) is
+- How many ECTS [TIEY1](course) will be
+- Credits [KASSG](course)
+- How many credits can I get from [KKSUHUK](course)
+- How many ECTS can I get from [TRSU01](course)
+- How many student points can I get from [KASLOE2.2](course)
+- I want to know how many credits can I get from [KASVAR12](course)
+- I want to know how many ECTS can I get from [KASA13](course)
+- I want to know how many student points can I get from [KKSUOPE](course)
+- I want to know the amount of student points [MTTTS11](course)
+- How many points [POLVOS34](course)
+- How many credits [KATMAP11](course)
+- How many ECTS [MTTMP3](course)
+- How many student credits [SOS6.3.1](course)
+- How many student points [TERY4](course)
+- How many student credits from [TERA1](course)
+- How many student points from [BTK1031(course)
+- How many ECTS from [TERHOIA2](course)
+- How many student credits is [BTK4663](course)
+- How many points is [POLVOS40](course)
+- How many credits is [ROMAP2](course)
+- How many ECTS is [KASS1](course)
+- How many student credits is [JOVA15](course)
+- How many student points is [POLVOS22](course)
+- Student points [SOSM5.1](course)
+- Student credits [TSEKP3](course)
+- ECTS [KASA3](course)
+- [ENGA7](course) ECTS
+- [PSYP3](course) course points
+- [RANSV5](course) student points
+- [VENS1](course) points
+- [VENA1](course) amount of points
+- [TERY4](course) credits
+- [HALJTS06](course) the amount of ECTS
+- How many points [PEACE046/047](course) is
+- How many ECTS [STYA5](course) will be
+- Credits [JOVP2](course)
+- How many credits can I get from [KASPUHA4](course)
+- How many ECTS can I get from [POLVOS22](course)
+- How many student points can I get from [KKKI2](course)
+- I want to know how many credits can I get from [TSEKP1](course)
+- I want to know how many ECTS can I get from [HTIS64](course)
+- I want to know how many student points can I get from [JOVA1](course)
+- I want to know the amount of student points [PEACE2](course)
+- How many points [KASA12](course)
+- How many credits [HISJATKO](course)
+- How many ECTS [JOVTETUS3](course)
+- How many student credits [SUOA8](course)
+- How many student points [TAYJ035](course)
+- How many student credits from [KATYVS23](course)
+- How many student points from [KKENKTMO(course)
+- How many ECTS from [TERA6](course)
+- How many student credits is [KASLOK1](course)
+- How many points is [SOS4.4](course)
+- How many credits is [KATYVA99](course)
+- How many ECTS is [SUOA1](course)
+- How many student credits is [JOVA1](course)
+- How many student points is [JKKYTVA13](course)
+- Student points [VENA13](course)
+- Student credits [KASA11](course)
+- ECTS [KASA12](course)
+- [JOUJOVTS](course) ECTS
+- [HALJTJ00](course) course points
+- [SOS6.3.2](course) student points
+- [TIETS40](course) points
+- [ENGS10](course) amount of points
+- [JKKYLT01](course) credits
+- [DPHSS203](course) the amount of ECTS
+- How many points [PEDA1](course) is
+- How many ECTS [KKENVAL7](course) will be
+- Credits [PEDA4](course)
+- How many credits can I get from [KKENVAL3](course)
+- How many ECTS can I get from [MVKS18S](course)
+- How many student points can I get from [SOS7.2/STYA4B](course)
+- I want to know how many credits can I get from [KATYVA12](course)
+- I want to know how many ECTS can I get from [HALJUS15](course)
+- I want to know how many student points can I get from [GTS1](course)
+- I want to know the amount of student points [DPLS01](course)
+- How many points [HTIS80](course)
+- How many credits [STYA5](course)
+- How many ECTS [HISA2](course)
+- How many student credits [HIST03](course)
+- How many student points [KKENVAL9](course)
+- How many student credits from [POLVOS34](course)
+- How many student points from [DPHSO101(course)
+- How many ECTS from [JOVA17](course)
+- How many student credits is [KASLOE1.1](course)
+- How many points is [TERA2](course)
+- How many credits is [KASVAPAA](course)
+- How many ECTS is [PSYA1](course)
+- How many student credits is [JOVP5](course)
+- How many student points is [TERVAL4](course)
+- Student points [POLKVS33](course)
+- Student credits [ITIA03](course)
+- ECTS [MTTMS5](course)
+- [KKENVAL7](course) ECTS
+- [KATSTA14](course) course points
+- [KATLAS17](course) student points
+- [TERKANA2](course) points
+- [HALYAS14](course) amount of points
+- [MTTMS10](course) credits
+- [HISA4](course) the amount of ECTS
+- How many points [JOVPVS8](course) is
+- How many ECTS [STYS3A](course) will be
+- Credits [KKSU7](course)
+- How many credits can I get from [KIRS1](course)
+- How many ECTS can I get from [HALHAS14](course)
+- How many student points can I get from [PSYA6](course)
+- I want to know how many credits can I get from [POLKVA22](course)
+- I want to know how many ECTS can I get from [SUKKP6](course)
+- I want to know how many student points can I get from [TIETS19](course)
+- I want to know the amount of student points [KASLOM1](course)
+- How many points [KATLAS13](course)
+- How many credits [STYA3B](course)
+- How many ECTS [HALHAS20](course)
+- How many student credits [KIRA3C2](course)
+- How many student points [TERHOIA6](course)
+- How many student credits from [KKSU5](course)
+- How many student points from [KASA3(course)
+- How many ECTS from [TAYJ034](course)
+- How many student credits is [SOSM2](course)
+- How many points is [TERHOIA7](course)
+- How many credits is [JOVPVS3](course)
+- How many ECTS is [POHA6](course)
+- How many student credits is [KATJOS11](course)
+- How many student points is [YKT09.6](course)
+- Student points [LTLY07](course)
+- Student credits [KATTAS40](course)
+- ECTS [MTTTP1](course)
+- [STYS2B](course) ECTS
+- [SAKS1](course) course points
+- [MVKS24E](course) student points
+- [RANP4](course) points
+- [YKTM6.3](course) amount of points
+- [BTK1031](course) credits
+- [HALJTS04](course) the amount of ECTS
+- How many points [SOS4.3](course) is
+- How many ECTS [LOGA9](course) will be
+- Credits [KKENKTM](course)
+- How many credits can I get from [PEACEGS1](course)
+- How many ECTS can I get from [KKES2](course)
+- How many student points can I get from [JOVPVS12](course)
+- I want to know how many credits can I get from [RANA7](course)
+- I want to know how many ECTS can I get from [KASVAR11](course)
+- I want to know how many student points can I get from [JOVPVS12](course)
+- I want to know the amount of student points [SOS6.2.4](course)
+- How many points [KATLITO4](course)
+- How many credits [KASA3](course)
+- How many ECTS [KKSUHUK](course)
+- How many student credits [JOVA8](course)
+- How many student points [ENGP1](course)
+- How many student credits from [HISA2](course)
+- How many student points from [HALKOS25(course)
+- How many ECTS from [HALKOS27](course)
+- How many student credits is [KASLOM1](course)
+- How many points is [VENA7](course)
+- How many credits is [JKKYTVA13](course)
+- How many ECTS is [SOS10.6](course)
+- How many student credits is [TRSU01](course)
+- How many student points is [STYA5](course)
+- Student points [HISA4](course)
+- Student credits [TERHOJ1](course)
+- ECTS [TIEY4](course)
+- [SUOA2](course) ECTS
+- [TERA2](course) course points
+- [TIETS26](course) student points
+- [LFCS03](course) points
+- [KASLOH2](course) amount of points
+- [HISS2](course) credits
+- [KIRP3](course) the amount of ECTS
+- How many points [HISJATKO](course) is
+- How many ECTS [POLVOS40](course) will be
+- Credits [VENP5](course)
+- How many credits can I get from [KKENYHT](course)
+- How many ECTS can I get from [PEDAYOP3](course)
+- How many student points can I get from [LTLY16](course)
+- I want to know how many credits can I get from [POHA2](course)
+- I want to know how many ECTS can I get from [KASLOE6.2](course)
+- I want to know how many student points can I get from [DPHSFC01](course)
+- I want to know the amount of student points [LOGS5](course)
+- How many points [KKRUHY](course)
+- How many credits [VENA6](course)
+- How many ECTS [TAYJ11](course)
+- How many student credits [SOS4.5](course)
+- How many student points [KATYVA52](course)
+- How many student credits from [ENGA6](course)
+- How many student points from [KASVART2(course)
+- How many ECTS from [JKKYINA11](course)
+- How many student credits is [FILAK](course)
+- How many points is [HALHAA15](course)
+- How many credits is [BTK4121](course)
+- How many ECTS is [SUOP1](course)
+- How many student credits is [MTTTP1](course)
+- How many student points is [KASORIENT](course)
+- Student points [LÄÄKA460](course)
+- Student credits [POLVOS40](course)
+- ECTS [ENGA12](course)
+- [ROMAP1](course) ECTS
+- [DPCMTJ3](course) course points
+- [POHS2](course) student points
+- [KKENYHT](course) points
+- [HIST02](course) amount of points
+- [KASORIENT](course) credits
+- [DPHSS202](course) the amount of ECTS
+- How many points [KKSUKK](course) is
+- How many ECTS [KKRUKTK](course) will be
+- Credits [ENGA9](course)
+- How many credits can I get from [HTIS81](course)
+- How many ECTS can I get from [KASMULTI3](course)
+- How many student points can I get from [KATMAA14](course)
+- I want to know how many credits can I get from [KATLITO5](course)
+- I want to know how many ECTS can I get from [STYS1B4](course)
+- I want to know how many student points can I get from [BTK1013](course)
+- I want to know the amount of student points [POLVOS21](course)
+- How many points [DPLS01](course)
+- How many credits [KASA7](course)
+- How many ECTS [KASA9](course)
+- How many student credits [JOVY3](course)
+- How many student points [KASVAR11](course)
+- How many student credits from [SUOP1](course)
+- How many student points from [TIETS43(course)
+- How many ECTS from [KATLAS17](course)
+- How many student credits is [ENGA8](course)
+- How many points is [POLKVA12](course)
+- How many credits is [PEACE1](course)
+- How many ECTS is [KATTAA40](course)
+- How many student credits is [JOVTS5](course)
+- How many student points is [HTIS51](course)
+- Student points [SUOT1](course)
+- Student credits [VIROP3](course)
+- ECTS [ESPFP1](course)
+- [TERKAN6](course) ECTS
+- [KATLITO5](course) course points
+- [DPIS2](course) student points
+- [KATTAA31](course) points
+- [TERTIETO2](course) amount of points
+- [YKYYKV1](course) credits
+- [ENGA1](course) the amount of ECTS
+- How many points [KKSA1](course) is
+- How many ECTS [HISS1A](course) will be
+- Credits [JOVPVS3](course)
+- How many credits can I get from [NORDIG1](course)
+- How many ECTS can I get from [MEDU02](course)
+- How many student points can I get from [KKSUHY](course)
+- I want to know how many credits can I get from [HALYHT](course)
+- I want to know how many ECTS can I get from [ITIS33](course)
+- I want to know how many student points can I get from [KATLITO5](course)
+- I want to know the amount of student points [JOVA18](course)
+- How many points [KASLOH4B](course)
+- How many credits [KASA11](course)
+- How many ECTS [KATLAS11](course)
+- How many student credits [TERY5B](course)
+- How many student points [LFCS01](course)
+- How many student credits from [KKRUKTMO](course)
+- How many student points from [TAYJ042(course)
+- How many ECTS from [MTTTA7](course)
+- How many student credits is [POLVOA31](course)
+- How many points is [JOVTS5](course)
+- How many credits is [BIO4470](course)
+- How many ECTS is [TIETS05](course)
+- How many student credits is [KASP1](course)
+- How many student points is [HTIS66](course)
+- Student points [TRSU01](course)
+- Student credits [TIEA2.1A](course)
+- ECTS [POLVOA21](course)
+- [POHS5](course) ECTS
+- [KATVRA00](course) course points
+- [KATYVA37](course) student points
+- [ROMAP2](course) points
+- [KATLAP21](course) amount of points
+- [ENGA7](course) credits
+- [ENGP6](course) the amount of ECTS
+- How many points [KATYVS26](course) is
+- How many ECTS [KASLTT](course) will be
+- Credits [MVKS10](course)
+- How many credits can I get from [SOSM5.1](course)
+- How many ECTS can I get from [SOCYKV1](course)
+- How many student points can I get from [KATJOA12](course)
+- I want to know how many credits can I get from [HALYAA13](course)
+- I want to know how many ECTS can I get from [ITIS32](course)
+- I want to know how many student points can I get from [MVKS18E](course)
+- I want to know the amount of student points [POLVOA31/S21](course)
+- How many points [KKENKTK](course)
+- How many credits [DPLSSEM](course)
+- How many ECTS [GTS4](course)
+- How many student credits [HISA4](course)
+- How many student points [YKT6.6.3](course)
+- How many student credits from [KASVAR7](course)
+- How many student points from [SAKP0(course)
+- How many ECTS from [TECHS3](course)
+- How many student credits is [KKSU1](course)
+- How many points is [SOSKV1](course)
+- How many credits is [KATVAA14](course)
+- How many ECTS is [MVKS23](course)
+- How many student credits is [YKYYHT4B](course)
+- How many student points is [KATJOS99](course)
+- Student points [PGHAS07](course)
+- Student credits [POHS3](course)
+- ECTS [TERY5B](course)
+- [SOSM1](course) ECTS
+- [TIETS44](course) course points
+- [POHS3](course) student points
+- [SUKKP2](course) points
+- [TIETS17](course) amount of points
+- [MVKS38](course) credits
+- [TIETA9](course) the amount of ECTS
+- How many points [JOVP1](course) is
+- How many ECTS [KKRULL](course) will be
+- Credits [ENGS44](course)
+- How many credits can I get from [STYS3C](course)
+- How many ECTS can I get from [SUOA1](course)
+- How many student points can I get from [POLKVS32](course)
+- I want to know how many credits can I get from [KKENYHT](course)
+- I want to know how many ECTS can I get from [KATVAA13](course)
+- I want to know how many student points can I get from [ENGA4](course)
+- I want to know the amount of student points [TIETA17](course)
+- How many points [KATMAS14](course)
+- How many credits [TRMU1](course)
+- How many ECTS [KASMAT2](course)
+- How many student credits [KATMAS99](course)
+- How many student points [PEDA2](course)
+- How many student credits from [KASMULTI2B](course)
+- How many student points from [KKSUHUK(course)
+- How many ECTS from [VIROP2](course)
+- How many student credits is [HISA4](course)
+- How many points is [KKSAVAL4](course)
+- How many credits is [POLVOA22](course)
+- How many ECTS is [KASLOE1.1](course)
+- How many student credits is [MVKS23](course)
+- How many student points is [KKRA2](course)
+- Student points [SOS6.1.2](course)
+- Student credits [KASS1](course)
+- ECTS [SOS6.5.2](course)
+- [ITIA11](course) ECTS
+- [POLKVS33](course) course points
+- [DPHSFC06](course) student points
+- [KASS1](course) points
+- [KASA13](course) amount of points
+- [HALKOS27](course) credits
+- [ITIP4](course) the amount of ECTS
+- How many points [DPHSS207](course) is
+- How many ECTS [HALJTS07](course) will be
+- Credits [DPJKKPS](course)
+- How many credits can I get from [ITIP3](course)
+- How many ECTS can I get from [HISA2](course)
+- How many student points can I get from [LUOYA200](course)
+- I want to know how many credits can I get from [DPIT2](course)
+- I want to know how many ECTS can I get from [SOS4.5](course)
+- I want to know how many student points can I get from [DPCMTJ4](course)
+- I want to know the amount of student points [JOUJOVTS](course)
+- How many points [YKYYHT3](course)
+- How many credits [KATTAA12A](course)
+- How many ECTS [HALKAA99](course)
+- How many student credits [PGHMTS](course)
+- How many student points [JKKYINA11](course)
+- How many student credits from [KATYVA23](course)
+- How many student points from [LTLY16(course)
+- How many ECTS from [KASLOE8.1](course)
+- How many student credits is [KATMAS13](course)
+- How many points is [SOSKV3](course)
+- How many credits is [KASSO1](course)
+- How many ECTS is [KASP1-KASP5](course)
+- How many student credits is [BTK2020](course)
+- How many student points is [KKENYHT](course)
+- Student points [FILAPRO](course)
+- Student credits [MTTTA6](course)
+- ECTS [HALTVA15](course)
+- [ENGS13/15-16](course) ECTS
+- [HALJUA99](course) course points
+- [JOVPVS8](course) student points
+- [ENGS3](course) points
+- [POHS1](course) amount of points
+- [KKKI2](course) credits
+- [BIO2450](course) the amount of ECTS
+- How many points [RANP2](course) is
+- How many ECTS [ITIS61](course) will be
+- Credits [ENGS40](course)
+- How many credits can I get from [SOSM2](course)
+- How many ECTS can I get from [ESPFP0](course)
+- How many student points can I get from [KASVARPH](course)
+- I want to know how many credits can I get from [LOGA2](course)
+- I want to know how many ECTS can I get from [KKENYHT](course)
+- I want to know how many student points can I get from [KKRUVAL2](course)
+- I want to know the amount of student points [KATVRS40](course)
+- How many points [HTIS51](course)
+- How many credits [KATVRP12](course)
+- How many ECTS [MTTY4](course)
+- How many student credits [TSEKP3](course)
+- How many student points [JKKYLT01](course)
+- How many student credits from [JOUJOVTS](course)
+- How many student points from [ITIA01(course)
+- How many ECTS from [DPJKKHS](course)
+- How many student credits is [KATLAA11](course)
+- How many points is [TAYJ032](course)
+- How many credits is [MEDU02](course)
+- How many ECTS is [TAYJ033](course)
+- How many student credits is [ESPFP0](course)
+- How many student points is [DPCMTJ4](course)
+- Student points [DPEDUE](course)
+- Student credits [KATVAA12](course)
+- ECTS [JOVP3](course)
+- [KASLOE6.1](course) ECTS
+- [POLVOA51/52/S24](course) course points
+- [POLKVA21](course) student points
+- [BIO2350](course) points
+- [KATLAS99](course) amount of points
+- [DPEDUB.2](course) credits
+- [KKSUYP](course) the amount of ECTS
+- How many points [KKENKTK](course) is
+- How many ECTS [KASLOH3](course) will be
+- Credits [POLVOS40](course)
+- How many credits can I get from [HALYAA13](course)
+- How many ECTS can I get from [KKRUYHT](course)
+- How many student points can I get from [KASP4](course)
+- I want to know how many credits can I get from [POLVOA11](course)
+- I want to know how many ECTS can I get from [KIRA5](course)
+- I want to know how many student points can I get from [KATTAS90](course)
+- I want to know the amount of student points [KASLOE7.2](course)
+- How many points [TERA1](course)
+- How many credits [KATYVS41](course)
+- How many ECTS [KATTAS90](course)
+- How many student credits [BIO4380](course)
+- How many student points [HALJTS08](course)
+- How many student credits from [ENGA10](course)
+- How many student points from [BTK1062(course)
+- How many ECTS from [POHA6](course)
+- How many student credits is [TERHOJ4](course)
+- How many points is [LOGS8](course)
+- How many credits is [HISJATKO](course)
+- How many ECTS is [POLKVS10](course)
+- How many student credits is [TERKANA2](course)
+- How many student points is [LUOYA200](course)
+- Student points [SUKKP1](course)
+- Student credits [ENGP3](course)
+- ECTS [POLKVS33](course)
+- [DPHSS203](course) ECTS
+- [KASA7](course) course points
+- [KKENVAL8](course) student points
+- [TRSU01](course) points
+- [JOVPVA5](course) amount of points
+- [TERHOJ2](course) credits
+- [KASVAR1](course) the amount of ECTS
+- How many points [POLVOS31](course) is
+- How many ECTS [ITIS42](course) will be
+- Credits [LUOYA200](course)
+- How many credits can I get from [HALJTA06](course)
+- How many ECTS can I get from [MTTTS12](course)
+- How many student points can I get from [ENGS10](course)
+- I want to know how many credits can I get from [TIETS05](course)
+- I want to know how many ECTS can I get from [POLVOA32](course)
+- I want to know how many student points can I get from [KKSUPRO](course)
+- I want to know the amount of student points [KKRA4](course)
+
+## intent:paikka
+- Where is [Introduction to Trans Studies](course)
+- Where is course [Orientaatio tutkielman tekemiseen -](course)
+- Where is class [Innovation Project (2018-I)](course)
+- Where is lecture [Introduction to Academic English / RPL (näyttökoe)](course)
+- Where is the classroom [Tekstienväliset suhteet: Syventävä tekstianalyysi](course)
+- Where can I find [Doctoral Studies](course)
+- How to get to [Introduction to Political Theory (book exam/essay)](course)
+- Where [Kandidaatintutkielmaseminaari - Seminaari](course)
+- Location [Visuaalisen journalismin perusteet, harjoitukset](course)
+- Find [Hallinto-oikeus](course)
+- How to find [Kandidaatintutkielmaseminaari - Seminaari]
+- How can I find [Venäjän kielen rakenne - Morfologia](course)
+- Which classroom is [Työn uusi järjestys ja aikuiskasvatus - Seminaari](course)
+- What is the classroom for [Asiantuntijan puheviestintä ja vuorovaikutus (1. periodi) / KTM-tutkinto](course)
+- Which room is [Work and Health](course)
+- I'd like to find [Software Project Management, Theory(course)
+- Where can I find [Yrityksen taloustieteellisen tutkimuksen perusteet](course)
+- [Analyysi B](course) place
+- [Lineaarialgebra 1B](course) where
+- [Vanhuus ja gerontologinen sosiaalityö] (course) location
+- Locate [Esimiestyö (syksy 2018)](course)
+- Where is [Environment and Well-Being](course) located
+- The location of [Henkilöstöjohtaminen](course) class
+- I can't find [Sarjakuva ja kuvakirja kääntäjän kädessä / Suomentamisseminaari](course)
+- I'm trying to find [Puheen ja äänen tutkimusharjoittelu - Projekti / käytännön työ](course)
+- I want to know the location of [Tutkimustyötä tukevat tohtoriopinnot - Doctoral Studies in Information Studies and Interactive Media](course)
+- I want to know where [Pro gradu - seminaari 2018 (jatkava)  (vaihe I)](course) is
+- I want to know the classroom for [Filosofinen argumentaatio, tulkinta ja kirjoittaminen](course)
+- I want to know how to find [Orientoivat opinnot - Tiedonhankintataidot I (MTT)](course)
+- Where is [Academic Presentations](course)
+- Where is course [Terveyden ja mielenterveyden psykologia II](course)
+- Where is class [Syntaxe du français/ Ranskan syntaksi](course)
+- Where is lecture [Biostatistiikka ja tilastollinen tietojenkäsittely](course)
+- Where is the classroom [Kasvatus, tieto ja teoria - Luennot](course)
+- Where can I find [Puheen, kielen ja viestinnän kehitys](course)
+- How to get to [Finnish Elementary Course 2](course)
+- Where [Algebra 2](course)
+- Location [Aikuisten neuropsykologinen tutkiminen](course)
+- Find [Business Translation Seminar Finnish - English](course)
+- How to find [Puheen ja äänen harjoitusmenetelmät]
+- How can I find [Korkeakoulujärjestelmät ja niiden ohjaus - Harjoitustyö](course)
+- Which classroom is [Kandidaatintutkielma](course)
+- What is the classroom for [Tuutorivastaavana toimiminen](course)
+- Which room is [Asiantuntijan puheviestintä ja vuorovaikutus / AHOT (näyttökoe)](course)
+- I'd like to find [Keskiajan symboliikkaa -verkkokurssi(course)
+- Where can I find [Terveydenhuollon koulutuspolitiikka](course)
+- [Johdon laskentatoimen teoria -](course) place
+- [Tieteellinen kommunikaatio ja bibliometriikka](course) where
+- [Quantitative Approach] (course) location
+- Locate [Yksilö, yhteiskunta ja kulttuuri - Historia, yhteiskuntaoppi ja katsomusopetus - 2. vsk (luennot)](course)
+- Where is [Reportaasi](course) located
+- The location of [Praktikum](course) class
+- I can't find [Cultural Conversations](course)
+- I'm trying to find [Tutkimustyön perusteet - c) Tutkimusmenetelmien erityiskysymyksiä](course)
+- I want to know the location of [Musiikki - Musiikkikasvatuksen perusteet 2 - 1. vsk  ja erillisen opinto-oikeuden POM-opintoihin saaneet opiskelijat](course)
+- I want to know where [Työhyvinvoinnin johtaminen](course) is
+- I want to know the classroom for [Puheviestintä ja hyvinvointi](course)
+- I want to know how to find [Qualitative Approach](course)
+- Where is [Practical Introduction to Data Mining](course)
+- Where is course [Tiedonhaun perusteet](course)
+- Where is class [Kirjallinen viestintä I/Skriftlig kommunikation I](course)
+- Where is lecture [Kielioppi I](course)
+- Where is the classroom [Proseminaari (ryhmä 2)](course)
+- Where can I find [Tiimi toimii - puheviestinnän syventävä kurssi (1.-2.periodi)](course)
+- How to get to [Johdanto tietokäytäntöjen tutkimukseen](course)
+- Where [Sustainable business practices (Lectures)](course)
+- Location [Olio-ohjelmoinnin perusteet II](course)
+- Find [Laadullisten tutkimusmenetelmien soveltaminen hoitotieteessä](course)
+- How to find [Graduseminaari / Kekäläinen (jatkuu keväältä 2018)]
+- How can I find [Sijoitustoiminta](course)
+- Which classroom is [Syntyvyys, hoiva, sukupolvi](course)
+- What is the classroom for [Structure of English I - Grammar I](course)
+- Which room is [Kirjallisuuden- ja kulttuurintutkimuksen teoriat](course)
+- I'd like to find [Global politics of gender(course)
+- Where can I find [Tiede ja teknologia yhteiskunnassa](course)
+- [Sarjakuva ja kuvakirja kääntäjän kädessä / Suomentamisseminaari](course) place
+- [Ranska I](course) where
+- [Kielioppi II (venäjänkieliset opiskelijat)] (course) location
+- Locate [Johdatus viestintään ja mediaan - verkkokurssi](course)
+- Where is [Eriytyvä syventävä tutkimusmenetelmäkurssi B: Metodologinen essee](course) located
+- The location of [Normit ja asiakirjoittaminen - Kääntäjän kielen- ja tekstinhuolto](course) class
+- I can't find [Ylellisyyden historia -verkkokurssi](course)
+- I'm trying to find [Cross-Institutional Studies in TUT](course)
+- I want to know the location of [Nuorisotutkimuksen ajankohtaisia kysymyksiä](course)
+- I want to know where [Variety in Present-day English](course) is
+- I want to know the classroom for [Research Seminar, Doctoral Programme in Language Studies](course)
+- I want to know how to find [Liikuntapedagogiikan perusteet / Luennot - 1.vsk](course)
+- Where is [Talous - politiikka - kulttuuri -lukupiiri](course)
+- Where is course [Human Rights and International Society (book exam/essay)](course)
+- Where is class [Kasvatushistoria, kirjatentti](course)
+- Where is lecture [Systems biology methods](course)
+- Where is the classroom [Tekninen työ -](course)
+- Where can I find [Lineaarialgebra 1A](course)
+- How to get to [Rakenteinen dokumentaatio ja DITA](course)
+- Where [Vuorovaikutuksen perusteet - verkkokurssina II](course)
+- Location [Multimodal Interaction](course)
+- Find [Liiketoimintamallit](course)
+- How to find [Työelämäntutkimusta monimuuttujamenetelmin]
+- How can I find [Äidinkieli ja kirjallisuus - Lasten- ja nuortenkirjallisuus  -1. vsk ensijaisesi opinnot 1½ lukuvuodessa suorittavat 1.vsk lo-opiskelijat ja kaikkki erillisen opinto-oikeuden POM-opintoihin saaneet opiskelijat](course)
+- Which classroom is [Romanian kielen jatkokurssi II / Advanced Course 2 in Romanian -](course)
+- What is the classroom for [New Wars and How to Study Them (POMLFCS3)](course)
+- Which room is [Yliopistopedagogiikan perusteet](course)
+- I'd like to find [Tutkijaseminaari(course)
+- Where can I find [Poliittiset järjestelmät (kirjatentti/essee)](course)
+- [Tissue biology](course) place
+- [International Society (book exam/essay)](course) where
+- [Philosophy of Science (online course)] (course) location
+- Locate [Nuorisotyön ja nuorisotutkimuksen maisteriohjelman lähijakso 11.-12.4.2019](course)
+- Where is [Kvalitatiivinen tutkimus kasvatustieteissä - Verkkokurssi, yhteisopetus avoimen yo:n ja tutkinto-opiskelijoille](course) located
+- The location of [Nykyespanja ja espanja vieraana kielenä/Español actual y español lengua extranjera](course) class
+- I can't find [Matematiikan gradustartti](course)
+- I'm trying to find [Ikääntyminen, kieli ja vuorovaikutus](course)
+- I want to know the location of [Metafysiikka](course)
+- I want to know where [Sopimusoikeuden syventävä opintojakso](course) is
+- I want to know the classroom for [Algebra 1A](course)
+- I want to know how to find [Tutkiva harjoittelu](course)
+- Where is [Datan hallinnan perusteet](course)
+- Where is course [Kehitys, kasvatus ja elämänkulku - Pienryhmät 1 op ja kirjallisuus 2 op (EDUn tutkinto-opiskelijat, aineenop.opiskelijat, avoin yo/lähiopetus)](course)
+- Where is class [Introduction to Academic English (JKK, EDU, LUO, COMS & SOC) online](course)
+- Where is lecture [Pohjoismaiden yhteiskuntaolot ja kulttuurit](course)
+- Where is the classroom [Tasa-arvon ja yhdenvertaisuuden edistäminen työnä (verkkokurssi)](course)
+- Where can I find [Lähtötasokoe](course)
+- How to get to [Parties, Elections and Political Participation (book exam/essay)](course)
+- Where [The Coeliac Disease Journal Club](course)
+- Location [Medioitu vuorovaikutus](course)
+- Find [Finnish Elementary Course 1 (taught in 1. period)](course)
+- How to find [Demola Project]
+- How can I find [Europe's Wicked Policy Problems (POMLFCS2)](course)
+- Which classroom is [Tutkimustyön perusteet - c) Tutkimusmenetelmien erityiskysymyksiä](course)
+- What is the classroom for [Kandidaatintutkielma](course)
+- Which room is [Kaikille avoin tutkijaseminaari](course)
+- I'd like to find [Ulko- ja turvallisuuspoliittinen päätöksentekoharjoitus(course)
+- Where can I find [Vanhempien aikojen tutkijaseminaari](course)
+- [Visuaalisen journalismin perusteet, luennot](course) place
+- [Luovat aineistot ja analyysimenetelmät (intensiivikurssi)](course) where
+- [Orientation and Study Planning] (course) location
+- Locate [Introduction to Finnish History](course)
+- Where is [Sosiaalityön vuorovaikutuksen tutkimus - Sosnet-verkkokurssi](course) located
+- The location of [Kerronnan monet muodot - kirjatentti ja essee](course) class
+- I can't find [Makrotalousteoria II](course)
+- I'm trying to find [Kontrastiivisen fonetiikan perusteet -](course)
+- I want to know the location of [Intercultural Communication](course)
+- I want to know where [Qualitative Approach](course) is
+- I want to know the classroom for [Yhteisö, terveys ja sairaus](course)
+- I want to know how to find [Kansainvälinen talous](course)
+- Where is [Introduction to Education Science and Research](course)
+- Where is course [Kuvataidekasvatus / Luennot - 2.vsk](course)
+- Where is class [Ympäristön ja alueiden poliittisuus (avoin yliopisto-opetus), monimuoto-opetus](course)
+- Where is lecture [Rauha, turvallisuus ja kansainväliset instituutiot (kirjatentti/essee)](course)
+- Where is the classroom [Paikallisen hallinnan teoriat - Lukupiiri](course)
+- Where can I find [Communication Skills in English - Speaking Practice](course)
+- How to get to [Erot, jaot ja niiden rakentuminen, kirjatentti, Seinäjoki](course)
+- Where [Finnish Advanced Course 1 (taught in Finnish)](course)
+- Location [Kvantitatiivinen tutkimus kasvatustieteissä - Harjoitukset, yleinen ja luokanopettajaopiskelijat](course)
+- Find [Cost-Benefit and Cost-Effectiveness Analysis for Social Planning](course)
+- How to find [Peace, Security and International Institutions (book exam/essay)]
+- How can I find [Johdon laskentatoimen perusteet](course)
+- Which classroom is [Johtaminen ja organisaatiot II](course)
+- What is the classroom for [Professional Writing (online course)](course)
+- Which room is [Tilastollisen tutkimuksen perusteet](course)
+- I'd like to find [Tekniikan käännösviestinnän seminaari englanti-suomi(course)
+- Where can I find [Kielioppi I / Grammatik I](course)
+- [Normit ja asiakirjoittaminen - Kääntäjän kielen- ja tekstinhuolto](course) place
+- [Yksilön työhyvinvointi (itsenäinen suoritustapa)](course) where
+- [Comparative Education - Lectures in English (spring) or book exam in English (autumn and spring)] (course) location
+- Locate [Lastenkirjallisuus ja draama / Harjoitukset - 3.vsk + 1.vsk ryhmät 6 ja 7](course)
+- Where is [Kaunokirjallisen kääntämisen peruskurssi](course) located
+- The location of [The European Union (book exam/essay)](course) class
+- I can't find [Monimuuttujamenetelmien perusteet](course)
+- I'm trying to find [Eriytyvä syventävä tutkimusmenetelmäkurssi A: Kyselyaineiston analysointi](course)
+- I want to know the location of [Eurooppalainen, euraasialainen ja globaali energiapolitiikka (kirjatentti/essee)](course)
+- I want to know where [Asiantuntijuuden kehittymiseen orientoiva opintojakso - v. 2018 EDUn opiskelijoiksi hyväksyttyjen ryhmät](course) is
+- I want to know the classroom for [Fundamentals of Finance (Tampere Summer School)](course)
+- I want to know how to find [Introduction to Science and Research (autumn)](course)
+- Where is [Terveystieteiden tilastolliset tutkimusmenetelmät](course)
+- Where is course [Laaja-alaistava harjoittelu - Opetus- ja koulutushallinnon luennot](course)
+- Where is class [Keskustelun- ja diskurssianalyysi / Gesprächs- und Diskursanalyse](course)
+- Where is lecture [Varhaismoderni yhteiskunta](course)
+- Where is the classroom [Conflicts over the Use of Natural Resources and the Environment](course)
+- Where can I find [Latinan kielen alkeiskurssi](course)
+- How to get to [Verkkomedian suunnittelu - verkkokurssi](course)
+- Where [Bioinformatics tools (autumn 2018)](course)
+- Location [Julkisoikeuden perusteet (järjestäjä TAMK)](course)
+- Find [Global politics of gender](course)
+- How to find [Johdatus tieteenfilosofiaan]
+- How can I find [Lähtötasokoe / Schwellentest](course)
+- Which classroom is [Introduction to Web Publishing - Autumn 2018](course)
+- What is the classroom for [Tieteellinen kirjoittaminen / LUO & COMS](course)
+- Which room is [Laaja-alaistava harjoittelu - Ohjattu opetusharjoittelu](course)
+- I'd like to find [KV-tuutorina toimiminen(course)
+- Where can I find [Dramaturgia: Musikaalin dramaturgia](course)
+- [Taidehistoria ja näyttelypedagogiikka -](course) place
+- [Orientation - Orientation to studying in the Degree Programme](course) where
+- [Yhteiskunnan mittaaminen] (course) location
+- Locate [History of English](course)
+- Where is [Yritysappro](course) located
+- The location of [Tiedonhankintataidot 3op - Tiedonhankintataidot I - Tiedonhankinnan perusteet](course) class
+- I can't find [American Government & Politics (Tampere Summer School 2018)](course)
+- I'm trying to find [Fonetiikan tutkimusmenetelmät - Menetelmäkurssi](course)
+- I want to know the location of [Experimental animal course](course)
+- I want to know where [Tragedy of the Commons? Problems and Solutions](course) is
+- I want to know the classroom for [Radio Project](course)
+- I want to know how to find [Preparatory Course in Reading and Writing for Academic Purposes (online)](course)
+- Where is [Software Project Management, Software Project Management (Spring term)](course)
+- Where is course [Marketing Communications](course)
+- Where is class [Ranskan yhteiskunta I / Société française I](course)
+- Where is lecture [Johtaminen ja organisaatiot I (kirjallisuus)](course)
+- Where is the classroom [Johdatus hoitotieteelliseen tutkimukseen, kirjatentti](course)
+- Where can I find [SOTEPO - Tohtorikoulutusseminaari (Sos.- ja terv.pol., tervh.tutk., terv.huollon joht.)](course)
+- How to get to [Terveystieteiden orientoivat tohtoriopinnot](course)
+- Where [Käännösviestintä saksa - suomi  / Transalation Deutsch-Finnisch](course)
+- Location [Venäjä II](course)
+- Find [Saksa IV](course)
+- How to find [Monimuuttujamenetelmien perusteet]
+- How can I find [Espanjan historia ja kirjallisuus - Historia y literatura de España](course)
+- Which classroom is [International Trade and Finance (Tampere Summer School) - luennot ja tentti](course)
+- What is the classroom for [Bioinformatics tools (autumn 2018)](course)
+- Which room is [Tiedonhankinnan perusteet](course)
+- I'd like to find [Työ ja äitiys tänään(course)
+- Where can I find [Julkisoikeuden perusteet (järjestäjä TAMK)](course)
+- [Johdatus hoitotieteelliseen tutkimukseen, kirjatentti, Seinäjoki](course) place
+- [Radio Project](course) where
+- [Kandidaatin tutkielma ja seminaari (kevät)] (course) location
+- Locate [Basics of Project Management](course)
+- Where is [Biological data analysis with R](course) located
+- The location of [Muuttuvat oppimisympäristöt - Luennot ja opintopiiri](course) class
+- I can't find [Qualitative Approach](course)
+- I'm trying to find [European Integration and the Political System of the European Union (book exam/essay)](course)
+- I want to know the location of [Strateginen johtaminen julkisyhteisöissä](course)
+- I want to know where [Global Ghallenges to the Future of Welfare State (Tampere Summer School 2018)](course) is
+- I want to know the classroom for [Psykiatria](course)
+- I want to know how to find [Introduction to Corporate Social Responsibility](course)
+- Where is [Tilinpäätösanalyysi](course)
+- Where is course [Vakuutuksen ja riskienhallinnan erikoistumisosa](course)
+- Where is class [Tiedonhankintataidot (hoitotiede)](course)
+- Where is lecture [Kasvatuksen historialliset ja filosofiset lähtökohdat, monimuoto-opetus](course)
+- Where is the classroom [Mediadiskurssi](course)
+- Where can I find [PlayLab! Game Journalism Project](course)
+- How to get to [Sarjakuva ja kuvakirja kääntäjän kädessä / Suomentamisseminaari](course)
+- Where [Asiantuntijan puheviestintä ja vuorovaikutus opetus- ja kasvatustyössä (2. periodi)](course)
+- Location [Yhteisö, terveys ja sairaus](course)
+- Find [Argumentaation ja tieteellisen päättelyn perusteet](course)
+- How to find [Introduction to Bayesian Analysis 2]
+- How can I find [Eriytyvä syventävä tutkimusmenetelmäkurssi A: Etnografia](course)
+- Which classroom is [Valinnainen jakso: Toimitustyön johtaminen/ JOVVJS1 Visuaalisen työn johtaminen](course)
+- What is the classroom for [Kandidaattiseminaari (Nenonen)](course)
+- Which room is [Kandidaattiseminaari ja tutkielma (yritysjuridiikka ja vero-oikeus)](course)
+- I'd like to find [Linguistics II: Meaning and Discourse(course)
+- Where can I find [Normit ja asiakirjoittaminen - Kääntäjän kielen- ja tekstinhuolto](course)
+- [Kirjallinen viestintä II/Skriftlig kommunikation II](course) place
+- [Informaatio- ja mediajärjestelmien historiaa ja nykypäivää](course) where
+- [Regression analysis] (course) location
+- Locate [Markkinoinnin erityiskysymyksiä](course)
+- Where is [Ammattimainen tekstintarkistus](course) located
+- The location of [Terveyden ja mielenterveyden psykologia I](course) class
+- I can't find [Laajentava harjoittelu](course)
+- I'm trying to find [Toisen kielen oppiminen ja opetus](course)
+- I want to know the location of [Kirjallisuustieteen tohtoriohjelman tutkijaseminaari](course)
+- I want to know where [Asiakastyön menetelmät, luennot](course) is
+- I want to know the classroom for [Valinnainen jakso: Dokumentaarisen nyky-Suomi-sarjan konseptikehitys ja verkkosuunnittelu](course)
+- I want to know how to find [Sosiaalitieteiden teoria I - SOS5b luennot](course)
+- Where is [Kasvatuksen historialliset ja filosofiset lähtökohdat, monimuoto-opetus](course)
+- Where is course [Kokeellinen tiedonhaku](course)
+- Where is class [Internet ja vuorovaikutteinen media](course)
+- Where is lecture [Klinikkaharjoittelu](course)
+- Where is the classroom [Soveltava projekti - projekti](course)
+- Where can I find [Rekisteritutkimukset](course)
+- How to get to [Terveyden edistämisen interventiot, Seinäjoki](course)
+- Where [Introduction to Academic English (JKK, EDU, LUO, COMS & SOC)](course)
+- Location [Oikeustieteellinen tutkimus](course)
+- Find [Marketing Communications](course)
+- How to find [Tekstin ymmärtäminen III]
+- How can I find [[CANCELLED] Editing Project](course)
+- Which classroom is [Orientation - Introduction to Academic Culture and Degree Studies](course)
+- What is the classroom for [Vieraan kielen taito, perustaso](course)
+- Which room is [Tutkimusprosessin hallinta - Läsnäoloon perustuva oppimispäiväkirja](course)
+- I'd like to find [Semantiikka ja pragmatiikka / Sémantique et pragmatique(course)
+- Where can I find [Dialogue: Constructive Talk at Work](course)
+- [New Forms of Violence, Change in Security Paradigm (book exam/essay)](course) place
+- [Lähisuhdeväkivalta ja sen ammatillinen kohtaaminen - Sosnet verkkokurssi](course) where
+- [Työhyvinvointi (itsenäinen suoritustapa)] (course) location
+- Locate [International Work Experience](course)
+- Where is [Kaikille avoin tutkijaseminaari](course) located
+- The location of [Vuorovaikutus ja tekstit S2-näkökulmasta](course) class
+- I can't find [Specialized Optional Research Methodology: Action research](course)
+- I'm trying to find [Laskentatoimen perusteet (avoin yliopisto-opetus), monimuoto-opetus](course)
+- I want to know the location of [Tekstilingvistiikka / Textlinguistik](course)
+- I want to know where [Vuorovaikutus ja tekstit S2-näkökulmasta](course) is
+- I want to know the classroom for [Tutkimusprosessin hallinta - Läsnäoloon perustuva oppimispäiväkirja](course)
+- I want to know how to find [Julkisen hallinnon reformit ja muutos](course)
+- Where is [Koulutussuunnittelu ja kehittäminen - Seminaari](course)
+- Where is course [Pro gradu -seminaari ja -tutkielma (alkaa kevät 2019)](course)
+- Where is class [Advanced Functional Programming](course)
+- Where is lecture [Käsitekerho/ Mediatutkimuksen valinn. jakso](course)
+- Where is the classroom [Media and the Arctic](course)
+- Where can I find [Johdatus hoitotieteeseen](course)
+- How to get to [Opetus, ohjaus, oppiminen - elokas ja avoimen lähiop.: pienryhmäopetus (2 op)  ja kirjallisuus (2 op)](course)
+- Where [Kandidaatintutkielmaseminaari - Seminaari](course)
+- Location [Venäjä I](course)
+- Find [Kehitys, kasvatus ja elämänkulku, monimuoto-opetus](course)
+- How to find [Medical English - Introduction to Scientific Writing (RPL) / näyttökoe]
+- How can I find [Arvonlisäverotuksen syventävä opintojakso](course)
+- Which classroom is [Behavioral Finance](course)
+- What is the classroom for [Eriytyvä syventävä tutkimusmenetelmäkurssi B: Metodologinen essee](course)
+- Which room is [Neurocomputing](course)
+- I'd like to find [Biotechnical product development(course)
+- Where can I find [Tutkimustyötä tukevat tohtoriopinnot (tilastotiede)](course)
+- [Asiantuntijan puheviestintä ja vuorovaikutus opetus- ja kasvatustyössä (3. periodi)](course) place
+- [Hydrogel Journal Club](course) where
+- [Tieteellinen kirjoittaminen (SOC)] (course) location
+- Locate [Johdanto riskienhallintaan ja vakuuttamiseen (avoin yliopisto-opetus), monimuoto-opetus](course)
+- Where is [Terveystiedon sisällöt (sähköinen tentti)](course) located
+- The location of [Terveystiedon asiantuntijuus (sähköinen tentti)](course) class
+- I can't find [Terveystieteiden laadulliset tutkimusmenetelmät, kansanterveystieteen opiskelijoille](course)
+- I'm trying to find [Työn ja hyvinvoinnin maisteriohjelman tutkielmaseminaari (jatkava)](course)
+- I want to know the location of [Cell Technology Laboratory Course](course)
+- I want to know where [Saksankielisten maiden kulttuurihistoria / Kulturgeschichte der deutschsprachigen Länder](course) is
+- I want to know the classroom for [Tutkimustyön perusteet (syksy)](course)
+- I want to know how to find [Tutkielmaseminaari - Tutkielmaseminaari](course)
+- Where is [Cross-Institutional Studies in TUT](course)
+- Where is course [Economic renewal of cities and regions](course)
+- Where is class [Hoitot. tiedon hyödyntäminen johtamisessa ja opettamisessa: syventävä projektityö (kurssi jatkuu syksyllä 2019)](course)
+- Where is lecture [Matkakirjallisuus kulttuurihistorian lähteenä -verkkokurssi](course)
+- Where is the classroom [Ajankohtaisia kansanterveyskysymyksiä](course)
+- Where can I find [Orientation - Orientation to studying in the Degree Programme](course)
+- How to get to [Poliittisen sosiologian käsitteet ja tutkimukset](course)
+- Where [Human Rights Law](course)
+- Location [Seminaari (Kunelius) jatkuu keväältä](course)
+- Find [Euroopan unionin finanssihallinto-oikeus - Luennot ja tentti.](course)
+- How to find [Imagining Persia/Iran: Orientalism, Revolution and Diaspora]
+- How can I find [Organisaatioiden tiedonhallinta](course)
+- Which classroom is [Orientation - General Orientation Course for International Students](course)
+- What is the classroom for [Sosiaalipsykologia](course)
+- Which room is [Transcultural perspectives in developing media education](course)
+- I'd like to find [Matemaattiset aineet - Koulugeometria - 2 vsk(course)
+- Where can I find [Business Writing](course)
+- [Tutkielmapiiri](course) place
+- [Social Constructionism](course) where
+- [Learning About Language with Corpora] (course) location
+- Locate [Asiakirjatiedon organisointi- ja kuvailumenetelmät](course)
+- Where is [Poliittiset aatteet ja ideologiat (kirjatentti)](course) located
+- The location of [Tila, teknologia ja toiminta](course) class
+- I can't find [Eriytyvä syventävä tutkimusmenetelmäkurssi A: Eläytymismenetelmä - yhdistetty Jari Eskolan graduryhmään](course)
+- I'm trying to find [Dialogitulkkaus](course)
+- I want to know the location of [Tieteellinen kirjoittaminen / COMS (kirjallisuuden opiskelijoille)](course)
+- I want to know where [Puhetekniikan ja äänenkäytön perusteet](course) is
+- I want to know the classroom for [Espanjan kielen variaatio ajallisesti ja maantieteellisesti/Variación diacrónica y sincrónica del español](course)
+- I want to know how to find [Kuvataidekasvatus / Luennot - 2.vsk](course)
+- Where is [Matematiikkakasvatus / Luennot - 2.vsk + 1.vsk ryhmät 6 ja 7](course)
+- Where is course [Research Ethics](course)
+- Where is class [Ruotsin kielen kirjallinen ja suullinen viestintä (myös TTY:n biotekniikan opiskelijoille)](course)
+- Where is lecture [Introduction to Cultural Psychology](course)
+- Where is the classroom [Sosiaalityön harjoittelu + kehittämistyön harjoittelu - STYS2B2 Harjoitteluseminaari](course)
+- Where can I find [Epidemiologian tohtorikoulutusseminaari](course)
+- How to get to [Kirjasto- ja tietopalvelujen suunnittelu ja arviointi (keväällä 2018 opintokokonaisuuden aloittaneille)](course)
+- Where [Symbols that move us - popular culture/deep culture](course)
+- Location [Opintojen ohjattu suunnittelu](course)
+- Find [Psykiatria](course)
+- How to find [Advanced English Business Communication]
+- How can I find [Introduction to R](course)
+- Which classroom is [Lähtötasokoe](course)
+- What is the classroom for [Introduction to Academic English (diverse learners)](course)
+- Which room is [Puheviestintä tieteenä](course)
+- I'd like to find [Julkisen talousjohtamisen näkökulmia(course)
+- Where can I find [Graduseminaari, alkava (Niemi)](course)
+- [Principles of Usability, User Experience and User Interfaces](course) place
+- [Semantiikan harjoituskurssi](course) where
+- [Ääntämisharjoituksia] (course) location
+- Locate [EU Financial Management](course)
+- Where is [Writing for Research](course) located
+- The location of [Vanhat ja uudet klassikot (kirjatentti/essee)](course) class
+- I can't find [Julkisoikeuden perusteet](course)
+- I'm trying to find [Tieteellinen kirjoittaminen / COMS (puheviestinnän opiskelijoille)](course)
+- I want to know the location of [Kvantitatiivinen tutkimus kasvatustieteissä - Harjoitukset, yleinen](course)
+- I want to know where [Tekstin tekemisen perusteet](course) is
+- I want to know the classroom for [Sustainable business practices (Lectures)](course)
+- I want to know how to find [Tutkimusetiikka](course)
+- Where is [Distributed Systems](course)
+- Where is course [Journal club](course)
+- Where is class [Practical Observation of Finnish School System for Incoming Exchange Students - Observation, written tasks, report](course)
+- Where is lecture [Yhteisösosiaalityö monikulttuurisessa ympäristössä](course)
+- Where is the classroom [Suurvalta kriiseissä: näkökulmia Venäjän historiaan 1700-luvulta 1900-luvulle](course)
+- Where can I find [Tiede, tutkimus, kirjoittaminen](course)
+- How to get to [Seminaari II - Tieteellisen tekstin tuottaminen](course)
+- Where [Tieteellisen tiedonhankinnan perusteet (venäjä) -](course)
+- Location [Teoria, ideologia & talouspolitiikka - Keynesiläisyydestä uusliberalismiin](course)
+- Find [Lineaarialgebra 1A](course)
+- How to find [Cultural Conversations]
+- How can I find [Kuva, sana ja ääni -multimodaalisuuskurssi](course)
+- Which classroom is [Kauppatieteellisen tutkimuksen menetelmät (markkinointi ja yrityksen johtaminen)](course)
+- What is the classroom for [Liiketoimintaympäristön taloustiede](course)
+- Which room is [Projektinhallinnan perusteet](course)
+- I'd like to find [Terveystiedon asiantuntijuus (sähköinen tentti)(course)
+- Where can I find [Organisaatiokäyttäytyminen (itsenäinen suoritustapa, kevät 2019)](course)
+- [Teoria, ideologia & talouspolitiikka - Keynesiläisyydestä uusliberalismiin](course) place
+- [Perusharjoittelu](course) where
+- [[CANCELLED] Editing Project] (course) location
+- Locate [Terveystieteiden laadulliset tutkimusmenetelmät, hoitotieteen opiskelijoille](course)
+- Where is [Matematiikkakasvatus / Luennot - 2.vsk + 1.vsk ryhmät 6 ja 7](course) located
+- The location of [Tilastotieteen johdantokurssi, kevät](course) class
+- I can't find [Monikulttuurinen kirjallisuus Suomessa](course)
+- I'm trying to find [Kandidaatin tutkielma ja seminaari (Kansanterveystieteen opiskelijoille)](course)
+- I want to know the location of [Specialised International Relations Research Methods (book exam/essay)](course)
+- I want to know where [Terveystieteiden laadulliset tutkimusmenetelmät, hoitotieteen opiskelijoille](course) is
+- I want to know the classroom for [Kirjallinen viestintä I (venäjänkieliset opiskelijat)](course)
+- I want to know how to find [Deutsch im Alltag und Studium](course)
+- Where is [Introduction to Academic English / RPL (näyttökoe)](course)
+- Where is course [Literature and Society in Early Modern Britain](course)
+- Where is class [Tieteenfilosofia](course)
+- Where is lecture [Latinankielinen kirjallisuus I: klassinen latina](course)
+- Where is the classroom [Asiantuntijan puheviestintä ja vuorovaikutus (INTENSIIVIKURSSI 17.8.-29.8.18)](course)
+- Where can I find [Advanced bioinformatics tools](course)
+- How to get to [Muutosjohtaminen sosiaalityössä - Sosnet verkkokurssi](course)
+- Where [Viron jatkokurssi](course)
+- Location [Sosiaalisen median ja vuorovaikutteisen median perusteet](course)
+- Find [Luottamustehtävissä toimiminen - Luottamustehtäväraportti](course)
+- How to find [Johdatus matematiikkaan ja tilastotieteeseen]
+- How can I find [Sukupuolen ja ruumiillisuuden tutkimuksen nykykeskustelut](course)
+- Which classroom is [Palvelut ja hyvinvointivaltion murros](course)
+- What is the classroom for [Opetussuunnitelmatyö yliopistossa](course)
+- Which room is [EU External Relations: Security, Economy and Values (book exam/essay)](course)
+- I'd like to find [Finnish Reading Comprehension and Conversation Course 1 (taught in Finnish)(course)
+- Where can I find [Jatkokoulutusseminaari](course)
+- [Seminaari](course) place
+- [Työn ja hyvinvoinnin maisteriohjelman tutkielmaseminaari (jatkava)](course) where
+- [Tekoäly ja vakuutustoiminta] (course) location
+- Locate [Kirjallinen viestintä I / Schriftliche Kommunikation I](course)
+- Where is [Journalismin perusteet, luennot](course) located
+- The location of [Graduseminaari, jatkava (Niemi)](course) class
+- I can't find [Liiketoimintaosaamisen kokonaisdynamiikka ja sen ohjaaminen - VIBU-yritysstimulaatio](course)
+- I'm trying to find [Organizational Behavior (Independent study, Spring 2019)](course)
+- I want to know the location of [Julkisen talousjohtamisen informaatio](course)
+- I want to know where [Medioitu vuorovaikutus](course) is
+- I want to know the classroom for [Research on Media, Culture and Education](course)
+- I want to know how to find [Kandidaattiseminaari (Mustakallio)](course)
+- Where is [Johtamisen ja organisaatioiden perusteet](course)
+- Where is course [Informaatio- ja mediajärjestelmien historiaa ja nykypäivää (keväällä 2019 perusopinnot aloittaville) - verkkokurssi](course)
+- Where is class [Tekniikan käännösviestinnän seminaari englanti-suomi](course)
+- Where is lecture [Sanaston tuntemus/Ordkunskap](course)
+- Where is the classroom [Fonetiikan ja yleisen kielitieteen perusteet - Fonetiikka](course)
+- Where can I find [Tieteellinen kirjoittaminen / Wissenschaftliches Schreiben](course)
+- How to get to [Makrotalousteoria I](course)
+- Where [Tietokäytännöt](course)
+- Location [Keskiajan paleografia ja diplomatiikka (PERUTTU)](course)
+- Find [Ajankohtaisia kansanterveyskysymyksiä](course)
+- How to find [Political Institutions and Processes (book exam/essay)]
+- How can I find [Radiokääntäminen (saksa)](course)
+- Which classroom is [Makrotalousteoria II](course)
+- What is the classroom for [Valinnainen jakso: Johdatus tiedeviestintään](course)
+- Which room is [Tutkimusprosessin hallinta - Läsnäoloon perustuva oppimispäiväkirja](course)
+- I'd like to find [Julkisten palvelujen johtaminen(course)
+- Where can I find [Kiina I](course)
+- [Johdatus tieteenfilosofiaan](course) place
+- [Retoriikka ja argumentaatioanalyysi/Retorik och argumentationsanalys](course) where
+- [World society: National policies, global governance and transnational sociology] (course) location
+- Locate [Introduction to Entrepreneurship](course)
+- Where is [Kasvatus, koulutus ja yhteiskunta, verkko-opetus](course) located
+- The location of [International Society (book exam/essay)](course) class
+- I can't find [Feministiset politiikat ja asiantuntijuus](course)
+- I'm trying to find [Kandidaattiseminaari](course)
+- I want to know the location of [Johdatus kunta- ja aluejohtamiseen](course)
+- I want to know where [Julkisen talousjohtamisen klassikkoteokset (kirjallinen tentti)](course) is
+- I want to know the classroom for [Kirjallisuustieteen syysseminaari: Ihmesaduista adaptaatioihin. Näkökulmia sadun ja fantasian tutkimukseen](course)
+- I want to know how to find [Poliittinen viestintä: Eduskuntavaalit 2019](course)
+- Where is [Orientation - Orientation to studying in the Degree Programme](course)
+- Where is course [Kasvatus, koulutus ja yhteiskunta, verkko-opetus](course)
+- Where is class [Kehitys, kasvatus ja elämänkulku, monimuoto-opetus](course)
+- Where is lecture [Study Skills - Basics of Information Literacy](course)
+- Where is the classroom [Työhyvinvointi (itsenäinen suoritustapa)](course)
+- Where can I find [Longitudinal and Finite Nonlinear Mixture Modelling and Associated Experimental Design Strategies (independent study and exams) 5 ECTS](course)
+- How to get to [Äänen häiriöt](course)
+- Where [Ruotsin kielen valmentava kurssi](course)
+- Location [Lapset kehittyvinä ja sosiaalisina toimijoina varhaiskasvatuksessa / Harjoitukset - 1.vsk](course)
+- Find [Erikoisalojen käännösviestinnän seminaari ruotsi-suomi](course)
+- How to find [Hands-on genetics]
+- How can I find [Ruotsin kielen kirjallinen ja suullinen viestintä / avoin yliopisto-opetus](course)
+- Which classroom is [Johdon laskentatoimen perusteet](course)
+- What is the classroom for [Teksti, keskustelu ja vuorovaikutus](course)
+- Which room is [Yhdyskuntakehittämisen ajankohtaisia kysymyksiä](course)
+- I'd like to find [Making sense of globalization - Theorizing beyond the nation-state - Lectures + essay(course)
+- Where can I find [Mediatutkimuksen valinn. jakso: Työseminaari: Euroopan hullu vuosi 1968 ja sen perintö](course)
+- [Yksilö, yhteiskunta ja kulttuuri - Monikulttuurisuus koulussa - 2. vsk](course) place
+- [Environmental History and Cultural Ecology of Russia (VENS20)](course) where
+- [Introduction to Finnish History] (course) location
+- Locate [Johdatus visuaaliseen kulttuuriin](course)
+- Where is [Health in disasters, conflicts and complex human emergencies](course) located
+- The location of [Managing Research Information](course) class
+- I can't find [Seminaari II](course)
+- I'm trying to find [Terveyden edistämisen perusteet (kirjatentti hoitotieteen opiskelijoille)](course)
+- I want to know the location of [Terveystiedon perusteet](course)
+- I want to know where [Usean muuttujan integraalilaskenta](course) is
+- I want to know the classroom for [Normit ja asiakirjoittaminen - Tieteellinen kirjoittaminen](course)
+- I want to know how to find [Visuaalisen journalismin perusteet, luennot](course)
+- Where is [Distributed Systems](course)
+- Where is course [Johdon laskentatoimen teoria -](course)
+- Where is class [Sosiaalioikeus - STYA1A2 Sosiaalioikeus II](course)
+- Where is lecture [Sosiaalityön harjoittelu](course)
+- Where is the classroom [Tutkijan puheviestintä](course)
+- Where can I find [Ympäristöpolitiikan vaikutuskeinot](course)
+- How to get to [Kielen ja vuorovaikutuksen tutkimuksen teorioita ja sovellutuksia](course)
+- Where [Kielioppi II (suomenkieliset opiskelijat)](course)
+- Location [Keskustelun- ja diskurssianalyysi / Gesprächs- und Diskursanalyse](course)
+- Find [Mediadiskurssi](course)
+- How to find [Aluetalous ja kaupunkitalous]
+- How can I find [Yksilö, yhteiskunta ja kulttuuri - Monikulttuurisuus koulussa - 2. vsk](course)
+- Which classroom is [Feministinen teoria ja metodologia](course)
+- What is the classroom for [Venäjä III](course)
+- Which room is [Pratiques de l'oral et de l'écrit / Ranskan kielen tuottaminen](course)
+- I'd like to find [Learning from Multiple Sources(course)
+- Where can I find [Tutkijan puheviestintä](course)
+- [Cost-Benefit and Cost-Effectiveness Analysis for Social Planning](course) place
+- [Tieteellinen kirjoittaminen](course) where
+- [Eurooppalainen, euraasialainen ja globaali energiapolitiikka (kirjatentti/essee)] (course) location
+- Locate [Academic Writing](course)
+- Where is [Nuorisotyön ja nuorisotutkimuksen maisteriohjelman lähijakso 7.-8.11.2018](course) located
+- The location of [Musiikin tiedolliset valmiudet ja niiden soveltaminen - Harmonia ja improvisointi koskettimilla](course) class
+- I can't find [Puheviestintä ja hyvinvointi](course)
+- I'm trying to find [Varhaiskasvatuksen kehittyvä asiantuntijuus - Työssäoppiminen 3.vsk](course)
+- I want to know the location of [Kieli käyttöön/Språket i bruk](course)
+- I want to know where [Ruotsin kielen kirjallinen ja suullinen viestintä (JKK: HK & YTK / EDU / LUO / COMS: HuK, LuK & YTK / SOC)](course) is
+- I want to know the classroom for [Oikeudellisen tutkimuksen perusteet](course)
+- I want to know how to find [Statistical Analysis with Missing Data (advanced)](course)
+- Where is [Aineopintojen valinnainen jakso: Organisaatioviestintä](course)
+- Where is course [Vierailuluentoja johtamisesta](course)
+- Where is class [Monikulttuurisuus ja koulutuspolitiikka - Seminaari](course)
+- Where is lecture [Basics II: Intermediate Czech II](course)
+- Where is the classroom [Kandidaattiseminaari ja tutkielma (markkinointi) - kevät 2019](course)
+- Where can I find [Visuaalisen journalismin erityisalueet](course)
+- How to get to [Quantitative Research Methods and Comparative Research Design (Global Society students)](course)
+- Where [Omaan tieteenalaan ja tutkimusaiheeseen liittyvät opinnot teatteritaiteen tohtorin tutkinnossa](course)
+- Location [Johdatus espanjalaiseen kulttuuriin](course)
+- Find [Poverty in the world: Hunger, inequalities and action](course)
+- How to find [Missä mennään Mead? -seminaari]
+- How can I find [Liikuntatuutorina toimiminen - Liikuntatuutoriperehdytys](course)
+- Which classroom is [Yhteiskunnan tutkimuksen ajankohtaisia kysymyksiä - Luennot](course)
+- What is the classroom for [Toiminta, tulkinta ja tieto (verkkokurssi)](course)
+- Which room is [Cost-Benefit and Cost-Effectiveness Analysis for Social Planning](course)
+- I'd like to find [Modernisoituva yhteiskunta(course)
+- Where can I find [Struggles on Education](course)
+- [Opetus, ohjaus, oppiminen, verkko-opetus](course) place
+- [Implementation and Evaluation of Public Policies](course) where
+- [Johdatus oikeusjärjestykseen (verkkokurssi)] (course) location
+- Locate [Yrityksen oikeudellinen riskienhallinta](course)
+- Where is [Lesen, Verstehen, Schreiben](course) located
+- The location of [Espanja III](course) class
+- I can't find [Perehdyttäminen tietotekniikan alkeisiin](course)
+- I'm trying to find [Toiminta, tulkinta ja tieto](course)
+- I want to know the location of [Lähtötasokoe / Schwellentest](course)
+- I want to know where [Kansainvälisen politiikan erikoistuvat menetelmäopinnot (kirjatentti/essee)](course) is
+- I want to know the classroom for [Erot, jaot ja niiden rakentuminen, kirjatentti, Pori](course)
+- I want to know how to find [Sanaston tuntemus/Ordkunskap](course)
+- Where is [Nuorisotyön ja nuorisotutkimuksen maisteriohjelman lähijakso 14.-15.3.2019](course)
+- Where is course [Sosiaalioikeus](course)
+- Where is class [Puheviestintä tieteenä](course)
+- Where is lecture [Tietotekniikkataidot (kevät)](course)
+- Where is the classroom [Matemaattiset aineet - Johdatus lukukäsitteeseen ja toimintamateriaalit - 1. vsk  ja erillisen opinto-oikeuden POM-opintoihin saaneet opiskelijat (luennot)](course)
+- Where can I find [Finnish Elementary Course 1 (taught in 1. period)](course)
+- How to get to [Tieteenfilosofia](course)
+- Where [Ainedidaktiikka I](course)
+- Location [Tulevaisuuden hyvinvointipalvelut: ratkaisuna robotiikka?](course)
+- Find [Harjoittelu ja työelämävalmiudet](course)
+- How to find [Ohjaus yliopistossa]
+- How can I find [Valinnainen jakso: Tiedeviestinnän projekti](course)
+- Which classroom is [Yhteiskunnan mittaaminen (verkkokurssi)](course)
+- What is the classroom for [Opetus, ohjaus, oppiminen, monimuoto-opeus](course)
+- Which room is [EU ja Länsi-Balkan: ehdollistettua demokratiaa ja valtionrakennusta](course)
+- I'd like to find [Median ja politiikan välinen suhde(course)
+- Where can I find [Latinankielinen kirjallisuus I: klassinen latina](course)
+- [Sota-ajan säännösteltyä kulttuuria](course) place
+- [Ruotsin kielen kirjallinen ja suullinen viestintä](course) where
+- [Molekyylibiologia] (course) location
+- Locate [Kunnallisoikeuden syventävä jakso](course)
+- Where is [Eurooppa-vero-oikeus](course) located
+- The location of [Parties and Elections (book exam/essay)](course) class
+- I can't find [Tiedonhaun perusteet](course)
+- I'm trying to find [Sustainable business practices (Independent study)](course)
+- I want to know the location of [Sosiaalitieteiden kvalitatiiviset menetelmät - Luennot ja harjoitukset](course)
+- I want to know where [Musiikin perusteet / Luennot - 1.vsk ryhmät 1-5](course) is
+- I want to know the classroom for [Behavioral Finance](course)
+- I want to know how to find [Tutkijaseminaari](course)
+- Where is [Systemaattinen tiedonhaku hoitotieteessä, Seinäjoki](course)
+- Where is course [Language, Communication and Culture](course)
+- Where is class [Historiankirjoituksen historia](course)
+- Where is lecture [Orientoivat opinnot ja HOPS (pohjoismaiset kielet)](course)
+- Where is the classroom [Suullinen viestintä I/Muntlig kommunikation I](course)
+- Where can I find [Perhe ja tunteet](course)
+- How to get to [Kansainvälisen politiikan johdantokurssi (kirjatentti)](course)
+- Where [Näkökulmia kääntämiseen - Kääntäminen viestinnällisenä asiantuntijatehtävänä / Perspektiven auf Übersetzen](course)
+- Location [Testimenetelmien perusteet ja ammattietiikka](course)
+- Find [Johdon laskentatoimen jatkokurssi](course)
+- How to find [Ruotsin kielen kirjallinen ja suullinen viestintä (JKK: HK & YTK / EDU / LUO / COMS: HuK, LuK & YTK / SOC)]
+- How can I find [Rauhan- ja konfliktintutkimus (kirjatentti/essee)](course)
+- Which classroom is [Budgeting and capital budgeting (online course)](course)
+- What is the classroom for [Ihmisoikeudet ja kansainvälinen yhteisö (kirjatentti/essee)](course)
+- Which room is [Kuva-  ja mediakulttuurit - Kuvakulttuurit - 1. vsk ja erillisen opinto-oikeuden POM-opintoihin saaneet opiskelijat (luennot)](course)
+- I'd like to find [Orientoivat opinnot - Tiedonhankintataidot I (TIE)(course)
+- Where can I find [Sosiaalipsykologia](course)
+- [Eriytyvä syventävä tutkimusmenetelmäkurssi A: Kehittävän työntutkimuksen menetelmät](course) place
+- [Matemaattiset aineet - Koulugeometria - 2 vsk](course) where
+- [Johdatus länsimaiseen kirjallisuushistoriaan - luennot] (course) location
+- Locate [Academic writing and theory](course)
+- Where is [Organizational Behavior (Independent study, Spring 2019)](course) located
+- The location of [Kiina II](course) class
+- I can't find [Digital Image Processing - Self-studying](course)
+- I'm trying to find [Suunnittelu ja kehittäminen hoitotyön johtamisessa](course)
+- I want to know the location of [Neuropsykologinen kuntoutus](course)
+- I want to know where [Nordic Model: Nordic Welfare Societies](course) is
+- I want to know the classroom for [Oppimisen ja opiskelun taidot](course)
+- I want to know how to find [Lasten arviointi](course)
+- Where is [Laskentatoimen perusteet](course)
+- Where is course [Tiede, tutkimus, kirjoittaminen](course)
+- Where is class [The Coeliac Disease Journal Club](course)
+- Where is lecture [Käsityö - Käsityö -1. vsk ja erillisen opinto-oikeuden POM-opintoihin saaneet opiskelijat (luennot)](course)
+- Where is the classroom [Ammattimainen tekstintarkistus](course)
+- Where can I find [Asiantuntijan puheviestintä ja vuorovaikutus (INTENSIIVIKURSSI 17.8.-29.8.18)](course)
+- How to get to [Theories of Crime and Deviance](course)
+- Where [Pro gradu -tutkielma ja -seminaari, tammikuussa 2018 aloittaneet ryhmät](course)
+- Location [Geometria - Geometria](course)
+- Find [Tekninen työ -](course)
+- How to find [SOS6.2.3 Työelämän vuorovaikutus]
+- How can I find [Pitkä harjoittelu](course)
+- Which classroom is [Behavioraalinen ja psykologinen taloustiede](course)
+- What is the classroom for [Asioimistulkkaus venäjä-suomi-venäjä](course)
+- Which room is [Kansanterveystieteen käsitteitä ja teoreettisia kysymyksiä](course)
+- I'd like to find [Yhtiöoikeuden syventävä opintojakso(course)
+- Where can I find [Rahoituksen perusteet](course)
+- [Muu valinnainen kurssi](course) place
+- [Tulkin oikeustieto I](course) where
+- [Intercultural Communication] (course) location
+- Locate [Käsitteellinen mallintaminen I](course)
+- Where is [Maailmanpolitiikan tutkimus (kirjatentti/essee)](course) located
+- The location of [Courses in Computer Science in TUT](course) class
+- I can't find [Kulttuuripsykologian perusteet](course)
+- I'm trying to find [Master´s Thesis and Seminar - for the group that started in 2017](course)
+- I want to know the location of [Asiantuntijan puheviestintä ja vuorovaikutus / AHOT (näyttökoe)](course)
+- I want to know where [Tutkimusasetelman menetelmällinen rakentuminen tohtoriopinnoissa - Dialogipajat](course) is
+- I want to know the classroom for [Tietokäytännöt (keväällä 2018 perusopinnot aloittaneille) - verkkokurssi](course)
+- I want to know how to find [Fonetiikan teoriaa - Fonetiikan jatkokurssi](course)
+- Where is [Politiikan tutkimuksen kandidaatintutkielma ja -seminaari](course)
+- Where is course [Muu valinnainen kurssi](course)
+- Where is class [Matemaattiset aineet - Johdatus lukukäsitteeseen ja toimintamateriaalit - 1. vsk  ja erillisen opinto-oikeuden POM-opintoihin saaneet opiskelijat (harjoitukset)](course)
+- Where is lecture [Sosiaalisen median ja vuorovaikutteisen median perusteet](course)
+- Where is the classroom [Journalistinen kieli - Tekstinhuolto](course)
+- Where can I find [Filosofian työpaja](course)
+- How to get to [Ulkopolitiikka ja diplomatia (kirjatentti/essee)](course)
+- Where [Psykiatria ja mielenterveys](course)
+- Location [Romanian kielen jatkokurssi I / Advanced Course 1 in Romanian](course)
+- Find [Matematiikkakasvatus / Luennot - 2.vsk + 1.vsk ryhmät 6 ja 7](course)
+- How to find [Kandidaattiseminaari ja -tutkielma (julkisoikeus), syksy]
+- How can I find [Käsityö - Käsityö -1. vsk ja erillisen opinto-oikeuden POM-opintoihin saaneet opiskelijat (luennot)](course)
+- Which classroom is [Usean muuttujan differentiaalilaskenta](course)
+- What is the classroom for [Applied and Effective Project Management, Leadership and Communication - (Tampere Summer School)](course)
+- Which room is [Introduction to Academic English / RPL (näyttökoe)](course)
+- I'd like to find [Introduction to Corporate Social Responsibility(course)
+- Where can I find [Study Skills - Basics of Information Literacy](course)
+- [Saksa IV](course) place
+- [Kaupunkien maankäytön pelikenttä](course) where
+- [Varhaiskasvatuksen ja esiopetuksen pedagogiikka - Työssäoppiminen 2.vsk (ryhmä 4)] (course) location
+- Locate [The Cancer Biology Journal Club](course)
+- Where is [Eurooppalainen, euraasialainen ja globaali energiapolitiikka (kirjatentti/essee)](course) located
+- The location of [Sosiaalipsykologinen ajattelu II](course) class
+- I can't find [Sosiaalityön peruskurssi (verkkokurssi)](course)
+- I'm trying to find [Fundamentals of Human-Technology Interaction (Tampere Summer School 2018)](course)
+- I want to know the location of [Ruotsin kielen kirjallinen ja suullinen viestintä / avoin yliopisto-opetus](course)
+- I want to know where [Kasvatushistoria - kirjatentti (slk ja klk)](course) is
+- I want to know the classroom for [Media, Race and Society](course)
+- I want to know how to find [Kansainvälisen politiikan erikoistuvat menetelmäopinnot (kirjatentti/essee)](course)
+- Where is [Näkökulmia kääntämiseen - Tekstin ymmärtäminen](course)
+- Where is course [Käyttöliittymien perusteet](course)
+- Where is class [Graduseminaari / Kekäläinen (jatkuu keväältä 2018)](course)
+- Where is lecture [Yhteiskunnallinen laskentatoimi](course)
+- Where is the classroom [Finnish Education System - Seminar](course)
+- Where can I find [Statistical Analysis with Missing Data (advanced)](course)
+- How to get to [Variety in Present-day English](course)
+- Where [Creative Writing in English](course)
+- Location [Structure of English II - Phonology and Pronunciation II](course)
+- Find [Hoivan ehdot, talouden rajat: johdatus vaivan politiikkaan](course)
+- How to find [Visuaalisen kulttuurin teoria - lukupiiri ja essee]
+- How can I find [Ruotsin kielen kirjallinen ja suullinen viestintä / AHOT (näyttökoe)](course)
+- Which classroom is [Tutkiva ja kehittävä opettaja](course)
+- What is the classroom for [Understanding and Managing a Business as a Dynamic Whole - VIBU Business Simulation Game](course)
+- Which room is [Tilinpäätös- ja verosuunnittelu](course)
+- I'd like to find [Finnish Elementary Course 1 (taught in 1. & 2. period)(course)
+- Where can I find [Kandidaattiseminaari ja -tutkielma (kunta- ja aluejohtaminen) - Seminaari Kevät 2019](course)
+- [Translating and Editing for Publication](course) place
+- [Tutkimusseminaari ja pro gradu -tutkielma](course) where
+- [Asiantuntijan puheviestintä ja vuorovaikutus, 3.-4. periodi / VIESTINTÄROHKEUDEN RYHMÄ] (course) location
+- Locate [Fonetiikan perusopintojen harjoitustyö](course)
+- Where is [Journalismin perusteet, luennot](course) located
+- The location of [Tutkimustyön perusteet - c) Tutkimusmenetelmien erityiskysymyksiä](course) class
+- I can't find [Sukupuolentutkimus](course)
+- I'm trying to find [Second Language Acquisition](course)
+- I want to know the location of [Sosiaalitieteiden kvantitatiiviset menetelmät - Luennot ja harjoitukset](course)
+- I want to know where [Äkilliset traumaattiset kriisit ja niiden käsittely](course) is
+- I want to know the classroom for [Nuorisotyö ja nuorten elämänkulku](course)
+- I want to know how to find [Introduction to Criminal Justice](course)
+- Where is [Kvantitatiiviset tutkimusmenetelmät (kirjatentti/essee)](course)
+- Where is course [Tutkimustyötä tukevat tohtoriopinnot (tilastotiede)](course)
+- Where is class [Simultaaninen konferenssitulkkaus](course)
+- Where is lecture [Research seminar for postgraduate studies](course)
+- Where is the classroom [Kiina I](course)
+- Where can I find [Käyttäjäkeskeinen kääntäminen](course)
+- How to get to [Nimistöntutkimus](course)
+- Where [Televisiojournalismi](course)
+- Location [Fonetiikan teoriaa - Fonetiikan jatkokurssi](course)
+- Find [Käsityö - Käsityö -1. vsk ja erillisen opinto-oikeuden POM-opintoihin saaneet opiskelijat (luennot)](course)
+- How to find [Specialised International Relations Research Methods (book exam/essay)]
+- How can I find [Korkeakoulut työyhteisöinä - Kehittämistehtävä](course)
+- Which classroom is [Kasvatus, tieto ja teoria - Luennot](course)
+- What is the classroom for [Julkiset rahoitusjärjestelmät](course)
+- Which room is [Päätöksenteko lastensuojelussa](course)
+- I'd like to find [Kvalitatiivinen tutkimus kasvatustieteissä - Verkkokurssi, yhteisopetus avoimen yo:n ja tutkinto-opiskelijoille(course)
+- Where can I find [Kvalitatiivinen tutkimus kasvatustieteissä - Harjoitukset, yleinen ryhmä](course)
+- [Writing for Research](course) place
+- [Pedagoginen harjoittelu / Varhaiskasvatus](course) where
+- [Julkisen talousjohtamisen tutkimusotteet] (course) location
+- Locate [Lääketieteellisen tutkimuksen etiikka](course)
+- Where is [Tieteellinen kirjoittaminen (SOC)](course) located
+- The location of [Kandidaattiseminaari ja kandidaatin tutkielma - Kandiseminaari](course) class
+- I can't find [Interacting Interculturally: Engaging in dialogue](course)
+- I'm trying to find [Structure of English II - Grammar II](course)
+- I want to know the location of [Finnish Advanced Course 1 (taught in Finnish)](course)
+- I want to know where [Matematiikkakasvatus / Harjoitukset - 2.vsk + 1.vsk ryhmät 6 ja 7](course) is
+- I want to know the classroom for [Oikeustulkkaus I/II (monikielinen)](course)
+- I want to know how to find [Research on Society and Organisations](course)
+- Where is [Digitaalinen historia](course)
+- Where is course [Kandidaattitutkielma ja seminaari (matematiikka) - LaTeX-opinnot](course)
+- Where is class [Varhaiskasvatuksen pedagogiikka ja opetussuunnitelmatyö / Luennot - 2.vsk + 1.vsk ryhmät 6 ja 7](course)
+- Where is lecture [Tieteellinen kommunikaatio ja bibliometriikka](course)
+- Where is the classroom [Seminaari, kandidaatintutkielma ja kypsyysnäyte - Seminaari (kääntäminen ja tulkkaus)](course)
+- Where can I find [Feministinen tietäminen](course)
+- How to get to [Antiikintutkimuksen lähteet ja menetelmät](course)
+- Where [Omaan tieteenalaan ja tutkimusaiheeseen liittyvät opinnot teatteritaiteen tohtorin tutkinnossa](course)
+- Location [Eduskuntavaalikurssi 2019 ja valinnainen tutkimusprojekti](course)
+- Find [Tutkimustyötä tukevat tohtoriopinnot (tilastotiede)](course)
+- How to find [Terveys politiikassa, taloudessa ja järjestelmissä]
+- How can I find [Preparatory Course in Reading and Writing for Academic Purposes (online)](course)
+- Which classroom is [Simultaanitulkkaus I venäjä-suomi-venäjä](course)
+- What is the classroom for [Rasismi ja antirasismi](course)
+- Which room is [Translators' Cultural Competencies](course)
+- I'd like to find [Johdatus sosiaaliantropologiaan -seminaari(course)
+- Where can I find [Biokemian menetelmät](course)
+- [Ekonometrian jatkokurssi](course) place
+- [Asiantuntijan puheviestintä ja vuorovaikutus, 1.-2. periodi / VIESTINTÄROHKEUDEN RYHMÄ](course) where
+- [Verkkomedian suunnittelu - verkkokurssi] (course) location
+- Locate [Terveystieteiden laadulliset tutkimusmenetelmät (hoitotieteen opiskelijat), Seinäjoki](course)
+- Where is [Business Writing](course) located
+- The location of [Pelit ja pelillisyys (keväällä 2018 perusopinnot aloittaneille) - verkkokurssi](course) class
+- I can't find [Tietojenkäsittelytieteiden opintojakso TTY:ltä](course)
+- I'm trying to find [Regression analysis](course)
+- I want to know the location of [Ranska III](course)
+- I want to know where [Politiikan tutkimuksen kandidaatintutkielma ja -seminaari](course) is
+- I want to know the classroom for [Information Visualization](course)
+- I want to know how to find [Tutkimusasetelman menetelmällinen rakentuminen tohtoriopinnoissa - Dialogipajat](course)
+- Where is [Filosofian historia](course)
+- Where is course [Media and Cultural Industries](course)
+- Where is class [ROMA MEDIAEVALIS - kansainvälinen keskiajan historian Rooma -kurssi -](course)
+- Where is lecture [Introduction to research methods in public administration](course)
+- Where is the classroom [Henkilöverotus](course)
+- Where can I find [Internationalisation in Education - (Tampere Summer School 2018)](course)
+- How to get to [Proseminaari (ryhmä 2)](course)
+- Where [Liiketoimintamallit](course)
+- Location [Managing e-commerce; Consumers and Community Perspective](course)
+- Find [Visuaalisen journalismin erityisalueet](course)
+- How to find [Fonetiikan perusopintojen harjoitustyö]
+- How can I find [Tiimi toimii - puheviestinnän syventävä kurssi (3. periodi)](course)
+- Which classroom is [Kandidaatintutkielmaseminaari - Seminaari](course)
+- What is the classroom for [Internet ja vuorovaikutteinen media](course)
+- Which room is [Kontrastiivisen fonetiikan perusteet -](course)
+- I'd like to find [Second Language Acquisition(course)
+- Where can I find [Yritysverotuksen syventävä opintojakso](course)
+- [Kuntien ja alueiden kansainväliset hallintasuhteet](course) place
+- [Vertaisohjaus tietojenkäsittelytieteissä](course) where
+- [Yhteisöllinen kehittämistehtävä] (course) location
+- Locate [Dialogue: Constructive Talk at Work (Tampere Summer School 2018)](course)
+- Where is [Makrotalousteorian jatkokurssi I](course) located
+- The location of [Ihmisoikeudet ja kansainvälinen yhteisö (kirjatentti/essee)](course) class
+- I can't find [Tekstitaidot](course)
+- I'm trying to find [Topical Issues in Governance, Management and Administration](course)
+- I want to know the location of [Opetus, ohjaus, oppiminen, monimuoto-opetus](course)
+- I want to know where [Hallintotieteen teoriat ja käsitteet](course) is
+- I want to know the classroom for [Kohti matematiikan opettajuutta 1(TTY)](course)
+- I want to know how to find [Visuaalisen kulttuurin teoria - luennot ja pienryhmätyöskentely](course)
+- Where is [Rahoitusekonometria](course)
+- Where is course [Journalismin perusteet, harjoitukset](course)
+- Where is class [Analyysi B](course)
+- Where is lecture [Introduction to Big Data Processing](course)
+- Where is the classroom [Kansainvälisen politiikan teoria ja metateoria (kirjatentti)](course)
+- Where can I find [Johtajuuden nykysuuntia](course)
+- How to get to [Toimittajan tieto- ja viestintätekniikkataidot](course)
+- Where [Matemaattiset aineet - Fysiikka ja kemia - 2. vsk](course)
+- Location [Kiina III](course)
+- Find [Research on Teaching and Learning - Seminar](course)
+- How to find [Tiedonhaun kieliteknologia]
+- How can I find [Yksilö, yhteiskunta ja kulttuuri - historian ja yhteiskuntaopin harjoitusryhmät - 2. vsk](course)
+- Which classroom is [Äärellisten mallien teorian seminaari (Finite model theory seminar)](course)
+- What is the classroom for [Current Trends in Leadership](course)
+- Which room is [Tutkimushaastattelu: taito, tyylit ja kohderyhmät](course)
+- I'd like to find [Tieteellinen kirjoittaminen / SOC (historia & filosofia)(course)
+- Where can I find [Tilastollisen päättelyn perusteet, iltaryhmä](course)
+- [Opetus, ohjaus, oppiminen - Varhaiskasvatuksen opiskelijoille luennot (1 op) verkkotallenteena](course) place
+- [Julkisoikeuden syventävä tutkimusjakso](course) where
+- [Moniammatilliset johtamisopinnot] (course) location
+- Locate [Puheviestinnän tutkimuskurssi](course)
+- Where is [Foundations of English Business Communication (RPL) / näyttökoe](course) located
+- The location of [Johdatus hoitotieteelliseen tutkimukseen](course) class
+- I can't find [PhD by publication: writing integrative chapter](course)
+- I'm trying to find [Kvantitatiivinen tutkimus kasvatustieteissä - Harjoitukset, varhaiskasvatus](course)
+- I want to know the location of [Puhe ja ääni tieteellisen tutkimuksen kohteena](course)
+- I want to know where [Systemaattinen tiedonhaku hoitotieteessä](course) is
+- I want to know the classroom for [Käsiteanalyysi ja filosofiset tutkimusmenetelmät (kirjatentti/essee)](course)
+- I want to know how to find [Kliinisen tutkijan peruskurssi](course)
+- Where is [ROMA MEDIAEVALIS - kansainvälinen keskiajan historian Rooma -kurssi -](course)
+- Where is course [Erot, jaot ja niiden rakentuminen, kirjatentti, Seinäjoki](course)
+- Where is class [Ympäristön ja alueiden poliittisuus (avoin yliopisto-opetus), monimuoto-opetus](course)
+- Where is lecture [Liikunta - Liikuntapedagogiikka perusopetuksessa A - 2. vsk](course)
+- Where is the classroom [Asiantuntijan puheviestintä ja vuorovaikutus (4. periodi)](course)
+- Where can I find [Fonetiikan perusopintojen harjoitustyö](course)
+- How to get to [Kehittävä asiantuntijatyö organisaatioissa](course)
+- Where [Suullinen viestintä II/Muntlig kommunikation II](course)
+- Location [Nordic Parliaments (POMLFCS1)](course)
+- Find [Communication Skills in English - Speaking Practice](course)
+- How to find [Yksilö, yhteiskunta ja kulttuuri - evankelisluterilaiset uskonnon ja elämänkatsomustiedon harjoitusryhmät - 2. vsk]
+- How can I find [Tutkiva opiskelu (keväällä 2019 perusopinnot aloittaville) - verkkokurssi](course)
+- Which classroom is [Päätöksenteko lastensuojelussa](course)
+- What is the classroom for [Luentateatteri](course)
+- Which room is [KEB-61430 Laaja kemia 3](course)
+- I'd like to find [Eduskuntavaalikurssi 2019 ja valinnainen tutkimusprojekti(course)
+- Where can I find [Tutkimusseminaari ja pro gradu -tutkielma](course)
+- [SPSS:n perusteet, kevät](course) place
+- [Kasvatustieteen metodologiset lähtökohdat, kirjatentti, Pori](course) where
+- [Seminaari II] (course) location
+- Locate [Käännösviestintä suomi-ruotsi/Översättning finska-svenska](course)
+- Where is [Soveltava projekti - projekti](course) located
+- The location of [Perspectives in Educational Research](course) class
+- I can't find [Kääntäminen äidinkieleen](course)
+- I'm trying to find [Perintö-, lahja- ja varainsiirtoverotus](course)
+- I want to know the location of [Multidisciplinary Games and Internet Research](course)
+- I want to know where [Pedagoginen harjoittelu/Elinikäinen oppiminen ja kasvatus, aikuiskoulutuksen opettajan pedagogiset opinnot - Pedagoginen seminaari ja harjoittelu](course) is
+- I want to know the classroom for [Cell Technology Laboratory Course](course)
+- I want to know how to find [Sosiaalityön historia ja tutkimus (kirjatentti)](course)
+- Where is [Toiminta, tulkinta ja tieto](course)
+- Where is course [Yksilö, yhteiskunta ja kulttuuri - Historia, yhteiskuntaoppi ja katsomusopetus - 2. vsk (luennot)](course)
+- Where is class [Tekstianalyysi / Textanalyse](course)
+- Where is lecture [Yhteiskunnan mittaaminen](course)
+- Where is the classroom [Moniulotteinen markkinointi (avoin yliopisto-opetus), monimuoto-opetus](course)
+- Where can I find [Gradu-kvantimetodit](course)
+- How to get to [Kandidaattiseminaari ja tutkielma (laskentatoimi) - Kandidaattiseminaari, kevät 2018](course)
+- Where [Makrotalousteoria II](course)
+- Location [Laatu, arviointi ja kehittäminen korkeakouluissa - Harjoitustyö](course)
+- Find [Työ- ja virkamiesoikeus](course)
+- How to find [EU External Relations: Security, Economy and Values (book exam/essay)]
+- How can I find [Kvalitatiivinen tutkimus kasvatustieteissä - Verkkokurssi, yhteisopetus avoimen yo:n ja tutkinto-opiskelijoille](course)
+- Which classroom is [Master's Thesis Seminar / Internet and Game Studies](course)
+- What is the classroom for [Kirjallisuus ja kulttuuri/Litteratur och kultur](course)
+- Which room is [Kasvatus tieteellisen tutkimuksen kohteena - verkko-opetus, I-periodi](course)
+- I'd like to find [Johdatus tietojenkäsittelytieteisiin(course)
+- Where can I find [Pro gradu -seminaari ja -tutkielma (alkaa kevät 2019)](course)
+- [Tieteellinen kirjoittaminen / SOC (logopedia)](course) place
+- [SOS6.2.3 Työelämän vuorovaikutus](course) where
+- [Tieteellisen kirjoittamisen seminaari kvantitatiivista tutkimusta tekeville] (course) location
+- Locate [Julkiset rahoitusjärjestelmät](course)
+- Where is [Tietokäytännöt (syksyllä 2018 perusopinnot aloittaville) - verkkokurssi](course) located
+- The location of [Finnish Survival Course](course) class
+- I can't find [Risk Management and Supervision of Financial Institutions](course)
+- I'm trying to find [Tutkielmapiiri](course)
+- I want to know the location of [Kvalitatiivinen tutkimus kasvatustieteissä - Harjoitukset, luokanop. ryhmä](course)
+- I want to know where [Tekstianalyysi / Textanalyse](course) is
+- I want to know the classroom for [Case study: Examining leadership challenges](course)
+- I want to know how to find [Asiantuntijan puheviestintä ja vuorovaikutus opetus- ja kasvatustyössä (2. periodi)](course)
+- Where is [LOGA2](course)
+- Where is course [HALYAS99](course)
+- Where is class [LTLY16](course)
+- Where is lecture [HTIS60](course)
+- Where is the classroom [TAYJ042](course)
+- Where can I find [RANA5](course)
+- How to get to [POLKVA21](course)
+- Where [SOS10.1.3](course)
+- Location [POLPOP05](course)
+- Find [POHS5](course)
+- How to find [MVKS39E/S]
+- How can I find [KASSG](course)
+- Which classroom is [KATYVA36](course)
+- What is the classroom for [JOUJOVTS/JMMETU](course)
+- Which room is [KKRUPRE2](course)
+- I'd like to find [JOVA6/JMMETUS(course)
+- Where can I find [STYA7](course)
+- [KKVE4](course) place
+- [BTK2051](course) where
+- [HALKOS24] (course) location
+- Locate [KATLAS99](course)
+- Where is [KKRA3](course) located
+- The location of [MTTTA7](course) class
+- I can't find [PEACE046](course)
+- I'm trying to find [KKENYHT](course)
+- I want to know the location of [YKTM4](course)
+- I want to know where [ITIS35](course) is
+- I want to know the classroom for [KKSUPRO](course)
+- I want to know how to find [TRSU01](course)
+- Where is [VIROP2](course)
+- Where is course [NAM-IV](course)
+- Where is class [PCP11](course)
+- Where is lecture [TERHOIA4](course)
+- Where is the classroom [TRSU05](course)
+- Where can I find [HALKAA12](course)
+- How to get to [KASA11](course)
+- Where [SAKA5](course)
+- Location [HALYAP01](course)
+- Find [KASLOM11](course)
+- How to find [HALHAS19]
+- How can I find [MVKS15R](course)
+- Which classroom is [STYA3B1](course)
+- What is the classroom for [SUOT1](course)
+- Which room is [KASA6](course)
+- I'd like to find [PGHAS06(course)
+- Where can I find [DPHSF503](course)
+- [PEACE045](course) place
+- [YKT09.4](course) where
+- [ENGS4] (course) location
+- Locate [COSOPC1](course)
+- Where is [POLPOP04](course) located
+- The location of [JKKYORP1](course) class
+- I can't find [HALJUA62](course)
+- I'm trying to find [SAKP3](course)
+- I want to know the location of [HTIS85](course)
+- I want to know where [VENP2](course) is
+- I want to know the classroom for [KASLOK1](course)
+- I want to know how to find [POLPOP03](course)
+- Where is [KATSTA12](course)
+- Where is course [KASA13](course)
+- Where is class [PSYS1](course)
+- Where is lecture [KASLOM2](course)
+- Where is the classroom [BTK4661](course)
+- Where can I find [POHP6](course)
+- How to get to [SUKKP3](course)
+- Where [POLVOA31/S26/27](course)
+- Location [SOS10.6](course)
+- Find [HALYAA14](course)
+- How to find [FILS2B/C]
+- How can I find [TERY5B](course)
+- Which classroom is [KATLAS23](course)
+- What is the classroom for [JOVPVS5](course)
+- Which room is [FILJATKO](course)
+- I'd like to find [VENA11(course)
+- Where can I find [POLKVA23](course)
+- [BIOMJ016](course) place
+- [PGHMTS](course) where
+- [BTK1053] (course) location
+- Locate [VENA10](course)
+- Where is [DPHSM304](course) located
+- The location of [TAYJ024](course) class
+- I can't find [HALYHT](course)
+- I'm trying to find [KATMAS13](course)
+- I want to know the location of [KATTAA40](course)
+- I want to know where [HISA2](course) is
+- I want to know the classroom for [HALJUA19](course)
+- I want to know how to find [KASLOE8.1](course)
+- Where is [TAYJ035](course)
+- Where is course [TERA6](course)
+- Where is class [ITIS12](course)
+- Where is lecture [POLVOS10](course)
+- Where is the classroom [KASVAR6](course)
+- Where can I find [TIEP1](course)
+- How to get to [KATLAS17](course)
+- Where [LTLY07](course)
+- Location [SAKA8](course)
+- Find [KASP3](course)
+- How to find [NAM-VI]
+- How can I find [ROMAP5](course)
+- Which classroom is [COSOPON4](course)
+- What is the classroom for [POLKVA11](course)
+- Which room is [TAYJ035](course)
+- I'd like to find [TERY4(course)
+- Where can I find [KKSULL](course)
+- [SAKS1](course) place
+- [KATPAL11](course) where
+- [MEDU09] (course) location
+- Locate [TERHOI2](course)
+- Where is [POHA1](course) located
+- The location of [KKRUKTK](course) class
+- I can't find [ENGS2](course)
+- I'm trying to find [LTLY01](course)
+- I want to know the location of [ITIA11](course)
+- I want to know where [ITIA11](course) is
+- I want to know the classroom for [TAYJ033](course)
+- I want to know how to find [KKSUBMT](course)
+- Where is [KASSM1](course)
+- Where is course [KATJOA14](course)
+- Where is class [JKKYINA15](course)
+- Where is lecture [HTIY006](course)
+- Where is the classroom [DPLSSEM](course)
+- Where can I find [TRSU07](course)
+- How to get to [KKES2](course)
+- Where [HALJUA61](course)
+- Location [YKT07.2](course)
+- Find [KASA5](course)
+- How to find [MTTTA6]
+- How can I find [KASA12](course)
+- Which classroom is [MVKS17V](course)
+- What is the classroom for [KASA2](course)
+- Which room is [KKSUHY](course)
+- I'd like to find [SOS04.4(course)
+- Where can I find [COSOPON5](course)
+- [STYS3A](course) place
+- [KASVARH](course) where
+- [SUOA2] (course) location
+- Locate [TIETS44](course)
+- Where is [NORDIG4](course) located
+- The location of [PSYA4](course) class
+- I can't find [HALJTA14](course)
+- I'm trying to find [KASP4](course)
+- I want to know the location of [DPLSSEM](course)
+- I want to know where [TIETA8](course) is
+- I want to know the classroom for [DPCMTJT3](course)
+- I want to know how to find [TSEKP2](course)
+- Where is [TAYJ027](course)
+- Where is course [HISA2](course)
+- Where is class [KKENVAL2](course)
+- Where is lecture [POLVOA21](course)
+- Where is the classroom [POLKVA33](course)
+- Where can I find [KASA11](course)
+- How to get to [TIETA18](course)
+- Where [STYA3B2](course)
+- Location [KASA6](course)
+- Find [POHP3](course)
+- How to find [HISA2]
+- How can I find [TAYJ032](course)
+- Which classroom is [TERTIETO2](course)
+- What is the classroom for [VENT1](course)
+- Which room is [TERKAN14](course)
+- I'd like to find [HISP1(course)
+- Where can I find [GTS1](course)
+- [TIETS19](course) place
+- [HALJTS06](course) where
+- [DPCMTJ2] (course) location
+- Locate [MVKS11](course)
+- Where is [TERA6](course) located
+- The location of [ITIS24](course) class
+- I can't find [RUST1/RUST3](course)
+- I'm trying to find [POLKVA23](course)
+- I want to know the location of [ITIA03](course)
+- I want to know where [POLPOP02](course) is
+- I want to know the classroom for [MVKS16V](course)
+- I want to know how to find [SUOR1/A6](course)
+- Where is [MEDU10](course)
+- Where is course [ITIS22](course)
+- Where is class [KASA9](course)
+- Where is lecture [SOS10.2](course)
+- Where is the classroom [LOGS3](course)
+- Where can I find [KKRULUK](course)
+- How to get to [COSOPON1](course)
+- Where [KATVRS44](course)
+- Location [PSYS3](course)
+- Find [PSYP1](course)
+- How to find [ENGA12]
+- How can I find [LOGP3](course)
+- Which classroom is [KASA8](course)
+- What is the classroom for [BIO2085](course)
+- Which room is [KKSA1](course)
+- I'd like to find [POLKVA42(course)
+- Where can I find [ITIY003](course)
+- [ESPFA2](course) place
+- [HALJUA64](course) where
+- [PSYP1] (course) location
+- Locate [HALKAP01](course)
+- Where is [MTTMA2](course) located
+- The location of [MOLI](course) class
+- I can't find [MVKS57](course)
+- I'm trying to find [HALYAP01](course)
+- I want to know the location of [SAKA4](course)
+- I want to know where [LTLY16](course) is
+- I want to know the classroom for [LUOYA200](course)
+- I want to know how to find [HALHAS19](course)
+- Where is [PGHINT](course)
+- Where is course [HTIY006](course)
+- Where is class [SOP03.1](course)
+- Where is lecture [VENS10](course)
+- Where is the classroom [POLKVA23](course)
+- Where can I find [BTK1014](course)
+- How to get to [ROMAP3](course)
+- Where [TIEA2.1B](course)
+- Location [JKKYTVA13](course)
+- Find [JOVVAL](course)
+- How to find [ITIS35]
+- How can I find [SOSM2](course)
+- Which classroom is [SAKA6](course)
+- What is the classroom for [KASLOM11](course)
+- Which room is [RUST2/VENS13](course)
+- I'd like to find [HALJUA19(course)
+- Where can I find [YKT6.4.3](course)
+- [YKYYV07](course) place
+- [POLKVA42](course) where
+- [KASERIT4] (course) location
+- Locate [ENGA9](course)
+- Where is [KASLOM5](course) located
+- The location of [KATYVA36](course) class
+- I can't find [SAKP4](course)
+- I'm trying to find [TERA6](course)
+- I want to know the location of [KASPUHS6](course)
+- I want to know where [TERHOIA4](course) is
+- I want to know the classroom for [PEDA3](course)
+- I want to know how to find [HALJTA12](course)
+- Where is [KASVAR3](course)
+- Where is course [TSEKP1](course)
+- Where is class [POLYEP12](course)
+- Where is lecture [KASLOM6](course)
+- Where is the classroom [KATLAA15](course)
+- Where can I find [SOS4.5](course)
+- How to get to [DPYT](course)
+- Where [TRMU1](course)
+- Location [TERY4](course)
+- Find [FILA3](course)
+- How to find [BTK4661]
+- How can I find [KATLITO2](course)
+- Which classroom is [IGS006](course)
+- What is the classroom for [TERY4](course)
+- Which room is [MVKS36/31](course)
+- I'd like to find [KATVRS44(course)
+- Where can I find [SUOK2/A6](course)
+- [FONEP2](course) place
+- [KATJOS11](course) where
+- [RUST5/VENS10] (course) location
+- Locate [KASLOM6](course)
+- Where is [KASTUTVA](course) located
+- The location of [KATLAS25](course) class
+- I can't find [KASA9](course)
+- I'm trying to find [ITIS61](course)
+- I want to know the location of [KASP4](course)
+- I want to know where [BIO2310](course) is
+- I want to know the classroom for [FILS1A](course)
+- I want to know how to find [KKSUPRO](course)
+- Where is [SOSM6.1](course)
+- Where is course [TRSU02](course)
+- Where is class [SOS09.1](course)
+- Where is lecture [KASA5](course)
+- Where is the classroom [POLKVS33](course)
+- Where can I find [TRSU06](course)
+- How to get to [KATRAS12](course)
+- Where [HALJTA02](course)
+- Location [KATTAA40](course)
+- Find [HISA4](course)
+- How to find [DPHSR402]
+- How can I find [KATVAS11](course)
+- Which classroom is [ITIS61](course)
+- What is the classroom for [ITIS24](course)
+- Which room is [ENGS3](course)
+- I'd like to find [MOLI(course)
+- Where can I find [KASVAR6](course)
+- [KKSU5](course) place
+- [VENA1](course) where
+- [KASA7] (course) location
+- Locate [JOVA7/JMMETUS](course)
+- Where is [KATLAS13](course) located
+- The location of [KKENMP3](course) class
+- I can't find [KKSULUK](course)
+- I'm trying to find [ENGP7](course)
+- I want to know the location of [HALHAP01](course)
+- I want to know where [DPLSSEM](course) is
+- I want to know the classroom for [JOVA16](course)
+- I want to know how to find [PSYS14](course)
+- Where is [VENA7](course)
+- Where is course [IGS005](course)
+- Where is class [TSEKP1](course)
+- Where is lecture [JOVPVA7](course)
+- Where is the classroom [FILP3B](course)
+- Where can I find [KASSG](course)
+- How to get to [LOGP1](course)
+- Where [YKT07.2](course)
+- Location [KASLOM3](course)
+- Find [POLVOS27](course)
+- How to find [DPIT1]
+- How can I find [KKRUVAL1](course)
+- Which classroom is [HALYAP01](course)
+- What is the classroom for [POLPOP01](course)
+- Which room is [PCP10/NAM IV](course)
+- I'd like to find [KKENVAL8(course)
+- Where can I find [PSYA5](course)
+- [YKT04.2](course) place
+- [SOP03.6](course) where
+- [KKSUSOTE] (course) location
+- Locate [KASVARPH](course)
+- Where is [SUOA4](course) located
+- The location of [HTIS80](course) class
+- I can't find [YKT09.4](course)
+- I'm trying to find [KASP5](course)
+- I want to know the location of [SAKA9](course)
+- I want to know where [JOVPVA7](course) is
+- I want to know the classroom for [TERKAN11](course)
+- I want to know how to find [JKKYTUO2](course)
+- Where is [TAYJ11](course)
+- Where is course [SOS6.3.3](course)
+- Where is class [TERTIETO3](course)
+- Where is lecture [JKKYVP11](course)
+- Where is the classroom [KASSM2](course)
+- Where can I find [LOGS4](course)
+- How to get to [KATYVA41](course)
+- Where [KKRULL](course)
+- Location [SOS10.6](course)
+- Find [KKES5](course)
+- How to find [MTTMA4]
+- How can I find [HALJUA42](course)
+- Which classroom is [RUST1/RUST3](course)
+- What is the classroom for [KASSY3](course)
+- Which room is [BTK1062](course)
+- I'd like to find [KASMAT2(course)
+- Where can I find [ENGS40](course)
+- [KKENKTM](course) place
+- [KASMULTI2B](course) where
+- [JOVP2] (course) location
+- Locate [SUOS4](course)
+- Where is [KKES3](course) located
+- The location of [MTTA2](course) class
+- I can't find [POLKVS32](course)
+- I'm trying to find [KKRUVAL1](course)
+- I want to know the location of [COSOPOM2](course)
+- I want to know where [KKSAVAL0](course) is
+- I want to know the classroom for [PEDA3](course)
+- I want to know how to find [KASLOK3](course)
+- Where is [KASA12](course)
+- Where is course [FILA7](course)
+- Where is class [KATTAS34](course)
+- Where is lecture [MTTMP1A](course)
+- Where is the classroom [KASLTT](course)
+- Where can I find [HALYAS11](course)
+- How to get to [KKSUSOTE](course)
+- Where [HALJUA62](course)
+- Location [MVKS16V](course)
+- Find [KASLOE6.2](course)
+- How to find [KASLOM3]
+- How can I find [TAYJ035](course)
+- Which classroom is [JOUJOVTS](course)
+- What is the classroom for [SOS4.3](course)
+- Which room is [PSYP5](course)
+- I'd like to find [KATRAA12(course)
+- Where can I find [TAYJ027](course)
+- [KASSM2](course) place
+- [POHP4](course) where
+- [ENGA13] (course) location
+- Locate [KIRA3G](course)
+- Where is [KASLOE2.2](course) located
+- The location of [MTTTS14](course) class
+- I can't find [ENGS13/15-16](course)
+- I'm trying to find [HALJTA21](course)
+- I want to know the location of [MTTS1](course)
+- I want to know where [ITIP5](course) is
+- I want to know the classroom for [POLVOS33](course)
+- I want to know how to find [KATTAA12A](course)
+- Where is [KATYVA44](course)
+- Where is course [ESPFA1](course)
+- Where is class [KASP5](course)
+- Where is lecture [JKKYOA12](course)
+- Where is the classroom [KKRUBMT](course)
+- Where can I find [KIRP2](course)
+- How to get to [FONEP1](course)
+- Where [PEDAYOP4](course)
+- Location [KKES4](course)
+- Find [HTIS87](course)
+- How to find [KKENVAL3]
+- How can I find [HALJUA61](course)
+- Which classroom is [MTTMS1](course)
+- What is the classroom for [KASA2](course)
+- Which room is [TERTIETO1](course)
+- I'd like to find [TRMU5(course)
+- Where can I find [ENGS22-24](course)
+- [KASP2](course) place
+- [KKENVAL9](course) where
+- [KATVAA12] (course) location
+- Locate [BTK1053](course)
+- Where is [KIRS3](course) located
+- The location of [POLKVA41](course) class
+- I can't find [TIETS19](course)
+- I'm trying to find [POHA9](course)
+- I want to know the location of [JOVA7](course)
+- I want to know where [ITIS42](course) is
+- I want to know the classroom for [HEAAE03](course)
+- I want to know how to find [MVKS24E](course)
+- Where is [KIRS5](course)
+- Where is course [KKRUYHT](course)
+- Where is class [POLVOA31](course)
+- Where is lecture [KASVAR9](course)
+- Where is the classroom [KASLOE7.1](course)
+- Where can I find [MTTTP1](course)
+- How to get to [ITIP3](course)
+- Where [VENA10](course)
+- Location [KKENVAL9](course)
+- Find [TERHOI4](course)
+- How to find [BTK5003]
+- How can I find [HTIS79](course)
+- Which classroom is [JOVA2](course)
+- What is the classroom for [KASVART3](course)
+- Which room is [SAKA1](course)
+- I'd like to find [KATLAS15(course)
+- Where can I find [SOS9](course)
+- [KASA11](course) place
+- [STYVA](course) where
+- [DPEDUA.1A] (course) location
+- Locate [JOVA17](course)
+- Where is [TAYJ13](course) located
+- The location of [SOS4.5](course) class
+- I can't find [SAKP2](course)
+- I'm trying to find [RANP3](course)
+- I want to know the location of [ITIP2](course)
+- I want to know where [KKENMP3](course) is
+- I want to know the classroom for [KKSUVAL3](course)
+- I want to know how to find [KKENVAL8](course)
+- Where is [KATLAA99](course)
+- Where is course [TERHOI4](course)
+- Where is class [BTK2020](course)
+- Where is lecture [PEDA4](course)
+- Where is the classroom [YKYYHT1](course)
+- Where can I find [KATVAA11](course)
+- How to get to [KATTAA12B](course)
+- Where [STYS1B4](course)
+- Location [BTK3210](course)
+- Find [KASLOM6](course)
+- How to find [PSYP2]
+- How can I find [TAYJ025](course)
+- Which classroom is [TERA6](course)
+- What is the classroom for [TRMU2](course)
+- Which room is [HALHAA13](course)
+- I'd like to find [SOS04.4(course)
+- Where can I find [JOUJOVTS](course)
+- [MOLI](course) place
+- [KASLOM5](course) where
+- [STYA3B2] (course) location
+- Locate [TAYJ035](course)
+- Where is [KATLITO4](course) located
+- The location of [VENA11](course) class
+- I can't find [STYA3B](course)
+- I'm trying to find [KASVART2](course)
+- I want to know the location of [TIETS05](course)
+- I want to know where [POLKVA22](course) is
+- I want to know the classroom for [STYP1A](course)
+- I want to know how to find [TIETS13](course)
+- Where is [KKENKTMO](course)
+- Where is course [POLKVA23](course)
+- Where is class [KASLOE4.1](course)
+- Where is lecture [TAYJ032](course)
+- Where is the classroom [KASP3](course)
+- Where can I find [HTIS87](course)
+- How to get to [SOSM6.3](course)
+- Where [KATYVS24](course)
+- Location [FONEA4](course)
+- Find [KATTAS40](course)
+- How to find [KKSUYHT]
+- How can I find [JOVA11](course)
+- Which classroom is [BIO4722](course)
+- What is the classroom for [PSYA10](course)
+- Which room is [KKSUVAL3](course)
+- I'd like to find [DPJKKPS(course)
+- Where can I find [HALJTS01](course)
+- [KATLITO2](course) place
+- [MVKS47](course) where
+- [MTTMY1] (course) location
+- Locate [SAKP3](course)
+- Where is [TAYJ032](course) located
+- The location of [MVKS54](course) class
+- I can't find [COSOPC2](course)
+- I'm trying to find [MTTMA15](course)
+- I want to know the location of [POLKVS22](course)
+- I want to know where [DPEDUB.1A](course) is
+- I want to know the classroom for [PSYS14](course)
+- I want to know how to find [KASP4](course)
+- Where is [LTLY16](course)
+- Where is course [PSYA1](course)
+- Where is class [BTK1099](course)
+- Where is lecture [POHA12](course)
+- Where is the classroom [KASLOM2](course)
+- Where can I find [STYA3B](course)
+- How to get to [POHA14](course)
+- Where [KATLAS13](course)
+- Location [MTTTA2](course)
+- Find [TERHOJ1](course)
+- How to find [KKSUVAL3]
+- How can I find [ITIS11](course)
+- Which classroom is [KASA5](course)
+- What is the classroom for [KASP4](course)
+- Which room is [JOVTS2](course)
+- I'd like to find [HALKAS12(course)
+- Where can I find [ITIA7](course)
+- [HALJUA44](course) place
+- [ENGA4](course) where
+- [BTK4121] (course) location
+- Locate [TAYJ11](course)
+- Where is [ENGP8](course) located
+- The location of [BIO4661](course) class
+- I can't find [KKVE3](course)
+- I'm trying to find [FILA9](course)
+- I want to know the location of [STYS3B2](course)
+- I want to know where [STYS3](course) is
+- I want to know the classroom for [JOVAT2](course)
+- I want to know how to find [KATYVA52](course)
+- Where is [ENGP7](course)
+- Where is course [KASVAR1](course)
+- Where is class [KIRA2](course)
+- Where is lecture [BTK4501](course)
+- Where is the classroom [DPIPEF05](course)
+- Where can I find [TRSU03](course)
+- How to get to [TAYJ13](course)
+- Where [HISA1B](course)
+- Location [STYS2A](course)
+- Find [MOLI](course)
+- How to find [KATSTA14]
+- How can I find [PGHES01](course)
+- Which classroom is [ENGA1](course)
+- What is the classroom for [JOVPVS13](course)
+- Which room is [KASA15](course)
+- I'd like to find [PSYP1(course)
+- Where can I find [KATLAA23](course)
+- [MVKS18E](course) place
+- [JOVA18](course) where
+- [JOVKA4] (course) location
+- Locate [LUOYY020](course)
+- Where is [TRSU01](course) located
+- The location of [LOGP3](course) class
+- I can't find [KATMAA99](course)
+- I'm trying to find [JOVKA4](course)
+- I want to know the location of [KASS1](course)
+- I want to know where [ITIS23](course) is
+- I want to know the classroom for [TERTIETO3](course)
+- I want to know how to find [FILS1](course)
+- Where is [TAYJ034](course)
+- Where is course [POLKAA99](course)
+- Where is class [DPMED15](course)
+- Where is lecture [SUOS1](course)
+- Where is the classroom [ENGP9](course)
+- Where can I find [KATTAA12B](course)
+- How to get to [KASLOM2](course)
+- Where [MTTY1](course)
+- Location [KKSUPRO](course)
+- Find [TERHOIA1](course)
+- How to find [TAYJ035]
+- How can I find [KASSO7](course)
+- Which classroom is [ENGA12](course)
+- What is the classroom for [TERTIETO3](course)
+- Which room is [COSOPC1](course)
+- I'd like to find [BTK4701(course)
+- Where can I find [KASP4](course)
+- [SOS6.2.4](course) place
+- [JOVA4](course) where
+- [POLKAA99] (course) location
+- Locate [STYS1B4](course)
+- Where is [DPIPEF05](course) located
+- The location of [JKKYOA11](course) class
+- I can't find [MTTTP1](course)
+- I'm trying to find [POLPOP05](course)
+- I want to know the location of [KASA13](course)
+- I want to know where [SOS04.4](course) is
+- I want to know the classroom for [KATYVS42](course)
+- I want to know how to find [KKSUBMT](course)
+- Where is [SUKKP5A](course)
+- Where is course [SUOR1/A6](course)
+- Where is class [KATTAA35](course)
+- Where is lecture [MVKS34](course)
+- Where is the classroom [JOVA16](course)
+- Where can I find [TERTIETO3](course)
+- How to get to [FONEP3](course)
+- Where [VIROP1](course)
+- Location [KASSY1](course)
+- Find [KATTAA13A](course)
+- How to find [JKKYORP1]
+- How can I find [KIRA5](course)
+- Which classroom is [DPLASEM](course)
+- What is the classroom for [ENGP1](course)
+- Which room is [ENGA5](course)
+- I'd like to find [BIOMJ016(course)
+- Where can I find [HISA4](course)
+- [DPEDUE](course) place
+- [PSYS12](course) where
+- [STYA3B1] (course) location
+- Locate [KASVARH](course)
+- Where is [FONEA4](course) located
+- The location of [POLKVA11](course) class
+- I can't find [TECHS1](course)
+- I'm trying to find [SOSM5.1](course)
+- I want to know the location of [KATVRP12](course)
+- I want to know where [POLKVS21](course) is
+- I want to know the classroom for [DPHSFC01](course)
+- I want to know how to find [BIO4440](course)
+- Where is [KKIN5](course)
+- Where is course [TECHS5](course)
+- Where is class [KATSTA11](course)
+- Where is lecture [HALJTJ00](course)
+- Where is the classroom [LTLY229](course)
+- Where can I find [KASLOM10](course)
+- How to get to [KATMAA99](course)
+- Where [ESPFA2](course)
+- Location [TIETA18](course)
+- Find [RANAV3](course)
+- How to find [KASA9]
+- How can I find [ENGA6](course)
+- Which classroom is [LTLY16](course)
+- What is the classroom for [KATLAS11](course)
+- Which room is [PEDA5](course)
+- I'd like to find [KASLOM3(course)
+- Where can I find [KKSUHUK](course)
+- [SAKA11](course) place
+- [KKSU8](course) where
+- [POLVOA22] (course) location
+- Locate [TERKANA4](course)
+- Where is [TIEY2](course) located
+- The location of [KATYVA12](course) class
+- I can't find [STYA1A](course)
+- I'm trying to find [MTTS1](course)
+- I want to know the location of [KKENKTM](course)
+- I want to know where [KASVAR11](course) is
+- I want to know the classroom for [HTIS54](course)
+- I want to know how to find [KATRAA11](course)
+- Where is [KKRULL](course)
+- Where is course [HALJTS99](course)
+- Where is class [KASVAR11](course)
+- Where is lecture [KKENVAL4](course)
+- Where is the classroom [MTTS1](course)
+- Where can I find [KATLAA22](course)
+- How to get to [TRSU03](course)
+- Where [KATYVA99](course)
+- Location [PSYS16](course)
+- Find [POLKVA43](course)
+- How to find [YKTT10.2]
+- How can I find [DPIS1](course)
+- Which classroom is [ITIP5](course)
+- What is the classroom for [TAYJ042](course)
+- Which room is [POLKVA42](course)
+- I'd like to find [KATTAS31(course)
+- Where can I find [DPHSR404](course)
+- [YKIEP4](course) place
+- [DPHSS204](course) where
+- [ENGS22-24] (course) location
+- Locate [BIO4470](course)
+- Where is [KATTAS11](course) located
+- The location of [KATYVS99](course) class
+- I can't find [KATVRA24](course)
+- I'm trying to find [DPCMTJT4](course)
+- I want to know the location of [POLKVA11](course)
+- I want to know where [TAYJ12](course) is
+- I want to know the classroom for [KASA8](course)
+- I want to know how to find [KATYVS24](course)
+- Where is [LOGP1](course)
+- Where is course [FONEA4](course)
+- Where is class [KKIN1](course)
+- Where is lecture [KATVRS55](course)
+- Where is the classroom [BTK0002](course)
+- Where can I find [KASPUHS6](course)
+- How to get to [SUOS1](course)
+- Where [KASS2](course)
+- Location [PSYS6B](course)
+- Find [TERTIETO5](course)
+- How to find [KASS1]
+- How can I find [TAYJ024](course)
+- Which classroom is [PEDA2](course)
+- What is the classroom for [HISA4](course)
+- Which room is [KASLOM8](course)
+- I'd like to find [KASA3(course)
+- Where can I find [KASA11](course)
+- [DPLA01](course) place
+- [KASMULTI4](course) where
+- [SAKA4] (course) location
+- Locate [JOVP5](course)
+- Where is [MVKS42S](course) located
+- The location of [TRSU02](course) class
+- I can't find [TIETA13](course)
+- I'm trying to find [KKSUPRO](course)
+- I want to know the location of [KATVRA30](course)
+- I want to know where [MOLI](course) is
+- I want to know the classroom for [KASPUHP1](course)
+- I want to know how to find [HISA4](course)
+- Where is [SOS6.4.2](course)
+- Where is course [HALTTS11](course)
+- Where is class [KKSAPRE1](course)
+- Where is lecture [KKKI2](course)
+- Where is the classroom [KATVRA12](course)
+- Where can I find [KASA12](course)
+- How to get to [DPCMTJ2/JMMETUS](course)
+- Where [MVKS10](course)
+- Location [TERHOO2](course)
+- Find [STYP1B](course)
+- How to find [ENGS3]
+- How can I find [HISA2](course)
+- Which classroom is [RANP0](course)
+- What is the classroom for [KATVAA14](course)
+- Which room is [LATAP4](course)
+- I'd like to find [MTTTP4(course)
+- Where can I find [BTK4320](course)
+- [KASP1-2, KASP5](course) place
+- [HALKAS13](course) where
+- [TERHOIA4] (course) location
+- Locate [PSYP5](course)
+- Where is [BTK2020](course) located
+- The location of [KASLOH3](course) class
+- I can't find [KIRA5](course)
+- I'm trying to find [KATYVA44](course)
+- I want to know the location of [POLPOP02](course)
+- I want to know where [HALYAP01](course) is
+- I want to know the classroom for [LTLY16](course)
+- I want to know how to find [KASLOM4](course)
+- Where is [KASLOM11](course)
+- Where is course [DPIS1](course)
+- Where is class [PEDAYOP2](course)
+- Where is lecture [HALYAS11](course)
+- Where is the classroom [KASP3](course)
+- Where can I find [JOVA17](course)
+- How to get to [YKIEP1](course)
+- Where [SOSM5.1](course)
+- Location [HISOKV1](course)
+- Find [BTK5001](course)
+- How to find [KASELOHA]
+- How can I find [TIETS46](course)
+- Which classroom is [ESPFP3](course)
+- What is the classroom for [PEACE045](course)
+- Which room is [BTK0001](course)
+- I'd like to find [BTK3125(course)
+- Where can I find [TERHOIA1](course)
+- [KKKI1](course) place
+- [TIEY2](course) where
+- [LUOYY025] (course) location
+- Locate [HALKAS99](course)
+- Where is [DPCMTJ4](course) located
+- The location of [KATSTA13](course) class
+- I can't find [IGS006](course)
+- I'm trying to find [HALKAA16](course)
+- I want to know the location of [KKRUYHT](course)
+- I want to know where [POLKVA11](course) is
+- I want to know the classroom for [HISA1B](course)
+- I want to know how to find [KASLOM1](course)
+- Where is [YKYYHT5](course)
+- Where is course [ENGA10](course)
+- Where is class [LTLY16](course)
+- Where is lecture [POLPOP01](course)
+- Where is the classroom [KASP1](course)
+- Where can I find [ESPFA4](course)
+- How to get to [HISJATKO](course)
+- Where [ENGA1](course)
+- Location [KKENYHT](course)
+- Find [BTK4701](course)
+- How to find [HALHAA15]
+- How can I find [LOGA1](course)
+- Which classroom is [POLKAA99](course)
+- What is the classroom for [HALJUS11](course)
+- Which room is [KASVAR2](course)
+- I'd like to find [PGHES01(course)
+- Where can I find [POLVOA52](course)
+- [HISA4](course) place
+- [ITIS14](course) where
+- [ITIA11] (course) location
+- Locate [KASA6](course)
+- Where is [KASLOE1.1](course) located
+- The location of [KASVAR4](course) class
+- I can't find [YKYYV07](course)
+- I'm trying to find [KIRA3B](course)
+- I want to know the location of [PSYA1](course)
+- I want to know where [FILA3](course) is
+- I want to know the classroom for [KKSUYP](course)
+- I want to know how to find [KATTAS40](course)
+- Where is [KKIN5](course)
+- Where is course [KASLOH1](course)
+- Where is class [SUKKP4](course)
+- Where is lecture [KATJOA15](course)
+- Where is the classroom [HALKAA16](course)
+- Where can I find [PSYP5](course)
+- How to get to [JOVA17](course)
+- Where [KATLAA11](course)
+- Location [YKYYHT2](course)
+- Find [TECHS2](course)
+- How to find [ENGA8]
+- How can I find [KATYVA35](course)
+- Which classroom is [SAKA4](course)
+- What is the classroom for [TAYJ031](course)
+- Which room is [KASP4](course)
+- I'd like to find [SOS08.3(course)
+- Where can I find [PSYP1](course)
+- [KATTAS22B](course) place
+- [HALJUA42](course) where
+- [KKRULUK] (course) location
+- Locate [JOVTS7](course)
+- Where is [KASA6](course) located
+- The location of [MTTMS3](course) class
+- I can't find [STYS2A](course)
+- I'm trying to find [ESPFP2](course)
+- I want to know the location of [ENGS7-9](course)
+- I want to know where [KKES4](course) is
+- I want to know the classroom for [KKENKTM](course)
+- I want to know how to find [KASSM2](course)
+- Where is [PEDA2](course)
+- Where is course [KASA15](course)
+- Where is class [STYS3C](course)
+- Where is lecture [KASLOE7.2](course)
+- Where is the classroom [GTS3](course)
+- Where can I find [ITIP4](course)
+- How to get to [MTTTA4](course)
+- Where [HALTTS12](course)
+- Location [TERY4](course)
+- Find [KASMULTI3](course)
+- How to find [LOGA2]
+- How can I find [KASP3](course)
+- Which classroom is [KASA5](course)
+- What is the classroom for [KATJOS21](course)
+- Which room is [KASLOE7.1](course)
+- I'd like to find [TAYJ032(course)
+- Where can I find [YKTM4](course)
+- [TERKAN18](course) place
+- [KASP3](course) where
+- [POLKVA33] (course) location
+- Locate [TERHOIA1](course)
+- Where is [HALYAS11](course) located
+- The location of [RANA7](course) class
+- I can't find [KKSUBMT](course)
+- I'm trying to find [KKSUBMT](course)
+- I want to know the location of [SOS6.1.3](course)
+- I want to know where [KASVAR4](course) is
+- I want to know the classroom for [TIEA5](course)
+- I want to know how to find [KKVE4](course)
+- Where is [HALJTP01](course)
+- Where is course [MVKS30](course)
+- Where is class [JOVP5](course)
+- Where is lecture [MTTY4](course)
+- Where is the classroom [TIEP3](course)
+- Where can I find [HALJTS99](course)
+- How to get to [KASPUHA5](course)
+- Where [HISA4](course)
+- Location [HALJTA04](course)
+- Find [TERHOI6](course)
+- How to find [JOVA13]
+- How can I find [JOVA2](course)
+- Which classroom is [HISA4](course)
+- What is the classroom for [TERKANA2](course)
+- Which room is [KASP4](course)
+- I'd like to find [JOVTS5](course)
+- Where can I find [KATVRP11](course)
+- [KATLAA13](course) place
+- [MVKS02](course) where
+- [PSYA9] (course) location
+- Locate [FILP3B](course)
+- Where is [KKES3](course) located
+- The location of [HIST02](course) class
+- I can't find [POLVOA42](course)
+- I'm trying to find [ENGA6](course)
+- I want to know the location of [KKSU4](course)
+- I want to know where [KATTAA12A](course) is
+- I want to know the classroom for [LOGS4](course)
+- I want to know how to find [KASA12](course)
+
+## intent:opetusajat
+- Schedule [Literary Theory and Methodology](course)
+- [Peace and Conflict Research (book exam/essay)](course) schedule
+- [Foundations of English Business Communication (RPL) / näyttökoe](course) weekly schedule
+- [Venäjä I](course) weekly
+- What is the schedule for [Introduction to Entrepreneurship](course)
+- What is the schedule [Kirjallisuudentutkimuksen menetelmät - Menetelmät ja käsitteet](course)
+- When are classes for [Kehitys, kasvatus ja elämänkulku - Luennot EDUn opiskelijoille (2 op) TAI muille opiskelijoille luennot (2 op) ja kirjallisuus (3 op)](course)
+- Classes [Seminar, Bachelor's Thesis and Maturity Test - Seminar](course)
+- When are classes [Filosofinen argumentaatio, tulkinta ja kirjoittaminen](course)
+- Teaching times [Algebra 2](course)
+- Teaching hours [Introduction to Academic English (online / JKK, EDU, LUO, COMS & SOC)](course)
+- Teaching [Informaatio- ja mediajärjestelmien historiaa ja nykypäivää](course)
+- [v](course) teaching
+- Week [Suullinen ja kirjallinen taito - Ääntämisharjoitukset ja tekstinymmärtäminen/Expresión oral y escrita - Pronunciación y Comprensión de textos](course)
+- Lectures [Kvantitatiiviset tutkimusmenetelmät (kirjatentti/essee)](course)
+- When are lectures [Kvantitatiivinen tutkimus kasvatustieteissä - Harjoitukset, yleinen](course)
+- Hours weekly [Asiantuntijan puheviestintä ja vuorovaikutus (2. periodi) / KTM-tutkinto](course)
+- When are the classes [Scottish Literature](course) weekly
+- [Visuaalisen kulttuurin teoria - luennot ja pienryhmätyöskentely](course) teaching times
+- When are [Translators' Cultural Competencies](course) teaching times
+- What are [MA Thesis Seminar](course) teaching times
+- When are lectures [Performance management in public organizations](course)
+- The schedule for [Työpaja (matematiikan perustaitotesti)](course)
+- What are the teaching times for [Tieteellinen kommunikaatio ja bibliometriikka](course)
+- [Latinankielinen kirjallisuus II: keski- ja uuden ajan latina](course) times
+- [Musisointi - 1.vsk](course) hours
+- I want to know when [Suomen historian tutkijaseminaari](course) teaching times are
+- I want to know teaching times of [Eriytyvä syventävä tutkimusmenetelmäkurssi A: Kehittävän työntutkimuksen menetelmät](course)
+- I want to know the schedule of [Thesis seminar and Master's Thesis](course)
+- I want to know when the lectures in course [Orientoivat opinnot - Tiedonhankintataidot I (MTT)](course) are- Schedule [Suomen kielen rakenne S2-näkökulmasta](course)
+- [Vakuutuslaitosten sijoitustoiminta](course) schedule
+- [Ympäristöhallinnan muutos (esseesuoritusvaihtoehto)](course) weekly schedule
+- [Syntaksi](course) weekly
+- What is the schedule for [User Experience: Design and Evaluation (TUT/IHTE)](course)
+- What is the schedule [Psychology of Pervasive Computing (TUT/IHTE)](course)
+- When are classes for [Economics and the Business Environment](course)
+- Classes [Longitudinal and Finite Nonlinear Mixture Modelling and Associated Experimental Design Strategies (independent study and exams) 5 ECTS](course)
+- When are classes [Asioimistulkkaus venäjä-suomi-venäjä](course)
+- Teaching times [Kvantitatiivinen tutkimus kasvatustieteissä - Harjoitukset, yhteisopetusta avoimen yo:n kanssa](course)
+- Teaching hours [Comparative Education - book exam](course)
+- Teaching [Epidemiology Journal Club](course)
+- [v](course) teaching
+- Week [Basics of Management and Organizations](course)
+- Lectures [Introduction to Academic English (online / JKK, EDU, LUO, COMS & SOC)](course)
+- When are lectures [Graduseminaari / Kekäläinen (jatkuu keväältä 2018)](course)
+- Hours weekly [World society: National policies, global governance and transnational sociology](course)
+- When are the classes [Tutkimusprosessin hallinta tohtoriopinnoissa](course) weekly
+- [Vähittäiskaupan konseptit](course) teaching times
+- When are [Parties, Elections and Political Participation (book exam/essay)](course) teaching times
+- What are [Varhaiskasvatuksen ja esiopetuksen pedagogiikka - Työssäoppiminen 2.vsk (ryhmä 4)](course) teaching times
+- When are lectures [Identity and Lifecourse - Lectures, reading groups and essay](course)
+- The schedule for [Terveyden edistämisen perusteet (kirjatentti hoitotieteen opiskelijoille)](course)
+- What are the teaching times for [Oppimisyhteisöt ja vuorovaikutus, kirjatentti, Pori](course)
+- [Kirjallisuustieteen syysseminaari: Ihmesaduista adaptaatioihin. Näkökulmia sadun ja fantasian tutkimukseen](course) times
+- [Ulkopolitiikka ja diplomatia (kirjatentti/essee)](course) hours
+- I want to know when [Scientific Writing - Module A - Writing Clinic](course) teaching times are
+- I want to know teaching times of [Kirjallinen viestintä I / Schriftliche Kommunikation I](course)
+- I want to know the schedule of [Management and organizations I (literature)](course)
+- I want to know when the lectures in course [Tilinpäätöksen tulkinta julkisessa hallinnossa](course) are- Schedule [Introduction to Academic English (online / JKK, EDU, LUO, COMS & SOC)](course)
+- [Visuaalisen kulttuurin syventymiskohde - Seminaari](course) schedule
+- [Verkkomedian suunnittelu (keväällä 2018 opintokokonaisuuden aloittaneille) - verkkokurssi](course) weekly schedule
+- [Teknologiakasvatus - Teknologia](course) weekly
+- What is the schedule for [Tutkijaseminaari](course)
+- What is the schedule [Introduction to Science and Research (spring)](course)
+- When are classes for [Käännös suomi-espanja I/Traducción finés-español I](course)
+- Classes [Yhdyskuntakehittämisen ajankohtaisia kysymyksiä](course)
+- When are classes [Uuden ajan alun (1500-1800) tutkimuksen lähteet ja menetelmät](course)
+- Teaching times [Nuorisotyön ja nuorisotutkimuksen maisteriohjelman lähijakso 12.-13.12.2018](course)
+- Teaching hours [Fonetiikan tilastomenetelmät](course)
+- Teaching [Terveys, arki ja toimijuus, luennot](course)
+- [v](course) teaching
+- Week [Tilastotieteen johdantokurssi, syksy](course)
+- Lectures [Dialogitulkkaus](course)
+- When are lectures [Kuluttajakäyttäytyminen](course)
+- Hours weekly [Language, Communication and Culture](course)
+- When are the classes [Tuutorina toimiminen](course) weekly
+- [Äkilliset traumaattiset kriisit ja niiden käsittely](course) teaching times
+- When are [C. Wright Millsin sosiologia - Luentoseminaari](course) teaching times
+- What are [Introduction to Academic English (diverse learners)](course) teaching times
+- When are lectures [Cultural Conversations](course)
+- The schedule for [Logiikka](course)
+- What are the teaching times for [Johdatus filosofiaan](course)
+- [Nordic Model: Nordic Welfare Societies](course) times
+- [Introduction to Academic English (JKK, EDU, LUO, COMS & SOC)](course) hours
+- I want to know when [Fonetiikan teoriaa - Fonetiikan jatkokurssi](course) teaching times are
+- I want to know teaching times of [Tieteellinen kirjoittaminen (SOC)](course)
+- I want to know the schedule of [Graduseminaari (Junkkari)](course)
+- I want to know when the lectures in course [Varhaiskasvatuksen kehittyvä asiantuntijuus - Työssäoppiminen (2.vsk ryhmä 4)](course) are- Schedule [Mediakasvatus, osallisuus ja aktiivinen kansalaisuus, kirjatentti](course)
+- [Talousviestintä / Wirtschaftskommunikation](course) schedule
+- [Yritysjuridiikan case-kurssi](course) weekly schedule
+- [Ympäristökasvatus / Harjoitukset - 2.vsk + 1.vsk ryhmät 6 ja 7](course) weekly
+- What is the schedule for [Current Approaches in Games and Internet Research](course)
+- What is the schedule [Vuorovaikutusprosessit työelämän tilanteissa (monimuoto-opetus)](course)
+- When are classes for [Kielen käyttö I](course)
+- Classes [Seminaari (Seppänen)](course)
+- When are classes [Korkeakoulut työyhteisöinä - Kehittämistehtävä](course)
+- Teaching times [Pratiques de l'oral et de l'écrit / Ranskan kielen tuottaminen](course)
+- Teaching hours [Tutkimusetiikka](course)
+- Teaching [Kirjallinen viestintä I/Skriftlig kommunikation I](course)
+- [v](course) teaching
+- Week [Identity and Lifecourse - Lectures, reading groups and essay](course)
+- Lectures [Political Institutions and Processes (book exam/essay)](course)
+- When are lectures [Keskiajan paleografia ja diplomatiikka (PERUTTU)](course)
+- Hours weekly [Human-Centered Product Development (TUT/IHTE)](course)
+- When are the classes [Valtio-opin johdantokurssi](course) weekly
+- [The Theory and Method of International Relations (seminar) (book exam)](course) teaching times
+- When are [Omaan tieteenalaan ja tutkimusaiheeseen liittyvät opinnot](course) teaching times
+- What are [Tieteellinen kirjoittaminen](course) teaching times
+- When are lectures [Semantiikan harjoituskurssi](course)
+- The schedule for [Käsityömuotoilu - projekti/käytännön työ ja protfolio](course)
+- What are the teaching times for [Ilmoittautuminen pro gradu -seminaariin, tammikuussa 2019 alkavat ryhmät](course)
+- [Radio Project](course) times
+- [Maailmanloppu nyt. Ja ennen.](course) hours
+- I want to know when [Kandidaattiseminaari ja tutkielma (vakuutus ja riskienhallinta), kevät 2019](course) teaching times are
+- I want to know teaching times of [Matrices for Statistics and Computational Methods](course)
+- I want to know the schedule of [Kvalitatiivinen tutkimus kasvatustieteissä - Verkkokurssi, yhteisopetus avoimen yo:n ja tutkinto-opiskelijoille](course)
+- I want to know when the lectures in course [Liiketoimintaosaamisen kokonaisdynamiikka ja sen ohjaaminen - VIBU-yritysstimulaatio](course) are- Schedule [Kandidaattiseminaari](course)
+- [Kansainvälisen politiikan johdantokurssi (kaikki opiskelijat)](course) schedule
+- [Romanian kielen alkeet / Basic Course in Romanian](course) weekly schedule
+- [Filosofinen argumentaatio, tulkinta ja kirjoittaminen](course) weekly
+- What is the schedule for [Musiikki - Musiikkikasvatuksen perusteet 2 - 1. vsk  ja erillisen opinto-oikeuden POM-opintoihin saaneet opiskelijat](course)
+- What is the schedule [Osallisuudet, oikeudet ja vastuut palvelujärjestelmäkohtaamisissa](course)
+- When are classes for [Bioinformatics](course)
+- Classes [Jatko-opintoja](course)
+- When are classes [Sosiaalitieteiden kvalitatiiviset menetelmät - Luennot ja harjoitukset](course)
+- Teaching times [Valinnainen jakso: Tiedeviestinnän käytänteet](course)
+- Teaching hours [Perusharjoittelu](course)
+- Teaching [English Word Formation](course)
+- [v](course) teaching
+- Week [Julkisorganisaation talouden suunnittelu ja päätöksenteko](course)
+- Lectures [Praktikum](course)
+- When are lectures [Ympäristökasvatus / Luennot - 2.vsk + 1.vsk ryhmät 6 ja 7](course)
+- Hours weekly [Kandidaatintutkielma ja seminaari, syksy 2018](course)
+- When are the classes [Lapset kehittyvinä ja sosiaalisina toimijoina varhaiskasvatuksessa / Harjoitukset - 1.vsk](course) weekly
+- [Kasvatus tieteellisen tutkimuksen kohteena, verkko-opetus, II-periodi](course) teaching times
+- When are [Identities in Peace and Conflict](course) teaching times
+- What are [Ajankohtaiset ilmiöt hallintotieteissä - Itsenäinen työskentely](course) teaching times
+- When are lectures [Toisen vuoden opiskelijoiden info-tilaisuus](course)
+- The schedule for [Sopimusoikeus](course)
+- What are the teaching times for [Espanja II](course)
+- [Vanhempien aikojen tutkijaseminaari](course) times
+- [Työn ja hyvinvoinnin maisteriohjelman tutkielmaseminaari (jatkava)](course) hours
+- I want to know when [Eriytyvä syventävä tutkimusmenetelmäkurssi A: Eläytymismenetelmä - yhdistetty Jari Eskolan graduryhmään](course) teaching times are
+- I want to know teaching times of [Rasismi ja antirasismi](course)
+- I want to know the schedule of [EU ja Länsi-Balkan: ehdollistettua demokratiaa ja valtionrakennusta](course)
+- I want to know when the lectures in course [Terveyden ja mielenterveyden psykologia II](course) are- Schedule [Venäjän historia, kirjallisuus ja kulttuuri](course)
+- [Statistical Analysis with Missing Data (intermediate)](course) schedule
+- [History of English](course) weekly schedule
+- [Journalismin tulevaisuus, luennot](course) weekly
+- What is the schedule for [Kehitys, kasvatus ja elämänkulku - Luennot EDUn opiskelijoille (2 op) TAI muille opiskelijoille luennot (2 op) ja kirjallisuus (3 op)](course)
+- What is the schedule [Lukuteoria ja algebra opettajille -](course)
+- When are classes for [Kansalaistoiminta ja kasvatus](course)
+- Classes [Sosiaaliantropologian teoreettinen ajattelu](course)
+- When are classes [Terveystaloustieteen tohtorikoulutussemiaari](course)
+- Teaching times [Perhehoitotieteellisen tiedon syventäminen -](course)
+- Teaching hours [Diskutera som specialist](course)
+- Teaching [Rahoitusekonometria](course)
+- [v](course) teaching
+- Week [Sarjakuva ja kuvakirja kääntäjän kädessä / Suomentamisseminaari](course)
+- Lectures [Finnish Elementary Course 1 (taught in 1. period)](course)
+- When are lectures [Tutkielmaseminaari](course)
+- Hours weekly [Budgeting and capital budgeting (online course)](course)
+- When are the classes [Kasvatushistoria - kirjatentti (slk ja klk)](course) weekly
+- [Statistical Modeling 1](course) teaching times
+- When are [Multi-level Governance and Europeanisation (book exam/essay)](course) teaching times
+- What are [Fonetiikan tilastomenetelmät](course) teaching times
+- When are lectures [Tietokäytännöt (keväällä 2018 perusopinnot aloittaneille) - verkkokurssi](course)
+- The schedule for [Opetus, ohjaus, oppiminen, monimuoto-opetus](course)
+- What are the teaching times for [Kandidaatintutkielma ja seminaari - Seminaari](course)
+- [Harjoittelu ja työelämävalmiudet](course) times
+- [Yleistetyt lineaariset mallit 1](course) hours
+- I want to know when [Kulttuurien kohtaaminen](course) teaching times are
+- I want to know teaching times of [European Public Law](course)
+- I want to know the schedule of [Ympäristöhallinnan muutos](course)
+- I want to know when the lectures in course [Scientific Writing - Module B - Thesis Writing (online)](course) are- Schedule [Luentateatteri](course)
+- [Dramaturgia: Musikaalin dramaturgia](course) schedule
+- [Kandidaatintutkielma ja seminaari, syksy 2018](course) weekly schedule
+- [Dialogitulkkaus](course) weekly
+- What is the schedule for [Lapsuuden, nuoruuden ja perheen tutkimuskeskus PERLAn tutkimusseminaari](course)
+- What is the schedule [Ruotsin kielen kirjallinen ja suullinen viestintä / intensiivikurssi](course)
+- When are classes for [Monimutkaisia itsestäänselvyyksiä-näkökulmia arjen ja henkilökohtaisen elämän tutkimukseen](course)
+- Classes [Pohjoismaisten kielten lähtötasokoe](course)
+- When are classes [Seminar, Bachelor's Thesis and Maturity Test - Seminar](course)
+- Teaching times [Ruotsin kielen kirjallinen ja suullinen viestintä / avoin yliopisto-opetus](course)
+- Teaching hours [Ruotsin kielen kirjallinen ja suullinen viestintä / Monenlaisten oppijoiden ryhmä](course)
+- Teaching [Lapset kehittyvinä ja sosiaalisina toimijoina varhaiskasvatuksessa / Luennot - 1.vsk](course)
+- [v](course) teaching
+- Week [Matemaattiset aineet - Koulugeometria - 2 vsk](course)
+- Lectures [Usean muuttujan differentiaalilaskenta](course)
+- When are lectures [Dialogitulkkaus](course)
+- Hours weekly [Johdon laskentatoimi ja inhimillinen käyttäytyminen](course)
+- When are the classes [Basics of Marketing and Sales -](course) weekly
+- [Molekyylibiologia](course) teaching times
+- When are [Journalistinen kieli - Tekstinhuolto](course) teaching times
+- What are [Advanced Project Studies](course) teaching times
+- When are lectures [Environment and Well-Being](course)
+- The schedule for [Comparative European Politics and the Finnish Political System (book exam/essay)](course)
+- What are the teaching times for [Kvalitatiivinen tutkimus kasvatustieteissä - Harjoitukset, Ryhmä, yhteinen varhaiskasv. ja luokanop. ryhmä](course)
+- [Terve ja turvallinen kouluyhteisö](course) times
+- [Turvallisuuspalvelujen suunnittelu ja palvelumuotoilu (service design)](course) hours
+- I want to know when [Case study: Examining leadership challenges](course) teaching times are
+- I want to know teaching times of [Kielen opettaminen / Fremdsprachenlehren](course)
+- I want to know the schedule of [Tutkimusprosessin hallinta - Läsnäoloon perustuva oppimispäiväkirja](course)
+- I want to know when the lectures in course [Kunta- ja aluejohtamisen vaihtuvasisältöinen erikoiskurssi](course) are- Schedule [Tiedonhankintataidot - Tiedonhankintataidot IV - Viitteiden hallinta (hoitotieteen opiskelijoille)](course)
+- [Global Humanitarianism and its Critics (POMLFCS3)](course) schedule
+- [Jatkokoulutusseminaari](course) weekly schedule
+- [Translating and Editing for Publication](course) weekly
+- What is the schedule for [Filosofian työpaja](course)
+- What is the schedule [Nuorisotyön ja nuorisotutkimuksen maisteriohjelman lähijakso 12.-13.12.2018](course)
+- When are classes for [Sosiaalityö terveydenhuollossa](course)
+- Classes [Johdatus etiikkaan](course)
+- When are classes [Korkeakoulut työyhteisöinä - Kehittämistehtävä](course)
+- Teaching times [Johdatus viestintään ja mediaan](course)
+- Teaching hours [Matemaattiset aineet - Fysiikka ja kemia - 2. vsk](course)
+- Teaching [Mediakasvatus, osallisuus ja aktiivinen kansalaisuus, kirjatentti, Pori](course)
+- [v](course) teaching
+- Week [Internship or work placement](course)
+- Lectures [Johdatus visuaaliseen kulttuuriin](course)
+- When are lectures [Kognitiivinen neurotiede II](course)
+- Hours weekly [Methods of Variationist Linguistics](course)
+- When are the classes [Johdatus historiantutkimukseen (verkkokurssi)](course) weekly
+- [Vieraan kielen taito, perustaso](course) teaching times
+- When are [Terveystieteiden laadulliset tutkimusmenetelmät](course) teaching times
+- What are [Kansainvälisen politiikan teoria ja menetelmät (luentokurssi)](course) teaching times
+- When are lectures [European Public Law](course)
+- The schedule for [Organisation Theory and Analysis](course)
+- What are the teaching times for [Kirjallinen ja suullinen viestintä II: suullinen viestintä](course)
+- [Introduction to leadership and management](course) times
+- [Lasten ja nuorten neuropsykologien kuntoutus](course) hours
+- I want to know when [SGN-53007 Computational Diagnostics](course) teaching times are
+- I want to know teaching times of [Sanaston tuntemus/Ordkunskap](course)
+- I want to know the schedule of [Theatre, Society, and Politics 1660-1760](course)
+- I want to know when the lectures in course [Ruotsin kielen kirjallinen ja suullinen viestintä](course) are- Schedule [Recommender Systems](course)
+- [Arvonlisäverotuksen syventävä opintojakso](course) schedule
+- [Developing and implementing European Public Sector Accounting modules](course) weekly schedule
+- [Johdatus hoitotieteeseen](course) weekly
+- What is the schedule for [Hoivan ehdot, talouden rajat: johdatus vaivan politiikkaan](course)
+- What is the schedule [Tutkimuspraktikum](course)
+- When are classes for [Kirjallisuuden teoria - Kirjallisuuden teorian suuntia](course)
+- Classes [Visiting Lectures - Lectures](course)
+- When are classes [Education, Work and Culture](course)
+- Teaching times [Seminaari (Nikunen) jatkuu keväältä](course)
+- Teaching hours [Varhaisiän musiikkikasvatus / Harjoitukset - 2.vsk](course)
+- Teaching [Espanjan lähihistoria ja kirjallisuus/Historia y literatura contemporáneas de España](course)
+- [v](course) teaching
+- Week [Suullinen viestintä II/Muntlig kommunikation II](course)
+- Lectures [EI toteutusta 2018-19 Advanced immunology](course)
+- When are lectures [Hoitot. tiedon hyödyntäminen johtamisessa ja opettamisessa: syventävä projektityö (kurssi jatkuu syksyllä 2019)](course)
+- Hours weekly [Väitöskirja (tutkijaseminaarit)](course)
+- When are the classes [Analyysi A](course) weekly
+- [Opetussuunnitelmateoria, kirjatentti, Pori](course) teaching times
+- When are [Euroopan maiden ja Suomen poliittiset järjestelmät (kirjatentti/essee)](course) teaching times
+- What are [Ruotsin kielen kirjallinen ja suullinen viestintä](course) teaching times
+- When are lectures [Kandidaattiseminaari ja tutkielma (laskentatoimi) - Kandidaattiseminaari, kevät 2018](course)
+- The schedule for [Tieteenfilosofia](course)
+- What are the teaching times for [Kirjallisuuden analyysi/Analiz hudozhestvennoj literatury](course)
+- [Liike-elämän ruotsia I](course) times
+- [Medioitu vuorovaikutus](course) hours
+- I want to know when [Behavioraalinen ja psykologinen taloustiede](course) teaching times are
+- I want to know teaching times of [Kansainvälisen politiikan teoria ja menetelmät (luentokurssi)](course)
+- I want to know the schedule of [Opetus, ohjaus, oppiminen, monimuoto-opeus](course)
+- I want to know when the lectures in course [Speakers Series](course) are- Schedule [Taitoseminaari](course)
+- [Parhaat filosofiset artikkelit](course) schedule
+- [Kandidaatintutkielmaseminaari - Seminaari](course) weekly schedule
+- [Viestinnän etiikka - verkkokurssi](course) weekly
+- What is the schedule for [Syntax](course)
+- What is the schedule [Government and Society: Inequality](course)
+- When are classes for [Tiedonhankintataidot - Tiedonhankintataidot IV - Viitteiden hallinta (hoitotieteen opiskelijoille)](course)
+- Classes [Laskentatoimen perusteet (avoin yliopisto-opetus), monimuoto-opetus](course)
+- When are classes [Nuorisotyön toimintaympäristöt, työmuodot ja menetelmät](course)
+- Teaching times [Euroopan maiden ja Suomen poliittiset järjestelmät (kirjatentti/essee)](course)
+- Teaching hours [Uutiskuvaus ja Henkilökuvaus](course)
+- Teaching [Orientoivat opinnot ja HOPS (suomen kieli)](course)
+- [v](course) teaching
+- Week [International Dynamics and Policy Transfer in Education](course)
+- Lectures [Basics of Project Management](course)
+- When are lectures [Environmental History and Cultural Ecology of Russia (VENS20)](course)
+- Hours weekly [Pelit ja pelillisyys (keväällä 2018 perusopinnot aloittaneille) - verkkokurssi](course)
+- When are the classes [Kokemuksen historia: tavoitteet ja menetelmät](course) weekly
+- [Media maailmassa - verkkokurssi](course) teaching times
+- When are [Tutkimusprosessin hallinta tohtoriopinnoissa](course) teaching times
+- What are [International Trade and Finance (Tampere Summer School) - luennot ja tentti](course) teaching times
+- When are lectures [Näkökulmia kääntämiseen - Johdatus käännösprosessiin](course)
+- The schedule for [Lähisuhdeväkivalta ja sen ammatillinen kohtaaminen - Sosnet verkkokurssi](course)
+- What are the teaching times for [Kandidaattiseminaari (Vahtikari)](course)
+- [Vuorovaikutussuhteiden konsultointi](course) times
+- [Current and Future Challenges of World Politics and Economy (POMLFCS3)](course) hours
+- I want to know when [Tutkimusetiikka](course) teaching times are
+- I want to know teaching times of [Espanja IV](course)
+- I want to know the schedule of [Hesdoc Annual Meeting](course)
+- I want to know when the lectures in course [Rauha, turvallisuus ja kansainväliset instituutiot (kirjatentti/essee)](course) are- Schedule [Oppimisyhteisöt ja vuorovaikutus - Luennot ja seminaari (klk) TAI luennot ja kirjallisuus (klk) TAI kirjallisuus (slk ja klk)](course)
+- [Oppimisyhteisöt ja vuorovaikutus, kirjatentti](course) schedule
+- [Oikeustulkkaus I/II (monikielinen)](course) weekly schedule
+- [Pro gradu -seminaari ja -tutkielma (2018-2019)](course) weekly
+- What is the schedule for [Näkökulmia kääntämiseen - Johdatus käännösprosessiin](course)
+- What is the schedule [Kiina III](course)
+- When are classes for [Maisteriopintojen esittely - CBDA](course)
+- Classes [Linguistics II: Meaning and Discourse](course)
+- When are classes [Kvantitatiivinen tutkimus kasvatustieteissä - Harjoitukset, yhteinen avoimen ja tutkinto-op. ryhmä](course)
+- Teaching times [Puhesuomi ja esiintyminen](course)
+- Teaching hours [Testimenetelmien perusteet ja ammattietiikka](course)
+- Teaching [Työoikeuden syventävä opintojakso](course)
+- [v](course) teaching
+- Week [Microfinance and development](course)
+- Lectures [Tilinpäätösanalyysi](course)
+- When are lectures [Johdatus kunta- ja aluejohtamiseen](course)
+- Hours weekly [Asiantuntijuuden kehittymiseen orientoiva opintojakso - opintosuuntakohtaiset ryhmät jatkaville maisteriopiskelijoille (KASSO-opintosuunnan ryhmä)](course)
+- When are the classes [Media and the Arctic](course) weekly
+- [Kv-tuutorina toimiminen](course) teaching times
+- When are [Data Structures](course) teaching times
+- What are [Orientoivat opinnot - Orientoivat opinnot](course) teaching times
+- When are lectures [Graduseminaari / Harviainen](course)
+- The schedule for [Terveyden edistäminen kansanterveystieteilijöille](course)
+- What are the teaching times for [Structure of English I - Phonology and Pronunciation I](course)
+- [Orientoivat opinnot Pori](course) times
+- [World society: National policies, global governance and transnational sociology](course) hours
+- I want to know when [Terveystiedon sisällöt (sähköinen tentti)](course) teaching times are
+- I want to know teaching times of [Suomi ja maailman kielet](course)
+- I want to know the schedule of [Sosiaalityön peruskurssi (luennot)](course)
+- I want to know when the lectures in course [Vertaisohjaus tietojenkäsittelytieteissä (kevät)](course) are- Schedule [Työelämäviestinnän tutkimus- tai kehityshanke](course)
+- [Omaan tieteenalaan ja tutkimusaiheeseen liittyvät opinnot](course) schedule
+- [Kielisuihkutustoiminta osana varhaista kielikasvatusta](course) weekly schedule
+- [Professional Writing (online course)](course) weekly
+- What is the schedule for [Romanian kielen alkeet / Basic Course in Romanian](course)
+- What is the schedule [Yhteisöviestintä kunta- ja aluejohtamisessa](course)
+- When are classes for [Sosiaalinen maailma](course)
+- Classes [Kvalitatiivinen tutkimus kasvatustieteissä - Harjoitukset, yleinen ja varhaiskasv. opiskelijoiden ryhmiä](course)
+- When are classes [Fonetiikan perusopintojen harjoitustyö](course)
+- Teaching times [Intercultural Communication](course)
+- Teaching hours [Advanced Functional Programming](course)
+- Teaching [Advanced English Business Communication](course)
+- [v](course) teaching
+- Week [Graduvauhditus](course)
+- Lectures [Venäjän kielen rakenne - Tekstin ymmärtäminen II](course)
+- When are lectures [Business, Society and Nature (Independent study) Spring 2019](course)
+- Hours weekly [Pro gradu -seminaari ja -tutkielma](course)
+- When are the classes [Psykiatria](course) weekly
+- [Kulttuurinen monimuotoisuus koulutuksessa ja työelämässä, kirjatentti, Seinäjoki](course) teaching times
+- When are [Kandidaatintutkielmaseminaari - Seminaari, tammikuussa 2018 alkanut ryhmä, yhteisopetusta avoimen yo:n kanssa](course) teaching times
+- What are [Theory and practice of peaceful change: The Baltic Sea Region](course) teaching times
+- When are lectures [Kääntäjän ja tulkin työelämätaidot](course)
+- The schedule for [Gerontologian tohtorikoulutusseminaari](course)
+- What are the teaching times for [Moniulotteinen markkinointi](course)
+- [Conflict Resolution (book exam/essay)](course) times
+- [Kiina II](course) hours
+- I want to know when [Tutkimusseminaari ja pro gradu -tutkielma](course) teaching times are
+- I want to know teaching times of [Työhyvinvointi (itsenäinen suoritustapa)](course)
+- I want to know the schedule of [Nuorisotyön ja nuorisotutkimuksen maisteriohjelman lähijakso 7.-8.11.2018](course)
+- I want to know when the lectures in course [Seminaari](course) are- Schedule [Study Skills - Basics of Information Literacy](course)
+- [Tutkimustyön perusteet - d) Kandidaattiseminaari (keväällä 2019 alkava)](course) schedule
+- [Semantiikka ja pragmatiikka / Sémantique et pragmatique](course) weekly schedule
+- [Terveystieteiden laadulliset tutkimusmenetelmät (hoitotieteen opiskelijat), Seinäjoki](course) weekly
+- What is the schedule for [Opintojen ohjattu suunnittelu](course)
+- What is the schedule [Työelämän korttipakka](course)
+- When are classes for [Johdatus Euroopan unioniin](course)
+- Classes [Postgraduate seminar in Interactive Technology (Turunen)](course)
+- When are classes [Development, Education and Lifecourse](course)
+- Teaching times [Musiikin perusteet / Harjoitukset - 1.vsk](course)
+- Teaching hours [Science and Biotechnology Journal Club](course)
+- Teaching [Debating for Academic Purposes](course)
+- [v](course) teaching
+- Week [Kasvatuksen historialliset ja filosofiset lähtökohdat - Luennot ja kirjallisuus](course)
+- Lectures [Tieteellinen kirjoittaminen (SOC)](course)
+- When are lectures [Kasvatustieteen metodologiset lähtökohdat - Luennot ja kirjatentti TAI kirjatentti](course)
+- Hours weekly [Varhaismoderni yhteiskunta](course)
+- When are the classes [Sote ja sosiaalipolitiikka](course) weekly
+- [Muuttuvat oppimisympäristöt - Luennot ja opintopiiri](course) teaching times
+- When are [Opetussuunnitelmateoria, kirjatentti, Pori](course) teaching times
+- What are [Liike-elämän ruotsia I / näyttökoe (AHOT)](course) teaching times
+- When are lectures [Pelit ja pelillisyys (syksyllä 2017 perusopinnot aloittaneille) - verkkokurssi](course)
+- The schedule for [Luottamustehtävissä toimiminen - Luottamustehtäväraportti](course)
+- What are the teaching times for [Tutkimusseminaari ja pro gradu -tutkielma](course)
+- [Kielioppiharjoitukset](course) times
+- [Kielen käyttö I](course) hours
+- I want to know when [EU:n ulkosuhteiden erityiskysymykset: turvallisuus, talous ja arvot (kirjatentti/essee)](course) teaching times are
+- I want to know teaching times of [Sosiaalityön peruskurssi (luennot)](course)
+- I want to know the schedule of [Cultural Diversity in Education and at Work -  (autumn)](course)
+- I want to know when the lectures in course [Tutkimustyön perusteet (syksy)](course) are- Schedule [Johdatus Euroopan unioniin](course)
+- [Interview as a means of data generation](course) schedule
+- [Organisaatioiden tiedonhallinta](course) weekly schedule
+- [Kirjasto- ja tietopalvelujen suunnittelu ja arviointi](course) weekly
+- What is the schedule for [Statistical Analysis with Missing Data (advanced)](course)
+- What is the schedule [Leikki kulttuurisena, kehityksellisenä ja pedagogisena ilmiönä / Harjoitukset - 1.vsk](course)
+- When are classes for [Nuorisotyön ja nuorisotutkimuksen maisteriohjelman lähijakso 10.5.2019](course)
+- Classes [Professional Writing (online course)](course)
+- When are classes [Bioinformatics](course)
+- Teaching times [Parties and Elections (book exam/essay)](course)
+- Teaching hours [Venäjän kielen valmentava kurssi](course)
+- Teaching [Tiedon rajat](course)
+- [v](course) teaching
+- Week [Paikallisen hallinnan teoriat - Lukupiiri](course)
+- Lectures [Äidinkieli ja kirjallisuus - Lasten- ja nuortenkirjallisuus  -1. vsk ensijaisesi opinnot 1½ lukuvuodessa suorittavat 1.vsk lo-opiskelijat ja kaikkki erillisen opinto-oikeuden POM-opintoihin saaneet opiskelijat](course)
+- When are lectures [Maailmanloppu nyt. Ja ennen.](course)
+- Hours weekly [Basic Studies in Education -courses,  introductory meetings, reading circles and book exams](course)
+- When are the classes [Kvantitatiivinen tutkimus kasvatustieteissä - Harjoitukset, yleinen](course) weekly
+- [Kandidaattiseminaari ja tutkielma (laskentatoimi) - Kandidaattiseminaari, kevät 2018](course) teaching times
+- When are [Pohjoismaiden yhteiskuntaolot ja kulttuurit](course) teaching times
+- What are [Kandidaatintutkielmaseminaari - Muuntotyöryhmä, slk18](course) teaching times
+- When are lectures [Erikoiskurssi](course)
+- The schedule for [EU ja Länsi-Balkan: ehdollistettua demokratiaa ja valtionrakennusta](course)
+- What are the teaching times for [Human Rights and International Society (book exam/essay)](course)
+- [Kommunikationstraining I](course) times
+- [Structure of English II - Phonology and Pronunciation II](course) hours
+- I want to know when [Työelämäviestinnän tutkimus- tai kehityshanke](course) teaching times are
+- I want to know teaching times of [Psykiatria](course)
+- I want to know the schedule of [Tutkielmaseminaari (keväällä 2019 alkavat seminaarit) - Seminaari](course)
+- I want to know when the lectures in course [Kielitieto ja -taito - Kielioppi II  / Sprachwissen und Sprachfertigkeiten: Grammatik II](course) are- Schedule [Political Systems Outside of Europe (book exam/essay)](course)
+- [Communication orale/Suullinen viestintä](course) schedule
+- [Johdatus yhteiskuntahistoriaan](course) weekly schedule
+- [Terveystieteiden laadulliset tutkimusmenetelmät (hoitotieteen opiskelijat), Seinäjoki](course) weekly
+- What is the schedule for [Legal English](course)
+- What is the schedule [Introduction to Game Research (Tampere Summer School 2018)](course)
+- When are classes for [Markkinoinnin ja myynnin perusteet](course)
+- Classes [Nuorisotyö ja nuorten elämänkulku](course)
+- When are classes [Tietojärjestelmän suunnittelun perusteet - Näyttökoe, syksy 2018](course)
+- Teaching times [Usean muuttujan differentiaalilaskenta](course)
+- Teaching hours [Harjoittelu / Elinikäinen oppiminen ja kasvatus, Essee työkokemuksen pohjalta, klk19](course)
+- Teaching [Nordic Model: Nordic Welfare Societies](course)
+- [v](course) teaching
+- Week [Julkisoikeuden perusteet (verkkototeutus)](course)
+- Lectures [Johtamisen ja julkisen politiikan tutkimus ja ajankohtaiset kysymykset](course)
+- When are lectures [Translators' Cultural Competencies](course)
+- Hours weekly [Special Issues in Games and Internet Cultures](course)
+- When are the classes [Laskentatoimen teoria ja IFRS II](course) weekly
+- [Nuorisotyön ja nuorisotutkimuksen maisteriohjelman lähijakso 3.-4.10.2018](course) teaching times
+- When are [Re-Thinking Value Creation](course) teaching times
+- What are [Kirjallisuudentutkimuksen menetelmät - Menetelmät ja käsitteet](course) teaching times
+- When are lectures [Matemaattiset aineet - Loogisesta ajattelusta automaatioon - 1 vsk  ja erillisen opinto-oikeuden POM-opintoihin saaneet opiskelijat](course)
+- The schedule for [Biotechnical product development](course)
+- What are the teaching times for [Äidinkieli ja kirjallisuus - Lukeminen ja kirjoittaminen - 1. vsk (luennot)](course)
+- [Johdatus hallintotieteeseen (avoin yliopisto-opetus), monimuoto-opetus](course) times
+- [Cell Technology Laboratory Course](course) hours
+- I want to know when [Fundamentals of Finance (Tampere Summer School)](course) teaching times are
+- I want to know teaching times of [Suullinen viestintä II/Muntlig kommunikation II](course)
+- I want to know the schedule of [Organizational Behavior (Independent study, Spring 2019)](course)
+- I want to know when the lectures in course [Public Financial Management and Evolving Administrative Structures](course) are- Schedule [Orientation Day for International Doctoral Researchers](course)
+- [Hesdoc Annual Meeting](course) schedule
+- [Business Writing](course) weekly schedule
+- [Poliittisen sosiologian käsitteet ja tutkimukset](course) weekly
+- What is the schedule for [NEDIS tohtorikoulutusseminaari (Lasten ja nuorten terveyden edistämisen tutkimus)](course)
+- What is the schedule [Kandidaattiseminaari (Vuolanto)](course)
+- When are classes for [Talous ja yhteiskunta](course)
+- Classes [Ruotsin kielen valmentava kurssi](course)
+- When are classes [Algorithmic Problem Solving](course)
+- Teaching times [Venäjä IV](course)
+- Teaching hours [Fonetiikan teoriaa - Fonetiikan jatkokurssi](course)
+- Teaching [Eriytyvä syventävä tutkimusmenetelmäkurssi A: Laadullisen aineiston analyysi](course)
+- [v](course) teaching
+- Week [Usean muuttujan integraalilaskenta](course)
+- Lectures [Global contexts of violence. Gender related violence in the landscape of global vulnerabilities (web course)](course)
+- When are lectures [Kirjallinen ja suullinen viestintä III/Pis'mennaja i razgovornaja praktika](course)
+- Hours weekly [Studying abroad / Osallistuminen opiskelijavaihtoon](course)
+- When are the classes [Lähtötasokoe](course) weekly
+- [Eheyttävä musiikkikasvatus / Harjoitukset - 2.vsk](course) teaching times
+- When are [Eriytyvä syventävä tutkimusmenetelmäkurssi B: Metodologinen essee](course) teaching times
+- What are [Ruotsin kielen kirjallinen ja suullinen viestintä / avoin yliopisto-opetus](course) teaching times
+- When are lectures [Politics and governance in education - Lectures in English](course)
+- The schedule for [Parametric and Non-Parametric Statistics](course)
+- What are the teaching times for [Kielen käyttö I](course)
+- [Nuorten ja aikuisten mielenterveyden arviointi](course) times
+- [Viestinnän ja median tutkimus](course) hours
+- I want to know when [Romanian kielen jatkokurssi I / Advanced Course 1 in Romanian](course) teaching times are
+- I want to know teaching times of [Kielitaito ja kielitaidon arviointi](course)
+- I want to know the schedule of [Tutkimustyötä tukevat tohtoriopinnot - Postgraduate Studies in Interactive Technology](course)
+- I want to know when the lectures in course [Suullinen viestintä I/Muntlig kommunikation I](course) are- Schedule [Esiintyminen](course)
+- [Liikekirjanpito ja tilinpäätös (avoin yliopisto-opetus)](course) schedule
+- [Kansainvälisen politiikan menetelmäseminaari](course) weekly schedule
+- [Pakolaisuus, tila ja hallinta](course) weekly
+- What is the schedule for [Tieteenfilosofiaa kasvatustieteen näkökulmasta](course)
+- What is the schedule [Peace, Security and International Institutions (book exam/essay)](course)
+- When are classes for [Kielen variaatio](course)
+- Classes [Kirjallisuuden analyysi/Analiz hudozhestvennoj literatury](course)
+- When are classes [Väestön terveys](course)
+- Teaching times [Agenda-Setting in Public Policy (POMLFCS1)](course)
+- Teaching hours [Kielioppi I / Grammatik I](course)
+- Teaching [Kandidaatintutkielma - Seminaari ja tutkielma](course)
+- [v](course) teaching
+- Week [Orientoivat opinnot - Alkuorientaatio](course)
+- Lectures [Lokalisoinnin peruskurssi](course)
+- When are lectures [Institutions, Innovation and Economic Renewal (NORDIG)](course)
+- Hours weekly [Mediated Learning Experinces in Multicultural Settings](course)
+- When are the classes [Radiokääntäminen (venäjä)](course) weekly
+- [Teeman "Sosiaalinen kognitio ja vuorovaikutus" johdantokurssi](course) teaching times
+- When are [Tekninen kirjoittaminen (englanti)](course) teaching times
+- What are [Visuaalisen kulttuurin syventymiskohde - Seminaari](course) teaching times
+- When are lectures [Yksilö, yhteiskunta ja kulttuuri - Monikulttuurisuus koulussa - 2. vsk](course)
+- The schedule for [Moniammatilliset johtamisopinnot](course)
+- What are the teaching times for [Väitöskirja (tutkijaseminaarit)](course)
+- [International tutoring / Kv-tuutorina toimiminen](course) times
+- [Kandidaatintutkielmaseminaari - Tammikuussa 2019 alkava seminaari](course) hours
+- I want to know when [Finnish Elementary Course 3](course) teaching times are
+- I want to know teaching times of [Johdatus logiikkaan 1](course)
+- I want to know the schedule of [Tutkimustyön perusteet (syksy)](course)
+- I want to know when the lectures in course [KEB-61430 Laaja kemia 3](course) are- Schedule [Kvantitatiivinen tutkimus kasvatustieteissä - Harjoitukset, varhaiskasv. ryhmä, luokanop. ja varhaiskasv. yhteinen ryhmä](course)
+- [Advanced European Integration Studies (book exam/essay)](course) schedule
+- [Tutkielmaseminaari](course) weekly schedule
+- [Dialogitulkkaus / Dialogdolmetschen](course) weekly
+- What is the schedule for [Reportaasi](course)
+- What is the schedule [Käännösviestintä suomi - saksa / Translation Finnisch-Deutsch](course)
+- When are classes for [Ranska eilen, tänään ja huomenna](course)
+- Classes [Tila, teknologia ja toiminta - essee](course)
+- When are classes [Global Ghallenges to the Future of Welfare State (Tampere Summer School 2018)](course)
+- Teaching times [Työelämäviestinnän tutkimus- tai kehityshanke](course)
+- Teaching hours [Developing and implementing European Public Sector Accounting modules](course)
+- Teaching [Kansainvälisen politiikan teoria ja metateoria (kirjatentti)](course)
+- [v](course) teaching
+- Week [Work and Health](course)
+- Lectures [Julkisen talousjohtamisen näkökulmia](course)
+- When are lectures [Media and the Arctic (POMLFCS3)](course)
+- Hours weekly [Ainedidaktiikka I](course)
+- When are the classes [Tutkielmaseminaari - Tutkielmaseminaari](course) weekly
+- [Business Writing](course) teaching times
+- When are [Käyttöliittymien perusteet](course) teaching times
+- What are [Addiktiot, yksilö ja yhteiskunta](course) teaching times
+- When are lectures [Asiantuntijuus ja tietopalvelujen kehittäminen](course)
+- The schedule for [Kansainvälisen politiikan yleiset syventävät menetelmäopinnot (kirjatentti/essee)](course)
+- What are the teaching times for [Euroopan maiden ja Suomen poliittiset järjestelmät (kirjatentti/essee)](course)
+- [Viestinnän ja median tutkimuksen metodologia, harjoitukset vaihtoehtoisissa työpajoissa](course) times
+- [Palvelut ja hyvinvointivaltion murros](course) hours
+- I want to know when [Kansainvälisen politiikan menetelmäseminaari](course) teaching times are
+- I want to know teaching times of [Ruotsin kielen kirjallinen ja suullinen viestintä / AHOT (näyttökoe)](course)
+- I want to know the schedule of [Kehitys, kasvatus ja elämänkulku, monimuoto-opetus](course)
+- I want to know when the lectures in course [Journalistinen kieli - Kielenhuolto, lauseoppi](course) are- Schedule [Usean muuttujan differentiaalilaskenta](course)
+- [Suomen turvallisuuspolitiikan historia ja tulevaisuus -luentosarja](course) schedule
+- [Pro gradu -tutkielma ja -seminaari, syksyllä 2018 aloittavat ryhmät](course) weekly schedule
+- [Käytännön opetus ja ohjaus](course) weekly
+- What is the schedule for [Master's Seminar and Thesis](course)
+- What is the schedule [Tutkimuksen perusteet ja etiikka](course)
+- When are classes for [Lausekielinen ohjelmointi I - Näyttökoe, syksy 2018](course)
+- Classes [Advanced Microscopy](course)
+- When are classes [Varhaiskasvatuksen pedagogiikka ja opetussuunnitelmatyö / Luennot - 2.vsk + 1.vsk ryhmät 6 ja 7](course)
+- Teaching times [Psychology of Pervasive Computing (TUT/IHTE)](course)
+- Teaching hours [Poliittiset ongelmat ja niiden muuttuvat kontekstit](course)
+- Teaching [Business, Society and Nature (Independent study) Autumn 2018](course)
+- [v](course) teaching
+- Week [Oppimisyhteisöt ja vuorovaikutus, kirjatentti, Pori](course)
+- Lectures [Työoikeuden syventävä opintojakso](course)
+- When are lectures [Erot, jaot ja niiden rakentuminen - Luennot ja lukupiiri (klk) TAI kirjatentti (slk ja klk)](course)
+- Hours weekly [Sosiaalitieteiden kvalitatiiviset menetelmät - Luennot ja harjoitukset](course)
+- When are the classes [Kandidaattiseminaari ja -tutkielma (ympäristöpolitiikka ja aluetiede), syksy](course) weekly
+- [Uuden ajan alun (1500-1800) tutkimuksen lähteet ja menetelmät](course) teaching times
+- When are [Logiikka](course) teaching times
+- What are [Orientaatio sosiaalityön opintoihin](course) teaching times
+- When are lectures [Poliittinen filosofia (kirjatentti/essee)](course)
+- The schedule for [Graduseminaari, jatkava (Krötzl)](course)
+- What are the teaching times for [Yksilön työhyvinvointi (itsenäinen suoritustapa)](course)
+- [Sosiaalisten riskien hallinta](course) times
+- [Fonetiikan teoriaa - Fonetiikan jatkokurssi](course) hours
+- I want to know when [Health in disasters, conflicts and complex human emergencies](course) teaching times are
+- I want to know teaching times of [Writing Research Grant Proposals](course)
+- I want to know the schedule of [Mediated Learning Experinces in Multicultural Settings](course)
+- I want to know when the lectures in course [Rauha, turvallisuus ja kansainväliset instituutiot (kirjatentti/essee)](course) are- Schedule [Rauha, turvallisuus ja kansainväliset instituutiot (kirjatentti/essee)](course)
+- [Kvalitatiiviset menetelmät](course) schedule
+- [Johdatus logopediaan](course) weekly schedule
+- [Kuva-  ja mediakulttuurit - Kuvakulttuurit  1 vsk ja erillisen opinto-oikeuden POM-opintoihin saaneet opiskelijat (ryhmätyöskentely/taidemuseot harjoitusryhmät)](course) weekly
+- What is the schedule for [Valinnainen jakso: Dokumentaarisen nyky-Suomi-sarjan konseptikehitys ja verkkosuunnittelu](course)
+- What is the schedule [Tutkimustyötä tukevat tohtoriopinnot - Postgraduate Studies in Interactive Technology](course)
+- When are classes for [Poliittiset aatteet ja ideologiat](course)
+- Classes [Suullinen viestintä II/Muntlig kommunikation II](course)
+- When are classes [Practical Observation and Reflection of ECEC - Observation, written tasks, report](course)
+- Teaching times [Johdatus Suomen kirjallisuushistoriaan - luennot](course)
+- Teaching hours [Lähtötasokoe](course)
+- Teaching [Tieteellinen kirjoittaminen / LUO & COMS](course)
+- [v](course) teaching
+- Week [Tiedonhankintataidot - Tiedonhankintataidot III -  Systemaattinen tiedonhankinta (kansanterveystieteen opiskelijoille)](course)
+- Lectures [Gypsies in Hungary (intensive course)](course)
+- When are lectures [Psykologiharjoittelu](course)
+- Hours weekly [Kognitiiviseen käyttäytymisterapiaan pohjautuvat interventiot](course)
+- When are the classes [Kansainväliset suhteet ja ilmaston muutoksen hallinta](course) weekly
+- [Markkinoinnin teoria](course) teaching times
+- When are [Visuaalisen kulttuurin syventymiskohde - Seminaari](course) teaching times
+- What are [Harjoittelu](course) teaching times
+- When are lectures [Johdatus matematiikkaan ja tilastotieteeseen](course)
+- The schedule for [Tutkimusprosessin hallinta - Läsnäoloon perustuva oppimispäiväkirja](course)
+- What are the teaching times for [Aikuiskasvatus ja työelämä, kirjatentti, Pori](course)
+- [Globaali, lokaali ja yhteisöllisyys sosiaalityössä (kirjatentti)](course) times
+- [Käyttöliittymien perusteet](course) hours
+- I want to know when [Kasvatuksen historialliset ja filosofiset lähtökohdat, verkko-opetus](course) teaching times are
+- I want to know teaching times of [Sisäinen valvonta ja sisäinen tarkastus](course)
+- I want to know the schedule of [Economics and the Business Environment](course)
+- I want to know when the lectures in course [Tieteellinen seminaarisarja](course) are- Schedule [Kvalitatiiviset tutkimusmenetelmät (kirjatentti/essee)](course)
+- [Markkinoinnin kannattavuus ja taloudellisuus](course) schedule
+- [Matemaattiset aineet - Fysiikka ja kemia - 2. vsk](course) weekly schedule
+- [Capstone - Talousjohdon tehtävät ja osaamisalueet](course) weekly
+- What is the schedule for [Ruotsin kielen kirjallinen ja suullinen viestintä / AHOT (näyttökoe)](course)
+- What is the schedule [Seminaari, kandidaatintutkielma ja kypsyysnäyte - Seminaari (kääntäminen ja tulkkaus)](course)
+- When are classes for [Fundamentals of Finance (Tampere Summer School)](course)
+- Classes [Erot, jaot ja niiden rakentuminen - Luennot ja lukupiiri (klk) TAI kirjatentti (slk ja klk)](course)
+- When are classes [Johdatus Suomen kirjallisuushistoriaan - luennot](course)
+- Teaching times [Diskurssianalyysi](course)
+- Teaching hours [BMT-70100 Kudosteknologian perusteet](course)
+- Teaching [Kandidaattiseminaari (Vuolanto)](course)
+- [v](course) teaching
+- Week [Tietokantojen perusteet (Hervannan kampus)](course)
+- Lectures [Translation and Academic Writing - Introduction to Academic Writing](course)
+- When are lectures [Johdatus kääntäjän suomen opintoihin](course)
+- Hours weekly [Korkeakoulutus ja kansainvälistyminen](course)
+- When are the classes [Matkakirjallisuus kulttuurihistorian lähteenä -verkkokurssi](course) weekly
+- [Nuorten ja aikuisten mielenterveyden arviointi](course) teaching times
+- When are [Laaja-alaistava harjoittelu - Ohjattu opetusharjoittelu](course) teaching times
+- What are [Opetus, ohjaus, oppiminen - elokas ja avoimen lähiop.: pienryhmäopetus (2 op)  ja kirjallisuus (2 op)](course) teaching times
+- When are lectures [Terveyden ja mielenterveyden psykologia II](course)
+- The schedule for [Kielitieto ja -taito - Fraseologia  / Sprachwissen und Sprachfertigkeiten: Phraseologie](course)
+- What are the teaching times for [Parhaat filosofiset artikkelit](course)
+- [Graduseminaari, alkava (Kaarninen)](course) times
+- [Käännösviestintä saksa - suomi  / Transalation Deutsch-Finnisch](course) hours
+- I want to know when [Luottamustehtävissä toimiminen - Luottamustehtäväraportti](course) teaching times are
+- I want to know teaching times of [Monikieliset tekstikorpukset (verkkokurssi)](course)
+- I want to know the schedule of [Espanjan kielen kirjallinen ja suullinen taito](course)
+- I want to know when the lectures in course [Varhaismoderni yhteiskunta](course) are- Schedule [Tieto- ja asiakirjahallinto](course)
+- [Strateginen brändijohtaminen](course) schedule
+- [Introduction to Risk Management and Insurance (spring semester)](course) weekly schedule
+- [Johdatus yrittäjyyteen](course) weekly
+- What is the schedule for [Lasten monipaikkainen asuminen](course)
+- What is the schedule [Analyysi A](course)
+- When are classes for [Kirjallinen viestintä II/Skriftlig kommunikation II](course)
+- Classes [Tekstianalyysi - Luennot](course)
+- When are classes [Yrityksen johtamisen perusteet (avoin yliopisto-opetus), monimuoto-opetus](course)
+- Teaching times [Nuorisotyön ja nuorisotutkimuksen maisteriohjelman lähijakso 29.-30.8.2018](course)
+- Teaching hours [Kielen- ja tekstinhuolto](course)
+- Teaching [Puheen ja äänen harjoitusmenetelmät](course)
+- [v](course) teaching
+- Week [Laadullinen tutkimus - menetelmät ja prosessi](course)
+- Lectures [Vero-oikeuden case-kurssi](course)
+- When are lectures [Vuorovaikutusprosessit työelämän tilanteissa (monimuoto-opetus)](course)
+- Hours weekly [Musisointi - 1.vsk](course)
+- When are the classes [Ruotsin kielen kirjallinen ja suullinen viestintä](course) weekly
+- [Fenomenologia](course) teaching times
+- When are [Poliittiset aatteet ja ideologiat](course) teaching times
+- What are [Terveyden ja mielenterveyden psykologia II](course) teaching times
+- When are lectures [Kohti matematiikan opettajuutta 1(TTY)](course)
+- The schedule for [Kvantitatiivinen tutkimus kasvatustieteissä - Harjoitukset, yleinen ja luokanopettajaopiskelijat](course)
+- What are the teaching times for [Gypsies in Hungary (intensive course)](course)
+- [Basics II: Intermediate Czech II](course) times
+- [Gender in Society](course) hours
+- I want to know when [Johdatus verkostoanalyysiin](course) teaching times are
+- I want to know teaching times of [Economic renewal of cities and regions](course)
+- I want to know the schedule of [Julkisen hallinnon reformit ja muutos](course)
+- I want to know when the lectures in course [Normit ja asiakirjoittaminen - Kääntäjän kielen- ja tekstinhuolto](course) are- Schedule [Johdatus matematiikkaan ja tilastotieteeseen](course)
+- [Academic Presentations](course) schedule
+- [Vero-oikeuden case-kurssi](course) weekly schedule
+- [Sosiaalityön tutkimuksen metodologisia suunnistuksia](course) weekly
+- What is the schedule for [Opettajasuunnan seminaari](course)
+- What is the schedule [Political Ideologies (book exam)](course)
+- When are classes for [Approaches and Tools for Conflict Analysis and Peace Mediation](course)
+- Classes [Keskustelun- ja diskurssianalyysi / Gesprächs- und Diskursanalyse](course)
+- When are classes [Simultaanitulkkaus I saksa-suomi-saksa](course)
+- Teaching times [Syventävä projekti, syksyllä 2018 alkava](course)
+- Teaching hours [Romanian kielen alkeet / Basic Course in Romanian](course)
+- Teaching [Latinankielinen kirjallisuus II: keski- ja uuden ajan latina](course)
+- [v](course) teaching
+- Week [Rakenneyhtälömallinnus kasvatustieteellisessä tutkimuksessa](course)
+- Lectures [Kansainvälisen historian tutkijaseminaari](course)
+- When are lectures [Media and the Arctic](course)
+- Hours weekly [Politiikan tutkimuksen kandidaatintutkielma ja -seminaari](course)
+- When are the classes [Seminaari (Heinonen)](course) weekly
+- [Introduction to Academic English (Open University Course)](course) teaching times
+- When are [Käytännön opetus ja ohjaus](course) teaching times
+- What are [Comparative Education Policy](course) teaching times
+- When are lectures [Tilastollisen päättelyn perusteet, iltaryhmä](course)
+- The schedule for [Ruotsin kielen kirjallinen ja suullinen viestintä](course)
+- What are the teaching times for [Dialogitulkkaus](course)
+- [Työn taloustiede](course) times
+- [Johdatus seminaarityöskentelyyn](course) hours
+- I want to know when [Dialogitulkkaus](course) teaching times are
+- I want to know teaching times of [Yhteiskunnan mittaaminen (verkkokurssi)](course)
+- I want to know the schedule of [Testimenetelmien perusteet ja ammattietiikka](course)
+- I want to know when the lectures in course [Sosiaalioikeus](course) are- Schedule [Orientation - Orientation to studying in the Computational Big Data Analytics programme](course)
+- [Tutkimusetiikka](course) schedule
+- [Tasa-arvon ja yhdenvertaisuuden edistäminen työnä (verkkokurssi)](course) weekly schedule
+- [Hoitotyön johtamisen harjoittelu](course) weekly
+- What is the schedule for [Introduction to Bayesian Analysis 2](course)
+- What is the schedule [Viestinnän ja median tutkimus](course)
+- When are classes for [Political Ideologies (book exam)](course)
+- Classes [Terveystaloustieteen tohtorikoulutussemiaari](course)
+- When are classes [Väittelijän puheviestintä](course)
+- Teaching times [Innovation Project (Spring term 2018-IV)](course)
+- Teaching hours [Introduction to Risk Management and Insurance (spring semester)](course)
+- Teaching [Käsityö - Käsityö -1. vsk ja erillisen opinto-oikeuden POM-opintoihin saaneet opiskelijat (luennot)](course)
+- [v](course) teaching
+- Week [Tutkimuspraktikum](course)
+- Lectures [Psykologiset interventiot](course)
+- When are lectures [Macroprudential Policy and Financial Stability](course)
+- Hours weekly [Metafysiikka](course)
+- When are the classes [Geometria - Geometria](course) weekly
+- [Introduction to Academic English (Open University Course)](course) teaching times
+- When are [Research on Teaching and Learning - Seminar](course) teaching times
+- What are [Tieto- ja asiakirjahallinto](course) teaching times
+- When are lectures [YK-päivä](course)
+- The schedule for [Tutkielmaseminaari - Seminaari](course)
+- What are the teaching times for [Bioinformatics tools (spring 2019)](course)
+- [Juridisk svenska (vain KTM:ksi klklla 2019 valmistuville)](course) times
+- [Terveys, tieto, asiantuntijuus](course) hours
+- I want to know when [Radiojournalismi](course) teaching times are
+- I want to know teaching times of [Sanastotyö](course)
+- I want to know the schedule of [Kandidaatintutkielmaseminaari - Seminaari](course)
+- I want to know when the lectures in course [Opetussuunnitelmateoria - Luennot, seminaari ja lukupiiri (slk) TAI kirjatentti (slk ja klk)](course) are- Schedule [Johdatus sosiaaliantropologiaan, luennot (verkkokurssi)](course)
+- [Kirjallisuuden teoria - Kirjallisuustieteen klassikoita](course) schedule
+- [Terveystiedon sisällöt (sähköinen tentti)](course) weekly schedule
+- [Kielen kehitys / Harjoitukset - 2.vsk + 1.vsk ryhmät 6 ja 7](course) weekly
+- What is the schedule for [Visualization of Quantitative Data](course)
+- What is the schedule [Leadership for Sustainable Change (KATVAS39)](course)
+- When are classes for [Leadership for Sustainable Change (KATVAS39)](course)
+- Classes [Kääntäjän ja tulkin työelämätaidot](course)
+- When are classes [Kehitys, kasvatus ja elämänkulku, verkko-opetus](course)
+- Teaching times [Kandidaatintutkielma - Seminaari ja tutkielma](course)
+- Teaching hours [Game Project](course)
+- Teaching [Johdon laskentatoimen perusteet](course)
+- [v](course) teaching
+- Week [Orientoivat opinnot ja HOPS (venäjän kieli, kulttuuri ja kääntäminen)](course)
+- Lectures [Algebra 1A](course)
+- When are lectures [Tieteellinen kirjoittaminen (SOC)](course)
+- Hours weekly [Johdon laskentatoimi ja inhimillinen käyttäytyminen](course)
+- When are the classes [Aikuiskasvatus ja työelämä, kirjatentti, Pori](course) weekly
+- [Lapset ympäristönsä tutkijoina - Käsityö](course) teaching times
+- When are [Kerronnan monet muodot (luentokurssi korvaa kirjatentin)](course) teaching times
+- What are [Syntax](course) teaching times
+- When are lectures [Tutustuminen psykologin työhön](course)
+- The schedule for [Kohti matematiikan opettajuutta 2 (TTY)](course)
+- What are the teaching times for [Ranska II](course)
+- [Toimintatutkimus hyvinvointipalvelujen kehittämisessä](course) times
+- [Quantitative Research Methods and Comparative Research Design (Global Society students)](course) hours
+- I want to know when [Tekstin ymmärtäminen III](course) teaching times are
+- I want to know teaching times of [Speakers Series](course)
+- I want to know the schedule of [Cultural Conversations](course)
+- I want to know when the lectures in course [Linguistics I: Introduction to Basic Concepts](course) are- Schedule [Introduction to Big Data Processing](course)
+- [Professional Writing (online course)](course) schedule
+- [Psykiatria ja mielenterveys](course) weekly schedule
+- [Lasten arki suomalaisessa yhteiskunnassa / Luennot - 1.vsk](course) weekly
+- What is the schedule for [Quantitative Approach](course)
+- What is the schedule [Tutkielmapiiri](course)
+- When are classes for [Finnish Education System - Seminar](course)
+- Classes [Kasvatus, koulutus ja yhteiskunta, monimuoto-opetus](course)
+- When are classes [Tutkiva opiskelu](course)
+- Teaching times [Kognitiivinen neurotiede I (avoin yliopisto)](course)
+- Teaching hours [Medical English - Introduction to Scientific Writing (RPL) / näyttökoe](course)
+- Teaching [Kansainvälisen politiikan teoria ja metateoria - Luentokurssi](course)
+- [v](course) teaching
+- Week [Murder and Representation](course)
+- Lectures [Kansainvälinen talous](course)
+- When are lectures [Practical Introduction to Data Mining](course)
+- Hours weekly [Public Policy and Governance (book exam/essay)](course)
+- When are the classes [Tieteellinen kirjoittaminen](course) weekly
+- [Eriytyvä syventävä tutkimusmenetelmäkurssi A: Eläytymismenetelmä - yhdistetty Jari Eskolan graduryhmään](course) teaching times
+- When are [Ainedidaktiikka II](course) teaching times
+- What are [Tilastollisten tutkimusmenetelmien soveltaminen hoitotieteessä](course) teaching times
+- When are lectures [Johdatus kaunokirjalliseen kääntämiseen](course)
+- The schedule for [Opetus, ohjaus, oppiminen (toteutus aineenopettajan pedagogisia opintoja lukuvuonna 2018-2019 suorittaville)](course)
+- What are the teaching times for [Tieteellinen kirjoittaminen / LUO & COMS](course)
+- [Master's Thesis Seminar - Thesis seminar II](course) times
+- [Inklusiivinen varhaiskasvatus / Harjoitukset - 3.vsk](course) hours
+- I want to know when [Julkisoikeuden perusteet](course) teaching times are
+- I want to know teaching times of [Tutkimustyön perusteet (teemalla Verkostot ja somevaikuttaminen Twitterissä)](course)
+- I want to know the schedule of [Matematiikan gradustartti](course)
+- I want to know when the lectures in course [Tieteellisen kirjoittamisen seminaari kvantitatiivista tutkimusta tekeville](course) are- Schedule [Terveyden edistämisen interventiot, Seinäjoki](course)
+- [Seminar, Bachelor's Thesis and Maturity Test - Seminar](course) schedule
+- [Protein technology Laboratory Course A](course) weekly schedule
+- [Ruotsin kielen kirjallinen ja suullinen viestintä](course) weekly
+- What is the schedule for [Research in Practice](course)
+- What is the schedule [Teeman "Sosiaalinen kognitio ja vuorovaikutus" johdantokurssi](course)
+- When are classes for [Tieteellinen kirjoittaminen / avoin yliopisto-opetus](course)
+- Classes [Kieli ja kielentäminen -2. vsk (luennot)](course)
+- When are classes [Kulutuksen ja ostokäyttäytymisen teoria](course)
+- Teaching times [Korkeakoulutus ja kansainvälistyminen](course)
+- Teaching hours [Johdatus analyysiin](course)
+- Teaching [Yksilön työhyvinvointi](course)
+- [v](course) teaching
+- Week [Kvalitatiiviset tutkimusmenetelmät (kirjatentti/essee)](course)
+- Lectures [Valtiosääntöoikeuden syventävä jakso](course)
+- When are lectures [Terveystieteiden laadulliset tutkimusmenetelmät, kansanterveystieteen opiskelijoille](course)
+- Hours weekly [Syömis- ja nielemishäiriöt](course)
+- When are the classes [SPSS:n perusteet, syksy 1](course) weekly
+- [Business, Society and Nature (Independent study) Autumn 2018](course) teaching times
+- When are [Eriytyvä syventävä tutkimusmenetelmäkurssi A: Kirjoittaminen ja käsitteellistäminen tieteellisenä menetelmänä](course) teaching times
+- What are [The Transformation of Global Environmental Politics (Tampere Summer School 2018)](course) teaching times
+- When are lectures [Tiedonhankintataidot - Tiedonhankintataidot III -  Systemaattinen tiedonhankinta (hoitotieteen opiskelijoille)](course)
+- The schedule for [Global Terrorism: Political Violence in a Global Age](course)
+- What are the teaching times for [European Integration and Disintegration (BOOK EXAM POLKVS32)](course)
+- [Tieteellinen kirjoittaminen / avoin yliopisto-opetus](course) times
+- [Hoitot. tiedon hyödyntäminen johtamisessa ja opettamisessa: syventävä projektityö (kurssi jatkuu syksyllä 2019)](course) hours
+- I want to know when [Asiantuntijan puheviestintä ja vuorovaikutus opetus- ja kasvatustyössä (4. periodi)](course) teaching times are
+- I want to know teaching times of [Political Systems Outside of Europe (book exam/essay)](course)
+- I want to know the schedule of [Ohjelmointia teknisille viestijöille](course)
+- I want to know when the lectures in course [Tutkielmaseminaari](course) are- Schedule [Musiikin tiedolliset valmiudet ja niiden soveltaminen - Harmonia ja improvisointi koskettimilla](course)
+- [Lapset kehittyvinä ja sosiaalisina toimijoina varhaiskasvatuksessa / Luennot - 1.vsk](course) schedule
+- [Lapset kehittyvinä ja sosiaalisina toimijoina varhaiskasvatuksessa / Luennot - 1.vsk](course) weekly schedule
+- [Johdanto terveysviestintään](course) weekly
+- What is the schedule for [Kandidaattiseminaari](course)
+- What is the schedule [Vuorovaikutusprosessit työelämän tilanteissa (monimuoto-opetus)](course)
+- When are classes for [Professional Writing (online course)](course)
+- Classes [Terveystiedon sisällöt (sähköinen tentti)](course)
+- When are classes [Organisaatioiden tiedonhallinta](course)
+- Teaching times [Graduvauhditus](course)
+- Teaching hours [Monikielinen käännöstyöpaja](course)
+- Teaching [Opimme lisää venäjän kielen suullisia taitoja](course)
+- [v](course) teaching
+- Week [Software Project Management, Software Project Management (Spring term)](course)
+- Lectures [Kasvatus, koulutus ja yhteiskunta, monimuoto-opetus](course)
+- When are lectures [Kilpailuoikeus](course)
+- Hours weekly [Qualitative Approach](course)
+- When are the classes [Visuaalisen kulttuurin teoria - lukupiiri ja essee](course) weekly
+- [Writing for Research (online course)](course) teaching times
+- When are [Median ja politiikan välinen suhde](course) teaching times
+- What are [Hoitotiede tieteenä](course) teaching times
+- When are lectures [Advanced Microscopy](course)
+- The schedule for [Kansalaisvaikuttaminen (kirjatentti/essee)](course)
+- What are the teaching times for [Vapaaehtoistyö - Osallistuminen vapaaehtoistyöhön](course)
+- [Rasismi ja antirasismi](course) times
+- [Inclusiveness in Local Innovation Environments](course) hours
+- I want to know when [Tutkimustyön perusteet - d) Kandidaattiseminaari (syksyllä 2018 alkava)](course) teaching times are
+- I want to know teaching times of [Speakers Series](course)
+- I want to know the schedule of [Opetus, ohjaus, oppiminen - Varhaiskasvatuksen opiskelijoille luennot (1 op) verkkotallenteena](course)
+- I want to know when the lectures in course [Bioinformatics work course](course) are- Schedule [Kandidaattiseminaari ja -tutkielma (julkisoikeus), syksy](course)
+- [Tilastotieteen johdantokurssi, syksy](course) schedule
+- [Talousviestintä / Wirtschaftskommunikation](course) weekly schedule
+- [Hydrogel Journal Club](course) weekly
+- What is the schedule for [The European Union (book exam/essay)](course)
+- What is the schedule [Käytännön opetus ja ohjaus - STYA3B1 Taitoseminaari](course)
+- When are classes for [Principles of Programming Graphical User Interfaces](course)
+- Classes [Valinnainen jakso: Johdatus tiedeviestintään](course)
+- When are classes [Osallisuudet, oikeudet ja vastuut palvelujärjestelmäkohtaamisissa](course)
+- Teaching times [Aikuiskasvatus ja työelämä, kirjatentti slk tai klk](course)
+- Teaching hours [Kasvatus, koulutus ja yhteiskunta, verkko-opetus](course)
+- Teaching [Eheyttävä musiikkikasvatus / Harjoitukset - 2.vsk](course)
+- [v](course) teaching
+- Week [Tilastomenetelmien perusteet, iltaryhmä](course)
+- Lectures [Orientation - Orientation to studying in the Software Development programme](course)
+- When are lectures [Strategia ja yrittäjyys](course)
+- Hours weekly [Kognitiiviseen käyttäytymisterapiaan pohjautuvat interventiot](course)
+- When are the classes [Journalistinen kieli - Tekstinhuolto](course) weekly
+- [Seminar, Bachelor's Thesis and Maturity Test - Seminar](course) teaching times
+- When are [Tuutorina toimiminen](course) teaching times
+- What are [Kielellinen vaihtelu/Språklig variation](course) teaching times
+- When are lectures [Terve ja turvallinen kouluyhteisö](course)
+- The schedule for [International Business Law](course)
+- What are the teaching times for [Johdatus viestinnän tutkimukseen ja analyysiin - kirjatentti](course)
+- [Tieteellinen kirjoittaminen / Wissenschaftliches Schreiben](course) times
+- [Orientoivat opinnot ja HOPS](course) hours
+- I want to know when [International Work Experience](course) teaching times are
+- I want to know teaching times of [Human-Technology Interaction Project Work](course)
+- I want to know the schedule of [Fonetiikan ja yleisen kielitieteen perusteet - Fonetiikka](course)
+- I want to know when the lectures in course [Business Translation Seminar Finnish - English](course) are- Schedule [Vieraan kielen taito, perustaso](course)
+- [Erikoiskurssi](course) schedule
+- [Historian tutkimusprosessi ja historiantutkijan etiikka](course) weekly schedule
+- [Tutkimusprosessin hallinta - Läsnäoloon perustuva oppimispäiväkirja](course) weekly
+- What is the schedule for [Eriytyvä syventävä tutkimusmenetelmäkurssi A: Kyselyaineiston analysointi](course)
+- What is the schedule [Business Writing](course)
+- When are classes for [Introduction to Academic English (JKK, EDU, LUO, COMS & SOC)](course)
+- Classes [Sopimusoikeuden syventävä opintojakso](course)
+- When are classes [Kirjallinen viestintä I/Skriftlig kommunikation I](course)
+- Teaching times [Asiantuntijuuden kehittymiseen orientoiva opintojakso - opintosuuntakohtaiset ryhmät jatkaville maisteriopiskelijoille (KASSO-opintosuunnan ryhmä)](course)
+- Teaching hours [Terve ja turvallinen kouluyhteisö](course)
+- Teaching [Venäjän kielen rakenne - Morfologia](course)
+- [v](course) teaching
+- Week [Viestinnän ja median tutkimussuuntauksia](course)
+- Lectures [Kasvatushistoria, kirjatentti, Seinäjoki](course)
+- When are lectures [Liiketoimintaosaamisen kokonaisdynamiikka ja sen ohjaaminen - VIBU-yritysstimulaatio](course)
+- Hours weekly [Empiirinen projekti](course)
+- When are the classes [TUTU1 Tulevaisuusajattelu ja skenaariot](course) weekly
+- [Dramaturgia: Musikaalin dramaturgia](course) teaching times
+- When are [Informaatio- ja mediajärjestelmien historiaa ja nykypäivää (syksyllä 2018 perusopinnot aloittaville) - verkkokurssi](course) teaching times
+- What are [Liiketoimintaympäristön taloustiede](course) teaching times
+- When are lectures [Musiikki - Musiikin teoria alakoulussa - 1. vsk ja  erillisen opinto-oikeuden POM-opintoihin saaneet opiskelijat](course)
+- The schedule for [Research in Practice](course)
+- What are the teaching times for [Tieteellinen kirjoittaminen / SOC (historia & filosofia)](course)
+- [Kansainvälisen politiikan johdantokurssi (kirjatentti)](course) times
+- [Introduction to Academic English (JKK, EDU, LUO, COMS & SOC)](course) hours
+- I want to know when [Finnish Survival Course](course) teaching times are
+- I want to know teaching times of [Thesis seminar](course)
+- I want to know the schedule of [Fonetiikan tutkimusmenetelmät - Menetelmäkurssi](course)
+- I want to know when the lectures in course [Populaarikulttuuri ja -kirjallisuus](course) are
+- Schedule [HALKOS23](course)
+- [KASSG](course) schedule
+- [TERKAN1](course) weekly schedule
+- [YKTT10.2](course) weekly
+- What is the schedule for [HISA4](course)
+- What is the schedule [BIO4230](course)
+- When are classes for [KASSO1](course)
+- Classes [KKRUKTMO](course)
+- When are classes [LFCS03](course)
+- Teaching times [SOS6.3.2](course)
+- Teaching hours [KATVAS31](course)
+- Teaching [HALJTS03](course)
+- [v](course) teaching
+- Week [GTS1](course)
+- Lectures [KASPUHA4](course)
+- When are lectures [JKKYTUO2](course)
+- Hours weekly [STYS2A](course)
+- When are the classes [KASMULTI2B](course) weekly
+- [POMLFCS3](course) teaching times
+- When are [LOGA8](course) teaching times
+- What are [KKSUPRO](course) teaching times
+- When are lectures [TERA6](course)
+- The schedule for [KASERIT4](course)
+- What are the teaching times for [HALKAS15](course)
+- [HALKAP01](course) times
+- [HISA2](course) hours
+- I want to know when [KATMAP11](course) teaching times are
+- I want to know teaching times of [ESPFP1](course)
+- I want to know the schedule of [HALJUA61](course)
+- I want to know when the lectures in course [TERHOJ1](course) are- Schedule [MVKS40/62](course)
+- [ITIS35](course) schedule
+- [KKIN5](course) weekly schedule
+- [MTTTP1](course) weekly
+- What is the schedule for [DPHSR401](course)
+- What is the schedule [KASA15](course)
+- When are classes for [TERKANA5](course)
+- Classes [TAYJ041](course)
+- When are classes [RUST5/VENS10](course)
+- Teaching times [KASVAR7](course)
+- Teaching hours [KATVAS11](course)
+- Teaching [KKRUKTK](course)
+- [v](course) teaching
+- Week [POLVOS10](course)
+- Lectures [KAMYVS99](course)
+- When are lectures [FILP3B](course)
+- Hours weekly [KKENMP3](course)
+- When are the classes [TERY4](course) weekly
+- [MTTMP4](course) teaching times
+- When are [HISA2](course) teaching times
+- What are [BIO2350](course) teaching times
+- When are lectures [MTTTP4](course)
+- The schedule for [MVKS42V](course)
+- What are the teaching times for [BTK2051](course)
+- [KATTAS11](course) times
+- [SUOV3](course) hours
+- I want to know when [YKYYHT4B](course) teaching times are
+- I want to know teaching times of [TIEP1](course)
+- I want to know the schedule of [KATMAA99](course)
+- I want to know when the lectures in course [KKES1](course) are- Schedule [SOS10.6](course)
+- [ENGA10](course) schedule
+- [TAYJ032](course) weekly schedule
+- [PSYS4](course) weekly
+- What is the schedule for [BTK4311](course)
+- What is the schedule [MTTMA4](course)
+- When are classes for [ITIA11](course)
+- Classes [TIETS41](course)
+- When are classes [KASLOM10](course)
+- Teaching times [HISA3A](course)
+- Teaching hours [KASVAR7](course)
+- Teaching [KKSA3](course)
+- [v](course) teaching
+- Week [KKSUBMT](course)
+- Lectures [KATYVA99](course)
+- When are lectures [COSOPN2](course)
+- Hours weekly [HALKAS15](course)
+- When are the classes [SUOS4](course) weekly
+- [LATAP4](course) teaching times
+- When are [KATYVS27](course) teaching times
+- What are [KASLOK1](course) teaching times
+- When are lectures [ITIA11](course)
+- The schedule for [DPHSS204](course)
+- What are the teaching times for [SOS4.3](course)
+- [KKSUPRO](course) times
+- [KKSUPRO](course) hours
+- I want to know when [HISA2](course) teaching times are
+- I want to know teaching times of [POLKAA99](course)
+- I want to know the schedule of [TIETS46](course)
+- I want to know when the lectures in course [HALJTA04](course) are
+- Schedule [KASLOE4.3](course)
+- [KASLOM7](course) schedule
+- [PEDAYOP4](course) weekly schedule
+- [KASA2](course) weekly
+- What is the schedule for [KASA13](course)
+- What is the schedule [DPEDUB.1B](course)
+- When are classes for [BTK1015](course)
+- Classes [LUOYY020](course)
+- When are classes [STYVA](course)
+- Teaching times [ENGS42](course)
+- Teaching hours [TERA6](course)
+- Teaching [DPCMTJT3](course)
+- [v](course) teaching
+- Week [SAKP4](course)
+- Lectures [KASSM2](course)
+- When are lectures [JOVTS5](course)
+- Hours weekly [KATJOA12](course)
+- When are the classes [VENA6](course) weekly
+- [KIRS5](course) teaching times
+- When are [HISA2](course) teaching times
+- What are [JOVA11](course) teaching times
+- When are lectures [MOLI](course)
+- The schedule for [ROMAP1](course)
+- What are the teaching times for [RANS1](course)
+- [KASVAR6](course) times
+- [SAKS5](course) hours
+- I want to know when [LOGS8](course) teaching times are
+- I want to know teaching times of [KKIN5](course)
+- I want to know the schedule of [POLKVA42](course)
+- I want to know when the lectures in course [POLKVS40](course) are
+- Schedule [POLVOS27](course)
+- [JOUJOVTS](course) schedule
+- [KATJOA14](course) weekly schedule
+- [HALJUA63](course) weekly
+- What is the schedule for [KATLAS20](course)
+- What is the schedule [KIRA3G](course)
+- When are classes for [PSYS6A](course)
+- Classes [KATLITO8](course)
+- When are classes [ENGS13/15-16](course)
+- Teaching times [KASA10](course)
+- Teaching hours [JOVA9](course)
+- Teaching [DPJKKKS](course)
+- [v](course) teaching
+- Week [MTTA2](course)
+- Lectures [NAM-IV](course)
+- When are lectures [ENGA13](course)
+- Hours weekly [SOSM6.3](course)
+- When are the classes [KKSA3](course) weekly
+- [KASLOE1.1](course) teaching times
+- When are [POLVOA41](course) teaching times
+- What are [SOS1](course) teaching times
+- When are lectures [BIO2085](course)
+- The schedule for [KATYVA41](course)
+- What are the teaching times for [HALKAA15](course)
+- [KASA15](course) times
+- [LUOYY019](course) hours
+- I want to know when [ENGP6](course) teaching times are
+- I want to know teaching times of [FILP1B](course)
+- I want to know the schedule of [TERHOIA7](course)
+- I want to know when the lectures in course [KKENVAL1](course) are
+- Schedule [TERKANP6](course)
+- [KASLOM10](course) schedule
+- [KATJOA14](course) weekly schedule
+- [POLKVA42](course) weekly
+- What is the schedule for [KKVE3](course)
+- What is the schedule [PSYA10](course)
+- When are classes for [SAKP0](course)
+- Classes [KATRAA11](course)
+- When are classes [KIRA4D](course)
+- Teaching times [KASA9](course)
+- Teaching hours [KASLOM10](course)
+- Teaching [TRSU03](course)
+- [v](course) teaching
+- Week [LOGS1](course)
+- Lectures [KASLOK1](course)
+- When are lectures [MOLI](course)
+- Hours weekly [VENP4](course)
+- When are the classes [POHA14](course) weekly
+- [HTIS87](course) teaching times
+- When are [TRSU05](course) teaching times
+- What are [ITIA03](course) teaching times
+- When are lectures [BTK1031](course)
+- The schedule for [TAYJ12](course)
+- What are the teaching times for [LUOYY004](course)
+- [TRMU1](course) times
+- [KASLOM10](course) hours
+- I want to know when [TERY6](course) teaching times are
+- I want to know teaching times of [TSEKP3](course)
+- I want to know the schedule of [MVKS26](course)
+- I want to know when the lectures in course [TRMU1](course) are
+- Schedule [KKENYHT](course)
+- [TIETA6](course) schedule
+- [JOUJOVTS](course) weekly schedule
+- [TAYJ12](course) weekly
+- What is the schedule for [KATJOA12](course)
+- What is the schedule [SOS3](course)
+- When are classes for [POLKVA32](course)
+- Classes [JOVMS2A](course)
+- When are classes [POLVOS40](course)
+- Teaching times [TAYJ041](course)
+- Teaching hours [HALHAS17](course)
+- Teaching [STYA3A2](course)
+- [v](course) teaching
+- Week [KKVE4](course)
+- Lectures [POLKAA99](course)
+- When are lectures [BTK5001](course)
+- Hours weekly [KASP5](course)
+- When are the classes [MVKS54-56](course) weekly
+- [KASLOM2](course) teaching times
+- When are [RUST1/RUST3](course) teaching times
+- What are [MTTMA2](course) teaching times
+- When are lectures [HALYHT](course)
+- The schedule for [BTK4501](course)
+- What are the teaching times for [STYA1A](course)
+- [KKSUYHT](course) times
+- [TERTIETO2](course) hours
+- I want to know when [KATVAS99](course) teaching times are
+- I want to know teaching times of [KKES3](course)
+- I want to know the schedule of [TIEY4](course)
+- I want to know when the lectures in course [SUOR4/A6](course) are
+- Schedule [JOVAT1](course)
+- [KATTAS22A](course) schedule
+- [KATYVS11](course) weekly schedule
+- [KASA2](course) weekly
+- What is the schedule for [ENGP3](course)
+- What is the schedule [KATMAA16](course)
+- When are classes for [KKIN5](course)
+- Classes [POLPOP04](course)
+- When are classes [JKKYVP11](course)
+- Teaching times [LOGS3](course)
+- Teaching hours [TAYJ026](course)
+- Teaching [KASP5](course)
+- [v](course) teaching
+- Week [RANSV5](course)
+- Lectures [SUOS4](course)
+- When are lectures [HTIY006](course)
+- Hours weekly [MVKS54](course)
+- When are the classes [SAKA4](course) weekly
+- [KASA12](course) teaching times
+- When are [KATLAS17](course) teaching times
+- What are [HTIY005](course) teaching times
+- When are lectures [POLKVA43](course)
+- The schedule for [TRSU01](course)
+- What are the teaching times for [KATYVP11](course)
+- [KASP3](course) times
+- [DPHSF503](course) hours
+- I want to know when [KASPUHP3](course) teaching times are
+- I want to know teaching times of [SOSM5.1](course)
+- I want to know the schedule of [KATVAA13](course)
+- I want to know when the lectures in course [ENGA6](course) are
+- Schedule [TIEA3](course)
+- [KASP1](course) schedule
+- [KASELOHA](course) weekly schedule
+- [HISP1](course) weekly
+- What is the schedule for [HISA1B](course)
+- What is the schedule [KASA11](course)
+- When are classes for [KKSUPRO](course)
+- Classes [KATJOS43](course)
+- When are classes [LOGP3](course)
+- Teaching times [ITIA03](course)
+- Teaching hours [TERVAL4](course)
+- Teaching [KIRA2](course)
+- [v](course) teaching
+- Week [KATMAS13](course)
+- Lectures [PSYS7](course)
+- When are lectures [HALKAS12](course)
+- Hours weekly [TERY4](course)
+- When are the classes [DPHSFC06](course) weekly
+- [LOGS3](course) teaching times
+- When are [KASVAR11](course) teaching times
+- What are [KKRUYHT](course) teaching times
+- When are lectures [KATTAP11](course)
+- The schedule for [BTK4620](course)
+- What are the teaching times for [KASLOM6](course)
+- [JOVA13](course) times
+- [FILT10](course) hours
+- I want to know when [MOLI](course) teaching times are
+- I want to know teaching times of [JOVA15](course)
+- I want to know the schedule of [KASLOH3](course)
+- I want to know when the lectures in course [YKYYHT3](course) are
+- Schedule [KASLOH3](course)
+- [KATVAS11](course) schedule
+- [KASP4](course) weekly schedule
+- [HALJTA12](course) weekly
+- What is the schedule for [TAYJ033](course)
+- What is the schedule [HISS1A](course)
+- When are classes for [KASA13](course)
+- Classes [MOLI](course)
+- When are classes [YKYYV07](course)
+- Teaching times [TIEP1](course)
+- Teaching hours [POHA4/POHS4](course)
+- Teaching [SAKA5](course)
+- [v](course) teaching
+- Week [HISA1B](course)
+- Lectures [LFCS03](course)
+- When are lectures [POLKVA23](course)
+- Hours weekly [DPIT2](course)
+- When are the classes [POHA1](course) weekly
+- [TIEY2](course) teaching times
+- When are [ITIA03](course) teaching times
+- What are [KASP1-2, KASP5](course) teaching times
+- When are lectures [KASA13](course)
+- The schedule for [KASELOHA](course)
+- What are the teaching times for [LUOYY005](course)
+- [LOGA7](course) times
+- [PEDA1](course) hours
+- I want to know when [STYS2B](course) teaching times are
+- I want to know teaching times of [KATVAA12](course)
+- I want to know the schedule of [LTLY01](course)
+- I want to know when the lectures in course [MTTTA13](course) are
+- Schedule [ENGP7](course)
+- [VENP1](course) schedule
+- [LOGS3](course) weekly schedule
+- [SOS10.2](course) weekly
+- What is the schedule for [TIEA2.1A](course)
+- What is the schedule [KASLOH3](course)
+- When are classes for [HALTTS13](course)
+- Classes [VENS13](course)
+- When are classes [HISA2](course)
+- Teaching times [KASVAR2](course)
+- Teaching hours [KATJOS12](course)
+- Teaching [LTLY01](course)
+- [v](course) teaching
+- Week [KATTAA21](course)
+- Lectures [DPHSM304](course)
+- When are lectures [COSOPON3](course)
+- Hours weekly [TRSU02](course)
+- When are the classes [KKRULL](course) weekly
+- [MEDU07](course) teaching times
+- When are [KASP3](course) teaching times
+- What are [HALJTA12](course) teaching times
+- When are lectures [KASA13](course)
+- The schedule for [KATTAA90](course)
+- What are the teaching times for [KATVRP12](course)
+- [KASVAR11](course) times
+- [TIEP3](course) hours
+- I want to know when [KASS1](course) teaching times are
+- I want to know teaching times of [LUOYA200](course)
+- I want to know the schedule of [POLKVS22](course)
+- I want to know when the lectures in course [ENGA9](course) are
+- Schedule [HTIS51](course)
+- [KATYVA12](course) schedule
+- [JKKYOA12](course) weekly schedule
+- [ENGA6](course) weekly
+- What is the schedule for [KASP5](course)
+- What is the schedule [KASP4](course)
+- When are classes for [STYS2A](course)
+- Classes [SOS4.5](course)
+- When are classes [JOVTS5](course)
+- Teaching times [FILP1A](course)
+- Teaching hours [JKKYVP11](course)
+- Teaching [YKYYV07](course)
+- [v](course) teaching
+- Week [TAYJ035](course)
+- Lectures [KKSU2](course)
+- When are lectures [MOLI](course)
+- Hours weekly [LATAP2](course)
+- When are the classes [SOS10.1.4](course) weekly
+- [ENGS13](course) teaching times
+- When are [KKSUOPE](course) teaching times
+- What are [BIO4470](course) teaching times
+- When are lectures [KASTUTVA](course)
+- The schedule for [PSYA7](course)
+- What are the teaching times for [POLVOA42/S25](course)
+- [DPHSF501](course) times
+- [MVKS42V](course) hours
+- I want to know when [POHP0](course) teaching times are
+- I want to know teaching times of [KATLITO4](course)
+- I want to know the schedule of [BTK4300](course)
+- I want to know when the lectures in course [TIEA4](course) are
+- Schedule [KKENKTM](course)
+- [KATYVA35](course) schedule
+- [ENGP3](course) weekly schedule
+- [PEACE045](course) weekly
+- What is the schedule for [TRSU07](course)
+- What is the schedule [PSYS6B](course)
+- When are classes for [JOUJOVTS](course)
+- Classes [POHP0](course)
+- When are classes [RANA5](course)
+- Teaching times [HALHAS21](course)
+- Teaching hours [KASP5](course)
+- Teaching [POMLFCS2](course)
+- [v](course) teaching
+- Week [HTIS50](course)
+- Lectures [HALHAS21](course)
+- When are lectures [TERHOI4](course)
+- Hours weekly [HISA1B](course)
+- When are the classes [POLKAA99](course) weekly
+- [LOGP1](course) teaching times
+- When are [ITIP5](course) teaching times
+- What are [PEACE045](course) teaching times
+- When are lectures [HISS2](course)
+- The schedule for [DPLSSEM](course)
+- What are the teaching times for [POLKVA33](course)
+- [BTK1061](course) times
+- [KATVAA15](course) hours
+- I want to know when [KKENKTMO](course) teaching times are
+- I want to know teaching times of [POLKVA31](course)
+- I want to know the schedule of [KASELOHA](course)
+- I want to know when the lectures in course [JKKYY](course) are
+- Schedule [LATAP1](course)
+- [KATTAS36](course) schedule
+- [KATYVA33](course) weekly schedule
+- [KASP1](course) weekly
+- What is the schedule for [ESPFP1](course)
+- What is the schedule [JOVTS5](course)
+- When are classes for [KASVAR7](course)
+- Classes [HISA2](course)
+- When are classes [SUOA3](course)
+- Teaching times [TIETS43](course)
+- Teaching hours [SAKS5](course)
+- Teaching [KKENLL](course)
+- [v](course) teaching
+- Week [KASLOE6.5](course)
+- Lectures [KASA13](course)
+- When are lectures [BIO2085](course)
+- Hours weekly [HALJTA99](course)
+- When are the classes [LUOYY023](course) weekly
+- [SOS10.6](course) teaching times
+- When are [HALJUA61](course) teaching times
+- What are [POLKVA11](course) teaching times
+- When are lectures [KATJOA99](course)
+- The schedule for [ITIS23](course)
+- What are the teaching times for [STYA6](course)
+- [KKVE4](course) times
+- [KASVART3](course) hours
+- I want to know when [VENA8](course) teaching times are
+- I want to know teaching times of [NORDIG2](course)
+- I want to know the schedule of [TERHOIA4](course)
+- I want to know when the lectures in course [KIRP5](course) are
+- Schedule [BTK1031](course)
+- [SOS6.3.2](course) schedule
+- [SOSM6.1](course) weekly schedule
+- [COSOPC3](course) weekly
+- What is the schedule for [YKYYHT5](course)
+- What is the schedule [HISA4](course)
+- When are classes for [MEDU10](course)
+- Classes [POHA4/POHS4](course)
+- When are classes [POLVOS27](course)
+- Teaching times [MVKS18E](course)
+- Teaching hours [POLKVA41](course)
+- Teaching [TERA6](course)
+- [v](course) teaching
+- Week [KATVRS60](course)
+- Lectures [LTLY16](course)
+- When are lectures [TERY4](course)
+- Hours weekly [POLKVA12](course)
+- When are the classes [POHP6](course) weekly
+- [BIO2085](course) teaching times
+- When are [ITIS42](course) teaching times
+- What are [JOVPVS10](course) teaching times
+- When are lectures [RANP2](course)
+- The schedule for [KKSUOPE](course)
+- What are the teaching times for [STYA3A](course)
+- [BTK4090](course) times
+- [KASSY5](course) hours
+- I want to know when [RANAV3](course) teaching times are
+- I want to know teaching times of [KKENPRE1](course)
+- I want to know the schedule of [TIETA11](course)
+- I want to know when the lectures in course [SOS10.6](course) are
+- Schedule [JOVA4](course)
+- [HISP1](course) schedule
+- [BIO4450](course) weekly schedule
+- [TIETS07](course) weekly
+- What is the schedule for [ENGS7-9](course)
+- What is the schedule [POHP3](course)
+- When are classes for [TRMU1](course)
+- Classes [KASMULTI2C](course)
+- When are classes [POLVOA31](course)
+- Teaching times [LOGP1](course)
+- Teaching hours [LOGA9](course)
+- Teaching [SAKD5](course)
+- [v](course) teaching
+- Week [LTLY16](course)
+- Lectures [SOSM5.1](course)
+- When are lectures [ENGP8](course)
+- Hours weekly [RANA1](course)
+- When are the classes [KATLAA22](course) weekly
+- [TERHOIA1](course) teaching times
+- When are [YKYY0](course) teaching times
+- What are [KKSUVAL3](course) teaching times
+- When are lectures [BTK4410](course)
+- The schedule for [KATMAS14](course)
+- What are the teaching times for [YKT06.2](course)
+- [TIEP3](course) times
+- [HALHAA13](course) hours
+- I want to know when [POLKVA22](course) teaching times are
+- I want to know teaching times of [KASLOM10](course)
+- I want to know the schedule of [ITIP5](course)
+- I want to know when the lectures in course [TAYJ029](course) are
+- Schedule [SAKP2](course)
+- [MVKS11](course) schedule
+- [DPJKKHS](course) weekly schedule
+- [KKENVAL4](course) weekly
+- What is the schedule for [GTS1](course)
+- What is the schedule [BTK2036](course)
+- When are classes for [SAKP4](course)
+- Classes [TIEA2.1B](course)
+- When are classes [SOS08.2](course)
+- Teaching times [KASVAR11](course)
+- Teaching hours [KASLOM8](course)
+- Teaching [PEACE2](course)
+- [v](course) teaching
+- Week [KIRS4](course)
+- Lectures [KASSY5](course)
+- When are lectures [HALYAA99](course)
+- Hours weekly [MTTTS11](course)
+- When are the classes [KKSU1](course) weekly
+- [SOS6.1.3](course) teaching times
+- When are [KASA6](course) teaching times
+- What are [LOGP2](course) teaching times
+- When are lectures [KATVRS60](course)
+- The schedule for [BTK1015](course)
+- What are the teaching times for [JOVA18](course)
+- [POLKVA41](course) times
+- [SOCYKV2/RES012](course) hours
+- I want to know when [TERTIETO1](course) teaching times are
+- I want to know teaching times of [STYP5](course)
+- I want to know the schedule of [MVKS02](course)
+- I want to know when the lectures in course [PSYS2](course) are
+- Schedule [DPJKKPS](course)
+- [KATJOA12](course) schedule
+- [RANP6](course) weekly schedule
+- [POLVOA31](course) weekly
+- What is the schedule for [HISS2](course)
+- What is the schedule [DPHSFC06](course)
+- When are classes for [KASA12](course)
+- Classes [STYA5](course)
+- When are classes [COSOPN2](course)
+- Teaching times [KASVAR2](course)
+- Teaching hours [TAYJ024](course)
+- Teaching [KKENVAL1](course)
+- [v](course) teaching
+- Week [PSYS7](course)
+- Lectures [KKSUHUK1](course)
+- When are lectures [KASLOH3](course)
+- Hours weekly [KASP2](course)
+- When are the classes [JOVA21](course) weekly
+- [TIETS18](course) teaching times
+- When are [BIO4380](course) teaching times
+- What are [POMLFCS2](course) teaching times
+- When are lectures [KASERIT3](course)
+- The schedule for [KKSUPRO](course)
+- What are the teaching times for [KKENKTM](course)
+- [SUOK2/A6/S8](course) times
+- [TAYJ024](course) hours
+- I want to know when [PSYS10](course) teaching times are
+- I want to know teaching times of [MVKS39V](course)
+- I want to know the schedule of [MOLI](course)
+- I want to know when the lectures in course [HALJUA99](course) are
+- Schedule [KASVAR7](course)
+- [TAYJ11](course) schedule
+- [HISA2](course) weekly schedule
+- [KASA13](course) weekly
+- What is the schedule for [KASA3](course)
+- What is the schedule [KATJOA12](course)
+- When are classes for [BTK4121](course)
+- Classes [KATYVS42](course)
+- When are classes [POLKVA41](course)
+- Teaching times [ENGS44](course)
+- Teaching hours [POLVOS21](course)
+- Teaching [SOS3](course)
+- [v](course) teaching
+- Week [JOVTS5](course)
+- Lectures [BTK2112](course)
+- When are lectures [KASA13](course)
+- Hours weekly [JOVKA5](course)
+- When are the classes [JKKYVP11](course) weekly
+- [KASLOE6.5](course) teaching times
+- When are [POLVOS22](course) teaching times
+- What are [FILA2](course) teaching times
+- When are lectures [POLVOS26](course)
+- The schedule for [KASLOE7.2](course)
+- What are the teaching times for [KKSU1](course)
+- [SAKP0](course) times
+- [ROMAP3](course) hours
+- I want to know when [KASA11](course) teaching times are
+- I want to know teaching times of [SAKA6](course)
+- I want to know the schedule of [KKVE3](course)
+- I want to know when the lectures in course [STYS2A](course) are
+- Schedule [MTTTY1](course)
+- [KASP1](course) schedule
+- [POLKVA41](course) weekly schedule
+- [SOS9](course) weekly
+- What is the schedule for [HALJUA23](course)
+- What is the schedule [FILAPRO](course)
+- When are classes for [VENP3/VENK1](course)
+- Classes [LUOYY027](course)
+- When are classes [KKRUYHT](course)
+- Teaching times [POLVOS27](course)
+- Teaching hours [BTK4620](course)
+- Teaching [BTK4030](course)
+- [v](course) teaching
+- Week [TERKAN18](course)
+- Lectures [IGS006](course)
+- When are lectures [DPEDUB.2](course)
+- Hours weekly [ITIP5](course)
+- When are the classes [LOGS8](course) weekly
+- [LOGP2](course) teaching times
+- When are [KATJOA15](course) teaching times
+- What are [LUOYY006](course) teaching times
+- When are lectures [HTIS50](course)
+- The schedule for [POLVOS40](course)
+- What are the teaching times for [ESPFA4](course)
+- [HIST04](course) times
+- [MOLI](course) hours
+- I want to know when [KATTAS22B](course) teaching times are
+- I want to know teaching times of [POLVOS21](course)
+- I want to know the schedule of [POLKVS99](course)
+- I want to know when the lectures in course [LFCS02](course) are
+- Schedule [KATLAS20](course)
+- [SUKKP1](course) schedule
+- [KKSU9](course) weekly schedule
+- [MTTMS3](course) weekly
+- What is the schedule for [HALJUA24](course)
+- What is the schedule [KATLAS24](course)
+- When are classes for [KASS2](course)
+- Classes [STYVA](course)
+- When are classes [KASSA5](course)
+- Teaching times [MTTTP5](course)
+- Teaching hours [STYS3B2](course)
+- Teaching [KIRA2](course)
+- [v](course) teaching
+- Week [KASMULTI4](course)
+- Lectures [ESPFA6](course)
+- When are lectures [KKRUBMT](course)
+- Hours weekly [SOS4.2](course)
+- When are the classes [KATLAS14](course) weekly
+- [LOGA7](course) teaching times
+- When are [HALJUA44](course) teaching times
+- What are [ENGS7-9](course) teaching times
+- When are lectures [POHP4](course)
+- The schedule for [LFCOR](course)
+- What are the teaching times for [STYP2](course)
+- [TIETA18](course) times
+- [MTTS1](course) hours
+- I want to know when [STYS3B2](course) teaching times are
+- I want to know teaching times of [KATLITO5](course)
+- I want to know the schedule of [TIEA5](course)
+- I want to know when the lectures in course [KATMAA99](course) are
+- Schedule [KAMYVS99](course)
+- [SOS9](course) schedule
+- [PEACE2](course) weekly schedule
+- [KASLOE6.4](course) weekly
+- What is the schedule for [POLKVS31](course)
+- What is the schedule [POLVOA21/22/S22](course)
+- When are classes for [POHA1](course)
+- Classes [KATYVP11](course)
+- When are classes [JOVP2](course)
+- Teaching times [FILA9](course)
+- Teaching hours [KASLOE4.1](course)
+- Teaching [BIO4470](course)
+- [v](course) teaching
+- Week [JOVPVS5](course)
+- Lectures [FILA1](course)
+- When are lectures [DPLS01](course)
+- Hours weekly [RANSV5](course)
+- When are the classes [KKENYHT](course) weekly
+- [POLVOA31](course) teaching times
+- When are [BTK1053](course) teaching times
+- What are [KATLAA22](course) teaching times
+- When are lectures [KKENYHT](course)
+- The schedule for [PEACE046](course)
+- What are the teaching times for [KATVAA11](course)
+- [JKKYPS1](course) times
+- [MTTMY1](course) hours
+- I want to know when [PCP02/NAM-VII](course) teaching times are
+- I want to know teaching times of [KASA11](course)
+- I want to know the schedule of [KATTAA40](course)
+- I want to know when the lectures in course [HISA1B](course) are
+- Schedule [KASP5](course)
+- [KKENVAL7](course) schedule
+- [SOSM5.1](course) weekly schedule
+- [DPIS1](course) weekly
+- What is the schedule for [KASLTT](course)
+- What is the schedule [JKKYINA11](course)
+- When are classes for [LOGA3](course)
+- Classes [TIEP1](course)
+- When are classes [KKES1](course)
+- Teaching times [HALHAS20](course)
+- Teaching hours [POHP1](course)
+- Teaching [LUOYY006](course)
+- [v](course) teaching
+- Week [HALTTS13](course)
+- Lectures [MVKS26](course)
+- When are lectures [KATTAS22A](course)
+- Hours weekly [KASSY4](course)
+- When are the classes [KASLOM1](course) weekly
+- [FILAPRO](course) teaching times
+- When are [DPJKK20](course) teaching times
+- What are [KASSY4](course) teaching times
+- When are lectures [VENA13](course)
+- The schedule for [HISS2](course)
+- What are the teaching times for [POHA2](course)
+- [YKT6.6.3](course) times
+- [TERA1](course) hours
+- I want to know when [JKKYTU01](course) teaching times are
+- I want to know teaching times of [KATLITO8](course)
+- I want to know the schedule of [STYA7](course)
+- I want to know when the lectures in course [HALTTS11](course) are
+- Schedule [KATJOA13](course)
+- [STYA1A](course) schedule
+- [BTK1013](course) weekly schedule
+- [KATVAS12](course) weekly
+- What is the schedule for [KASP5](course)
+- What is the schedule [HISJATKO](course)
+- When are classes for [SAKA5](course)
+- Classes [PSYS16](course)
+- When are classes [JOVY2](course)
+- Teaching times [MTTTA1](course)
+- Teaching hours [KKKI1](course)
+- Teaching [HISA4](course)
+- [v](course) teaching
+- Week [STYS2A](course)
+- Lectures [SUKKP2](course)
+- When are lectures [HALYAA14](course)
+- Hours weekly [KKSA3](course)
+- When are the classes [PEDAYOP2](course) weekly
+- [MVKS29](course) teaching times
+- When are [PSYS16](course) teaching times
+- What are [KKSAPRE2](course) teaching times
+- When are lectures [TECHS2](course)
+- The schedule for [KIRS4](course)
+- What are the teaching times for [KASERIT4](course)
+- [KASSM3](course) times
+- [KASLOE7.1](course) hours
+- I want to know when [TERVAL7](course) teaching times are
+- I want to know teaching times of [KASA10](course)
+- I want to know the schedule of [BTK1031](course)
+- I want to know when the lectures in course [YKT09.6](course) are
+- Schedule [KASLOM5](course)
+- [FILA9](course) schedule
+- [TAYJ032](course) weekly schedule
+- [KKES2](course) weekly
+- What is the schedule for [KASA15](course)
+- What is the schedule [YKT6.6.4](course)
+- When are classes for [HALYAA99](course)
+- Classes [PSYA1](course)
+- When are classes [FILA2](course)
+- Teaching times [SOS4.3](course)
+- Teaching hours [KATLAP21](course)
+- Teaching [SUOP3](course)
+- [v](course) teaching
+- Week [JOVP2](course)
+- Lectures [ITIA03](course)
+- When are lectures [HALYAA12](course)
+- Hours weekly [TIETA13](course)
+- When are the classes [SOSM6.3](course) weekly
+- [PSYS2](course) teaching times
+- When are [TERHOIA3](course) teaching times
+- What are [RANP2](course) teaching times
+- When are lectures [POLVOA31](course)
+- The schedule for [HALKAA15](course)
+- What are the teaching times for [POLVOA31/32/S26](course)
+- [LOGS1](course) times
+- [KATYVA99](course) hours
+- I want to know when [HTIS54](course) teaching times are
+- I want to know teaching times of [KKSU6](course)
+- I want to know the schedule of [KATYVS21](course)
+- I want to know when the lectures in course [SOSM6.1](course) are
+- Schedule [PCP11](course)
+- [GTS8](course) schedule
+- [KASLOM10](course) weekly schedule
+- [FILA6](course) weekly
+- What is the schedule for [POLVOS40](course)
+- What is the schedule [FILA6](course)
+- When are classes for [POLKVA41](course)
+- Classes [TIETS14](course)
+- When are classes [ENGA12](course)
+- Teaching times [KKVEPRE1](course)
+- Teaching hours [KATTAS21A](course)
+- Teaching [KASERIT1](course)
+- [v](course) teaching
+- Week [KASLOM1](course)
+- Lectures [KIRA1](course)
+- When are lectures [VENP2](course)
+- Hours weekly [KASLOM3](course)
+- When are the classes [PSYA10](course) weekly
+- [POLPOP02](course) teaching times
+- When are [KATJOA13](course) teaching times
+- What are [KASVARH](course) teaching times
+- When are lectures [SAKA5](course)
+- The schedule for [KATYVS23](course)
+- What are the teaching times for [TERTIETO2](course)
+- [SOS6.1.2](course) times
+- [POLVOS26](course) hours
+- I want to know when [POLVOA41](course) teaching times are
+- I want to know teaching times of [TAYJ035](course)
+- I want to know the schedule of [KASA13](course)
+- I want to know when the lectures in course [LFCS03](course) are
+- Schedule [HALKAP01](course)
+- [KKIN1](course) schedule
+- [VENS4](course) weekly schedule
+- [KATLAA99](course) weekly
+- What is the schedule for [VENP3/VENK1](course)
+- What is the schedule [PEACE045](course)
+- When are classes for [JOVTS5](course)
+- Classes [KATLITO3](course)
+- When are classes [KKSU7](course)
+- Teaching times [BIO2200](course)
+- Teaching hours [KASSA1](course)
+- Teaching [JOVA13](course)
+- [v](course) teaching
+- Week [BTK2040](course)
+- Lectures [HALKAS12](course)
+- When are lectures [JOVTS2](course)
+- Hours weekly [KASLOE7.1](course)
+- When are the classes [SOS6.5.2](course) weekly
+- [HISP2](course) teaching times
+- When are [KKSU2](course) teaching times
+- What are [KIRA5](course) teaching times
+- When are lectures [JOVP4](course)
+- The schedule for [KKSAVAL4](course)
+- What are the teaching times for [MEDU02](course)
+- [YKT10.1.2](course) times
+- [PSYP2](course) hours
+- I want to know when [SOSKV3](course) teaching times are
+- I want to know teaching times of [KATLAP21](course)
+- I want to know the schedule of [KASA11](course)
+- I want to know when the lectures in course [TAYJ033](course) are
+- Schedule [HALJUA21](course)
+- [LTLY16](course) schedule
+- [KATLITO5](course) weekly schedule
+- [KKSUKTK](course) weekly
+- What is the schedule for [DPYTCON](course)
+- What is the schedule [ITIS61](course)
+- When are classes for [KIRA3B](course)
+- Classes [HTIS66](course)
+- When are classes [FILS1E](course)
+- Teaching times [MTTMA5](course)
+- Teaching hours [STYA1A](course)
+- Teaching [HTIY006](course)
+- [v](course) teaching
+- Week [TAYJ033](course)
+- Lectures [KKSAVAL3](course)
+- When are lectures [KATVAA11](course)
+- Hours weekly [TAYJ032](course)
+- When are the classes [KASP4](course) weekly
+- [HTIS52](course) teaching times
+- When are [BTK1062](course) teaching times
+- What are [HALVAL1](course) teaching times
+- When are lectures [STYA7](course)
+- The schedule for [SOSM5.2](course)
+- What are the teaching times for [MVKS23](course)
+- [TAYJ031](course) times
+- [KATRAS12](course) hours
+- I want to know when [KASLOH3](course) teaching times are
+- I want to know teaching times of [JOVPVS12](course)
+- I want to know the schedule of [KASSM2](course)
+- I want to know when the lectures in course [KATJOA12](course) are
+- Schedule [KATJOS12](course)
+- [RANP5](course) schedule
+- [KATVRA30](course) weekly schedule
+- [KASA11](course) weekly
+- What is the schedule for [KASVAR9](course)
+- What is the schedule [HTIS66](course)
+- When are classes for [MVKS42V](course)
+- Classes [FILJATKO](course)
+- When are classes [TAYJ12](course)
+- Teaching times [MVKS42S](course)
+- Teaching hours [KASPUHP1](course)
+- Teaching [KATYVA21](course)
+- [v](course) teaching
+- Week [KIRA3C2](course)
+- Lectures [POHP5](course)
+- When are lectures [KKENVAL1](course)
+- Hours weekly [KASA8](course)
+- When are the classes [JOVA21](course) weekly
+- [MVKS11](course) teaching times
+- When are [LUOYY006](course) teaching times
+- What are [SOS1](course) teaching times
+- When are lectures [KATYVA12](course)
+- The schedule for [MVKS38](course)
+- What are the teaching times for [HALYAA99](course)
+- [KIRP1](course) times
+- [POHA1](course) hours
+- I want to know when [KASPUHP2](course) teaching times are
+- I want to know teaching times of [ITIY3](course)
+- I want to know the schedule of [KKSUPRO](course)
+- I want to know when the lectures in course [KASVAR4](course) are
+- Schedule [KATMAP11](course)
+- [KASSO8](course) schedule
+- [POHA14](course) weekly schedule
+- [KKENYHT](course) weekly
+- What is the schedule for [TERA6](course)
+- What is the schedule [KASLOM7](course)
+- When are classes for [HALTTS13](course)
+- Classes [KKENVAL8](course)
+- When are classes [TIEA2.1A](course)
+- Teaching times [KKSUVAL3](course)
+- Teaching hours [POLKVS21](course)
+- Teaching [MVKS40/62](course)
+- [v](course) teaching
+- Week [KKSULL](course)
+- Lectures [TERHOO3](course)
+- When are lectures [PSYS17](course)
+- Hours weekly [KATMAS17](course)
+- When are the classes [KKENYHT](course) weekly
+- [VENA6](course) teaching times
+- When are [VIROP3](course) teaching times
+- What are [KKES3](course) teaching times
+- When are lectures [SUOT4](course)
+- The schedule for [KATTAA40](course)
+- What are the teaching times for [SOS09.3](course)
+- [MTTA2](course) times
+- [BTK4702](course) hours
+- I want to know when [JOVPVS6](course) teaching times are
+- I want to know teaching times of [LOGS9](course)
+- I want to know the schedule of [JOVP1](course)
+- I want to know when the lectures in course [ITIA11](course) are
+
+## intent:kieli
+- Teaching language [Johdatus verkostoanalyysiin](course)
+- Lecture language [Aikuisten neuropsykologinen tutkiminen](course)
+- What is the teaching language in [Johdatus sosiaaliantropologiaan -seminaari](course)
+- Teaching language in [Käännösviestintä suomi-venäjä](course)
+- What language is [Study Skills - Basics of Information Literacy](course)
+- Is [Kirjoitusviestintä / COMS](course) in english
+- Is [Johdatus verkostoanalyysiin](course) in finnish
+- [Johdon laskentatoimen teoria -](course) language
+- [African and Black Diaspora Studies Research Seminar](course) teaching language
+- Is [All You Wanted to Know about Elections - But Never Dared to Ask (POMLFCS1)](course) taught in english
+- Is [Master's thesis seminar and master's thesis](course) taught in english
+- Can I pass [Asiantuntijan puheviestintä ja vuorovaikutus, 1.-2. periodi / VIESTINTÄROHKEUDEN RYHMÄ](course) in english
+- Which language is [Liike-elämän ruotsia I](course)
+- What is [Kasvatus tieteellisen tutkimuksen kohteena - verkko-opetus, IV-periodi](course) language
+- What is the language of [Proseminaari](course) is
+- The teaching language of [Kasvatus tieteellisen tutkimuksen kohteena - avoin yo, lähi- ja monimuotototeutus](course)
+- What language is used in [Master's Thesis Seminar (2nd year students)](course)
+- Which language [Science and Biotechnology Journal Club](course) is used
+- [Erot, jaot ja niiden rakentuminen, kirjatentti](course) spoken language
+- [Maailmanloppu nyt. Ja ennen.](course) languages
+- What are [Uskontojen antropologiaa](course) languages
+- The [Kääntämisen ja tulkkauksen teoria ja käytäntö - Käännösteoria](course) language
+- [User Experience: Design and Evaluation (TUT/IHTE)](course) teaching languages
+- The language of [Kieli käyttöön/Språket i bruk](course)
+- Teaching language in [Johdatus yhteiskuntahistoriaan](course)
+- [Ruotsin kielen kirjallinen ja suullinen viestintä / AHOT (näyttökoe)](course) in which language
+- What language do they speak in [Preparatory Course in Communicative Skills](course)
+- I want to know which language [Tietokäytännöt (syksyllä 2018 perusopinnot aloittaville) - verkkokurssi](course) is used
+- I want to know the language of [Lehti- ja verkkojournalismi](course)
+- I want to know what language do they speak in [Ympäristön ja alueiden poliittisuus](course)
+- I want to know is [Kasvatushistoria, kirjatentti, Seinäjoki](course) taught in english- Teaching language [Grammaire/Kielioppi](course)
+- Lecture language [Mielenterveys, yhteiskunta ja sukupuoli](course)
+- What is the teaching language in [Johdatus viestinnän tutkimukseen ja analyysiin - verkkokurssi](course)
+- Teaching language in [Puheviestintä ja hyvinvointi](course)
+- What language is [Eriytyvä syventävä tutkimusmenetelmäkurssi A: Eläytymismenetelmä - yhdistetty Jari Eskolan graduryhmään](course)
+- Is [Opetussuunnitelmateoria - Luennot, seminaari ja lukupiiri (slk) TAI kirjatentti (slk ja klk)](course) in english
+- Is [Projektinhallinnan perusteet](course) in finnish
+- [Kasvatus, koulutus ja yhteiskunta, monimuoto-opetus](course) language
+- [Rahoituksen perusteet](course) teaching language
+- Is [Johdanto riskienhallintaan ja vakuuttamiseen](course) taught in english
+- Is [Asiantuntijan puheviestintä ja vuorovaikutus (1. periodi)](course) taught in english
+- Can I pass [Liikuntapedagogiikan perusteet / Luennot - 1.vsk](course) in english
+- Which language is [Talousviestintä / Wirtschaftskommunikation](course)
+- What is [Fighting Against Human Rights Violations](course) language
+- What is the language of [Kasvatus, tieto ja teoria - Luennot](course) is
+- The teaching language of [Erot, jaot ja niiden rakentuminen, kirjatentti, Seinäjoki](course)
+- What language is used in [Logiikka](course)
+- Which language [Lääketieteellisen tutkimuksen etiikka](course) is used
+- [Talous - politiikka - kulttuuri -lukupiiri](course) spoken language
+- [Human Mobility in Peace and Conflict Research](course) languages
+- What are [Osallisuudet, oikeudet ja vastuut palvelujärjestelmäkohtaamisissa](course) languages
+- The [Johdatus tilastotieteeseen](course) language
+- [Kestävän kehityksen käytäntöjä](course) teaching languages
+- The language of [Biotechnical product development](course)
+- Teaching language in [Proseminaari](course)
+- [Moniammatillinen -klinikkaopetus](course) in which language
+- What language do they speak in [Mediakulttuurit / Luennot - 2.vsk + 1.vsk ryhmät 6 ja 7](course)
+- I want to know which language [Introduction to Formal Specification](course) is used
+- I want to know the language of [Nuorten ja aikuisten mielenterveyden arviointi](course)
+- I want to know what language do they speak in [Viestinnän ja median tutkimuksen metodologia, harjoitukset vaihtoehtoisissa työpajoissa](course)
+- I want to know is [Terveyden edistämisen interventiot](course) taught in english- Teaching language [Kunta- ja aluejohtamisen vaihtuvasisältöinen erikoiskurssi](course)
+- Lecture language [Public Financial Management and Evolving Administrative Structures](course)
+- What is the teaching language in [Science and Biotechnology Journal Club](course)
+- Teaching language in [Opetus, ohjaus, oppiminen, verkko-opetus](course)
+- What language is [Orientation - Orientation to studying in the Degree Programme](course)
+- Is [Nuorisotyön ja nuorisotutkimuksen maisteriohjelman lähijakso 14.-15.3.2019](course) in english
+- Is [Orientation - Orientation to studying in the Software Development programme](course) in finnish
+- [Academic Writing](course) language
+- [Poliittiset instituutiot ja prosessit (kirjatentti/essee)](course) teaching language
+- Is [Kieliopin harjoitukset](course) taught in english
+- Is [Sustainable business practices (Independent study)](course) taught in english
+- Can I pass [Rahatalous](course) in english
+- Which language is [Pro gradu -tutkielma ja -seminaari, tammikuussa 2018 aloittaneet ryhmät](course)
+- What is [Kirjallinen viestintä I (venäjänkieliset opiskelijat)](course) language
+- What is the language of [Tutkimusprosessin hallinta - Läsnäoloon perustuva oppimispäiväkirja](course) is
+- The teaching language of [Informaatio- ja mediajärjestelmien historiaa ja nykypäivää (syksyllä 2018 perusopinnot aloittaville) - verkkokurssi](course)
+- What language is used in [Tieteellinen kirjoittaminen / LUO & COMS](course)
+- Which language [Liikekirjanpito ja tilinpäätös (avoin yliopisto-opetus)](course) is used
+- [Yksilö, yhteiskunta ja kulttuuri - historian ja yhteiskuntaopin harjoitusryhmät - 2. vsk](course) spoken language
+- [Varhaiskasvatuksen pedagogiikka ja opetussuunnitelmatyö / Luennot - 2.vsk + 1.vsk ryhmät 6 ja 7](course) languages
+- What are [Kiina III](course) languages
+- The [Kielellinen merkitys, käyttö ja konteksti](course) language
+- [Continental Model: The Austrian System of Work and Social Security](course) teaching languages
+- The language of [Venäjä III](course)
+- Teaching language in [Syntaksi](course)
+- [Lesen, Verstehen, Schreiben](course) in which language
+- What language do they speak in [Everything You Wanted to Know about Political Parties - But Never Dared to Ask (POMLFCS1)](course)
+- I want to know which language [Inklusiivinen pedagogiikka ja oppimisen tukeminen](course) is used
+- I want to know the language of [Statistics](course)
+- I want to know what language do they speak in [Master's Thesis Seminar in Human-Technology Interaction (Starting Fall term)](course)
+- I want to know is [Työhyvinvointi](course) taught in english- Teaching language [Linguistics II: Meaning and Discourse](course)
+- Lecture language [Ruotsin kielen kirjallinen ja suullinen viestintä (JKK: HK & YTK / EDU / LUO / COMS: HuK, LuK & YTK / SOC)](course)
+- What is the teaching language in [Matemaattisen tilastotieteen perusteet](course)
+- Teaching language in [Orientoivat opinnot - Orientoivat opinnot](course)
+- What language is [Hallintotieteen teoriat ja käsitteet](course)
+- Is [Lastenkirjallisuus ja draama / Harjoitukset - 3.vsk + 1.vsk ryhmät 6 ja 7](course) in english
+- Is [Monikielinen käännöstyöpaja](course) in finnish
+- [Venäjän historia, kirjallisuus ja kulttuuri](course) language
+- [Ryhmät ja ryhmien väliset suhteet](course) teaching language
+- Is [Semantiikka ja pragmatiikka / Sémantique et pragmatique](course) taught in english
+- Is [Liikuntapedagogiikka varhaiskasvatuksessa / Harjoitukset - 2.vsk](course) taught in english
+- Can I pass [Viestintä- ja informaatio-oikeus](course) in english
+- Which language is [Terveystiedon asiantuntijuus (sähköinen tentti)](course)
+- What is [Etnografinen tutkimusprosessi](course) language
+- What is the language of [Usability Evaluation Methods](course) is
+- The teaching language of [Tietojenkäsittelytieteiden opintojakso TTY:ltä](course)
+- What language is used in [Tekoälyn filosofia](course)
+- Which language [Sosiaalityön historia ja tutkimus (kirjatentti)](course) is used
+- [Nuorisotyön ja nuorisotutkimuksen maisteriohjelman lähijakso 12.-13.12.2018](course) spoken language
+- [Kontrastiivisen fonetiikan perusteet -](course) languages
+- What are [Tietotekniikkataidot (syksy)](course) languages
+- The [Laskentatoimen teoria ja IFRS II](course) language
+- [Responsible Business and Social Accounting (Online course)](course) teaching languages
+- The language of [Kulttuurinen monimuotoisuus koulutuksessa ja työelämässä, kirjatentti](course)
+- Teaching language in [Yrityksen johtamisen perusteet (avoin yliopisto-opetus), monimuoto-opetus](course)
+- [Kandidaattitutkielma ja seminaari (tilastotiede)](course) in which language
+- What language do they speak in [Verkkopalvelujen informaatioarkkitehtuuri](course)
+- I want to know which language [Ranska III](course) is used
+- I want to know the language of [Ympäristökasvatus / Luennot - 2.vsk + 1.vsk ryhmät 6 ja 7](course)
+- I want to know what language do they speak in [Tiedonhankintataidot 3op - Tiedonhankintataidot I - Tiedonhankinnan perusteet](course)
+- I want to know is [Introduction to R](course) taught in english- Teaching language [Tutkielmaseminaari - Tutkielmaseminaari](course)
+- Lecture language [Kandidaatintutkielmaseminaari - Seminaari](course)
+- What is the teaching language in [Kandidaatin tutkielma ja seminaari (Kansanterveystieteen opiskelijoille)](course)
+- Teaching language in [Romanian kielen jatkokurssi II / Advanced Course 2 in Romanian -](course)
+- What language is [Taloustieteen matematiikan jatkokurssi](course)
+- Is [Eriytyvä syventävä tutkimusmenetelmäkurssi A: Kyselyaineiston analysointi](course) in english
+- Is [Opetus, ohjaus, oppiminen - Luokanopettajaopiskelijat: Pienryhmäopetus ja siihen liittyvä harjoittelu (2 op) ja kirjallisuus (2 op)](course) in finnish
+- [Europe in transition](course) language
+- [Liikunta - Liikuntapedagogiikka perusopetuksessa A ensisijaisesti opinnot 1½ lukuvuodessa suorittavat POM-opintoihin opinto-oikeuden saaneet opiskelijat](course) teaching language
+- Is [Demola Project](course) taught in english
+- Is [Yritysjuridiikan perusteet](course) taught in english
+- Can I pass [Tutkimustyön perusteet - d) Kandidaattiseminaari (keväällä 2018 alkava)](course) in english
+- Which language is [Tieteellinen kirjoittaminen / LUO & COMS](course)
+- What is [Improving the quality and safety of health care through outcomes research](course) language
+- What is the language of [Tieteellinen kirjoittaminen](course) is
+- The teaching language of [Asevelvollisuus Suomessa ja kansainvälisesti](course)
+- What language is used in [Asioimistulkkaus venäjä-suomi-venäjä](course)
+- Which language [Hallinto-oikeuden syventävä jakso](course) is used
+- [Keskustelunanalyysi (verkkokurssi), kevät 2019](course) spoken language
+- [Strateginen johtaminen julkisyhteisöissä](course) languages
+- What are [Euroopan unionin finanssihallinto-oikeus - Luennot ja tentti.](course) languages
+- The [Intermediate studies in Computer Science in TUT](course) language
+- [Yksilön työhyvinvointi](course) teaching languages
+- The language of [Tieteellinen seminaarisarja](course)
+- Teaching language in [Matematiikkakasvatus / Harjoitukset - 2.vsk + 1.vsk ryhmät 6 ja 7](course)
+- [Kääntämisen ja tulkkauksen teoria ja käytäntö - Terminologia](course) in which language
+- What language do they speak in [Kuva-  ja mediakulttuurit - Kuvakulttuurit - 1. vsk ja erillisen opinto-oikeuden POM-opintoihin saaneet opiskelijat (luennot)](course)
+- I want to know which language [Tekstilingvistiikka / Textlinguistik](course) is used
+- I want to know the language of [Visual Peace Research](course)
+- I want to know what language do they speak in [Lain ja hallinnon käännösviestinnän seminaari suomi-venäjä](course)
+- I want to know is [Practical Observation of Finnish School System for Incoming Exchange Students - Observation, written tasks, report](course) taught in english- Teaching language [Nuorten ryhmät ja ryhmän ohjaus, harjoitukset](course)
+- Lecture language [Fonetiikan tutkimusmenetelmät - Menetelmäkurssi](course)
+- What is the teaching language in [Työelämävalmiudet ja asiantuntijuus - valmennusseminaari ja palautekeskustelu](course)
+- Teaching language in [Espanja II](course)
+- What language is [Tutkimuksen perusteet ja etiikka](course)
+- Is [Ruotsin kielen kirjallinen ja suullinen viestintä](course) in english
+- Is [Longitudinal and Finite Nonlinear Mixture Modelling and Associated Experimental Design Strategies (independent work and exams)](course) in finnish
+- [Tieteellinen kirjoittaminen ja politiikan tutkimuksen aineistot](course) language
+- [Basics of Marketing and Sales -](course) teaching language
+- Is [Demola-projektityö I](course) taught in english
+- Is [Orientaatiopäivä väitöskirjatutkijoille](course) taught in english
+- Can I pass [Tiivistämisen taito](course) in english
+- Which language is [Euroopan ulkopuoliset poliittiset järjestelmät (kirjatentti/essee)](course)
+- What is [Neuropsykologinen kuntoutus](course) language
+- What is the language of [Ydinaseet ja kansainvälinen politiikka](course) is
+- The teaching language of [Muutosjohtaminen sosiaalityössä - Sosnet verkkokurssi](course)
+- What language is used in [Kieli ja kielentäminen - 2 vsk (pienryhmät)](course)
+- Which language [Tilastollisen tutkimuksen perusteet](course) is used
+- [Orientoivat opinnot ja HOPS (venäjän kieli, kulttuuri ja kääntäminen)](course) spoken language
+- [Johtamisen ja organisaatioiden perusteet](course) languages
+- What are [Espanja II](course) languages
+- The [Academic Presentations](course) language
+- [Sosiaalioikeus - STYA1A2 Sosiaalioikeus II](course) teaching languages
+- The language of [Saksan kielen valmentava kurssi - Interkulturelles Training](course)
+- Teaching language in [Current and Future Challenges of World Politics and Economy (POMLFCS3)](course)
+- [Sosiaalioikeus I](course) in which language
+- What language do they speak in [Tekninen kirjoittaminen (englanti)](course)
+- I want to know which language [Liikuntatuutorina toimiminen - Liikuntatuutoriperehdytys](course) is used
+- I want to know the language of [Klinikkaharjoittelu](course)
+- I want to know what language do they speak in [Bioinformatics tools (autumn 2018)](course)
+- I want to know is [Media and the Arctic (POMLFCS3)](course) taught in english- Teaching language [Lineaarialgebra 1B](course)
+- Lecture language [Terveystieteiden laadulliset tutkimusmenetelmät](course)
+- What is the teaching language in [Liikunta - Liikuntapedagogiikan perusteet - 1 vsk ja  erillisen opinto-oikeuden POM-opintoihin saaneet opiskelijat](course)
+- Teaching language in [Politiikan tutkimuksen kandidaatintutkielma ja -seminaari](course)
+- What language is [Pro gradu -tutkielma ja -seminaari, tammikuussa 2019 aloittavat ryhmät](course)
+- Is [Kirjallisuus ja kulttuuri/Litteratur och kultur](course) in english
+- Is [Oikeudellisen tutkimuksen perusteet](course) in finnish
+- [Julkisyhteisöjen kirjanpito ja tilinpäätös](course) language
+- [Televisiojournalismi](course) teaching language
+- Is [Kirjallinen viestintä I (venäjänkieliset opiskelijat)](course) taught in english
+- Is [Arvonlisäverotuksen syventävä opintojakso](course) taught in english
+- Can I pass [Tutkimustyön perusteet (teemalla Verkostot ja somevaikuttaminen Twitterissä)](course) in english
+- Which language is [Tiedonhankintataidot (hoitotiede)](course)
+- What is [Lausekielinen ohjelmointi I - Näyttökoe, syksy 2018](course) language
+- What is the language of [Kansainvälisen politiikan erikoistuvat menetelmäopinnot (kirjatentti/essee)](course) is
+- The teaching language of [A Biomedical View of Patenting](course)
+- What language is used in [Tieteellinen kirjoittaminen](course)
+- Which language [Soluviljely (1. vuosikurssin opiskelijoille)](course) is used
+- [Poliittinen filosofia (kirjatentti/essee)](course) spoken language
+- [Thesis seminar](course) languages
+- What are [Comparative Criminal Justice](course) languages
+- The [Talouselämän ja tekniikan käännösviestinnän seminaari saksa-suomi](course) language
+- [Espanjan kielen kirjallinen ja suullinen taito](course) teaching languages
+- The language of [Ethnographic Research](course)
+- Teaching language in [Dialogitulkkaus](course)
+- [Venäjän historia, kirjallisuus ja kulttuuri](course) in which language
+- What language do they speak in [Uuden ajan alun murroksia](course)
+- I want to know which language [Kielen kehitys / Luennot- 2.vsk + 1.vsk ryhmät 6 ja 7](course) is used
+- I want to know the language of [Tutkiva opiskelu (syksyllä 2018 perusopinnot aloittaville) - verkkokurssi](course)
+- I want to know what language do they speak in [Palvelut ja hyvinvointivaltion murros](course)
+- I want to know is [Kasvatus, koulutus ja yhteiskunta, monimuoto-opetus](course) taught in english- Teaching language [Tutkimustyön perusteet - d) Kandidaattiseminaari (keväällä 2018 alkava)](course)
+- Lecture language [Pro gradu - seminaari 2018 (jatkava)  (vaihe I)](course)
+- What is the teaching language in [Translation and Academic Writing - Introduction to Academic Writing](course)
+- Teaching language in [Työ- ja virkamiesoikeus](course)
+- What language is [BMT-70100 Kudosteknologian perusteet](course)
+- Is [Tietorakenteet](course) in english
+- Is [Foundations of English Business Communication](course) in finnish
+- [Lähisuhdeväkivalta ja sen ammatillinen kohtaaminen - Sosnet verkkokurssi](course) language
+- [Käännösviestintä II englanti-suomi](course) teaching language
+- Is [Writing for Research](course) taught in english
+- Is [Oppimispelien käyttö ja evaluaatio](course) taught in english
+- Can I pass [Media maailmassa - verkkokurssi](course) in english
+- Which language is [Tiedonhankintataidot - Tiedonhankintataidot II - Tiedonhankinnan syventäminen](course)
+- What is [Cultural Conversations](course) language
+- What is the language of [Media Landscape in Russia: Regional Perspective](course) is
+- The teaching language of [Yrityksen oikeudellinen riskienhallinta](course)
+- What language is used in [Johdatus viestintään ja mediaan](course)
+- Which language [Romanticism and Its Legacy](course) is used
+- [Sosiaalipolitiikan teoreettinen ajattelu -lukuseminaari](course) spoken language
+- [Opintojen ohjattu suunnittelu](course) languages
+- What are [Historian määrällisen tiedon esittäminen](course) languages
+- The [Johdatus Suomen kirjallisuushistoriaan - harjoitukset](course) language
+- [Opintojen ohjattu suunnittelu](course) teaching languages
+- The language of [Usean muuttujan differentiaalilaskenta](course)
+- Teaching language in [Health systems and health in developing Asia: India, China, and North Korea](course)
+- [Tieteellinen kirjoittaminen / COMS (kirjallisuuden opiskelijoille)](course) in which language
+- What language do they speak in [Aikuis- ja ammattikasvatuksen asiantuntijuus](course)
+- I want to know which language [Kiina II](course) is used
+- I want to know the language of [Applied and Effective Project Management, Leadership and Communication - (Tampere Summer School)](course)
+- I want to know what language do they speak in [Ylellisyyden historia -verkkokurssi](course)
+- I want to know is [Kielioppi II/Språkets strukturer II](course) taught in english- Teaching language [Mental Health Research: Using the Knowledge and Adding to it](course)
+- Lecture language [Strateginen johtaminen](course)
+- What is the teaching language in [Ulko- ja turvallisuuspoliittinen päätöksentekoharjoitus](course)
+- Teaching language in [Ylirajallinen liikkuminen Itämerellä: Suomenlahden alueet kautta aikojen -verkkokurssi](course)
+- What language is [Advanced Microscopy](course)
+- Is [Terveyden edistämisen perusteet (kirjatentti hoitotieteen opiskelijoille)](course) in english
+- Is [Medioitu vuorovaikutus](course) in finnish
+- [Kielioppi I](course) language
+- [Culture and everyday life of the "Soviet Thaw"](course) teaching language
+- Is [Tutkimuspraktikum](course) taught in english
+- Is [Graduseminaari, alkava (Kaarninen)](course) taught in english
+- Can I pass [Vero-oikeuden perusteet](course) in english
+- Which language is [Semantiikka ja pragmatiikka / Sémantique et pragmatique](course)
+- What is [Molekulaarinen solubiologia](course) language
+- What is the language of [EI toteutusta 2018-19 Advanced immunology](course) is
+- The teaching language of [Ruotsin kielen kirjallinen ja suullinen viestintä / AHOT (näyttökoe)](course)
+- What language is used in [Media and the Arctic (POMLFCS3)](course)
+- Which language [Tutkimusasetelman menetelmällinen rakentuminen tohtoriopinnoissa - Dialogipajat](course) is used
+- [Research Methods in HTI](course) spoken language
+- [Esiintyminen](course) languages
+- What are [Ranska I](course) languages
+- The [Kehittävä asiantuntijatyö organisaatioissa](course) language
+- [Ympäristökasvatus / Harjoitukset - 2.vsk + 1.vsk ryhmät 6 ja 7](course) teaching languages
+- The language of [Foundations of Ecological Economics](course)
+- Teaching language in [Kielen ja vuorovaikutuksen tutkimuksen teorioita ja sovellutuksia](course)
+- [Matemaattiset aineet - Johdatus lukukäsitteeseen ja toimintamateriaalit - 1. vsk  ja erillisen opinto-oikeuden POM-opintoihin saaneet opiskelijat (harjoitukset)](course) in which language
+- What language do they speak in [Draama - 2.vsk ja   opinnot 1½ lukuvuodessa suorittavat 1.vsk ja POM-opintoihin opinto-oikeuden saaneet opiskelijat( luennot)](course)
+- I want to know which language [Business Ethics (Lectures)](course) is used
+- I want to know the language of [Antiikin ja keskiajan ryhmä](course)
+- I want to know what language do they speak in [Statistics](course)
+- I want to know is [Verotusmenettely ja oikeusturva verotuksessa](course) taught in english- Teaching language [Ammattimainen tekstintarkistus](course)
+- Lecture language [Ethnographic Research](course)
+- What is the teaching language in [Konsekutiivitulkkaus -](course)
+- Teaching language in [Antiikin ja keskiajan ryhmä](course)
+- What language is [Psykologiset interventiot](course)
+- Is [Johdatus historiantutkimukseen - Johdatus historiantutkimukseen -luentokurssi (avoin yo)](course) in english
+- Is [Tieteellinen kirjoittaminen (2. vuosikurssin opiskelijoille)](course) in finnish
+- [Puhesuomi ja esiintyminen](course) language
+- [Comparative Education - book exam](course) teaching language
+- Is [Pohjoismaisten kielten lähtötasokoe](course) taught in english
+- Is [Johdon laskentatoimen teoria -](course) taught in english
+- Can I pass [Matematiikan gradustartti](course) in english
+- Which language is [Lapset ja lastensuojelu](course)
+- What is [Dramaturgia: Musikaalin dramaturgia](course) language
+- What is the language of [Julkissektorin instituutioiden talous (monimuoto-opetus)](course) is
+- The teaching language of [Sosiaalipolitiikka (lähi- ja monimuotokurssi)](course)
+- What language is used in [Eastern European Model: Lithuanian System of Work and Social Security](course)
+- Which language [Pankkioikeus](course) is used
+- [Johdatus hoitotieteeseen](course) spoken language
+- [Structure of English II - Grammar II](course) languages
+- What are [Interview as a means of data generation](course) languages
+- The [Poliittiset ongelmat ja niiden muuttuvat kontekstit (kirjatentti)](course) language
+- [Cell Technology](course) teaching languages
+- The language of [Filosofian työpaja](course)
+- Teaching language in [Markkinoinnin kannattavuus ja taloudellisuus](course)
+- [Understanding and Managing a Business as a Dynamic Whole - VIBU Business Simulation Game](course) in which language
+- What language do they speak in [Olio-ohjelmoinnin perusteet II](course)
+- I want to know which language [Yhteiskunnallinen laskentatoimi](course) is used
+- I want to know the language of [Special Issues in Design Research](course)
+- I want to know what language do they speak in [Julkissektorin instituutioiden talous (monimuoto-opetus)](course)
+- I want to know is [Mikrotalousteoria I](course) taught in english- Teaching language [Kirjoitusviestintä / COMS](course)
+- Lecture language [Metafysiikka](course)
+- What is the teaching language in [Testimenetelmien perusteet ja ammattietiikka](course)
+- Teaching language in [Satututkimuksen lukupiiri](course)
+- What language is [Käytännön opetus ja ohjaus - STYA3B2 Käytännön opetus ja ohjaus](course)
+- Is [Opintojen ohjattu suunnittelu](course) in english
+- Is [Tietotekniikka ja yhteiskunta](course) in finnish
+- [Eläimet työssä](course) language
+- [Toimittajan tieto- ja viestintätekniikkataidot](course) teaching language
+- Is [Lapset kehittyvinä ja sosiaalisina toimijoina varhaiskasvatuksessa / Luennot - 1.vsk](course) taught in english
+- Is [New Wars and How to Study Them (POMLFCS3)](course) taught in english
+- Can I pass [Matematiikkakasvatus / Harjoitukset - 2.vsk + 1.vsk ryhmät 6 ja 7](course) in english
+- Which language is [Seminaari](course)
+- What is [Introduction to International Relations (book exam)](course) language
+- What is the language of [Liberalismi ja demokratia](course) is
+- The teaching language of [Professional Writing (online course)](course)
+- What language is used in [Kulttuurinen monimuotoisuus koulutuksessa ja työelämässä - Luennot (slk) TAI kirjallisuus (slk ja klk)](course)
+- Which language [Kandidaatintutkielma ja seminaari - Seminaari](course) is used
+- [Harjoittelu / Elinikäinen oppiminen ja kasvatus - HARJOITTELUTUKIOPTION HAKEMINEN: Seminaarit ja harjoittelu vuonna 2019 opintojakson suorittaville](course) spoken language
+- [Kansainvälisen politiikan teoria ja menetelmät (luentokurssi)](course) languages
+- What are [Yksilö, yhteiskunta ja kulttuuri - historian ja yhteiskuntaopin harjoitusryhmät - 2. vsk](course) languages
+- The [Seminaari (Nikunen) jatkuu keväältä](course) language
+- [Demola-projektityö I](course) teaching languages
+- The language of [Lähtötasokoe](course)
+- Teaching language in [Yrityksen johtamisen perusteet (avoin yliopisto-opetus), monimuoto-opetus](course)
+- [Cultural Diversity in Education and at Work -  (autumn)](course) in which language
+- What language do they speak in [Orientoivat opinnot - Tiedonhankintataidot I (TIE)](course)
+- I want to know which language [Kandidaattiseminaari ja tutkielma (vakuutus ja riskienhallinta), syksy 2018](course) is used
+- I want to know the language of [Kirjallisuus ja tunteet](course)
+- I want to know what language do they speak in [Tilastotieteen perusteet](course)
+- I want to know is [Opetus, ohjaus, oppiminen - Luokanopettajaopiskelijat: Pienryhmäopetus ja siihen liittyvä harjoittelu (2 op) ja kirjallisuus (2 op)](course) taught in english- Teaching language [Tieteellinen kirjoittaminen / COMS (puheviestinnän opiskelijoille)](course)
+- Lecture language [Asiantuntijuuden kehittymiseen orientoiva opintojakso - opintosuuntakohtaiset ryhmät jatkaville maisteriopiskelijoille (KASSO-opintosuunnan ryhmä)](course)
+- What is the teaching language in [Tulevaisuuden hyvinvointipalvelut: ratkaisuna robotiikka?](course)
+- Teaching language in [Tieteellinen kirjoittaminen (SOC)](course)
+- What language is [Basics II: Intermediate Czech I](course)
+- Is [Accounting Information Systems](course) in english
+- Is [Ohjatut asiakastyöt](course) in finnish
+- [Kandidaatintutkielma](course) language
+- [Lapset kehittyvinä ja sosiaalisina toimijoina varhaiskasvatuksessa / Luennot - 1.vsk](course) teaching language
+- Is [Kilpailuoikeuden syventävä opintojakso - kirjatentti](course) taught in english
+- Is [Media and Globalization - Lectures + essay](course) taught in english
+- Can I pass [Eheyttävä musiikkikasvatus - Musiikkiliikunta, tanssi ja musiikkileikit](course) in english
+- Which language is [Improving the quality and safety of health care through outcomes research](course)
+- What is [Ruotsin kielen kirjallinen ja suullinen viestintä (ensijaisesti EDU:n opiskelijoille), 4. periodi](course) language
+- What is the language of [Johtamisen ja organisaatioiden perusteet](course) is
+- The teaching language of [Mediatutkimuksen valinn. jakso: Ääni, teknologia ja kulttuuri](course)
+- What language is used in [Laadulliset tutkimusotteet](course)
+- Which language [Postgraduate seminar in Interactive Technology (Turunen)](course) is used
+- [Mikrotalousteoria I](course) spoken language
+- [Kansainvälisen historian tutkijaseminaari](course) languages
+- What are [Translating and Editing for Publication](course) languages
+- The [Lausekielinen ohjelmointi I - Näyttökoe, syksy 2018](course) language
+- [Verkkojulkaiseminen](course) teaching languages
+- The language of [Introduction to Corporate Social Responsibility](course)
+- Teaching language in [Johdon laskentatoimen perusteet](course)
+- [Kasvatuksen historialliset ja filosofiset lähtökohdat, monimuoto-opetus](course) in which language
+- What language do they speak in [Tietojenkäsittelytieteiden opintojakso TTY:ltä](course)
+- I want to know which language [Kandidaattiseminaari (Mustakallio)](course) is used
+- I want to know the language of [Inclusiveness in Local Innovation Environments](course)
+- I want to know what language do they speak in [Teaching, Pedagogical Facilitating, Learning](course)
+- I want to know is [Mikrotalousteoria II](course) taught in english- Teaching language [Communication écrite/Kirjallinen viestintä](course)
+- Lecture language [Laadulliset tutkimusotteet](course)
+- What is the teaching language in [Sosiaalipsykologia (verkkokurssi)](course)
+- Teaching language in [Global contexts of violence. Gender related violence in the landscape of global vulnerabilities (web course)](course)
+- What language is [Poliittiset järjestelmät (kirjatentti/essee)](course)
+- Is [Distributed Systems](course) in english
+- Is [Yhteiskunnan tutkimuksen ajankohtaisia kysymyksiä - Luennot (verkkokurssi)](course) in finnish
+- [BMT-70100 Kudosteknologian perusteet](course) language
+- [Peace, Human Rights and Democracy in the Korean Peninsula and East Asia (Tampere Summer School 2018)](course) teaching language
+- Is [Sosiaalityön teoriahistoria](course) taught in english
+- Is [Kandidaattiseminaari ja tutkielma (yrityksen johtaminen) - syksy 2018](course) taught in english
+- Can I pass [Ainedidaktiikka II](course) in english
+- Which language is [Yksilö, yhteiskunta ja kulttuuri - Historia, yhteiskuntaoppi ja katsomusopetus - 2. vsk (luennot)](course)
+- What is [Introduction to Education in Finland - Lectures, observation, essay and learning diary](course) language
+- What is the language of [Simultaaninen konferenssitulkkaus](course) is
+- The teaching language of [Musiikin perusteet / Luennot - 1.vsk ryhmät 1-5](course)
+- What language is used in [Puhesuomi ja esiintyminen](course)
+- Which language [Political Systems (book exam/essay)](course) is used
+- [Experimental animal course](course) spoken language
+- [Ohjelmistotuotannon käytännöt](course) languages
+- What are [Research Ethics](course) languages
+- The [Finnish Elementary Course 4](course) language
+- [Tutkielmaseminaari (keväällä 2019 alkavat seminaarit) - Seminaari](course) teaching languages
+- The language of [Public Financial Management and Evolving Administrative Structures](course)
+- Teaching language in [Vanhuus ja gerontologinen sosiaalityö](course)
+- [Nykyajan filosofia](course) in which language
+- What language do they speak in [Kirjallinen ja suullinen viestintä II: kirjallinen viestintä](course)
+- I want to know which language [Yksilöllisyys oppimisessa ja osallistumisessa](course) is used
+- I want to know the language of [Yritysjuridiikan ajankohtaiset teemat](course)
+- I want to know what language do they speak in [Perheen vuorovaikutus](course)
+- I want to know is [Kuva-  ja mediakulttuurit - Mediakulttuurit- I vsk ja  erillisen opinto-oikeuden POM-opintoihin saaneet opiskelijat (luennot)](course) taught in english- Teaching language [Asiakastieto ja asiakkuuksien johtaminen](course)
+- Lecture language [Social research and the behavioural sciences](course)
+- What is the teaching language in [Seminaari, kandidaatintutkielma ja kypsyysnäyte - Seminaari (kääntäminen ja tulkkaus)](course)
+- Teaching language in [Puheviestintä ja hyvinvointi](course)
+- What language is [Orientation and Study Planning](course)
+- Is [Kasvatus tieteellisen tutkimuksen kohteena - avoin yo, lähi- ja monimuotototeutus](course) in english
+- Is [Käsityö - Käsityö 1. vsk ja erillisen opinto-oikeuden POM-opintoihin saaneet opiskelijat (pienryhmäopetus)](course) in finnish
+- [Lastenkirjallisuus ja draama / Harjoitukset - 3.vsk + 1.vsk ryhmät 6 ja 7](course) language
+- [Children, young people, politics and participation](course) teaching language
+- Is [European, Eurasian and Global Energy Policy (book exam/essay)](course) taught in english
+- Is [Finnish Survival Course](course) taught in english
+- Can I pass [Kirjasto- ja tietopalvelujen suunnittelu ja arviointi](course) in english
+- Which language is [Kvalitatiivinen tutkimus kasvatustieteissä - Harjoitukset, luokanopettajaopiskelijat](course)
+- What is [Tutkielmaseminaari - Seminaari](course) language
+- What is the language of [COURSE CANCELLED: Islamism](course) is
+- The teaching language of [Matematiikan gradustartti](course)
+- What language is used in [Master's Thesis Seminar in Software Development](course)
+- Which language [Kandidaattiseminaari (Nenonen)](course) is used
+- [Interaction Techniques](course) spoken language
+- [Lähtötasokoe - Kirjallinen tentti](course) languages
+- What are [Ylirajallinen liikkuminen Itämerellä: Suomenlahden alueet kautta aikojen -verkkokurssi](course) languages
+- The [Kandidaatintutkielmaseminaari - Seminaari](course) language
+- [Orientation Course - General Orientation Course for International Students](course) teaching languages
+- The language of [Kielen kehitys](course)
+- Teaching language in [Terveys ja yhteiskuntapolitiikka](course)
+- [Valinnainen jakso: Johdatus tiedeviestintään](course) in which language
+- What language do they speak in [Ruotsin kielen kirjallinen ja suullinen viestintä](course)
+- I want to know which language [Vanheneminen sosiaalisena ilmiönä](course) is used
+- I want to know the language of [Ylirajaiset ilmiöt historiassa: näkökulmia tutkimukseen ja tulkintaan](course)
+- I want to know what language do they speak in [Henkilöstöjohtaminen](course)
+- I want to know is [Puheviestintä tieteenä](course) taught in english- Teaching language [Introduction to Political Theory (book exam/essay)](course)
+- Lecture language [Osallistuminen opiskelijavaihtoon](course)
+- What is the teaching language in [Literature and Change after 1900 (British Literature)](course)
+- Teaching language in [Writing for Publications](course)
+- What language is [Valinnainen jakso: Audiovisuaalisen kerronnan teoria ja dramaturgia](course)
+- Is [Fonetiikan teoriaa - Fonetiikan jatkokurssi](course) in english
+- Is [Laskentatoimen teoria ja IFRS II](course) in finnish
+- [Makrotalousteorian jatkokurssi I](course) language
+- [Yhteisöviestintä kunta- ja aluejohtamisessa](course) teaching language
+- Is [Orientoivat opinnot ja HOPS](course) taught in english
+- Is [Opintopiiri](course) taught in english
+- Can I pass [Ainedidaktinen tutkimus ja tutkiva opettajuus](course) in english
+- Which language is [Pedagoginen kehittäminen ja johtajuus / Luennot - 3.vsk + 2.vsk ryhmä 4](course)
+- What is [Nordiska synvinklar](course) language
+- What is the language of [Poliittiset järjestelmät (kirjatentti/essee)](course) is
+- The teaching language of [Professional Writing (online course)](course)
+- What language is used in [Cell Technology Laboratory Course](course)
+- Which language [Sosiaalityö terveydenhuollossa](course) is used
+- [Laskentatoimen teoria ja IFRS II](course) spoken language
+- [Teaching, Pedagogical Facilitating, Learning](course) languages
+- What are [Longitudinal and Finite Nonlinear Mixture Modelling and Associated Experimental Design Strategies (independent work and exams)](course) languages
+- The [Vertaisohjaus tietojenkäsittelytieteissä](course) language
+- [Terveystieteiden laadulliset tutkimusmenetelmät](course) teaching languages
+- The language of [Kandidaattiseminaari ja -tutkielma (julkisoikeus), syksy](course)
+- Teaching language in [Vanhuus ja gerontologinen sosiaalityö](course)
+- [Harjoittelu / Elinikäinen oppiminen ja kasvatus - Arviointiseminaari vuonna 2018 harjoitteleville](course) in which language
+- What language do they speak in [Visual Peace Research](course)
+- I want to know which language [Kansainvälisen politiikan teoria ja metateoria (kirjatentti)](course) is used
+- I want to know the language of [Terveystiedon sisällöt (sähköinen tentti)](course)
+- I want to know what language do they speak in [Valtio-opin maisteriseminaari](course)
+- I want to know is [Internship or work placement](course) taught in english- Teaching language [Global contexts of violence. Gender related violence in the landscape of global vulnerabilities (web course)](course)
+- Lecture language [Kv-tuutorina toimiminen](course)
+- What is the teaching language in [Filosofinen argumentaatio, tulkinta ja kirjoittaminen](course)
+- Teaching language in [Tieteellinen kirjoittaminen / SOC (logopedia)](course)
+- What language is [Developing and implementing European Public Sector Accounting modules](course)
+- Is [Seminaari](course) in english
+- Is [Viron jatkokurssi](course) in finnish
+- [Finnish Elementary Course 1 (taught in 3. period)](course) language
+- [Teemaseminaari Kant Puhtaan järjen kritiikki](course) teaching language
+- Is [Kandidaattiseminaari (JATKAVA, Vahtikari)](course) taught in english
+- Is [Kandidaatintutkielmaseminaari - Seminaari, II-periodissa alkava nopeasti etenevä ryhmä](course) taught in english
+- Can I pass [Inklusiivinen varhaiskasvatus / Harjoitukset - 3.vsk](course) in english
+- Which language is [Tietokäytännöt (keväällä 2018 perusopinnot aloittaneille) - verkkokurssi](course)
+- What is [Kasvatusfilosofia: ihminen, luonto ja kulttuuri - Luennot](course) language
+- What is the language of [Kielitieto ja -taito - Fraseologia  / Sprachwissen und Sprachfertigkeiten: Phraseologie](course) is
+- The teaching language of [Markkinointitutkimuksen sovellukset](course)
+- What language is used in [Kielen kehitys / Harjoitukset - 2.vsk + 1.vsk ryhmät 6 ja 7](course)
+- Which language [Saksan kielen valmentava kurssi - Interkulturelles Training](course) is used
+- [Bioinformatics tools (autumn 2018)](course) spoken language
+- [Orientoivat opinnot ja HOPS (suomen kieli)](course) languages
+- What are [Sosiaalityö terveydenhuollossa](course) languages
+- The [Tekstitaidot](course) language
+- [Luentateatteri](course) teaching languages
+- The language of [Kvalitatiivinen tutkimus kasvatustieteissä - Verkkokurssi, yhteisopetus avoimen yo:n ja tutkinto-opiskelijoille](course)
+- Teaching language in [Liike-elämän ruotsia I / näyttökoe (AHOT)](course)
+- [1800-luvun ja 1900-luvun kirjallisuuden historia/ Istorija russkoj literatury XIX i XX vekov](course) in which language
+- What language do they speak in [Vero-oikeuden perusteet](course)
+- I want to know which language [Hoivan ehdot, talouden rajat: johdatus vaivan politiikkaan](course) is used
+- I want to know the language of [Health in disasters, conflicts and complex human emergencies](course)
+- I want to know what language do they speak in [Kasvatus tieteellisen tutkimuksen kohteena, verkko-opetus, III-periodi](course)
+- I want to know is [Tilintarkastusoikeus - kirjatentti](course) taught in english- Teaching language [Tutkielmakurssi (III)](course)
+- Lecture language [Asiantuntijan puheviestintä ja vuorovaikutus, 1.-2. periodi / VIESTINTÄROHKEUDEN RYHMÄ](course)
+- What is the teaching language in [Vanheneminen ikääntyvässä yhteiskunnassa](course)
+- Teaching language in [Julkisoikeuden perusteet (järjestäjä TAMK)](course)
+- What language is [Organisation Theory and Analysis](course)
+- Is [Musiikin tiedolliset valmiudet ja niiden soveltaminen - Musiikkitieto](course) in english
+- Is [Human-Centered Product Development (TUT/IHTE)](course) in finnish
+- [Kielioppi I](course) language
+- [Orientoivat opinnot - Tiedonhankintataidot I](course) teaching language
+- Is [Historian tutkimusprosessi ja historiantutkijan etiikka](course) taught in english
+- Is [Nuorisotyön harjoittelu](course) taught in english
+- Can I pass [Saksa III](course) in english
+- Which language is [Tila, teknologia ja toiminta](course)
+- What is [International Society (book exam/essay)](course) language
+- What is the language of [Tiimi toimii - puheviestinnän syventävä kurssi (3. - 4. periodi)](course) is
+- The teaching language of [Dimensionality Reduction and Visualization](course)
+- What language is used in [Capstone - Talousjohdon tehtävät ja osaamisalueet](course)
+- Which language [Tekstianalyysi - Harjoitukset](course) is used
+- [Työ- ja organisaatiopsykologian interventiot](course) spoken language
+- [Basics of Management and Organizations](course) languages
+- What are [Research Ethics](course) languages
+- The [Venäjä III](course) language
+- [Kehitys, kasvatus ja elämänkulku - Luennot EDUn opiskelijoille (2 op) TAI muille opiskelijoille luennot (2 op) ja kirjallisuus (3 op)](course) teaching languages
+- The language of [Proseminaari (ryhmä 2)](course)
+- Teaching language in [Tulkin työkalupakki](course)
+- [Ohjaus yliopistossa](course) in which language
+- What language do they speak in [Orientoivat opinnot - Alkuorientaatio](course)
+- I want to know which language [Introduction to Bayesian Analysis 1](course) is used
+- I want to know the language of [European Integration and the Political System of the European Union (book exam/essay)](course)
+- I want to know what language do they speak in [Tutkiva opiskelu (keväällä 2019 perusopinnot aloittaville) - verkkokurssi](course)
+- I want to know is [Kandidaatintutkielmaseminaari - Seminaari](course) taught in english- Teaching language [Writing for Publications](course)
+- Lecture language [Johdatus yhteiskuntafilosofiaan](course)
+- What is the teaching language in [Media and the Arctic (POMLFCS3)](course)
+- Teaching language in [Orientaatio tutkielman tekemiseen -](course)
+- What language is [Research seminar for postgraduate studies](course)
+- Is [Asiakastyön teorioita ja menetelmiä - STYA3A2 Asiakastyön menetelmät, luennot](course) in english
+- Is [Continental Model: The Austrian System of Work and Social Security](course) in finnish
+- [Systemaattinen tiedonhaku hoitotieteessä](course) language
+- [Struggles on Education](course) teaching language
+- Is [Tieteellisen tiedonhankinnan perusteet (englannin kieli, kirjallisuus ja kääntäminen)](course) taught in english
+- Is [Johdatus viestintään ja mediaan](course) taught in english
+- Can I pass [Kirjasto- ja tietopalvelujen suunnittelu ja arviointi](course) in english
+- Which language is [Tietoresurssien tuotanto ja kokoelmatyö](course)
+- What is [Peace and Conflict Research (book exam/essay)](course) language
+- What is the language of [Transcultural perspectives in developing media education](course) is
+- The teaching language of [Russia beyond Russia. Case Study Finland](course)
+- What language is used in [Civil Society and Political Participation (book exam/essay)](course)
+- Which language [Finnish Advanced Course 2 (taught in Finnish)](course) is used
+- [Taitoseminaari](course) spoken language
+- [Tieteellinen kirjoittaminen (SOC)](course) languages
+- What are [Tilastollisen päättelyn perusteet, iltaryhmä](course) languages
+- The [Tutkimustyötä tukevat tohtoriopinnot - Doctoral Studies in Information Studies and Interactive Media](course) language
+- [Visuaalisen journalismin perusteet, luennot](course) teaching languages
+- The language of [Kasvatus tieteellisen tutkimuksen kohteena, avoin yo, lähi- ja monimuotototeutus](course)
+- Teaching language in [Harjoittelu / Varhaiskasvatus](course)
+- [Monikieliset tekstikorpukset (verkkokurssi)](course) in which language
+- What language do they speak in [New Wars and How to Study Them (POMLFCS3)](course)
+- I want to know which language [Vakuutustoiminnan periaatteet ja johtaminen](course) is used
+- I want to know the language of [Political Systems (book exam/essay)](course)
+- I want to know what language do they speak in [Presentation Skills](course)
+- I want to know is [Foundations of English Business Communication (RPL) / näyttökoe](course) taught in english- Teaching language [Terveystiedon asiantuntijuus (sähköinen tentti)](course)
+- Lecture language [Professional Writing (online course)](course)
+- What is the teaching language in [Talous - politiikka - kulttuuri -lukupiiri](course)
+- Teaching language in [Semantiikka ja pragmatiikka / Semantik und Pragmatik](course)
+- What language is [Hands-on genetics](course)
+- Is [Introduction to Social Circus Pedagogy - (Tampere Summer School 2018)](course) in english
+- Is [Opetus, ohjaus, oppiminen, monimuoto-opetus](course) in finnish
+- [Re-Thinking Value Creation](course) language
+- [Tekstianalyysi - Harjoitukset](course) teaching language
+- Is [Terveyden edistämisen interventiot, Seinäjoki](course) taught in english
+- Is [Kirjallinen viestintä II/Skriftlig kommunikation II](course) taught in english
+- Can I pass [Theatre, Society, and Politics 1660-1760](course) in english
+- Which language is [Scottish Literature](course)
+- What is [Philosophy of Science (online course)](course) language
+- What is the language of [Perheen vuorovaikutus](course) is
+- The teaching language of [Sosiaalipolitiikan teoreettinen ajattelu -lukuseminaari](course)
+- What language is used in [Eheyttävä musiikkikasvatus - Sointurakenteet ja säestystyylit koskettimilla](course)
+- Which language [Applied and Effective Project Management, Leadership and Communication - (Tampere Summer School)](course) is used
+- [Basic Studies in Education -courses,  introductory meetings, reading circles and book exams](course) spoken language
+- [Verkkopalvelujen informaatioarkkitehtuuri](course) languages
+- What are [Urban Inequalities](course) languages
+- The [KV-tuutorina toimiminen](course) language
+- [Accounting Information Systems](course) teaching languages
+- The language of [Health systems and health in developing Asia: India, China, and North Korea](course)
+- Teaching language in [Terveys ja yhteiskuntapolitiikka](course)
+- [Tilastotieteen johdantokurssi, kevät](course) in which language
+- What language do they speak in [Kandidaattiseminaari ja kandidaatin tutkielma - Kandiseminaari](course)
+- I want to know which language [Tulevaisuuden hyvinvointipalvelut: ratkaisuna robotiikka?](course) is used
+- I want to know the language of [Advanced bioinformatics tools](course)
+- I want to know what language do they speak in [Jatko-opintoja](course)
+- I want to know is [Tiedonhankintataidot - Tiedonhankintataidot IV - Viitteiden hallinta (kansanterveystieteen opiskelijoille)](course) taught in english- Teaching language [Basics I: Basics of Czech language I](course)
+- Lecture language [Requirements Engineering](course)
+- What is the teaching language in [Orientation and Study Planning](course)
+- Teaching language in [Orientoivat opinnot ja HOPS](course)
+- What language is [Ruotsin kielen valmentava kurssi](course)
+- Is [Valinnainen jakso: Radioprojekti (syksy)](course) in english
+- Is [Psykiatria](course) in finnish
+- [Graduseminaari, alkava (Markkola)](course) language
+- [Research seminar for postgraduate studies](course) teaching language
+- Is [Suomen kulttuuri ja yhteiskunta -lukupiiri](course) taught in english
+- Is [Tietojenkäsittelytieteiden opintojakso TTY:ltä](course) taught in english
+- Can I pass [Julkiset hankinnat](course) in english
+- Which language is [Viestintää tukevat keinot asiakas-työntekijä-suhteessa](course)
+- What is [Research in Practice](course) language
+- What is the language of [Lain ja hallinnon käännösviestinnän seminaari ranska-suomi](course) is
+- The teaching language of [Legal English](course)
+- What language is used in [Tyylioppi](course)
+- Which language [Methods in Text and Discourse Analysis](course) is used
+- [Foreign Policy and Diplomacy (book exam/essay)](course) spoken language
+- [Espanja I](course) languages
+- What are [Asevelvollisuus Suomessa ja kansainvälisesti](course) languages
+- The [Talouselämän ja tekniikan käännösviestinnän seminaari saksa-suomi](course) language
+- [Moniammatillinen -klinikkaopetus](course) teaching languages
+- The language of [Kandidaattitutkielma ja seminaari (matematiikka) - LaTeX-opinnot](course)
+- Teaching language in [Tulkkauksen teoria](course)
+- [Orientation - General Orientation Course for International Students](course) in which language
+- What language do they speak in [Kielen- ja tekstinhuolto](course)
+- I want to know which language [Advanced bioinformatics tools](course) is used
+- I want to know the language of [Methodology of Social and Comparative Research](course)
+- I want to know what language do they speak in [Julkiset rahoitusjärjestelmät](course)
+- I want to know is [Practical Programming in Python](course) taught in english- Teaching language [Tutkiva ja kehittävä opettaja](course)
+- Lecture language [Tiimi toimii - puheviestinnän syventävä kurssi (4. periodi)](course)
+- What is the teaching language in [Finnish Elementary Course 1 (taught in 3. period)](course)
+- Teaching language in [Kandidaatintutkielmaseminaari - Seminaari](course)
+- What language is [Statistical Inference 1](course)
+- Is [Työhyvinvoinnin johtaminen (itsenäinen suoritustapa, kesäopinnot)](course) in english
+- Is [The Transformation of Global Environmental Politics (Tampere Summer School 2018)](course) in finnish
+- [Ranska II](course) language
+- [Inklusiivinen varhaiskasvatus / Harjoitukset - 3.vsk](course) teaching language
+- Is [Kielen kehitys / Luennot- 2.vsk + 1.vsk ryhmät 6 ja 7](course) taught in english
+- Is [Klinikkaharjoittelu](course) taught in english
+- Can I pass [Introduction to Academic English (JKK, EDU, LUO, COMS & SOC)](course) in english
+- Which language is [Moniammatilliset oppimisyhteisöt - Luennot](course)
+- What is [Kaikille avoin tutkijaseminaari](course) language
+- What is the language of [Asiantuntijan puheviestintä ja vuorovaikutusosaaminen](course) is
+- The teaching language of [Nuorisotyön toimintaympäristöt, työmuodot ja menetelmät](course)
+- What language is used in [Ekonometria](course)
+- Which language [Research Seminar, Doctoral Programme in Language Studies](course) is used
+- [Euroopan ulkopuoliset poliittiset järjestelmät (kirjatentti/essee)](course) spoken language
+- [Osallistuminen opiskelijavaihtoon](course) languages
+- What are [Kiina IV](course) languages
+- The [Biostatistiikka ja tilastollinen tietojenkäsittely](course) language
+- [Johdatus yrittäjyyteen](course) teaching languages
+- The language of [Analyysi A](course)
+- Teaching language in [Vuorovaikutus ja tekstit S2-näkökulmasta](course)
+- [Työelämäviestinnän tutkimus- tai kehityshanke](course) in which language
+- What language do they speak in [Terveys, arki ja toimijuus, luennot](course)
+- I want to know which language [The Liberal Welfare State](course) is used
+- I want to know the language of [Lapsen puheen ja kielen tutkimus ja kuntoutus](course)
+- I want to know what language do they speak in [Tieteellinen kirjoittaminen (2. vuosikurssin opiskelijoille)](course)
+- I want to know is [Dokumentaation visualisointi](course) taught in english- Teaching language [Visual Peace Research](course)
+- Lecture language [Käännösviestintä suomi-venäjä](course)
+- What is the teaching language in [European, Eurasian and Global Energy Policy (book exam/essay)](course)
+- Teaching language in [Romanian kielen jatkokurssi I / Advanced Course 1 in Romanian](course)
+- What language is [Finnish Elementary Course 2 (taught in 4. period)](course)
+- Is [Yritysetiikka (verkkokurssi)](course) in english
+- Is [Yritysverotuksen syventävä opintojakso](course) in finnish
+- [KV-tuutorina toimiminen](course) language
+- [Ruotsin kielen kirjallinen ja suullinen viestintä](course) teaching language
+- Is [Current Approaches in Games and Internet Research](course) taught in english
+- Is [Tiedonhankintataidot - Tiedonhankintataidot IV - Viitteiden hallinta (kansanterveystieteen opiskelijoille)](course) taught in english
+- Can I pass [Dialogue: Constructive Talk at Work](course) in english
+- Which language is [Introduction to Academic English (online / JKK, EDU, LUO, COMS & SOC)](course)
+- What is [Sosiaalityön harjoittelu](course) language
+- What is the language of [Suomen kulttuuri ja yhteiskunta -lukupiiri](course) is
+- The teaching language of [Tiimi toimii - puheviestinnän syventävä kurssi (4. periodi)](course)
+- What language is used in [Ekoterveys, luonto ja ihminen](course)
+- Which language [Yhdyskuntakehittämisen ajankohtaisia kysymyksiä](course) is used
+- [Bioinformatics tools (autumn 2018)](course) spoken language
+- [Saamelaisen kirjallisuuden intensiivikurssi](course) languages
+- What are [Varhaiskasvatuksen ja esiopetuksen pedagogiikka - Työssäoppiminen 1.vsk:n monimuotoryhmien opiskelijoille](course) languages
+- The [Pro gradu - seminaari 2018 (jatkava)  (vaihe I)](course) language
+- [Medioitu vuorovaikutus](course) teaching languages
+- The language of [Kääntämisen ja tulkkauksen teoria ja käytäntö - Käännösteoria](course)
+- Teaching language in [Lapsuuden, nuoruuden ja perheen tutkimuskeskus PERLAn tutkimusseminaari](course)
+- [Government and Society: Inequality](course) in which language
+- What language do they speak in [Accounting Information Systems](course)
+- I want to know which language [Varhaismoderni yhteiskunta](course) is used
+- I want to know the language of [Harjoittelu / Elinikäinen oppiminen ja kasvatus, Essee työkokemuksen pohjalta, klk19](course)
+- I want to know what language do they speak in [American Government & Politics (Tampere Summer School 2018)](course)
+- I want to know is [Algorithmic Problem Solving](course) taught in english- Teaching language [Liikekirjanpito ja tilinpäätös (avoin yliopisto-opetus)](course)
+- Lecture language [Software Project Management, Software Project Management (Spring term)](course)
+- What is the teaching language in [Biologia ja ympäristötieto - Biologian ja maantieteen perusteet- 1.vsk ja erillisen opinto-oikeuden POM-opintoihin saaneet opiskelijat (luennot)](course)
+- Teaching language in [Terveys ja yhteiskuntapolitiikka](course)
+- What language is [Hoitotiede tieteenä, Seinäjoki](course)
+- Is [Kasvatuksen ja koulutuksen järjestelmät](course) in english
+- Is [Työelämän myytit ja todellisuus](course) in finnish
+- [Kulttuurien kohtaaminen](course) language
+- [Mediatutkimuksen valinn. jakso: Työseminaari: Euroopan hullu vuosi 1968 ja sen perintö](course) teaching language
+- Is [Espanjan kielen variaatio ajallisesti ja maantieteellisesti/Variación diacrónica y sincrónica del español](course) taught in english
+- Is [Kuva, sana ja ääni -multimodaalisuuskurssi](course) taught in english
+- Can I pass [Lähtötasokoe](course) in english
+- Which language is [Syntyvyys, hoiva, sukupolvi](course)
+- What is [Tilastollisten tutkimusmenetelmien soveltaminen hoitotieteessä](course) language
+- What is the language of [Kasvatustieteen metodologiset lähtökohdat - Luennot ja kirjatentti TAI kirjatentti](course) is
+- The teaching language of [Advanced bioinformatics tools](course)
+- What language is used in [Managing Research Information](course)
+- Which language [Nuorisotyön ja nuorisotutkimuksen maisteriohjelman lähijakso 9.11.2018](course) is used
+- [Scientific Writing - Module B - Thesis Writing (online)](course) spoken language
+- [Orientoivat opinnot - Orientoivat opinnot](course) languages
+- What are [Ympäristö ja hyvinvointi](course) languages
+- The [Cultural Conversations](course) language
+- [Eheyttävä musiikkikasvatus / Luennot - 2.vsk](course) teaching languages
+- The language of [Varhaiskasvatuksen ja esiopetuksen pedagogiikka - Työssäoppiminen 2.vsk (ryhmä 4)](course)
+- Teaching language in [Protein technology Laboratory Course A](course)
+- [Vertaisohjaus tietojenkäsittelytieteissä](course) in which language
+- What language do they speak in [Arjen latinaa ja kulttuurihistoriaa](course)
+- I want to know which language [Taloustiede, talouspolitiikka ja ajankohtaiset taloudelliset ja yhteiskunnalliset ongelmat](course) is used
+- I want to know the language of [Käännösviestintä I - Käännösviestintä I englanti-suomi](course)
+- I want to know what language do they speak in [Finnish Advanced Course 1 (taught in Finnish)](course)
+- I want to know is [Tiimi toimii - puheviestinnän syventävä kurssi (4. periodi)](course) taught in english- Teaching language [Käsitteellinen mallintaminen I](course)
+- Lecture language [Usability Evaluation Methods](course)
+- What is the teaching language in [Tieteellisen tiedonhankinnan perusteet (englannin kieli, kirjallisuus ja kääntäminen)](course)
+- Teaching language in [Introduction to Trans Studies](course)
+- What language is [Tilastollisen päättelyn perusteet, iltaryhmä](course)
+- Is [[CANCELLED] Editing Project](course) in english
+- Is [Seminaari (Ridell)](course) in finnish
+- [Visuaalisen kulttuurin teoria - luennot ja pienryhmätyöskentely](course) language
+- [Kandidaatintutkielmaseminaari - Seminaari, tammikuussa 2018 alkanut ryhmä, yhteisopetusta avoimen yo:n kanssa](course) teaching language
+- Is [International Political Economy (book exam/essay)](course) taught in english
+- Is [Tilastomenetelmien perusteet](course) taught in english
+- Can I pass [Learning from Multiple Sources](course) in english
+- Which language is [Sosiaalipsykologinen ajattelu II](course)
+- What is [Klassinen länsimainen kertomakirjallisuus](course) language
+- What is the language of [Romanian kielen alkeet / Basic Course in Romanian](course) is
+- The teaching language of [Kauppatieteellisen tutkimuksen menetelmät (markkinointi ja yrityksen johtaminen)](course)
+- What language is used in [Äidinkieli ja kirjallisuus - Lukeminen ja kirjoittaminen - 1. vsk (luennot)](course)
+- Which language [EI OPETETA 2018-2019 In vitro models](course) is used
+- [Lain ja hallinnon käännösviestinnän seminaari ranska-suomi](course) spoken language
+- [Kielitaito ja kielitaidon arviointi](course) languages
+- What are [Tutkimustyötä tukevat tohtoriopinnot (tietojenkäsittelyoppi)](course) languages
+- The [Qualitative Research Methods and Comparative Research Design](course) language
+- [Popular Music and Politics](course) teaching languages
+- The language of [Business, Society and Nature (Lectures)](course)
+- Teaching language in [Lapset kehittyvinä ja sosiaalisina toimijoina varhaiskasvatuksessa / Harjoitukset - 1.vsk](course)
+- [KV-tuutorina toimiminen](course) in which language
+- What language do they speak in [Orientation - Orientation to studying in the Software Development programme](course)
+- I want to know which language [Simultaanitulkkaus I venäjä-suomi-venäjä](course) is used
+- I want to know the language of [Mediated Learning Experinces in Multicultural Settings](course)
+- I want to know what language do they speak in [Persoonallisuuspsykologia I](course)
+- I want to know is [Työ ja äitiys tänään](course) taught in english- Teaching language [Terveys ja yhteiskuntapolitiikka](course)
+- Lecture language [Kasvatuksen historialliset ja filosofiset lähtökohdat, monimuoto-opetus](course)
+- What is the teaching language in [Klinikkaharjoittelu](course)
+- Teaching language in [Master´s Thesis and Seminar - for the group that started in 2017](course)
+- What language is [Biologia ja ympäristötieto - Biologian ja maantieteen perusteet- 1.vsk ja erillisen opinto-oikeuden POM-opintoihin saaneet opiskelijat (luennot)](course)
+- Is [Työelämän tekstitaidot](course) in english
+- Is [Student Exchange - courses completed in foreign universities 2-8 ECTS](course) in finnish
+- [Seminaari](course) language
+- [Ranska II](course) teaching language
+- Is [Cultural Conversations](course) taught in english
+- Is [Tiimi toimii - puheviestinnän syventävä kurssi (3. - 4. periodi)](course) taught in english
+- Can I pass [Tietohallinnon johtaminen](course) in english
+- Which language is [Espanja III](course)
+- What is [International Business Law](course) language
+- What is the language of [Graduseminaari / Kekäläinen (jatkuu keväältä 2018)](course) is
+- The teaching language of [Kasvatus, koulutus ja yhteiskunta, monimuoto-opetus](course)
+- What language is used in [Poliittinen filosofia (kirjatentti/essee)](course)
+- Which language [Preparatory Course in Reading and Writing for Academic Purposes (online)](course) is used
+- [Käännösviestintä I - Käännösviestintä I suomi-englanti](course) spoken language
+- [Scientific Writing - Module A - Writing Clinic](course) languages
+- What are [Orientaatio psykologiaan](course) languages
+- The [Jatkokoulutusseminaari](course) language
+- [Kauppatieteellisen tutkimuksen menetelmät (vakuutus ja riskienhallinta + laskentatoimi)](course) teaching languages
+- The language of [Seminaari (Kunelius) jatkuu keväältä](course)
+- Teaching language in [Speakers Series](course)
+- [Kansanterveystieteen johdantojakso](course) in which language
+- What language do they speak in [Nuorisotyö ja nuorisotutkimus (verkkokurssi)](course)
+- I want to know which language [Tila, teknologia ja toiminta - essee](course) is used
+- I want to know the language of [Tutkimuspraktikum](course)
+- I want to know what language do they speak in [Perspectives in Educational Research](course)
+- I want to know is [Sosiaalityön tutkimuksen metodologisia suunnistuksia](course) taught in english- Teaching language [Puheviestinnän tutkimuskurssi](course)
+- Lecture language [International Trade and Finance (Tampere Summer School) - luennot ja tentti](course)
+- What is the teaching language in [Modern Risk Management](course)
+- Teaching language in [Opetusharjoittelu](course)
+- What language is [Suurvalta kriiseissä: näkökulmia Venäjän historiaan 1700-luvulta 1900-luvulle](course)
+- Is [Asiantuntijan puheviestintä ja vuorovaikutus opetus- ja kasvatustyössä (1. periodi)](course) in english
+- Is [Kirjallinen viestintä I - Sanasto- ja rakenneharjoitukset](course) in finnish
+- [Dialogitulkkaus](course) language
+- [Luentateatteri](course) teaching language
+- Is [Olevan muoto - johdatus formaaliontologiaan](course) taught in english
+- Is [Tietokantaohjelmointi](course) taught in english
+- Can I pass [Gradu-kvantimetodit](course) in english
+- Which language is [Taloustiede, talouspolitiikka ja ajankohtaiset taloudelliset ja yhteiskunnalliset ongelmat](course)
+- What is [Talous ja yhteiskunta](course) language
+- What is the language of [Evaluation Research](course) is
+- The teaching language of [Käännösviestintä suomi - saksa / Translation Finnisch-Deutsch](course)
+- What language is used in [Mikrotalousteoria II](course)
+- Which language [Johdatus yritysjuridiikkaan](course) is used
+- [Geometria](course) spoken language
+- [Tieteellinen kirjoittaminen (SOC)](course) languages
+- What are [Introduction to R](course) languages
+- The [Hoitotyön johtamisen harjoittelu](course) language
+- [Continental Model: The Austrian System of Work and Social Security](course) teaching languages
+- The language of [Johdatus kirjallisuuden poetiikkaan](course)
+- Teaching language in [Kansainvälistymistä ja verkostoitumista tukevat opinnot](course)
+- [Erikoiskurssi](course) in which language
+- What language do they speak in [Finnish Elementary Course 4](course)
+- I want to know which language [Nordic Model: Nordic Welfare Societies](course) is used
+- I want to know the language of [Player and User Studies](course)
+- I want to know what language do they speak in [Distributed Systems](course)
+- I want to know is [Journalistinen kieli - Kielenhuolto, lauseoppi](course) taught in english- Teaching language [Sosiaalipsykologinen ajattelu II](course)
+- Lecture language [Laskentatoimen perusteet (avoin yliopisto-opetus), monimuoto-opetus](course)
+- What is the teaching language in [Moniammatilliset oppimisyhteisöt - Luennot](course)
+- Teaching language in [Latinankielinen kirjallisuus I: klassinen latina](course)
+- What language is [Kandidaatintutkielmaseminaari - Seminaari](course)
+- Is [Projektiharjoittelu](course) in english
+- Is [Muuttuvat oppimisympäristöt - Luennot ja opintopiiri](course) in finnish
+- [Korkeakoulut työyhteisöinä - Kehittämistehtävä](course) language
+- [Kansanterveystieteen käsitteitä ja teoreettisia kysymyksiä](course) teaching language
+- Is [Tutkimushaastattelu: taito, tyylit ja kohderyhmät](course) taught in english
+- Is [Kasvatus tieteellisen tutkimuksen kohteena - verkko-opetus, II-periodi](course) taught in english
+- Can I pass [C. Wright Millsin sosiologia - Luentoseminaari](course) in english
+- Which language is [Syntaksi](course)
+- What is [Julkisoikeuden syventävä tutkimusjakso](course) language
+- What is the language of [Tutkimusetiikka](course) is
+- The teaching language of [Business Ethics (Independent study)](course)
+- What language is used in [Julkisoikeuden tutkimuspraktikum](course)
+- Which language [Nimistöntutkimus](course) is used
+- [Lukeminen ja kirjoittaminen oppimisen haasteena - (luennot)](course) spoken language
+- [Tutkimusprosessin hallinta - Läsnäoloon perustuva oppimispäiväkirja](course) languages
+- What are [Opetussuunnitelmateoria, kirjatentti, Seinäjoki](course) languages
+- The [Tutkiva opiskelu (keväällä 2019 perusopinnot aloittaville) - verkkokurssi](course) language
+- [Kandidaattiseminaari (JATKAVA, Vahtikari)](course) teaching languages
+- The language of [Työelämävalmiudet ja asiantuntijuus - valmennusseminaari ja palautekeskustelu](course)
+- Teaching language in [Cancer Biology](course)
+- [Science and Biotechnology Journal Club](course) in which language
+- What language do they speak in [Käännösviestintä I - Käännösviestintä I suomi-englanti](course)
+- I want to know which language [Puhesuomi ja esiintyminen](course) is used
+- I want to know the language of [Introduction to Bayesian Analysis 2](course)
+- I want to know what language do they speak in [Sosiaalisen median yhteisöt: menetelmällisiä ratkaisuja määrällisestä laadulliseen](course)
+- I want to know is [Väestön vanheneminen, terveys ja hyvinvointi](course) taught in english- Teaching language [Saksa I](course)
+- Lecture language [Sosiaalityön vuorovaikutuksen tutkimus - Sosnet-verkkokurssi](course)
+- What is the teaching language in [Tilastollisen tutkimuksen perusteet](course)
+- Teaching language in [Kasvatus, koulutus ja yhteiskunta, monimuoto-opetus](course)
+- What language is [Julkisen talousjohtamisen näkökulmia](course)
+- Is [Tieteellinen seminaarisarja](course) in english
+- Is [Kansalaisyhteiskunta ja poliittinen osallistuminen (kirjatentti/essee)](course) in finnish
+- [Ruututekstikääntämisen peruskurssi](course) language
+- [Käsityö - Projektiosio - 2.vsk ja opinnot 1½ lukuvuodessa suorittavat 1.vsk ja POM-opintoihin opinto-oikeuden saaneet opiskelijat](course) teaching language
+- Is [Sosiaalityö terveydenhuollossa](course) taught in english
+- Is [Kandidaattiseminaari ja -tutkielma (hallintotiede), syksy](course) taught in english
+- Can I pass [Arvonlisäverotus](course) in english
+- Which language is [Johdatus viestintään ja mediaan](course)
+- What is [SPSS:n perusteet, kevät](course) language
+- What is the language of [Koulutussuunnittelu ja kehittäminen - Seminaari](course) is
+- The teaching language of [Grammaire/Kielioppi](course)
+- What language is used in [Eriytyvä syventävä tutkimusmenetelmäkurssi A: Etnografia](course)
+- Which language [International Dynamics and Policy Transfer in Education](course) is used
+- [Kielen kehitys](course) spoken language
+- [Saksa IV](course) languages
+- What are [Aktuelle Texte aus Presse und Studium](course) languages
+- The [Media maailmassa - verkkokurssi](course) language
+- [Johtamisviestintä](course) teaching languages
+- The language of [Ohjaus yliopistossa](course)
+- Teaching language in [Kansainvälisen politiikan johdantokurssi (kirjatentti)](course)
+- [Introduction to Cultural Psychology](course) in which language
+- What language do they speak in [Gradu-kvantimetodit](course)
+- I want to know which language [Työn uusi järjestys ja aikuiskasvatus - Seminaari](course) is used
+- I want to know the language of [Tutkiva opiskelu](course)
+- I want to know what language do they speak in [Algorithmic Problem Solving](course)
+- I want to know is [Kvalitatiivinen tutkimus kasvatustieteissä - Harjoitukset, yleinen ryhmä](course) taught in english- Teaching language [Ruotsin kielen kirjallinen ja suullinen viestintä](course)
+- Lecture language [Vanheneminen sosiaalisena ilmiönä](course)
+- What is the teaching language in [Monikielinen käännöstyöpaja](course)
+- Teaching language in [Kansainvälinen yhteisö (kirjatentti/essee)](course)
+- What language is [Advanced Course in Corporate Finance](course)
+- Is [Sota-ajan säännösteltyä kulttuuria](course) in english
+- Is [Inklusiivinen varhaiskasvatus / Harjoitukset - 3.vsk](course) in finnish
+- [Erot, jaot ja niiden rakentuminen, kirjatentti, Seinäjoki](course) language
+- [Tuloksellisuuden arvioinnin teoria](course) teaching language
+- Is [Käyttäjäkeskeinen kääntäminen](course) taught in english
+- Is [Psykologian tutkimusmenetelmät II: kokeellinen ja korrelatiivinen tutkimus](course) taught in english
+- Can I pass [Stem Cells](course) in english
+- Which language is [Kielitieto ja -taito - Fraseologia  / Sprachwissen und Sprachfertigkeiten: Phraseologie](course)
+- What is [Kansainvälisen politiikan menetelmäseminaari (kirjatentti)](course) language
+- What is the language of [Tietokantojen perusteet - Näyttökoe, syksy 2018](course) is
+- The teaching language of [Kääntämisen ja tulkkauksen teoria ja käytäntö - Käännösteoria](course)
+- What language is used in [Julkissektorin instituutioiden talous (monimuoto-opetus)](course)
+- Which language [Markkinoinnin ja myynnin perusteet](course) is used
+- [Ethnographic Research](course) spoken language
+- [Research Seminar, Doctoral Programme in Language Studies](course) languages
+- What are [Hoitot. tiedon hyödyntäminen johtamisessa ja opettamisessa: syventävä projektityö (kurssi jatkuu keväältä 2018)](course) languages
+- The [Opetussuunnitelmateoria, kirjatentti](course) language
+- [Scientific Writing - Module A - Writing Clinic](course) teaching languages
+- The language of [Preparatory Course in Communicative Skills](course)
+- Teaching language in [Advanced Microscopy](course)
+- [Cultural Diversity in Education and at Work -  (autumn)](course) in which language
+- What language do they speak in [Sosiaalityön arvot, etiikka ja vapaaehtoistyö](course)
+- I want to know which language [Project Planning and Management](course) is used
+- I want to know the language of [Käännösviestintä I - Käännösviestintä I suomi-englanti](course)
+- I want to know what language do they speak in [[CANCELLED] Editing Project](course)
+- I want to know is [A Biomedical View of Patenting](course) taught in english- Teaching language [Orientoivat ja asiantuntijuuden kehittymistä tukevat opinnot - HOPS-työskentely](course)
+- Lecture language [Kansanterveystieteen johdantojakso](course)
+- What is the teaching language in [Asioimistulkkaus (monikielinen)](course)
+- Teaching language in [Äänen häiriöt](course)
+- What language is [Master's Thesis Seminar in Human-Technology Interaction (Starting Fall term)](course)
+- Is [Makrotalousteorian jatkokurssi I](course) in english
+- Is [Kansalaisvaikuttaminen (kirjatentti/essee)](course) in finnish
+- [Tekstianalyysi - Harjoitukset](course) language
+- [Johdatus kääntäjän suomen opintoihin](course) teaching language
+- Is [Valtio-opin teoriat (kirjatentti/essee)](course) taught in english
+- Is [Kieli ja kielentäminen -2. vsk (luennot)](course) taught in english
+- Can I pass [Dokumentaation visualisointi](course) in english
+- Which language is [Muuttuvat oppimisympäristöt - Luennot ja opintopiiri](course)
+- What is [Johdatus sosiaaliantropologiaan, luennot (verkkokurssi)](course) language
+- What is the language of [Rauhan- ja konfliktintutkimus (kirjatentti/essee)](course) is
+- The teaching language of [Sidosryhmäteoria ja -johtaminen](course)
+- What language is used in [Romanian kielen alkeet / Basic Course in Romanian](course)
+- Which language [Julkisen hallinnon reformit ja muutos](course) is used
+- [Todennäköisyyslaskenta](course) spoken language
+- [Sustainable business practices (Lectures)](course) languages
+- What are [Keskustelunanalyysi (verkkokurssi), kevät 2019](course) languages
+- The [Introduction to Academic English (JKK, EDU, LUO, COMS & SOC)](course) language
+- [Budgeting and capital budgeting (online course)](course) teaching languages
+- The language of [Pratiques de l'oral et de l'écrit / Ranskan kielen tuottaminen](course)
+- Teaching language in [Tutustuminen psykologin työhön](course)
+- [Advanced Course in Microeconomics I](course) in which language
+- What language do they speak in [Structure of English I - Grammar I](course)
+- I want to know which language [Äkilliset traumaattiset kriisit ja niiden käsittely](course) is used
+- I want to know the language of [Empiirinen projekti](course)
+- I want to know what language do they speak in [Hoivan ehdot, talouden rajat: johdatus vaivan politiikkaan](course)
+- I want to know is [Pedagoginen johtaminen - Luennot ja ryhmätyöskentely](course) taught in english
+- Teaching language [POLKVA42](course)
+- Lecture language [YKYYHT3](course)
+- What is the teaching language in [KASA13](course)
+- Teaching language in [KATVAA11](course)
+- What language is [BIO4470](course)
+- Is [KATVRP12](course) in english
+- Is [COSOPON3](course) in finnish
+- [POHP6](course) language
+- [KKRUYHT](course) teaching language
+- Is [KASLOE6.2](course) taught in english
+- Is [POLPOP04](course) taught in english
+- Can I pass [HALJUA44](course) in english
+- Which language is [BTK4090](course)
+- What is [MTTMA1B](course) language
+- What is the language of [SOS10.2](course) is
+- The teaching language of [RANP2](course)
+- What language is used in [PSYS10](course)
+- Which language [HALJTA05](course) is used
+- [STYS2A](course) spoken language
+- [TIETS17](course) languages
+- What are [SOS4.5](course) languages
+- The [SOSM5.1](course) language
+- [TEE1](course) teaching languages
+- The language of [MTTTS14](course)
+- Teaching language in [BTK1099](course)
+- [KATYVA13](course) in which language
+- What language do they speak in [KATTAS40](course)
+- I want to know which language [SUKKP6](course) is used
+- I want to know the language of [FILA9](course)
+- I want to know what language do they speak in [ITIA11](course)
+- I want to know is [SOS9](course) taught in english
+- Teaching language [LUOYY020](course)
+- Lecture language [YKYYHT4A](course)
+- What is the teaching language in [KATLAA99](course)
+- Teaching language in [MTTTP1](course)
+- What language is [KATYVA51](course)
+- Is [JOVY3](course) in english
+- Is [LOGS6](course) in finnish
+- [POHS3](course) language
+- [BTK4320](course) teaching language
+- Is [KASVARPH](course) taught in english
+- Is [HALJUA99](course) taught in english
+- Can I pass [ENGA20](course) in english
+- Which language is [KATVAA14](course)
+- What is [KKENYHT](course) language
+- What is the language of [KASSO8](course) is
+- The teaching language of [DPCMTJT4](course)
+- What language is used in [POLKVA23](course)
+- Which language [POHA3](course) is used
+- [KKSUSC](course) spoken language
+- [FONEP2](course) languages
+- What are [KATYVS24](course) languages
+- The [TIEY4](course) language
+- [IGS006](course) teaching languages
+- The language of [KKSA4](course)
+- Teaching language in [BTK5003](course)
+- [DPJKKPS](course) in which language
+- What language do they speak in [KASORIENT](course)
+- I want to know which language [JOVA1](course) is used
+- I want to know the language of [MVKS26](course)
+- I want to know what language do they speak in [KASA12](course)
+- I want to know is [MVKS23](course) taught in english
+- Teaching language [KATVRP12](course)
+- Lecture language [KASMULTI1](course)
+- What is the teaching language in [TERY4](course)
+- Teaching language in [KASA9](course)
+- What language is [KASMULTI3](course)
+- Is [KATYVS21](course) in english
+- Is [HALJUA64](course) in finnish
+- [KASVAR10](course) language
+- [KKRULUK](course) teaching language
+- Is [LOGA3](course) taught in english
+- Is [KASLOE7.2](course) taught in english
+- Can I pass [KKES2](course) in english
+- Which language is [HALJUS13](course)
+- What is [TERY6](course) language
+- What is the language of [MVKS34](course) is
+- The teaching language of [KKENVAL2](course)
+- What language is used in [KASSG](course)
+- Which language [ITIS44](course) is used
+- [ENGA11](course) spoken language
+- [TIETA17](course) languages
+- What are [SOS6.1.1](course) languages
+- The [TERKANA2](course) language
+- [TERHOI6](course) teaching languages
+- The language of [SOS06.4](course)
+- Teaching language in [JOVPVS9](course)
+- [KATLITO5](course) in which language
+- What language do they speak in [YKYYHT1](course)
+- I want to know which language [KKSUOPE](course) is used
+- I want to know the language of [KATTAP11](course)
+- I want to know what language do they speak in [MVKS24E](course)
+- I want to know is [TAYJ12](course) taught in english
+- Teaching language [DPHSR402](course)
+- Lecture language [KASLOH4B](course)
+- What is the teaching language in [LTLY229](course)
+- Teaching language in [SUOV2](course)
+- What language is [POLKVA22](course)
+- Is [KATTAA31](course) in english
+- Is [KASP3](course) in finnish
+- [ENGA8](course) language
+- [KASP1](course) teaching language
+- Is [KATJOA14](course) taught in english
+- Is [DPII1](course) taught in english
+- Can I pass [LUOYA200](course) in english
+- Which language is [TERY2](course)
+- What is [RANS1](course) language
+- What is the language of [KKSUHUK](course) is
+- The teaching language of [VENA12](course)
+- What language is used in [PSYS7](course)
+- Which language [STYS3C](course) is used
+- [SOS6.2.3](course) spoken language
+- [KASA11](course) languages
+- What are [LTLY01](course) languages
+- The [KATTAS40](course) language
+- [KASLOM11](course) teaching languages
+- The language of [TRMU5](course)
+- Teaching language in [FILP1A](course)
+- [VENP3/VENK1](course) in which language
+- What language do they speak in [DPCMTJ2/JMMETUS](course)
+- I want to know which language [KATLITO2](course) is used
+- I want to know the language of [POHS5](course)
+- I want to know what language do they speak in [TERA1](course)
+- I want to know is [KASVAR9](course) taught in english
+- Teaching language [SOSM4](course)
+- Lecture language [RANP6](course)
+- What is the teaching language in [MTTMP3](course)
+- Teaching language in [POLKVS31](course)
+- What language is [KASVAR7](course)
+- Is [KATSTA11](course) in english
+- Is [HISJATKO](course) in finnish
+- [TERKAN16](course) language
+- [KASLOH4A](course) teaching language
+- Is [POLKVA43](course) taught in english
+- Is [BTK4032](course) taught in english
+- Can I pass [STYS2A](course) in english
+- Which language is [LFCS99](course)
+- What is [BIO4380](course) language
+- What is the language of [VENP4](course) is
+- The teaching language of [GTS1](course)
+- What language is used in [MOLI](course)
+- Which language [HALKOS22](course) is used
+- [POLVOA32/S27](course) spoken language
+- [LUOYY006](course) languages
+- What are [POHS1](course) languages
+- The [LUOYY026](course) language
+- [SOCYKV2/RES012](course) teaching languages
+- The language of [KATJOS21](course)
+- Teaching language in [SOCYKV2](course)
+- [STYA1A](course) in which language
+- What language do they speak in [TERHOIA2](course)
+- I want to know which language [KASP5](course) is used
+- I want to know the language of [KKSA3](course)
+- I want to know what language do they speak in [ENGS40](course)
+- I want to know is [JOVKA4](course) taught in english
+- Teaching language [SOP03.6](course)
+- Lecture language [KATTAA32](course)
+- What is the teaching language in [KKSUVAL3](course)
+- Teaching language in [POLKVA11](course)
+- What language is [HALJTA12](course)
+- Is [HALJTA14](course) in english
+- Is [VENP2](course) in finnish
+- [DPJKKHS](course) language
+- [TERTIETO5](course) teaching language
+- Is [HISA1B](course) taught in english
+- Is [HALKOS24](course) taught in english
+- Can I pass [HTIS87](course) in english
+- Which language is [HISA2](course)
+- What is [KKSUKK](course) language
+- What is the language of [PSYS6E](course) is
+- The teaching language of [TAYJ031](course)
+- What language is used in [ITIP3](course)
+- Which language [HALJUA99](course) is used
+- [KATTAA40](course) spoken language
+- [PEACE045](course) languages
+- What are [KASVAR7](course) languages
+- The [TIETS13](course) language
+- [TIETA7](course) teaching languages
+- The language of [KKSU1](course)
+- Teaching language in [BIO2200](course)
+- [KATSTA13](course) in which language
+- What language do they speak in [MTTMA1A](course)
+- I want to know which language [FILJATKO](course) is used
+- I want to know the language of [NORDIG1](course)
+- I want to know what language do they speak in [IGS006](course)
+- I want to know is [HIST03](course) taught in english
+- Teaching language [HALYAS99](course)
+- Lecture language [KASA6](course)
+- What is the teaching language in [MTTTS13](course)
+- Teaching language in [YKT10.5](course)
+- What language is [SUKKP5A](course)
+- Is [POLPOP05](course) in english
+- Is [KATVRS42](course) in finnish
+- [POLKVS10](course) language
+- [KATYVS22](course) teaching language
+- Is [RUST5/VENS10](course) taught in english
+- Is [ITIA03](course) taught in english
+- Can I pass [KASVAR7](course) in english
+- Which language is [KATLITO7](course)
+- What is [TAYJ033](course) language
+- What is the language of [POLPOP04](course) is
+- The teaching language of [SUKKP6](course)
+- What language is used in [TERA6](course)
+- Which language [HALJUS31](course) is used
+- [LTLY03](course) spoken language
+- [POLVOA22/A32](course) languages
+- What are [HALKAA12](course) languages
+- The [SAKS3](course) language
+- [STYA5](course) teaching languages
+- The language of [TAYJ12](course)
+- Teaching language in [SOS10.1.4](course)
+- [KATVAA11](course) in which language
+- What language do they speak in [KKSUPRO](course)
+- I want to know which language [KASLOH4A](course) is used
+- I want to know the language of [KKENVAL4](course)
+- I want to know what language do they speak in [KASERIT3](course)
+- I want to know is [HTIS60](course) taught in english
+- Teaching language [LATAP3](course)
+- Lecture language [HALJUA14](course)
+- What is the teaching language in [LATAP2](course)
+- Teaching language in [MTTMS11](course)
+- What language is [ITIS24](course)
+- Is [HTIY005](course) in english
+- Is [KATMAA99](course) in finnish
+- [STYS3B2](course) language
+- [JKKYVAP](course) teaching language
+- Is [KKRUKK](course) taught in english
+- Is [HALJUA14](course) taught in english
+- Can I pass [ENGA10](course) in english
+- Which language is [KASMULTI2A](course)
+- What is [KKSUHUK](course) language
+- What is the language of [STYA5](course) is
+- The teaching language of [BTK4320](course)
+- What language is used in [DPCMTJ3](course)
+- Which language [FILS2B/C](course) is used
+- [TERKAN6](course) spoken language
+- [KASP4](course) languages
+- What are [KASP5](course) languages
+- The [KASA13](course) language
+- [NORDIG4](course) teaching languages
+- The language of [KASVAR5](course)
+- Teaching language in [VIROP1](course)
+- [KASVARTA](course) in which language
+- What language do they speak in [PSYS17](course)
+- I want to know which language [SOCYKV2](course) is used
+- I want to know the language of [MTTTA13](course)
+- I want to know what language do they speak in [LOGP2](course)
+- I want to know is [JOVTS5](course) taught in english
+- Teaching language [TIEP3](course)
+- Lecture language [FONEP1](course)
+- What is the teaching language in [KKRAVAL1](course)
+- Teaching language in [KKRULL](course)
+- What language is [KATLITO3](course)
+- Is [MVKS54-56](course) in english
+- Is [KASVAR7](course) in finnish
+- [MVKS46](course) language
+- [BTK4030](course) teaching language
+- Is [KASLOE8.3](course) taught in english
+- Is [JOVTS5](course) taught in english
+- Can I pass [POLVOS21](course) in english
+- Which language is [KATVRA15](course)
+- What is [MTTA2](course) language
+- What is the language of [HALVAL1](course) is
+- The teaching language of [KASMULTI2C](course)
+- What language is used in [FILP5A](course)
+- Which language [STYA1A](course) is used
+- [ITIA03](course) spoken language
+- [KASSA3](course) languages
+- What are [KKENLL](course) languages
+- The [JOVA8](course) language
+- [MVKS15E](course) teaching languages
+- The language of [PSYS6D](course)
+- Teaching language in [HTIS53](course)
+- [IGS005](course) in which language
+- What language do they speak in [PSYS15](course)
+- I want to know which language [BTK2223](course) is used
+- I want to know the language of [POLKVA11](course)
+- I want to know what language do they speak in [POHA1](course)
+- I want to know is [VENS15](course) taught in english
+- Teaching language [FILAPRO](course)
+- Lecture language [PSYA5](course)
+- What is the teaching language in [POLVOA31](course)
+- Teaching language in [ITIA03](course)
+- What language is [KASVAR4](course)
+- Is [JMMETUS](course) in english
+- Is [KKRA2](course) in finnish
+- [FILJATKO](course) language
+- [TERVAL5](course) teaching language
+- Is [KASA8](course) taught in english
+- Is [KATJOS99](course) taught in english
+- Can I pass [SAKS5](course) in english
+- Which language is [SOSM6.3](course)
+- What is [ITIS14](course) language
+- What is the language of [JOVPVS13](course) is
+- The teaching language of [TERKAN1](course)
+- What language is used in [BTK0001](course)
+- Which language [KATTAS22A](course) is used
+- [HALKAA99](course) spoken language
+- [KATSTA12](course) languages
+- What are [TRSU02](course) languages
+- The [STYS2A](course) language
+- [MTTMS3](course) teaching languages
+- The language of [TERHOI2](course)
+- Teaching language in [JOVA2](course)
+- [VENA12](course) in which language
+- What language do they speak in [KATJOS42](course)
+- I want to know which language [KASLOM6](course) is used
+- I want to know the language of [KATVRS55](course)
+- I want to know what language do they speak in [POLVOS33](course)
+- I want to know is [JOUJOVTS](course) taught in english
+- Teaching language [SOSM6.2](course)
+- Lecture language [PSYP2](course)
+- What is the teaching language in [KASS1](course)
+- Teaching language in [DPJKK20](course)
+- What language is [HALJTA13](course)
+- Is [FILA1](course) in english
+- Is [KKSU1](course) in finnish
+- [BTK4321](course) language
+- [LOGS9](course) teaching language
+- Is [SOCYKV2/RES012](course) taught in english
+- Is [HALYAS14](course) taught in english
+- Can I pass [KASLOM8](course) in english
+- Which language is [JOVP4](course)
+- What is [VENP1](course) language
+- What is the language of [TEE1](course) is
+- The teaching language of [KKRUPRE2](course)
+- What language is used in [KATLITO3](course)
+- Which language [FILA9](course) is used
+- [POHS5](course) spoken language
+- [MTTA1](course) languages
+- What are [POLVOA42/52/S23](course) languages
+- The [SOS6.2.3](course) language
+- [SOS10.1.5](course) teaching languages
+- The language of [GTS1](course)
+- Teaching language in [KASLOM4](course)
+- [KASLOM3](course) in which language
+- What language do they speak in [TERKANA1](course)
+- I want to know which language [HALKAS13](course) is used
+- I want to know the language of [TAYJ12](course)
+- I want to know what language do they speak in [KASLOM10](course)
+- I want to know is [KASMULTI4](course) taught in english
+- Teaching language [TIEP1](course)
+- Lecture language [SUOS1](course)
+- What is the teaching language in [KKENVAL9](course)
+- Teaching language in [SAKA12](course)
+- What language is [KASLOE4.3](course)
+- Is [PSYS6B](course) in english
+- Is [POLKVS33](course) in finnish
+- [KATVRA13](course) language
+- [MTTTA4](course) teaching language
+- Is [POLVOA31](course) taught in english
+- Is [KASLOM1](course) taught in english
+- Can I pass [BIO2310](course) in english
+- Which language is [POLVOS10](course)
+- What is [TSEKP3](course) language
+- What is the language of [JOVA9](course) is
+- The teaching language of [JOVTKS3](course)
+- What language is used in [MVKS02](course)
+- Which language [YKT07.2](course) is used
+- [KKSUPRO](course) spoken language
+- [TERY4](course) languages
+- What are [HALYAA14](course) languages
+- The [KATVAS31](course) language
+- [BTK4090](course) teaching languages
+- The language of [JOUJOVTS](course)
+- Teaching language in [JOVVAL](course)
+- [KATLITO1](course) in which language
+- What language do they speak in [STYA8](course)
+- I want to know which language [JKKYLII](course) is used
+- I want to know the language of [ENGA8](course)
+- I want to know what language do they speak in [POLKVA23](course)
+- I want to know is [KASVAR7](course) taught in english
+- Teaching language [SOS4.2](course)
+- Lecture language [KIRP4](course)
+- What is the teaching language in [SOSKV1](course)
+- Teaching language in [KASLOM4](course)
+- What language is [KASVART3](course)
+- Is [KKRUKTK](course) in english
+- Is [VENA10](course) in finnish
+- [MVKS54-56](course) language
+- [TERHOJ3](course) teaching language
+- Is [FILP1A](course) taught in english
+- Is [TERHOIA4](course) taught in english
+- Can I pass [KKSUKK](course) in english
+- Which language is [KATYVA23](course)
+- What is [PEACE045](course) language
+- What is the language of [TIETS41](course) is
+- The teaching language of [KASA13](course)
+- What language is used in [MOLI](course)
+- Which language [DPEDUB.1B](course) is used
+- [TAYJ034](course) spoken language
+- [SAKA9](course) languages
+- What are [TERKAN5](course) languages
+- The [POLVOA51/52/S24](course) language
+- [KKENPRE2](course) teaching languages
+- The language of [YKYYKV1](course)
+- Teaching language in [KASVAR5](course)
+- [KKENKTM](course) in which language
+- What language do they speak in [KATLAS25](course)
+- I want to know which language [STYP1A](course) is used
+- I want to know the language of [LTLY16](course)
+- I want to know what language do they speak in [KASLOE8.1](course)
+- I want to know is [VIROP3](course) taught in english
+- Teaching language [POLPOP05](course)
+- Lecture language [NORDIG4](course)
+- What is the teaching language in [KASLOM6](course)
+- Teaching language in [TERVAL7](course)
+- What language is [ENGA7](course)
+- Is [VENP2](course) in english
+- Is [KKSUSC](course) in finnish
+- [STYS3B](course) language
+- [TIEVA36](course) teaching language
+- Is [JKKYTUO2](course) taught in english
+- Is [KATSTA16](course) taught in english
+- Can I pass [KATTAS33](course) in english
+- Which language is [KASLOM2](course)
+- What is [HALYAA99](course) language
+- What is the language of [POLKVA43](course) is
+- The teaching language of [YKYYHT3](course)
+- What language is used in [KKRUKTK](course)
+- Which language [HALYAA14](course) is used
+- [ENGS46](course) spoken language
+- [STYS2A](course) languages
+- What are [HTIY006](course) languages
+- The [KASLOM8](course) language
+- [SAKA12](course) teaching languages
+- The language of [LOGP1](course)
+- Teaching language in [POLVOS25](course)
+- [KATTAA01](course) in which language
+- What language do they speak in [KATMAA99](course)
+- I want to know which language [POLPOP02](course) is used
+- I want to know the language of [HISA3B](course)
+- I want to know what language do they speak in [MTTTS14](course)
+- I want to know is [JOVA8](course) taught in english
+- Teaching language [MVKS17/13S](course)
+- Lecture language [KKRUKK](course)
+- What is the teaching language in [POLKVA32](course)
+- Teaching language in [TRSU02](course)
+- What language is [BIO4460](course)
+- Is [DPJKKHS](course) in english
+- Is [HALYAP01](course) in finnish
+- [KASA6](course) language
+- [SUKKP3](course) teaching language
+- Is [FONEP1](course) taught in english
+- Is [TIEP1](course) taught in english
+- Can I pass [BIO4716](course) in english
+- Which language is [JOUJOVTS](course)
+- What is [KASLOE6.2](course) language
+- What is the language of [KASLOM11](course) is
+- The teaching language of [KKSAPRE1](course)
+- What language is used in [BTK5003](course)
+- Which language [ITIP2](course) is used
+- [HTIS54](course) spoken language
+- [SOS1](course) languages
+- What are [RANP0](course) languages
+- The [MTTS1](course) language
+- [KATLITO2](course) teaching languages
+- The language of [TIEVA36](course)
+- Teaching language in [POLVOA32/S23/24](course)
+- [TAYJ031](course) in which language
+- What language do they speak in [ITIS22](course)
+- I want to know which language [HALJUA13](course) is used
+- I want to know the language of [POLVOS32](course)
+- I want to know what language do they speak in [ITIY3](course)
+- I want to know is [FILP1A](course) taught in english
+- Teaching language [TAYJ042](course)
+- Lecture language [KKSUBMT](course)
+- What is the teaching language in [HALYAP01](course)
+- Teaching language in [ENGP7](course)
+- What language is [KASVARH](course)
+- Is [KASA7](course) in english
+- Is [TIETS18](course) in finnish
+- [LATAP4](course) language
+- [KATTAA32](course) teaching language
+- Is [MTTTA14](course) taught in english
+- Is [HALJUA44](course) taught in english
+- Can I pass [HALKAS99](course) in english
+- Which language is [HALJTA04](course)
+- What is [BTK1053](course) language
+- What is the language of [HALKAA99](course) is
+- The teaching language of [TIEA2.1](course)
+- What language is used in [SOS7.2/STYA4B](course)
+- Which language [TERHOIA4](course) is used
+- [JOVA9](course) spoken language
+- [KATYVA22](course) languages
+- What are [KKSUSC](course) languages
+- The [MTTTP1](course) language
+- [SUOR1/A6](course) teaching languages
+- The language of [JOVAT1](course)
+- Teaching language in [KATVAA14](course)
+- [SUOR1/A6](course) in which language
+- What language do they speak in [SOS6.1.2](course)
+- I want to know which language [DPIS1](course) is used
+- I want to know the language of [SOS10.6](course)
+- I want to know what language do they speak in [LTLY01](course)
+- I want to know is [MEDU02](course) taught in english
+- Teaching language [SAKP3](course)
+- Lecture language [KASSG](course)
+- What is the teaching language in [KKKI1](course)
+- Teaching language in [POLVOS24](course)
+- What language is [KATTAS40](course)
+- Is [KASLOM1](course) in english
+- Is [SOS6.5.3](course) in finnish
+- [STYS2B](course) language
+- [ITIA11](course) teaching language
+- Is [KKIN4](course) taught in english
+- Is [ROMAP1](course) taught in english
+- Can I pass [KASA2](course) in english
+- Which language is [TAYJ024](course)
+- What is [TEE9](course) language
+- What is the language of [KATLAA22](course) is
+- The teaching language of [TIEY1](course)
+- What language is used in [ROMAP1](course)
+- Which language [KKSUOPE](course) is used
+- [KASPUHA4](course) spoken language
+- [YKIEP1](course) languages
+- What are [SOCYKV2](course) languages
+- The [JKKYLT01](course) language
+- [BTK4661](course) teaching languages
+- The language of [KKENKTM](course)
+- Teaching language in [KATTAS40](course)
+- [KKES2](course) in which language
+- What language do they speak in [POLKVS22](course)
+- I want to know which language [KASP5](course) is used
+- I want to know the language of [POLKVS21](course)
+- I want to know what language do they speak in [KASPUHS6](course)
+- I want to know is [TAYJ042](course) taught in english
+- Teaching language [POLKVS31](course)
+- Lecture language [POLKVA41](course)
+- What is the teaching language in [DPEDUB.1C](course)
+- Teaching language in [RANS1](course)
+- What language is [HALKOS27](course)
+- Is [KKRUYHT](course) in english
+- Is [POLVOA12](course) in finnish
+- [POLVOS10](course) language
+- [KASA5](course) teaching language
+- Is [KATVAA13](course) taught in english
+- Is [JOVA6](course) taught in english
+- Can I pass [YKT6.6.1](course) in english
+- Which language is [ENGA6](course)
+- What is [KKVE1](course) language
+- What is the language of [ITIA11](course) is
+- The teaching language of [LTLY212](course)
+- What language is used in [KASTUTVA](course)
+- Which language [MVKS42V](course) is used
+- [DPHSR404](course) spoken language
+- [SOSM5.1](course) languages
+- What are [KKSA2](course) languages
+- The [TAYJ035](course) language
+- [VENT1](course) teaching languages
+- The language of [KASERIT2](course)
+- Teaching language in [KATMAS17](course)
+- [KASPUHP1](course) in which language
+- What language do they speak in [KASSO1](course)
+- I want to know which language [TIETA18](course) is used
+- I want to know the language of [KATJOP11](course)
+- I want to know what language do they speak in [POLKVA22](course)
+- I want to know is [KKSUSOTE](course) taught in english
+- Teaching language [KASLOM11](course)
+- Lecture language [KKRUKK](course)
+- What is the teaching language in [HALYAS14](course)
+- Teaching language in [POHA1](course)
+- What language is [POHP1](course)
+- Is [ENGS10](course) in english
+- Is [MTTTP5](course) in finnish
+- [JKKYTVA12](course) language
+- [TERHOIA4](course) teaching language
+- Is [BTK2060](course) taught in english
+- Is [TAYJ032](course) taught in english
+- Can I pass [LUOYY021](course) in english
+- Which language is [PEDA2](course)
+- What is [JOUJOVTS](course) language
+- What is the language of [GTS2](course) is
+- The teaching language of [PEACE043](course)
+- What language is used in [POLVOS23](course)
+- Which language [HALJUA99](course) is used
+- [KIRS1/A4](course) spoken language
+- [KKENVAL4](course) languages
+- What are [TRSU01](course) languages
+- The [TIEP1](course) language
+- [KASLIITU](course) teaching languages
+- The language of [KASA15](course)
+- Teaching language in [SOSM2](course)
+- [ENGS7-9](course) in which language
+- What language do they speak in [JOVTS5](course)
+- I want to know which language [MOLI](course) is used
+- I want to know the language of [YKYYHT2](course)
+- I want to know what language do they speak in [HISA1B](course)
+- I want to know is [HALYAA99](course) taught in english
+- Teaching language [TERKAN6](course)
+- Lecture language [PSYP0](course)
+- What is the teaching language in [KASSM2](course)
+- Teaching language in [TAYJ031](course)
+- What language is [MVKS34](course)
+- Is [JKKYOA11](course) in english
+- Is [YKYYHT2](course) in finnish
+- [KASMULTI4](course) language
+- [KASA13](course) teaching language
+- Is [HISA2](course) taught in english
+- Is [NORDIG3](course) taught in english
+- Can I pass [KATTAS22B](course) in english
+- Which language is [MTTTA7](course)
+- What is [TSEKP3](course) language
+- What is the language of [KASVAR6](course) is
+- The teaching language of [MTTMS1](course)
+- What language is used in [BIO2450](course)
+- Which language [TERY1](course) is used
+- [HALKAP01](course) spoken language
+- [SAKA5](course) languages
+- What are [KASSO5](course) languages
+- The [HISA4](course) language
+- [SOS6.3.1](course) teaching languages
+- The language of [MOLI](course)
+- Teaching language in [KKSULL](course)
+- [HALJTA99](course) in which language
+- What language do they speak in [JOVAT1](course)
+- I want to know which language [LUOYY003](course) is used
+- I want to know the language of [DPEDUB.2](course)
+- I want to know what language do they speak in [KASA5](course)
+- I want to know is [SAKA7](course) taught in english
+- Teaching language [ITIS61](course)
+- Lecture language [STYVA](course)
+- What is the teaching language in [STYS3B](course)
+- Teaching language in [KATRAA11](course)
+- What language is [KATVRP11](course)
+- Is [TIETA15](course) in english
+- Is [TERTIETO4](course) in finnish
+- [ITIY3](course) language
+- [HALJTS99](course) teaching language
+- Is [PSYA1](course) taught in english
+- Is [FILA9](course) taught in english
+- Can I pass [TERKANP1](course) in english
+- Which language is [HALKAS13](course)
+- What is [KASLOE7.2](course) language
+- What is the language of [TAYJ026](course) is
+- The teaching language of [HALJUA14](course)
+- What language is used in [TAYJ024](course)
+- Which language [KASA13](course) is used
+- [ITIS45](course) spoken language
+- [KATYVS99](course) languages
+- What are [TERKANP3](course) languages
+- The [MTTMS1](course) language
+- [KASA3](course) teaching languages
+- The language of [SOSM5.2](course)
+- Teaching language in [KASA12](course)
+- [POLKVA21](course) in which language
+- What language do they speak in [SOS3](course)
+- I want to know which language [YKT09.4](course) is used
+- I want to know the language of [KKSUSOTE](course)
+- I want to know what language do they speak in [ENGS29](course)
+- I want to know is [KASP4](course) taught in english
+- Teaching language [ESPFA2](course)
+- Lecture language [STYA3B2](course)
+- What is the teaching language in [JOVA6](course)
+- Teaching language in [JOVA5](course)
+- What language is [POLKVA42](course)
+- Is [STYS2B](course) in english
+- Is [JKKYTVA13](course) in finnish
+- [HISP1](course) language
+- [KKES2](course) teaching language
+- Is [COSOPN2](course) taught in english
+- Is [TRSU02](course) taught in english
+- Can I pass [TIETS41](course) in english
+- Which language is [HISA2](course)
+- What is [SUOS1](course) language
+- What is the language of [KATLAS13](course) is
+- The teaching language of [JOVA14](course)
+- What language is used in [JOVA18](course)
+- Which language [KASPUHA5](course) is used
+- [KASVAR6](course) spoken language
+- [SOSM5.1](course) languages
+- What are [KASS1](course) languages
+- The [HALJUA25](course) language
+- [KASA11](course) teaching languages
+- The language of [KATLAA22](course)
+- Teaching language in [POLVOS34](course)
+- [MTTS1](course) in which language
+- What language do they speak in [POLVOA22](course)
+- I want to know which language [KASTUTVA](course) is used
+- I want to know the language of [POLVOA21](course)
+- I want to know what language do they speak in [KKENVAL3](course)
+- I want to know is [TIETS21](course) taught in english
+- Teaching language [KKRA2](course)
+- Lecture language [KKSA3](course)
+- What is the teaching language in [POLVOA31/S21](course)
+- Teaching language in [MTTTP5](course)
+- What language is [KKSU4](course)
+- Is [STYS3C](course) in english
+- Is [HISA4](course) in finnish
+- [KASP1](course) language
+- [STYA3B1](course) teaching language
+- Is [KASA11](course) taught in english
+- Is [DPEDUC.3](course) taught in english
+- Can I pass [KIRP4](course) in english
+- Which language is [JOUJOVTS](course)
+- What is [JOVPVA7](course) language
+- What is the language of [ROMAP3](course) is
+- The teaching language of [KKSUHY](course)
+- What language is used in [KKENYHT](course)
+- Which language [TERHOIA7](course) is used
+- [KATTAS22A](course) spoken language
+- [KASP4](course) languages
+- What are [MTTTP5](course) languages
+- The [JKKYOA12](course) language
+- [LFCOR](course) teaching languages
+- The language of [KASA5](course)
+- Teaching language in [TIETS26](course)
+- [KIRS4](course) in which language
+- What language do they speak in [SOCYKV2](course)
+- I want to know which language [JOVA20](course) is used
+- I want to know the language of [DPYT](course)
+- I want to know what language do they speak in [DPHSFC06](course)
+- I want to know is [HALJUS22](course) taught in english
+- Teaching language [LOGS2](course)
+- Lecture language [LTLY229](course)
+- What is the teaching language in [KATTV01](course)
+- Teaching language in [DPHSS207](course)
+- What language is [KKRUKTK](course)
+- Is [KKSUVAL3](course) in english
+- Is [KASA12](course) in finnish
+- [KATLAA99](course) language
+- [KATYVA99](course) teaching language
+- Is [PEACE046](course) taught in english
+- Is [KASVAR8](course) taught in english
+- Can I pass [TSEKP3](course) in english
+- Which language is [TERTIETO5](course)
+- What is [HALYAS11](course) language
+- What is the language of [VIROP1](course) is
+- The teaching language of [KIRA1](course)
+- What language is used in [ITIY003](course)
+- Which language [VENS2](course) is used
+- [SUKKP6](course) spoken language
+- [KASLOH4B](course) languages
+- What are [DPHSR402](course) languages
+- The [KATTAA35](course) language
+- [STYP5](course) teaching languages
+- The language of [ITIP2](course)
+- Teaching language in [KKSAVAL0](course)
+- [KKRUKTMO](course) in which language
+- What language do they speak in [ESPFA1](course)
+- I want to know which language [KASLOM11](course) is used
+- I want to know the language of [TERKAN18](course)
+- I want to know what language do they speak in [KATTAA12A](course)
+- I want to know is [LTLY16](course) taught in english
+- Teaching language [YKYYHT4A](course)
+- Lecture language [SAKP0](course)
+- What is the teaching language in [KATYVA44](course)
+- Teaching language in [KIRA4D](course)
+- What language is [TSEKP2](course)
+- Is [SOS6.2.1](course) in english
+- Is [KATLAA99](course) in finnish
+- [KKSUPRO](course) language
+- [DPEDUC.3](course) teaching language
+- Is [BIOMJ016](course) taught in english
+- Is [KASA12](course) taught in english
+- Can I pass [KKENVAL9](course) in english
+- Which language is [POHP5](course)
+- What is [STYA5](course) language
+- What is the language of [KATJOS32](course) is
+- The teaching language of [POLYEP11](course)
+- What language is used in [KATVRS60](course)
+- Which language [JOVP1](course) is used
+- [YKT10.1.2](course) spoken language
+- [KATYVA35](course) languages
+- What are [KATYVS25](course) languages
+- The [HALJTS04](course) language
+- [JKKYVAP](course) teaching languages
+- The language of [LTLY01](course)
+- Teaching language in [PSYP3](course)
+- [LUOYY005](course) in which language
+- What language do they speak in [TIETS26](course)
+- I want to know which language [LUOYY027](course) is used
+- I want to know the language of [SOS10.1.5](course)
+- I want to know what language do they speak in [KASLOE8.1](course)
+- I want to know is [TIEVA36](course) taught in english
+- Teaching language [KKRUVAL1](course)
+- Lecture language [LOGA6](course)
+- What is the teaching language in [LUOYY021](course)
+- Teaching language in [PEDAYOP4](course)
+- What language is [DPCMTJ4](course)
+- Is [JOVY3](course) in english
+- Is [ESPFA2](course) in finnish
+- [KASERIT4](course) language
+- [PSYA8](course) teaching language
+- Is [KKSU4](course) taught in english
+- Is [KATJOA99](course) taught in english
+- Can I pass [ITIY3](course) in english
+- Which language is [FONEP2](course)
+- What is [KKES4](course) language
+- What is the language of [ROMAP2](course) is
+- The teaching language of [BTK5557](course)
+- What language is used in [ENGA6](course)
+- Which language [POLKVA33](course) is used
+- [HALTVA12](course) spoken language
+- [FILS1](course) languages
+- What are [TEE6](course) languages
+- The [TIEA5](course) language
+- [DPIPEF05](course) teaching languages
+- The language of [POLPOP03](course)
+- Teaching language in [KATTAS21B](course)
+- [TERY4](course) in which language
+- What language do they speak in [HISA1B](course)
+- I want to know which language [TAYJ035](course) is used
+- I want to know the language of [POLKVS21](course)
+- I want to know what language do they speak in [FONEP2](course)
+- I want to know is [SUOP3](course) taught in english
+- Teaching language [PSYS17](course)
+- Lecture language [SOS7.2/STYA4B](course)
+- What is the teaching language in [DPEDUC.3](course)
+- Teaching language in [MOLI](course)
+- What language is [KASLOE7.1](course)
+- Is [YKYY0](course) in english
+- Is [KKSUPRO](course) in finnish
+- [KASVAR12](course) language
+- [TERTIETO5](course) teaching language
+- Is [POLKVA32](course) taught in english
+- Is [ENGA6](course) taught in english
+- Can I pass [SUOA8](course) in english
+- Which language is [JOUJOVTS/JMMETU](course)
+- What is [ENGP9](course) language
+- What is the language of [TRMU1](course) is
+- The teaching language of [TERY5B](course)
+- What language is used in [IGS005](course)
+- Which language [STYA1B](course) is used
+- [KATVAS31](course) spoken language
+- [DPIT2](course) languages
+- What are [MVKS02](course) languages
+- The [MVKS63](course) language
+- [HALJUS15](course) teaching languages
+- The language of [JOVY2](course)
+- Teaching language in [ENGS40](course)
+- [DPEDUB.1B](course) in which language
+- What language do they speak in [ITIY3](course)
+- I want to know which language [HALJTA06](course) is used
+- I want to know the language of [KASLOE4.3](course)
+- I want to know what language do they speak in [SOSM5.1](course)
+- I want to know is [KKVE2](course) taught in english
+- Teaching language [JOVPVS6](course)
+- Lecture language [HALJTJ00](course)
+- What is the teaching language in [POLKVA42](course)
+- Teaching language in [PSYP1](course)
+- What language is [KIRS4](course)
+- Is [JOUJOVTS](course) in english
+- Is [ENGS42](course) in finnish
+- [MTTTA2](course) language
+- [PSYS14](course) teaching language
+- Is [KATMAS14](course) taught in english
+- Is [KKKI2](course) taught in english
+- Can I pass [JOVKA5](course) in english
+- Which language is [ITIS35](course)
+- What is [STYS3B](course) language
+- What is the language of [TIETA13](course) is
+- The teaching language of [POHA6](course)
+- What language is used in [JOVY1](course)
+- Which language [TERKAN12](course) is used
+- [ENGS4](course) spoken language
+- [TERHOI1](course) languages
+- What are [SOS4.4](course) languages
+- The [TERHOI4](course) language
+- [PEACE045](course) teaching languages
+- The language of [TERA2](course)
+- Teaching language in [ITIS43](course)
+- [MEDU07](course) in which language
+- What language do they speak in [STYVA](course)
+- I want to know which language [HALJUA22](course) is used
+- I want to know the language of [POLKVS32](course)
+- I want to know what language do they speak in [TIETA10](course)
+- I want to know is [RANP3](course) taught in english
+- Teaching language [MTTA1](course)
+- Lecture language [POLKVA43](course)
+- What is the teaching language in [KASVAR2](course)
+- Teaching language in [JOVPVS5](course)
+- What language is [HALJUA44](course)
+- Is [SAKA12](course) in english
+- Is [KKRA3](course) in finnish
+- [HALYAS99](course) language
+- [LTLY16](course) teaching language
+- Is [POLKVS22](course) taught in english
+- Is [POLVOS25](course) taught in english
+- Can I pass [POLVOA31](course) in english
+- Which language is [YKTM4](course)
+- What is [PEDAYOA1](course) language
+- What is the language of [BIO4722](course) is
+- The teaching language of [DPEDUB.1C](course)
+- What language is used in [KIRS4](course)
+- Which language [HALKOS25](course) is used
+- [BTK3210](course) spoken language
+- [POLKVS33](course) languages
+- What are [KATYVA43](course) languages
+- The [KASP4](course) language
+- [TIEA4](course) teaching languages
+- The language of [KKRUKTK](course)
+- Teaching language in [HISS1B](course)
+- [KATJOA15](course) in which language
+- What language do they speak in [MVKS47](course)
+- I want to know which language [JKKYVP11](course) is used
+- I want to know the language of [POLKVA44](course)
+- I want to know what language do they speak in [JOVPVA7](course)
+- I want to know is [KATJOS11](course) taught in english
+- Teaching language [TAYJ031](course)
+- Lecture language [PSYS11](course)
+- What is the teaching language in [KIRP3](course)
+- Teaching language in [PSYA9](course)
+- What language is [HISA4](course)
+- Is [TAYJ035](course) in english
+- Is [PGHINT](course) in finnish
+- [HALKAS11](course) language
+- [BTK3125](course) teaching language
+- Is [LUOYY020](course) taught in english
+- Is [TIETS09](course) taught in english
+- Can I pass [POLKVA42](course) in english
+- Which language is [KKENKTK](course)
+- What is [KKRUYHT](course) language
+- What is the language of [KATLAA99](course) is
+- The teaching language of [TERHOIA7](course)
+- What language is used in [KATJOS31](course)
+- Which language [YKT6.6.4](course) is used
+- [TAYJ13](course) spoken language
+- [KASVAR1](course) languages
+- What are [HALEUA11](course) languages
+- The [SOSM4](course) language
+- [TAYJ12](course) teaching languages
+- The language of [JOVP3](course)
+- Teaching language in [MTTTA1](course)
+- [HTIS66](course) in which language
+- What language do they speak in [KATLAS14](course)
+- I want to know which language [TEE6](course) is used
+- I want to know the language of [MTTA2](course)
+- I want to know what language do they speak in [FONEP2](course)
+- I want to know is [KATJOA13](course) taught in english
+
+## intent:periodi
+- Period [KATTAP11](course)
+- Semester [POISTA TÄMÄ! Solun biologian perusteet](course)
+- Quarter [Kehitys, kasvatus ja elämänkulku - Luennot EDUn opiskelijoille (2 op) TAI muille opiskelijoille luennot (2 op) ja kirjallisuus (3 op)](course)
+- Academic term [Uuden ajan alun ryhmä](course)
+- [Klinikkaharjoittelu](course) semester
+- [Uuden ajan alun (1500-1800) tutkimuksen lähteet ja menetelmät](course) academic term
+- [Lausekielinen ohjelmointi I - Näyttökoe, kevät 2019](course) quarter
+- This semester [Hands-on genetics](course)
+- What period [Kasvatus, koulutus ja yhteiskunta, verkko-opetus](course)
+- What study period [Varhaiskasvatuksen ja esiopetuksen pedagogiikka - Työssäoppiminen 1.vsk:n monimuotoryhmien opiskelijoille](course)
+- What study period is [NEDIS tohtorikoulutusseminaari (Lasten ja nuorten terveyden edistämisen tutkimus)](course) in
+- What period will [Ranskan yhteiskunta II/Société française II](course) begin
+- [Media- ja informaatiolukutaito](course) period
+- Is [Terveyden ja mielenterveyden psykologia I](course) this period
+- Which period is [Taloustieteen perusteet, monimuoto-opetus](course)
+- Which period will [Asiakastyön teorioita ja menetelmiä - STYA3A2 Asiakastyön menetelmät, luennot](course) begin
+- What period will [Kauppatieteellisen tutkimuksen menetelmät (markkinointi ja yrityksen johtaminen)](course) begin
+- [Vaihtuvasisältöiset erikoiskurssit (kirjallinen tentti suoritusvaihtoehto) -](course) curriculum
+- When is [Yhteisöt ja yhteisösosiaalityön lähtökohdat - Sosnet verkkokurssi](course) in the curriulum
+- The period of [Representations and Identities](course)
+- Study period of [Lapsuuden antropologia ja transnationaali lapsuus](course)
+- Semester [Introduction to Argumentation and Scientific Reasoning](course)
+- Which semester will [Algebra 2](course) start
+- Which semester is [Kandidaatintutkielmaseminaari - Tammikuussa 2019 alkava seminaari](course)
+- Is [Johdatus hallintotieteeseen](course) this semester
+- What semester is [Espanjan historia ja kirjallisuus - Historia y literatura de España](course)
+- Academic term [Pro gradun viimeistelyseminaari (kirjallisuustiede)](course)
+- Which academic term will [Perhe ja tunteet](course) begin
+- Which academic term is [Finnish Education System - Seminar](course)
+- [Political Systems Outside of Europe (book exam/essay)](course) academic term
+- Which semester will [Terve ja turvallinen kouluyhteisö](course) begin
+- The period of [Learning difficulties and the challenges in schooling in multicultural settings: critical reflections on the role of teachers](course)
+- The semester of [Valtiosääntöoikeus](course)
+- The academic term of [Sciences du langage/Kielitiede](course)
+- The quarter of [Laskentatoimi ja talousjohtaminen](course)
+- Which quarter is [Macroprudential Policy and Financial Stability](course)
+- What is the quarter of [Ekoterveys, luonto ja ihminen](course)
+- Which quarter will [Media and Globalization - Seminar](course) begin
+- I want to know which semester will [Musiikki - Musiikkikasvatuksen perusteet 2 - 1. vsk  ja erillisen opinto-oikeuden POM-opintoihin saaneet opiskelijat](course) start
+- I want to know which semester is [Rauha, turvallisuus ja kansainväliset instituutiot (kirjatentti/essee)](course)
+- I want to know the study period of [Johdatus sosiaaliantropologiaan -seminaari](course)
+- I want to know the academic term for [Kandidaattiseminaari ja -tutkielma (julkisoikeus), kevät -](course)
+- Period [KATTAP11](course)
+- Semester [Johdatus filosofiaan](course)
+- Quarter [Psykologian tutkimusmenetelmät I](course)
+- Academic term [Government and Society: Inequality](course)
+- [Project Work (Fall term 2018)](course) semester
+- [Rahoituksen perusteet](course) academic term
+- [Kontrastiivisen fonetiikan perusteet -](course) quarter
+- This semester [Liikuntatuutorina toimiminen - Liikuntatuutoriperehdytys](course)
+- What period [Tietokantaohjelmointi](course)
+- What study period [Eriytyvä syventävä tutkimusmenetelmäkurssi A: Kehittävän työntutkimuksen menetelmät](course)
+- What study period is [Business Ethics (Independent study)](course) in
+- What period will [Inklusiivinen koulu - Luennot, seminaarit, kenttätehtävä ja raportointi](course) begin
+- [Kielen variaatio](course) period
+- Is [Mediakasvatus, osallisuus ja aktiivinen kansalaisuus, kirjatentti, Pori](course) this period
+- Which period is [Global contexts of violence. Gender related violence in the landscape of global vulnerabilities (web course)](course)
+- Which period will [Basics of Marketing and Sales -](course) begin
+- What period will [Ryhmäviestintä](course) begin
+- [Työeläkejärjestelmät](course) curriculum
+- When is [Lasten monipaikkainen asuminen](course) in the curriulum
+- The period of [Terve ja turvallinen kouluyhteisö](course)
+- Study period of [Grammaire/Kielioppi](course)
+- Semester [Lähtötasokoe](course)
+- Which semester will [Tieteellisen tiedonhankinnan perusteet (englannin kieli, kirjallisuus ja kääntäminen)](course) start
+- Which semester is [Intercultural Communication](course)
+- Is [Tieteellinen kirjoittaminen ja politiikan tutkimuksen aineistot](course) this semester
+- What semester is [New Forms of Violence, Change in Security Paradigm (book exam/essay)](course)
+- Academic term [Projektinhallinnan perusteet](course)
+- Which academic term will [Työeläkejärjestelmät](course) begin
+- Which academic term is [Orientoivat opinnot ja HOPS (venäjän kieli, kulttuuri ja kääntäminen)](course)
+- [Fonetiikan teoriaa - Fonetiikan jatkokurssi](course) academic term
+- Which semester will [Julkisoikeuden tutkimuspraktikum](course) begin
+- The period of [Persoonallisuuspsykologia II](course)
+- The semester of [Fundamentals of Human-Technology Interaction (Tampere Summer School 2018)](course)
+- The academic term of [Kehitys, kasvatus ja elämänkulku, verkko-opetus](course)
+- The quarter of [Romanian kielen jatkokurssi II / Advanced Course II in Romanian](course)
+- Which quarter is [Laajentava harjoittelu](course)
+- What is the quarter of [Analyysi B](course)
+- Which quarter will [Talous ja yhteiskunta](course) begin
+- I want to know which semester will [Fonetiikan tilastomenetelmät](course) start
+- I want to know which semester is [Teoria, ideologia & talouspolitiikka - Keynesiläisyydestä uusliberalismiin](course)
+- I want to know the study period of [Johdatus länsimaiseen kirjallisuushistoriaan - harjoitukset](course)
+- I want to know the academic term for [Euroopan unioni (kirjatentti/essee)](course)
+- Period [KATTAP11](course)
+- Semester [Software Project Management, Software Project Management (Spring term)](course)
+- Quarter [Tiimi toimii - puheviestinnän syventävä kurssi (3. periodi)](course)
+- Academic term [Monikieliset tekstikorpukset (verkkokurssi)](course)
+- [Valinnainen jakso: Dokumentaarisen nyky-Suomi-sarjan konseptikehitys ja verkkosuunnittelu](course) semester
+- [Yritysverotus](course) academic term
+- [Tieteellinen kirjoittaminen / SOC (historia & filosofia)](course) quarter
+- This semester [Yksilö, yhteiskunta ja kulttuuri - Monikulttuurisuus koulussa - 2. vsk](course)
+- What period [Research on Society and Organisations](course)
+- What study period [Menetelmäklinikka](course)
+- What study period is [Terve ja turvallinen kouluyhteisö](course) in
+- What period will [Distributed Systems](course) begin
+- [Sosiaalisen median ja vuorovaikutteisen median perusteet](course) period
+- Is [Asiakassuhde ja haastattelu](course) this period
+- Which period is [Opetus, ohjaus, oppiminen - Varhaiskasvatus: Pienryhmäopetus ja orientaatioharjoittelu (2 op)  ja kirjallisuus (2 op)](course)
+- Which period will [Arjen latinaa ja kulttuurihistoriaa](course) begin
+- What period will [Orientoivat opinnot - Alkuorientaatio](course) begin
+- [Taidehistoria ja näyttelypedagogiikka -](course) curriculum
+- When is [Viron kielen suullinen ja kirjallinen taito](course) in the curriulum
+- The period of [Maisteriopintojen opintosuuntiin johdattava kirjallisuus](course)
+- Study period of [Laskentatoimi ja talousjohtaminen](course)
+- Semester [Seminaari (Kunelius) jatkuu keväältä](course)
+- Which semester will [Laadulliset tutkimusotteet](course) start
+- Which semester is [Vakuutuslaitosten sijoitustoiminta](course)
+- Is [Legal English](course) this semester
+- What semester is [Readings in Entrepreneurship](course)
+- Academic term [Terve ja turvallinen kouluyhteisö](course)
+- Which academic term will [Semantiikka ja pragmatiikka / Sémantique et pragmatique](course) begin
+- Which academic term is [Readings in Strategy](course)
+- [Courses in Computer Science in TUT](course) academic term
+- Which semester will [Kandidaattiseminaari (JATKAVA, Katermaa)](course) begin
+- The period of [Käytännön opetus ja ohjaus](course)
+- The semester of [Kansainvälinen verotus](course)
+- The academic term of [European Integration and Disintegration (BOOK EXAM POLKVS32)](course)
+- The quarter of [Biologia ja ympäristötieto - Biologian kenttäkurssi (1-4 ryhmät, Arboretum ja Pyynikinharju)](course)
+- Which quarter is [Kansainvälisen oikeuden peruskurssi](course)
+- What is the quarter of [Venäjän historia, kirjallisuus ja kulttuuri](course)
+- Which quarter will [Kielioppi I/Språkets strukturer I](course) begin
+- I want to know which semester will [Master's Thesis Seminar in Software Development](course) start
+- I want to know which semester is [Recommender Systems](course)
+- I want to know the study period of [Nuorisotyön ja nuorisotutkimuksen maisteriohjelman lähijakso 29.-30.8.2018](course)
+- I want to know the academic term for [Games and Internet in Society](course)
+- Period [KATTAP11](course)
+- Semester [Journalistinen kieli - Tekstinhuolto](course)
+- Quarter [Interaction Techniques](course)
+- Academic term [Tietojärjestelmätieteen jatkokoulutusseminaari - Seminaari](course)
+- [Konsernitilinpäätös I](course) semester
+- [Ruotsin kielen kirjallinen ja suullinen viestintä](course) academic term
+- [Laskentatoimen perusteet (avoin yliopisto-opetus), monimuoto-opetus](course) quarter
+- This semester [Oikeustulkkaus I/II (monikielinen)](course)
+- What period [Basics of Management and Organizations](course)
+- What study period [Hoitot. tiedon hyödyntäminen johtamisessa ja opettamisessa: syventävä projektityö (kurssi jatkuu syksyllä 2019)](course)
+- What study period is [Osallistuminen opiskelijavaihtoon](course) in
+- What period will [Korkeakoulujen rahoitus ja talous - Harjoitustyö](course) begin
+- [Kandidaatin tutkielma ja seminaari (Kansanterveystieteen opiskelijoille)](course) period
+- Is [Kandidaatintutkielmaseminaari - Seminaari](course) this period
+- Which period is [Master's Thesis Seminar (2nd year students)](course)
+- Which period will [Kirjallisuudentutkijan työkalupakki tieteellisiin kertomuksiin](course) begin
+- What period will [Hallintotieteen teoriat ja käsitteet](course) begin
+- [Ainedidaktinen tutkimus ja tutkiva opettajuus](course) curriculum
+- When is [Politiikan tutkimuksen kandidaatintutkielma ja -seminaari](course) in the curriulum
+- The period of [Tutkimuspraktikum](course)
+- Study period of [Kohti matematiikan opettajuutta 2 (TTY)](course)
+- Semester [Orientation - General Orientation Course for International Students](course)
+- Which semester will [Tiedonhankinnan perusteet](course) start
+- Which semester is [Translation II Finnish-English](course)
+- Is [Tieteellisen artikkelin tehokas kirjoittaminen](course) this semester
+- What semester is [Master's Thesis Seminar (2nd year students)](course)
+- Academic term [Rahoitusoikeuden syventävä opintojakso - kirjatentti](course)
+- Which academic term will [Johdatus visuaaliseen kulttuuriin](course) begin
+- Which academic term is [Orientoivat opinnot - HOPS1](course)
+- [Suullinen viestintä / Mündliche Kommunikation](course) academic term
+- Which semester will [Asevelvollisuus Suomessa ja kansainvälisesti](course) begin
+- The period of [Espanjan kielen variaatio ajallisesti ja maantieteellisesti/Variación diacrónica y sincrónica del español](course)
+- The semester of [Global politics of gender](course)
+- The academic term of [Behavioral Finance](course)
+- The quarter of [Vähittäiskaupan konseptit](course)
+- Which quarter is [Tilinpäätösanalyysi](course)
+- What is the quarter of [Medioitu vuorovaikutus](course)
+- Which quarter will [Basics of Project Management](course) begin
+- I want to know which semester will [Sosiologia (verkkokurssi)](course) start
+- I want to know which semester is [Tutkimusseminaari ja pro gradu -tutkielma](course)
+- I want to know the study period of [Rahatalous](course)
+- I want to know the academic term for [Bioinformatics project](course)
+- Period [KATTAP11](course)
+- Semester [Parametric and Non-Parametric Statistics](course)
+- Quarter [Master's Seminar and Thesis](course)
+- Academic term [Ruotsin kielen kirjallinen ja suullinen viestintä / AHOT (näyttökoe)](course)
+- [Epidemiology Journal Club](course) semester
+- [Marketing Communications](course) academic term
+- [Kirjallinen viestintä I/Skriftlig kommunikation I](course) quarter
+- This semester [Yhteisöllinen oppiminen ja ohjaus - Seminaari](course)
+- What period [Liikuntatuutorina toimiminen - Liikuntatuutoriperehdytys](course)
+- What study period [Kick-start to Biomedical Technology](course)
+- What study period is [Pro gradu -seminaari ja -tutkielma](course) in
+- What period will [Writing the Nation](course) begin
+- [Julkaisun visuaalisuus: Taitto](course) period
+- Is [Julkisoikeuden syventävä tutkimusjakso](course) this period
+- Which period is [Terveystieteiden tilastolliset tutkimusmenetelmät](course)
+- Which period will [Mediakulttuurit / Harjoitukset - 2.vsk + 1.vsk ryhmät 6 ja 7](course) begin
+- What period will [Tiimi toimii - puheviestinnän syventävä kurssi (1.-2.periodi)](course) begin
+- [Kielen kehitys / Luennot- 2.vsk + 1.vsk ryhmät 6 ja 7](course) curriculum
+- When is [Understanding Legal Regulation of Business](course) in the curriulum
+- The period of [Julkisuuden tuottamisen käytännöt](course)
+- Study period of [Valinnainen jakso: Radioprojekti (kevät)](course)
+- Semester [Kielioppi I (suomenkieliset opiskelijat)](course)
+- Which semester will [Verkostoitunut maailma](course) start
+- Which semester is [Ruotsin kielen kirjallinen ja suullinen viestintä](course)
+- Is [Eriytyvä syventävä tutkimusmenetelmäkurssi A: Kirjoittaminen ja käsitteellistäminen tieteellisenä menetelmänä](course) this semester
+- What semester is [Musiikki - Musiikkikasvatuksen perusteet 1- 1. vsk ja  erillisen opinto-oikeuden POM-opintoihin saaneet opiskelijat](course)
+- Academic term [Tutkimusseminaari ja pro gradu -tutkielma](course)
+- Which academic term will [Espanja I](course) begin
+- Which academic term is [Johtaminen ja organisaatiot I (kirjallisuus)](course)
+- [Työmarkkinat, työvoiman käyttö ja työllisyysturva](course) academic term
+- Which semester will [Harjoittelu / Elinikäinen oppiminen ja kasvatus, Essee työkokemuksen pohjalta, slk18](course) begin
+- The period of [Vakuutustoiminnan periaatteet ja johtaminen](course)
+- The semester of [Tutkijan työpaja](course)
+- The academic term of [Erikoiskurssi](course)
+- The quarter of [Opetussuunnitelmateoria, kirjatentti](course)
+- Which quarter is [Eläimet työssä](course)
+- What is the quarter of [Stem Cells Laboratory Course](course)
+- Which quarter will [Äkilliset traumaattiset kriisit ja niiden käsittely](course) begin
+- I want to know which semester will [Tekninen ihmisyys](course) start
+- I want to know which semester is [Lain ja hallinnon käännösviestinnän seminaari ranska-suomi](course)
+- I want to know the study period of [Kvantitatiiviset tutkimusmenetelmät (kirjatentti/essee)](course)
+- I want to know the academic term for [Pohjoismaiden yhteiskuntaolot ja kulttuurit](course)
+- Period [KATTAP11](course)
+- Semester [Genetics and Pathogenesis of Common Killers](course)
+- Quarter [Lokalisoinnin peruskurssi](course)
+- Academic term [Sosiaalityön toimintaympäristöt](course)
+- [Visuaalisen kulttuurin syventymiskohde - Seminaari](course) semester
+- [Doctoral Studies](course) academic term
+- [Health systems and health in developing Asia: India, China, and North Korea](course) quarter
+- This semester [Pedagoginen johtaminen - Luennot ja ryhmätyöskentely](course)
+- What period [Fördjupad kurs i skriftlig och muntlig affärskommunikation](course)
+- What study period [Open Educational Resources - Lectures, seminars etc. in other universities or institutions](course)
+- What study period is [Nuorten ja aikuisten mielenterveyden arviointi](course) in
+- What period will [Kasvatus tieteellisen tutkimuksen kohteena - avoin yo, lähi- ja monimuotototeutus](course) begin
+- [Persoonallisuuspsykologia I](course) period
+- Is [Kvantitatiivinen tutkimus kasvatustieteissä - Harjoitukset, yleinen OPETUS PERUUTETTU](course) this period
+- Which period is [Poliittiset ongelmat ja niiden muuttuvat kontekstit](course)
+- Which period will [Terveystaloustieteen tohtorikoulutussemiaari](course) begin
+- What period will [Liikuntatuutorina toimiminen - Liikuntatuutoriperehdytys](course) begin
+- [Ryhmät ja ryhmien väliset suhteet](course) curriculum
+- When is [Paikallisen hallinnan teoriat - Lukupiiri](course) in the curriulum
+- The period of [Yrityksen taloustieteellisen tutkimuksen perusteet](course)
+- Study period of [Muu valinnainen kurssi](course)
+- Semester [Orientaatio yhteiskuntatutkimuksen opintoihin](course)
+- Which semester will [Latinan kielen alkeiskurssi](course) start
+- Which semester is [Simultaanitulkkaus I venäjä-suomi-venäjä](course)
+- Is [Työ- ja virkamiesoikeus](course) this semester
+- What semester is [Sosiaalityön arvot, etiikka ja vapaaehtoistyö](course)
+- Academic term [Matematiikkakasvatus / Luennot - 2.vsk + 1.vsk ryhmät 6 ja 7](course)
+- Which academic term will [Journalismin perusteet, luennot](course) begin
+- Which academic term is [Tiivistämisen taito](course)
+- [Liike- ja työsopimukset](course) academic term
+- Which semester will [Käännösviestintä suomi-ruotsi/Översättning finska-svenska](course) begin
+- The period of [Moniammatilliset johtamisopinnot](course)
+- The semester of [Rakenneyhtälömallinnus kasvatustieteellisessä tutkimuksessa](course)
+- The academic term of [Erot, jaot ja niiden rakentuminen, kirjatentti, Pori](course)
+- The quarter of [Valinnainen jakso: Valokuva historian tekijänä - työpaja](course)
+- Which quarter is [Vaikuttaminen ja argumentointi](course)
+- What is the quarter of [Managing e-commerce; Consumers and Community Perspective](course)
+- Which quarter will [Rauha, turvallisuus ja kansainväliset instituutiot (kirjatentti/essee)](course) begin
+- I want to know which semester will [Viestinnän etiikka - verkkokurssi](course) start
+- I want to know which semester is [Introduction to Web Publishing (Tampere Summer School 2018)](course)
+- I want to know the study period of [Liike-elämän ruotsia I](course)
+- I want to know the academic term for [Vertaisohjaus tietojenkäsittelytieteissä](course)
+- Period [KATTAP11](course)
+- Semester [Omaan tieteenalaan ja tutkimusaiheeseen liittyvät opinnot](course)
+- Quarter [Tekstiklinikka tutkielman kirjoittajille](course)
+- Academic term [Valinnainen jakso: Podcastit ja äänimedian ajankohtaisjournalismi](course)
+- [Kuvataiteen perusteet - 1.vsk](course) semester
+- [Tutkiva ja kehittävä opettaja](course) academic term
+- [Tilastotieteen matriisilaskenta ja laskennalliset menetelmät](course) quarter
+- This semester [Euroopan unioni (kirjatentti/essee)](course)
+- What period [Seminaari II / Seminar II](course)
+- What study period [Lokalisoinnin peruskurssi](course)
+- What study period is [Tilinpäätösanalyysi](course) in
+- What period will [Kandidaatintutkielma ja seminaari, kevät 2019](course) begin
+- [Environment and Well-Being](course) period
+- Is [Tragedy of the Commons? Problems and Solutions](course) this period
+- Which period is [Cultural Conversations](course)
+- Which period will [Historian määrällisen tiedon esittäminen](course) begin
+- What period will [Intercultural Communication](course) begin
+- [Käännös suomi-espanja I/Traducción finés-español I](course) curriculum
+- When is [Kestävän kehityksen johdantojakso](course) in the curriulum
+- The period of [Tieteellinen kirjoittaminen (SOC)](course)
+- Study period of [Aikuiskasvatus ja työelämä - Seminaari ja lukupiiri (II-III per.) TAI kirjatentti (slk ja klk)](course)
+- Semester [Nuorisotyön ja nuorisotutkimuksen maisteriohjelman lähijakso 10.-11.1.2019](course)
+- Which semester will [Puheviestinnän tutkimuskurssi](course) start
+- Which semester is [All You Wanted to Know about Elections - But Never Dared to Ask (POMLFCS1)](course)
+- Is [Liike-elämän ruotsia I / näyttökoe (AHOT)](course) this semester
+- What semester is [Persoonallisuuspsykologia II](course)
+- Academic term [Normit ja asiakirjoittaminen - Kääntäjän kielen- ja tekstinhuolto](course)
+- Which academic term will [Kielen variaatio](course) begin
+- Which academic term is [Literary Theory and Methodology](course)
+- [Perusharjoittelu A - Ohjattu opetusharjoittelu](course) academic term
+- Which semester will [Tieteellinen kirjoittaminen / Wissenschaftliches Schreiben](course) begin
+- The period of [Algorithmic Problem Solving](course)
+- The semester of [Internet ja vuorovaikutteinen media (syksyllä 2017 perusopinnot aloittaneille) - verkkokurssi](course)
+- The academic term of [Johdatus hallintotieteeseen](course)
+- The quarter of [Valtio-opin teoriat (kirjatentti/essee)](course)
+- Which quarter is [Kuntien ja alueiden kansainväliset hallintasuhteet](course)
+- What is the quarter of [Asiantuntemus ja arjen ympäristöpolitiikka (esseesuoritusvaihtoehto) - oppimispaivakirja ja teemaessee](course)
+- Which quarter will [Historian määrällisen tiedon esittäminen](course) begin
+- I want to know which semester will [Liikunta pedagogisena ilmiönä - A Liikunnan ainedidaktiikka (ryhmät)](course) start
+- I want to know which semester is [Hydrogel Journal Club](course)
+- I want to know the study period of [Introduction to Academic English (diverse learners)](course)
+- I want to know the academic term for [Julkisorganisaation talouden suunnittelu ja päätöksenteko](course)
+- Period [KATTAP11](course)
+- Semester [Parties, Elections and Political Participation (book exam/essay)](course)
+- Quarter [Ranska eilen, tänään ja huomenna](course)
+- Academic term [Ajankohtaiset ilmiöt hallintotieteissä](course)
+- [Verkkomedian suunnittelu](course) semester
+- [Vuorovaikutuksen perusteet - verkkokurssina I](course) academic term
+- [Kasvatus, koulutus ja yhteiskunta, verkko-opetus](course) quarter
+- This semester [Saksankielisten maiden kulttuurihistoria / Kulturgeschichte der deutschsprachigen Länder](course)
+- What period [Teknologiat ja materiaalisuus terveyskysymyksissä](course)
+- What study period [Biostatistiikka ja tilastollinen tietojenkäsittely](course)
+- What study period is [Tieteellisen artikkelin tehokas kirjoittaminen](course) in
+- What period will [Re-Thinking Value Creation](course) begin
+- [Johdatus taloushallintoon](course) period
+- Is [Comparative Education - Lectures in English (spring) or book exam in English (autumn and spring)](course) this period
+- Which period is [Sopimusoikeus](course)
+- Which period will [Vuorovaikutus ja tekstit S2-näkökulmasta](course) begin
+- What period will [Varhaiskasvatuksen ja esiopetuksen pedagogiikka - Työssäoppiminen 2.vsk (ryhmät 1-3)](course) begin
+- [Research seminar for postgraduate studies](course) curriculum
+- When is [Kielioppi II](course) in the curriulum
+- The period of [Tilastomenetelmien perusteet, iltaryhmä](course)
+- Study period of [Latinalaisen amerikan lähihistoria ja kirjallisuus/Historia y literature contemporáneas de Latinoamérica](course)
+- Semester [Orientation - General Orientation Course for International Students](course)
+- Which semester will [Kirjallisuustieteen tohtoriohjelman tutkijaseminaari](course) start
+- Which semester is [Tutkimusseminaari ja pro gradu -tutkielma](course)
+- Is [Kielitieteen historia ja tutkimussuunnat](course) this semester
+- What semester is [Kasvatus, koulutus ja yhteiskunta, monimuoto-opetus](course)
+- Academic term [Literature and Change after 1900 (American Literature)](course)
+- Which academic term will [Fonetiikan ja yleisen kielitieteen perusteet - Yleinen kielitiede](course) begin
+- Which academic term is [Ääntämisharjoituksia](course)
+- [Musiikin perusteet / Luennot - 1.vsk ryhmät 1-5](course) academic term
+- Which semester will [Tutkimustyön perusteet (kevät, optio ryhmälle)](course) begin
+- The period of [Tutkimusprosessin hallinta - Läsnäoloon perustuva oppimispäiväkirja](course)
+- The semester of [Tulkin oikeustieto I](course)
+- The academic term of [Vuorovaikutusprosessit työelämän tilanteissa (monimuoto-opetus)](course)
+- The quarter of [Näkökulmia kääntämiseen - Kääntäminen viestinnällisenä asiantuntijatehtävänä / Perspektiven auf Übersetzen](course)
+- Which quarter is [Finnish Advanced Course 2 (taught in Finnish)](course)
+- What is the quarter of [Identity Conflicts in the Arab Worlds](course)
+- Which quarter will [Poliittiset prosessit (kirjatentti/essee)](course) begin
+- I want to know which semester will [Varhaiskasvatuksen pedagogiikka ja opetussuunnitelmatyö / Harjoitukset - 2.vsk + 1.vsk ryhmät 6 ja 7](course) start
+- I want to know which semester is [Introduction to Big Data Processing](course)
+- I want to know the study period of [Johdatus oikeusjärjestykseen (verkkokurssi)](course)
+- I want to know the academic term for [Orientaatio sosiaalityön opintoihin](course)
+- Period [KATTAP11](course)
+- Semester [Visuaalisen kulttuurin teoria - lukupiiri ja essee](course)
+- Quarter [Dialogue: Constructive Talk at Work](course)
+- Academic term [Sosiaalioikeus I](course)
+- [Henkilöriskien vakuuttaminen](course) semester
+- [Global contexts of violence. Gender related violence in the landscape of global vulnerabilities (web course)](course) academic term
+- [Verkkomedian suunnittelu - verkkokurssi](course) quarter
+- This semester [Mathematics and statistics for bioinformatics](course)
+- What period [Communication écrite/Kirjallinen viestintä](course)
+- What study period [Tieteellinen kirjoittaminen / Wissenschaftliches Schreiben](course)
+- What study period is [Mediakasvatus, osallisuus ja aktiivinen kansalaisuus, kirjatentti, Pori](course) in
+- What period will [Orientation Day for International Doctoral Researchers](course) begin
+- [Seminaari I, kandidaatintutkielma ja kypsyysnäyte](course) period
+- Is [Poliittiset prosessit (kirjatentti/essee)](course) this period
+- Which period is [Venäjä III](course)
+- Which period will [Lasten oikeuspsykologia](course) begin
+- What period will [Venäjä IV](course) begin
+- [Immunologian perusteet](course) curriculum
+- When is [Postcolonial Literature](course) in the curriulum
+- The period of [Tieteellinen kirjoittaminen](course)
+- Study period of [European Public Law](course)
+- Semester [Tieteellisen tiedonhankinnan perusteet (englannin kieli, kirjallisuus ja kääntäminen)](course)
+- Which semester will [Economics and the Business Environment](course) start
+- Which semester is [Scientific Writing - Module A - Writing Clinic](course)
+- Is [Musiikki - Musiikkikasvatuksen perusteet 1- 1. vsk ja  erillisen opinto-oikeuden POM-opintoihin saaneet opiskelijat](course) this semester
+- What semester is [Sosiaalityö terveydenhuollossa](course)
+- Academic term [Aikuisten mielenterveysinterventiot](course)
+- Which academic term will [Äänne- ja muoto-oppi](course) begin
+- Which academic term is [Kielen käyttö I](course)
+- [Literary Theory and Methodology](course) academic term
+- Which semester will [Terveystiedon perusteet](course) begin
+- The period of [Seminaari II](course)
+- The semester of [Teoria perhehoitotieteessä](course)
+- The academic term of [Ainedidaktiikka I](course)
+- The quarter of [Networks in Service Business](course)
+- Which quarter is [Farmakologisen biologian perusteet](course)
+- What is the quarter of [Legal English](course)
+- Which quarter will [Oikeustulkkaus I/II (monikielinen)](course) begin
+- I want to know which semester will [Terveystieteiden orientoivat tohtoriopinnot](course) start
+- I want to know which semester is [Kaunokirjallinen kääntäminen venäjä-suomi](course)
+- I want to know the study period of [Tieteellinen kirjoittaminen](course)
+- I want to know the academic term for [Behavioraalinen ja psykologinen taloustiede](course)
+- Period [KATTAP11](course)
+- Semester [Fonetiikan teoriaa - Fonetiikan jatkokurssi](course)
+- Quarter [Julkiset rahoitusjärjestelmät](course)
+- Academic term [Orientaatio filosofian tutkinto-ohjelman opintoihin](course)
+- [Syventävä projekti, keväällä 2018 alkanut](course) semester
+- [Rakenneyhtälömallinnus kasvatustieteellisessä tutkimuksessa](course) academic term
+- [Eriytyvä syventävä tutkimusmenetelmäkurssi A: Research methods in education policy](course) quarter
+- This semester [Ekonometrian jatkokurssi](course)
+- What period [Orientoivat opinnot - Alkuorientaatio](course)
+- What study period [Cultural Conversations](course)
+- What study period is [Tieteellinen kommunikaatio ja bibliometriikka](course) in
+- What period will [Asiantuntijan puheviestintä ja vuorovaikutus sosiaali- ja terveysalalla (2. periodi)](course) begin
+- [Moniammatilliset oppimisyhteisöt - Seminaari](course) period
+- Is [Varhaiskasvatuksen kehittyvä asiantuntijuus - Työssäoppiminen (2.vsk ryhmä 4)](course) this period
+- Which period is [Poliittisen sosiologian käsitteet ja tutkimukset](course)
+- Which period will [The Theory and Method of International Relations (theory) (book exam)](course) begin
+- What period will [Cultural Conversations](course) begin
+- [Kielioppi I / Grammatik I](course) curriculum
+- When is [Työhyvinvointi (itsenäinen suoritustapa)](course) in the curriulum
+- The period of [Terveys, arki ja toimijuus, kirjatentti](course)
+- Study period of [Eriytyvä syventävä tutkimusmenetelmäkurssi A: Kirjoittaminen ja käsitteellistäminen tieteellisenä menetelmänä](course)
+- Semester [Hoitotieteen tohtorikoulutusseminaari](course)
+- Which semester will [Suurvalta kriiseissä: näkökulmia Venäjän historiaan 1700-luvulta 1900-luvulle](course) start
+- Which semester is [Gender in Society](course)
+- Is [Public Financial Management and Evolving Administrative Structures](course) this semester
+- What semester is [Cultural Transitions](course)
+- Academic term [Tietokäytännöt (keväällä 2018 perusopinnot aloittaneille) - verkkokurssi](course)
+- Which academic term will [Kehittyminen johtajaksi terveydenhuollossa](course) begin
+- Which academic term is [Tutkimustyön perusteet - d) Kandidaattiseminaari (keväällä 2019 alkava)](course)
+- [Mediakasvatus, osallisuus ja aktiivinen kansalaisuus, kirjatentti, Pori](course) academic term
+- Which semester will [Pratiques de l'écrit: méthodes et techniques d'expression écrite/Kirjoitusharjoituksia: kirjallisen esityksen metodit ja tekniikka](course) begin
+- The period of [Laaja-alaistava harjoittelu - Opetus- ja koulutushallinnon luennot](course)
+- The semester of [Kansainväliset vakuutusmarkkinat ja jälleenvakuutus](course)
+- The academic term of [Näkökulmia kääntämiseen - Käännös-, rakenne- ja sanastoharjoitukset I / Perspektiven auf Übersetzen](course)
+- The quarter of [Kvalitatiivinen tutkimus kasvatustieteissä - Harjoitukset, Ryhmä, yhteinen varhaiskasv. ja luokanop. ryhmä](course)
+- Which quarter is [Professional Writing (online course)](course)
+- What is the quarter of [Aktuelle Texte aus Presse und Studium](course)
+- Which quarter will [Nuorisotyön ja nuorisotutkimuksen maisteriohjelman lähijakso 9.11.2018](course) begin
+- I want to know which semester will [Terveys ja talous](course) start
+- I want to know which semester is [Oikeustieteellinen tutkimus](course)
+- I want to know the study period of [Kirjallinen viestintä I (venäjänkieliset opiskelijat)](course)
+- I want to know the academic term for [Tutkiva opiskelu (keväällä 2019 perusopinnot aloittaville) - verkkokurssi](course)
+- Period [KATTAP11](course)
+- Semester [Psykologian tutkimusmenetelmät II: kokeellinen ja korrelatiivinen tutkimus](course)
+- Quarter [Ruotsin kielen kirjallinen ja suullinen viestintä (JKK: HK & YTK / EDU / LUO / COMS: HuK, LuK & YTK / SOC)](course)
+- Academic term [KEB-61430 Laaja kemia 3](course)
+- [Tutkielmaseminaari (kevätlukukaudelta 2018 jatkavat seminaarit)](course) semester
+- [Introduction to Academic English (diverse learners)](course) academic term
+- [Asiantuntijan ja esimiehen työelämätaidot](course) quarter
+- This semester [Talous ja yhteiskunta](course)
+- What period [Populaarikulttuuri ja -kirjallisuus](course)
+- What study period [Tutkijan työpaja](course)
+- What study period is [The Theory and Method of International Relations (seminar) (book exam)](course) in
+- What period will [Julkisen talousjohtamisen tutkimusotteet](course) begin
+- [Distributed Systems](course) period
+- Is [Johtamisviestintä](course) this period
+- Which period is [Kandidaattitutkielma ja seminaari (matematiikka) - seminaari](course)
+- Which period will [Parties, Elections and Political Participation (book exam/essay)](course) begin
+- What period will [Radiojournalismi](course) begin
+- [Sukupuolentutkimus](course) curriculum
+- When is [Kvantitatiivinen tutkimus kasvatustieteissä - Harjoitukset, yhteisopetusta avoimen yo:n kanssa](course) in the curriulum
+- The period of [Kasvatus, koulutus ja yhteiskunta, monimuoto-opetus](course)
+- Study period of [Julkistalouden jatkokurssi](course)
+- Semester [Ruotsin kielen kirjallinen ja suullinen viestintä](course)
+- Which semester will [Orientoiva tutkielmaseminaari](course) start
+- Which semester is [Hoitotiede ja näytön ohjaama toiminta](course)
+- Is [Tieteellinen kirjoittaminen / SOC (historia & filosofia)](course) this semester
+- What semester is [Sosiaalioikeus](course)
+- Academic term [Maisteriopintojen esittely - CBDA](course)
+- Which academic term will [Konfliktinratkaisu (kirjatentti/essee)](course) begin
+- Which academic term is [Tiedonhankintataidot - Tiedonhankintataidot II - Tiedonhankinnan syventäminen](course)
+- [Kehittävä asiantuntijatyö organisaatioissa](course) academic term
+- Which semester will [Saksa IV](course) begin
+- The period of [Terveyden ja mielenterveyden psykologia I (avoin yliopisto)](course)
+- The semester of [Yritysetiikka (verkkokurssi)](course)
+- The academic term of [Julkisorganisaation talouden suunnittelu ja päätöksenteko](course)
+- The quarter of [Multidisciplinary Games and Internet Research](course)
+- Which quarter is [Journalistinen kieli - Tekstinhuolto](course)
+- What is the quarter of [Introduction to Corporate Social Responsibility](course)
+- Which quarter will [Software Engineering](course) begin
+- I want to know which semester will [Kandidaattiseminaari (JATKAVA, Vahtikari)](course) start
+- I want to know which semester is [Verotusmenettely ja oikeusturva verotuksessa](course)
+- I want to know the study period of [Introduction to Academic English / RPL (näyttökoe)](course)
+- I want to know the academic term for [Vapaaehtoistyö / Voluntary Work](course)
+- Period [KATTAP11](course)
+- Semester [Saksan kielen valmentava kurssi - Interkulturelles Training](course)
+- Quarter [Political Economy](course)
+- Academic term [Lineaarialgebra 1B](course)
+- [Pratiques de l'écrit: méthodes et techniques d'expression écrite/Kirjoitusharjoituksia: kirjallisen esityksen metodit ja tekniikka](course) semester
+- [Terveystiedon sisällöt (sähköinen tentti)](course) academic term
+- [Multidisciplinary Games and Internet Research](course) quarter
+- This semester [Pakolaisuus, tila ja hallinta](course)
+- What period [Lähtötasokoe](course)
+- What study period [Tutkimusprosessin hallinta tohtoriopinnoissa](course)
+- What study period is [Kandidaattiseminaari (Mustakallio)](course) in
+- What period will [Varhaiskasvatuksen kehittyvä asiantuntijuus - Työssäoppiminen (2.vsk ryhmä 4)](course) begin
+- [Sosiaalinen kognitio](course) period
+- Is [Talousviestintä / Wirtschaftskommunikation](course) this period
+- Which period is [Student Exchange - courses completed in foreign universities 2-8 ECTS](course)
+- Which period will [Organisation Theory and Analysis](course) begin
+- What period will [Tutkimus ja teoria](course) begin
+- [Syventävä projekti, keväällä 2018 alkanut](course) curriculum
+- When is [Tilinpäätös- ja verosuunnittelu](course) in the curriulum
+- The period of [Tekstin ymmärtäminen III](course)
+- Study period of [Orientoiva tutkielmaseminaari](course)
+- Semester [Poverty in the world: Hunger, inequalities and action](course)
+- Which semester will [Environmental History and Cultural Ecology of Russia (VENS20)](course) start
+- Which semester is [Opetus, ohjaus, oppiminen, monimuoto-opetus](course)
+- Is [Tulkin työkalupakki](course) this semester
+- What semester is [Mental Health Research: Using the Knowledge and Adding to it](course)
+- Academic term [Individual project course](course)
+- Which academic term will [Orientoivat opinnot ja HOPS (pohjoismaiset kielet)](course) begin
+- Which academic term is [Työyhteisöjen muutos ja kehittäminen](course)
+- [Pedagoginen harjoittelu / Varhaiskasvatus](course) academic term
+- Which semester will [Introduction to Bayesian Analysis 1](course) begin
+- The period of [Puheviestinnän tutkimuskurssi](course)
+- The semester of [Managing industrial e-business and B2B](course)
+- The academic term of [Media maailmassa - verkkokurssi](course)
+- The quarter of [Kirjallisuuden analyysi/Analiz hudozhestvennoj literatury](course)
+- Which quarter is [Toiminta, tulkinta ja tieto](course)
+- What is the quarter of [Hoitot. tiedon hyödyntäminen johtamisessa ja opettamisessa: syventävä projektityö (kurssi jatkuu keväältä 2018)](course)
+- Which quarter will [Konfliktinratkaisu (kirjatentti/essee)](course) begin
+- I want to know which semester will [Ympäristöpolitiikan vaikutuskeinot](course) start
+- I want to know which semester is [SOTEPO - Tohtorikoulutusseminaari (Sos.- ja terv.pol., tervh.tutk., terv.huollon joht.)](course)
+- I want to know the study period of [Taloustieteen matematiikan jatkokurssi](course)
+- I want to know the academic term for [Terveystiedon didaktiikan perusteet](course)
+- Period [KATTAP11](course)
+- Semester [Terveyden edistämisen perusteet](course)
+- Quarter [Making sense of globalization - Theorizing beyond the nation-state - seminar](course)
+- Academic term [Media Landscape in Russia: Regional Perspective](course)
+- [Valinnainen jakso: Valokuva historian tekijänä - työpaja](course) semester
+- [Julkisen talousjohtamisen näkökulmia](course) academic term
+- [KV-tuutorina toimiminen](course) quarter
+- This semester [Study Skills and Personal Study Planning - Basics of Information Literacy](course)
+- What period [Satututkimuksen lukupiiri](course)
+- What study period [Julkinen eurooppaoikeus - Eurooppalaisen ihmisoikeustutkimuksen syventava kurssi](course)
+- What study period is [Tulkin työkalupakki](course) in
+- What period will [Tutkimusprosessin hallinta tohtoriopinnoissa](course) begin
+- [Kognitiivinen neurotiede I (avoin yliopisto)](course) period
+- Is [Puheen ja äänen harjoitusmenetelmät](course) this period
+- Which period is [Media, Race and Society](course)
+- Which period will [Sosiaalisen median yhteisöt: menetelmällisiä ratkaisuja määrällisestä laadulliseen](course) begin
+- What period will [Orientaatio maisteriopintoihin](course) begin
+- [Matemaattiset aineet - Johdatus lukukäsitteeseen ja toimintamateriaalit - 1. vsk  ja erillisen opinto-oikeuden POM-opintoihin saaneet opiskelijat (luennot)](course) curriculum
+- When is [Ethnographic Research](course) in the curriulum
+- The period of [PhD by publication: writing integrative chapter](course)
+- Study period of [Tutkimusprosessin hallinta tohtoriopinnoissa](course)
+- Semester [Yhteiskunnan tutkimuksen ajankohtaisia kysymyksiä - Tiedonhankinnan perusteet](course)
+- Which semester will [Johdatus taloushallintoon](course) start
+- Which semester is [Monikielisyys ja -kulttuurisuus](course)
+- Is [Kandidaattiseminaari ja -tutkielma (julkinen talousjohtaminen), syksy](course) this semester
+- What semester is [Eriytyvä syventävä tutkimusmenetelmäkurssi B: Metodologinen essee](course)
+- Academic term [Kvalitatiivinen tutkimus kasvatustieteissä - Harjoitukset, luokanopettajaryhmä](course)
+- Which academic term will [Usean muuttujan integraalilaskenta](course) begin
+- Which academic term is [Konsernitilinpäätös I](course)
+- [Vanhat ja uudet klassikot (kirjatentti/essee)](course) academic term
+- Which semester will [Taloustiede, talouspolitiikka ja ajankohtaiset taloudelliset ja yhteiskunnalliset ongelmat](course) begin
+- The period of [Seminaari II](course)
+- The semester of [Seminaari II / Seminar II](course)
+- The academic term of [SOS6.2.3 Työelämän vuorovaikutus](course)
+- The quarter of [Human Rights Law](course)
+- Which quarter is [Seminaari (Nikunen) jatkuu keväältä](course)
+- What is the quarter of [Liikuntatuutorina toimiminen / Sports Tutoring](course)
+- Which quarter will [Kirjallisuuden opettaminen](course) begin
+- I want to know which semester will [Tietokäytännöt (syksyllä 2018 perusopinnot aloittaville) - verkkokurssi](course) start
+- I want to know which semester is [Johdatus viestinnän tutkimukseen ja analyysiin](course)
+- I want to know the study period of [Biotechnical product development](course)
+- I want to know the academic term for [Kansainvälinen talous](course)
+- Period [KATTAP11](course)
+- Semester [Maailmanloppu nyt. Ja ennen.](course)
+- Quarter [Tilastotieteen johdantokurssi, syksy](course)
+- Academic term [Ulko- ja turvallisuuspoliittinen päätöksentekoharjoitus](course)
+- [Study Skills and Personal Study Planning - Basics of Information Literacy](course) semester
+- [Kvantitatiivinen tutkimus kasvatustieteissä - Harjoitukset, yleinen ja luokanopettajaopiskelijat](course) academic term
+- [Aikuiskasvatus ja työelämä, kirjatentti slk tai klk](course) quarter
+- This semester [Tieteellinen kirjoittaminen ja politiikan tutkimuksen aineistot](course)
+- What period [Asiakassuhde ja haastattelu](course)
+- What study period [Kilpailuoikeuden syventävä opintojakso - kirjatentti](course)
+- What study period is [Finlaysonin kielimaailmat](course) in
+- What period will [ABC of Scientific Communication](course) begin
+- [Ääntämisharjoituksia](course) period
+- Is [Student supervision in computer sciences](course) this period
+- Which period is [Saksa IV](course)
+- Which period will [Longitudinal and Finite Nonlinear Mixture Modelling and Associated Experimental Design Strategies (independent work and exams)](course) begin
+- What period will [Sosiaalitieteiden teoria I - SOS5b luennot](course) begin
+- [Internet ja vuorovaikutteinen media](course) curriculum
+- When is [Luottamustehtävissä toimiminen - Luottamustehtäväraportti](course) in the curriulum
+- The period of [Syventävä metodologia - Luennot](course)
+- Study period of [Yhteisö, terveys ja sairaus](course)
+- Semester [Konsernitilinpäätös I](course)
+- Which semester will [Eheyttävä musiikkikasvatus / Harjoitukset - 2.vsk](course) start
+- Which semester is [Kirjallisuuden teoria - Kirjallisuustieteen klassikoita](course)
+- Is [Valtio-opin maisteriseminaari](course) this semester
+- What semester is [Research on Public Management and Organizations](course)
+- Academic term [Finnish Elementary Course 1 (taught in 3. period)](course)
+- Which academic term will [Structure of English II - Phonology and Pronunciation II](course) begin
+- Which academic term is [Terveystieteiden laadulliset tutkimusmenetelmät (hoitotieteen opiskelijat), Seinäjoki](course)
+- [African and Black Diaspora Studies Research Seminar](course) academic term
+- Which semester will [The Study of World Politics (book exam/essay)](course) begin
+- The period of [Kansanterveystieteen käsitteitä ja teoreettisia kysymyksiä](course)
+- The semester of [Tutkimustyötä tukevat tohtoriopinnot (tietojenkäsittelyoppi)](course)
+- The academic term of [Recommender Systems](course)
+- The quarter of [Analyysi A](course)
+- Which quarter is [European, Eurasian and Global Energy Policies](course)
+- What is the quarter of [Study Skills and Personal Study Planning - Basics of Information Literacy](course)
+- Which quarter will [Espanjan kielioppi II/Gramática española II](course) begin
+- I want to know which semester will [English Word Formation](course) start
+- I want to know which semester is [Kandidaattiseminaari ja kandidaatin tutkielma - Kandiseminaari](course)
+- I want to know the study period of [History of English](course)
+- I want to know the academic term for [Dialogitulkkaus](course)
+- Period [KATTAP11](course)
+- Semester [Visuaalisen journalismin perusteet, luennot](course)
+- Quarter [Asiantuntijan puheviestintä ja vuorovaikutus (INTENSIIVIKURSSI 17.8.-29.8.18)](course)
+- Academic term [Seminar, Bachelor's Thesis and Maturity Test - Seminar](course)
+- [Tiede ja teknologia -tutkimusseminaari](course) semester
+- [Kansainväliset vakuutusmarkkinat ja jälleenvakuutus](course) academic term
+- [Poliittiset ongelmat ja niiden muuttuvat kontekstit (kirjatentti)](course) quarter
+- This semester [Poliittiset aatteet ja ideologiat](course)
+- What period [Ranska II](course)
+- What study period [Second Language Acquisition](course)
+- What study period is [Lasten ja nuorten neuropsykologien kuntoutus](course) in
+- What period will [Varhaisiän musiikkikasvatus / Harjoitukset - 2.vsk](course) begin
+- [Scientific Writing - Module A - Writing Clinic](course) period
+- Is [Tutkimushaastattelu: taito, tyylit ja kohderyhmät](course) this period
+- Which period is [Kvantitatiivinen tutkimus kasvatustieteissä - Harjoitukset, yleinen](course)
+- Which period will [Johdatus kaunokirjalliseen kääntämiseen](course) begin
+- What period will [Saksankielinen nykykirjallisuus / Deutschsprachige Gegenwartsliteratur](course) begin
+- [Neurocomputing](course) curriculum
+- When is [Introduction to computational biology](course) in the curriulum
+- The period of [Asiantuntijan puheviestintä ja vuorovaikutus opetus- ja kasvatustyössä (3. periodi)](course)
+- Study period of [Poliittiset prosessit (kirjatentti/essee)](course)
+- Semester [Study Skills - Basics of Information Literacy](course)
+- Which semester will [Sopimusoikeus](course) start
+- Which semester is [Kasvatustieteiden perusopinnot lukuvuonna 2018-2019 - yhteinen johdantoluento](course)
+- Is [Monikieliset tekstikorpukset (verkkokurssi)](course) this semester
+- What semester is [Lasten oikeuspsykologia](course)
+- Academic term [Basics I: Basics of Czech language II](course)
+- Which academic term will [Tekninen kirjoittaminen (suomi)](course) begin
+- Which academic term is [Teaching, Pedagogical Facilitating, Learning](course)
+- [Tiedonhankintataidot - Tiedonhankintataidot IV - Viitteiden hallinta (hoitotieteen opiskelijoille)](course) academic term
+- Which semester will [Lasten monipaikkainen asuminen](course) begin
+- The period of [Toisen kielen oppiminen ja opetus](course)
+- The semester of [Erikoisalojen käännösviestinnän seminaari ruotsi-suomi](course)
+- The academic term of [Kandidaattiseminaari ja tutkielma (laskentatoimi) - Kandidaattiseminaari, kevät 2018](course)
+- The quarter of [Statistics Workshop](course)
+- Which quarter is [Merkitys](course)
+- What is the quarter of [Kansainvälinen yhteisö (kirjatentti/essee)](course)
+- Which quarter will [Laskentatoimen teoria ja IFRS II](course) begin
+- I want to know which semester will [Hallinto-oikeuden syventävä jakso](course) start
+- I want to know which semester is [Tutkimustyötä tukevat tohtoriopinnot (matematiikka)](course)
+- I want to know the study period of [Normit ja asiakirjoittaminen - Tieteellinen kirjoittaminen](course)
+- I want to know the academic term for [Tila, teknologia ja toiminta - essee](course)
+- Period [KATTAP11](course)
+- Semester [ABC of Scientific Communication](course)
+- Quarter [Tutkiva opiskelu (keväällä 2019 perusopinnot aloittaville) - verkkokurssi](course)
+- Academic term [Orientoivat opinnot - Orientoivat opinnot](course)
+- [Tilastollisen tutkimuksen perusteet](course) semester
+- [Ranska II](course) academic term
+- [Sustainable business practices (Independent study)](course) quarter
+- This semester [Ranskan kirjallisuus II / Littérature française II](course)
+- What period [Media and Globalization - Lectures + essay](course)
+- What study period [Pro gradu -tutkielma ja -seminaari, syksyllä 2018 aloittavat ryhmät](course)
+- What study period is [Eriytyvä syventävä tutkimusmenetelmäkurssi A: Diskurssianalyysi](course) in
+- What period will [Media maailmassa - verkkokurssi](course) begin
+- [Simultaanitulkkaus I saksa-suomi-saksa](course) period
+- Is [Terve ja sairas ihminen](course) this period
+- Which period is [Eriytyvä syventävä tutkimusmenetelmäkurssi A: Kehittävän työntutkimuksen menetelmät](course)
+- Which period will [Orientaatio filosofian tutkinto-ohjelman opintoihin](course) begin
+- What period will [Kirjallinen ja suullinen viestintä III/Pis'mennaja i razgovornaja praktika](course) begin
+- [Yhdyskuntakehittämisen ajankohtaisia kysymyksiä](course) curriculum
+- When is [Kielitieto ja -taito - Fraseologia  / Sprachwissen und Sprachfertigkeiten: Phraseologie](course) in the curriulum
+- The period of [Tutkimustyön perusteet - a) Tieteenfilosofia](course)
+- Study period of [Liiketoimintamallit](course)
+- Semester [Readings in Entrepreneurship](course)
+- Which semester will [Asiantuntijan puheviestintä ja vuorovaikutus (1. periodi)](course) start
+- Which semester is [Introduction to Academic English (JKK, EDU, LUO, COMS & SOC)](course)
+- Is [Tieteellinen kirjoittaminen / COMS (kirjallisuuden opiskelijoille)](course) this semester
+- What semester is [Sisäinen valvonta ja sisäinen tarkastus](course)
+- Academic term [Kandidaatintutkielmaseminaari - Seminaari](course)
+- Which academic term will [Työ- ja organisaatiopsykologia II](course) begin
+- Which academic term is [Liikuntatuutorina toimiminen / Sports Tutoring](course)
+- [Audiovisuaalisen kääntämisen seminaari / Kuvailutulkkaus](course) academic term
+- Which semester will [Hands-on genetics](course) begin
+- The period of [Työn uusi järjestys ja aikuiskasvatus - Seminaari](course)
+- The semester of [Johdatus yritysjuridiikkaan](course)
+- The academic term of [Tila, teknologia ja toiminta: Lukuseminaari: Julkinen toiminta teknoyhteiskunnassa](course)
+- The quarter of [Kasvatus, koulutus ja yhteiskunta - Luennot ja kirjallisuus](course)
+- Which quarter is [Viestinnän ja median tutkimuksen metodologia, harjoitukset vaihtoehtoisissa työpajoissa](course)
+- What is the quarter of [Tieteellinen kirjoittaminen / SOC (historia & filosofia)](course)
+- Which quarter will [Teoria- ja metodiopinnot](course) begin
+- I want to know which semester will [Political Ideologies (book exam)](course) start
+- I want to know which semester is [OASIS Key Master 2018-2019](course)
+- I want to know the study period of [Orientoivat opinnot ja HOPS](course)
+- I want to know the academic term for [Orientaatio yhteiskuntatutkimuksen opintoihin](course)
+- Period [KATTAP11](course)
+- Semester [Terveys ja talous](course)
+- Quarter [Filosofian tutkija- ja tohtorikoulutusseminaari](course)
+- Academic term [Markkinoinnin johtaminen ja organisointi](course)
+- [Kulttuurinen monimuotoisuus koulutuksessa ja työelämässä, kirjatentti, Pori](course) semester
+- [Kääntäjän ja tulkin työelämätaidot](course) academic term
+- [Tiedonhankintataidot 3op - Tiedonhankintataidot I - Tiedonhankinnan perusteet](course) quarter
+- This semester [Orientoivat ja asiantuntijuuden kehittymistä tukevat opinnot - HOPS-työskentely](course)
+- What period [Suomet vieraina suussa](course)
+- What study period [Kasvatus tieteellisen tutkimuksen kohteena, verkko-opetus, II-periodi](course)
+- What study period is [Aluetalous ja kaupunkitalous](course) in
+- What period will [Finnish Society and Culture (spring)](course) begin
+- [Talouselämän käännösviestinnän seminaari suomi-saksa -](course) period
+- Is [Eheyttävä musiikkikasvatus / Harjoitukset - 2.vsk](course) this period
+- Which period is [Genes and Genomes](course)
+- Which period will [Tiimi toimii - puheviestinnän syventävä kurssi (4. periodi)](course) begin
+- What period will [Kansainvälisen politiikan erikoistuvat menetelmäopinnot (kirjatentti/essee)](course) begin
+- [Kandidaattiseminaari (Aatsinki)](course) curriculum
+- When is [Palvelut ja hyvinvointivaltion murros](course) in the curriulum
+- The period of [Markkinoinnin ja myynnin perusteet](course)
+- Study period of [Harjoittelu / Elinikäinen oppiminen ja kasvatus - Arviointiseminaari vuonna 2018 harjoitteleville](course)
+- Semester [Verkkomedian suunnittelu - verkkokurssi](course)
+- Which semester will [Pro gradu -seminaari ja -tutkielma (julkisoikeus)](course) start
+- Which semester is [Orientation and Study Planning](course)
+- Is [Kvalitatiivinen tutkimus kasvatustieteissä - Harjoitukset, yleinen ryhmä](course) this semester
+- What semester is [Kandidaattiseminaari ja tutkielma (markkinointi) - kevät 2019](course)
+- Academic term [Making sense of globalization - Theorizing beyond the nation-state - seminar](course)
+- Which academic term will [Global Ghallenges to the Future of Welfare State (Tampere Summer School 2018)](course) begin
+- Which academic term is [Yliopistopedagogiikan perusteet](course)
+- [Keskiajan symboliikkaa -verkkokurssi](course) academic term
+- Which semester will [Terveyden edistäminen kansanterveystieteilijöille](course) begin
+- The period of [Writing for Research](course)
+- The semester of [Sosiaalipsykologinen ajattelu II](course)
+- The academic term of [Tutkielmaseminaari (kevätlukukaudelta 2018 jatkavat seminaarit)](course)
+- The quarter of [Perhe ja tunteet](course)
+- Which quarter is [Microfinance and development](course)
+- What is the quarter of [Tieteellinen kirjoittaminen](course)
+- Which quarter will [Ohjelmistotuotannon käytännöt](course) begin
+- I want to know which semester will [Tiimi toimii - puheviestinnän syventävä kurssi (3. - 4. periodi)](course) start
+- I want to know which semester is [Terveys ja talous](course)
+- I want to know the study period of [Lukuteoria ja algebra opettajille -](course)
+- I want to know the academic term for [Johdatus kasvatuksen ja koulutuksen yhteiskunnalliseen ja kulttuuriseen tutkimukseen - Luennot ja luentopäiväkirja](course)
+- Period [KATTAP11](course)
+- Semester [Tiedon organisointi ja informaatioarkkitehtuuri](course)
+- Quarter [Johdatus yhteiskuntafilosofiaan](course)
+- Academic term [The Cancer Biology Journal Club](course)
+- [Intermediate studies in Computer Science in TUT](course) semester
+- [Tieteellinen kirjoittaminen (2. vuosikurssin opiskelijoille)](course) academic term
+- [Kasvatus tieteellisen tutkimuksen kohteena - avoin yo, lähi- ja monimuotototeutus](course) quarter
+- This semester [Modernisoituva yhteiskunta](course)
+- What period [The Transformation of Global Environmental Politics (Tampere Summer School 2018)](course)
+- What study period [Eriytyvä syventävä tutkimusmenetelmäkurssi A: Kehittävän työntutkimuksen menetelmät](course)
+- What study period is [Dialogue: Constructive Talk at Work (Tampere Summer School 2018)](course) in
+- What period will [Language and Identity](course) begin
+- [Communication Skills in English - Speaking Practice](course) period
+- Is [Kandidaatin tutkielma ja seminaari (kurssi alkaa keväällä 2019 Hoitotieteen opiskelijoille)](course) this period
+- Which period is [Käännösviestintä ranska-suomi I /  Traduction français-finnois I](course)
+- Which period will [Arvonlisäverotus](course) begin
+- What period will [Foundations of English Business Communication](course) begin
+- [Matkakirjallisuus kulttuurihistorian lähteenä -verkkokurssi](course) curriculum
+- When is [Yksilö, yhteiskunta ja kulttuuri - Monikulttuurisuus koulussa - 2. vsk](course) in the curriulum
+- The period of [Global Terrorism: Political Violence in a Global Age](course)
+- Study period of [Terveysteknologia](course)
+- Semester [Draama - 2.vsk ja   opinnot 1½ lukuvuodessa suorittavat 1.vsk ja POM-opintoihin opinto-oikeuden saaneet opiskelijat( luennot)](course)
+- Which semester will [Kognitiivinen neurotiede II](course) start
+- Which semester is [Kasvatus tieteellisen tutkimuksen kohteena, verkko-opetus, III-periodi](course)
+- Is [Perusharjoittelu B - Ohjattu opetusharjoittelu](course) this semester
+- What semester is [Monimuuttujamenetelmien perusteet](course)
+- Academic term [Näkökulmia kääntämiseen - Tekstin ymmärtäminen](course)
+- Which academic term will [Normit ja asiakirjoittaminen - Kääntäjän kielen- ja tekstinhuolto](course) begin
+- Which academic term is [Introduction to Academic English / RPL (näyttökoe)](course)
+- [Markkinoinnin teoria](course) academic term
+- Which semester will [Vertaisohjaus tietojenkäsittelytieteissä](course) begin
+- The period of [Digitaalinen historia](course)
+- The semester of [Kokeellinen tiedonhaku](course)
+- The academic term of [Tutkiva ja kehittävä opettaja](course)
+- The quarter of [International Political Economy](course)
+- Which quarter is [Ranska III](course)
+- What is the quarter of [European Integration Theory and External Relations (book exam/essay)](course)
+- Which quarter will [Orientation to study in the Programme](course) begin
+- I want to know which semester will [Reportaasi](course) start
+- I want to know which semester is [Talouselämän ja tekniikan käännösviestinnän seminaari saksa-suomi](course)
+- I want to know the study period of [Proseminaari, kandidaatintutkielma ja kypsyysnäyte](course)
+- I want to know the academic term for [Johtamisen ja organisaatioiden perusteet](course)
+- Period [KATTAP11](course)
+- Semester [Verkkojulkaisemisen perusteet - syksy 2018](course)
+- Quarter [Finnish Elementary Course 3](course)
+- Academic term [Analyysi B](course)
+- [Organizational Behavior (Independent study, Spring 2019)](course) semester
+- [SOS6.2.3 Työelämän vuorovaikutus](course) academic term
+- [Musiikki - Musiikin teoria alakoulussa - 1. vsk ja  erillisen opinto-oikeuden POM-opintoihin saaneet opiskelijat](course) quarter
+- This semester [Johdatus länsimaiseen kirjallisuushistoriaan - harjoitukset](course)
+- What period [Orientoivat opinnot ja HOPS (englannin kieli, kirjallisuus ja kääntäminen)](course)
+- What study period [Nykyespanja ja espanja vieraana kielenä/Español actual y español lengua extranjera](course)
+- What study period is [Opetus, ohjaus, oppiminen (toteutus aineenopettajan pedagogisia opintoja lukuvuonna 2018-2019 suorittaville)](course) in
+- What period will [Liikuntapedagogiikan perusteet / Luennot - 1.vsk](course) begin
+- [Introduction to International Criminal Justice System](course) period
+- Is [Kandidaattiseminaari ja tutkielma (laskentatoimi) - Kandidaattiseminaari, syksy 2018](course) this period
+- Which period is [Makrotalousteorian jatkokurssi I](course)
+- Which period will [Kehitys, kasvatus ja elämänkulku - Pienryhmät 1 op ja kirjallisuus 2 op (EDUn tutkinto-opiskelijat, aineenop.opiskelijat, avoin yo/lähiopetus)](course) begin
+- What period will [Orientoivat opinnot - Alkuorientaatio](course) begin
+- [Foundations of English Business Communication (RPL) / näyttökoe](course) curriculum
+- When is [Puheen ja äänen tutkimusharjoittelu - Projekti / käytännön työ](course) in the curriulum
+- The period of [Tila, teknologia ja toiminta - essee](course)
+- Study period of [Journalismin perusteet, harjoitukset](course)
+- Semester [Äänen häiriöt](course)
+- Which semester will [Käännösten suomi](course) start
+- Which semester is [Writing for Research (online course)](course)
+- Is [Kieli käyttöön/Språket i bruk](course) this semester
+- What semester is [Introduction to Academic English (JKK, EDU, LUO, COMS & SOC)](course)
+- Academic term [Pedagoginen kehittäminen ja johtajuus / Harjoitukset - 3.vsk + 2.vsk ryhmä 4](course)
+- Which academic term will [Hoitotiede tieteenä](course) begin
+- Which academic term is [Algebra 1B](course)
+- [Kvantitatiivinen tutkimus kasvatustieteissä - Näyttökoe](course) academic term
+- Which semester will [Johdatus historiantutkimukseen (verkkokurssi)](course) begin
+- The period of [Äkilliset traumaattiset kriisit ja niiden käsittely](course)
+- The semester of [Master's Thesis Seminar / Internet and Game Studies](course)
+- The academic term of [Tuutorvastaavana toimiminen / Being a tutor in charge](course)
+- The quarter of [Rekisteritutkimukset](course)
+- Which quarter is [Kuvan uudet muodot](course)
+- What is the quarter of [Sisäinen valvonta ja sisäinen tarkastus](course)
+- Which quarter will [Political Communication and Rhetoric (book exam/essay)](course) begin
+- I want to know which semester will [Yhteisöviestintä kunta- ja aluejohtamisessa](course) start
+- I want to know which semester is [Asiantuntijan puheviestintä ja vuorovaikutus opetus- ja kasvatustyössä (3. periodi)](course)
+- I want to know the study period of [Foreign Policy and Diplomacy (book exam/essay)](course)
+- I want to know the academic term for [Asiantuntijuuden kehittymiseen orientoiva opintojakso - opintosuuntakohtaiset ryhmät jatkaville maisteriopiskelijoille (KASSY-, KASSO- ja KASSA-opintosuuntien ryhmiä)](course)
+- Period [KATTAP11](course)
+- Semester [Johdatus kunta- ja aluejohtamiseen](course)
+- Quarter [Nuorten ryhmät ja ryhmän ohjaus, harjoitukset](course)
+- Academic term [Kasvatus tieteellisen tutkimuksen kohteena, avoin yo, lähi- ja monimuotototeutus](course)
+- [Uskontojen antropologiaa](course) semester
+- [Talouselämän käännösviestinnän seminaari suomi-saksa -](course) academic term
+- [Molekyylibiologia](course) quarter
+- This semester [Kandidaatintutkielmaseminaari - Seminaari](course)
+- What period [Venäjä I](course)
+- What study period [Terve ja turvallinen kouluyhteisö](course)
+- What study period is [World society: National policies, global governance and transnational sociology](course) in
+- What period will [Kandidaattiseminaari ja -tutkielma (julkinen talousjohtaminen), kevät](course) begin
+- [History of English](course) period
+- Is [Ranska I](course) this period
+- Which period is [International Business Law](course)
+- Which period will [Journal club](course) begin
+- What period will [Tieteellisen tiedonhankinnan perusteet (venäjä) -](course) begin
+- [Johdatus Suomen kirjallisuushistoriaan - harjoitukset](course) curriculum
+- When is [Learning difficulties and the challenges in schooling in multicultural settings: critical reflections on the role of teachers](course) in the curriulum
+- The period of [Protein technology Laboratory Course A](course)
+- Study period of [Markkinointioikeuden oikeustaloustiede](course)
+- Semester [Seminaari I, kandidaatintutkielma ja kypsyysnäyte - Seminaari I](course)
+- Which semester will [Yhteiskunnan mittaaminen](course) start
+- Which semester is [Viestinnän ja median tutkimus](course)
+- Is [Kandidaatintutkielmaseminaari - Seminaari](course) this semester
+- What semester is [Asiantuntijuuden kehittymiseen orientoiva opintojakso - opintosuuntakohtaiset ryhmät jatkaville maisteriopiskelijoille (KASSY-, KASSO- ja KASSA-opintosuuntien ryhmiä)](course)
+- Academic term [Kliininen neuropsykologia II](course)
+- Which academic term will [Pedagoginen johtaminen - Luennot ja ryhmätyöskentely](course) begin
+- Which academic term is [Käännös suomi-espanja I/Traducción finés-español I](course)
+- [Valinnainen jakso: Audiovisuaalisen kerronnan teoria ja dramaturgia](course) academic term
+- Which semester will [Nuorisotyön ja nuorisotutkimuksen maisteriohjelman lähijakso 4.-5.10.2018](course) begin
+- The period of [Budgeting and capital budgeting (online course)](course)
+- The semester of [Kuva-  ja mediakulttuurit - Mediakulttuurit- I vsk ja  erillisen opinto-oikeuden POM-opintoihin saaneet opiskelijat (luennot)](course)
+- The academic term of [Kokeellinen, kokeileva ja kokemuksellinen sosiaalipsykologia](course)
+- The quarter of [Introduction to Big Data Processing](course)
+- Which quarter is [Johdatus etiikkaan](course)
+- What is the quarter of [Viestinnän ja median tutkimus](course)
+- Which quarter will [Theory and practice of peaceful change: The Baltic Sea Region](course) begin
+- I want to know which semester will [Osallistuminen opiskelijavaihtoon](course) start
+- I want to know which semester is [Kandidaatintutkielmaseminaari - Seminaari](course)
+- I want to know the study period of [Euroopan ulkopuoliset poliittiset järjestelmät (kirjatentti/essee)](course)
+- I want to know the academic term for [Tieteellisen tiedonhankinnan perusteet (venäjä) -](course)
+- Period [KATTAP11](course)
+- Semester [Valinnainen jakso: Dokumenttikurssi](course)
+- Quarter [Academic writing and theory](course)
+- Academic term [Dramaturgia: Musikaalin dramaturgia](course)
+- [Johdatus historiantutkimukseen (verkkokurssi)](course) semester
+- [Doctoral course on health policy](course) academic term
+- [Kansainvälistymistä ja verkostoitumista tukevat opinnot teatteritaiteen tohtorin tutkinnossa](course) quarter
+- This semester [Asiantuntijuuden kehittymiseen orientoiva opintojakso - v. 2018 EDUn opiskelijoiksi hyväksyttyjen ryhmät](course)
+- What period [Kognitiivinen neurotiede I (avoin yliopisto)](course)
+- What study period [Introduction to Academic English (online / JKK, EDU, LUO, COMS & SOC)](course)
+- What study period is [Johdatus hallintotieteeseen](course) in
+- What period will [World society: National policies, global governance and transnational sociology](course) begin
+- [Käännösviestintä II englanti-suomi](course) period
+- Is [Käsityö - Käsityö -1. vsk ja erillisen opinto-oikeuden POM-opintoihin saaneet opiskelijat (luennot)](course) this period
+- Which period is [Human Rights Law](course)
+- Which period will [World society: National policies, global governance and transnational sociology](course) begin
+- What period will [Syventävä ammatillinen asiantuntijuus - Johdanto kehittämistyöhön -luentoseminaari, Pori](course) begin
+- [Johdatus viestintään ja mediaan - verkkokurssi](course) curriculum
+- When is [Performance management in public organizations](course) in the curriulum
+- The period of [Kiina III](course)
+- Study period of [Opetussuunnitelmateoria, kirjatentti](course)
+- Semester [Project Work (Spring term 2018)](course)
+- Which semester will [Courses in Computer Science in TUT](course) start
+- Which semester is [Managing Research Information](course)
+- Is [Väestön terveys](course) this semester
+- What semester is [Muu valinnainen kurssi](course)
+- Academic term [Orientoivat opinnot - Tiedonhankintataidot I](course)
+- Which academic term will [Oppimisyhteisöt ja vuorovaikutus - Luennot ja seminaari (klk) TAI luennot ja kirjallisuus (klk) TAI kirjallisuus (slk ja klk)](course) begin
+- Which academic term is [Pedagoginen kehittäminen ja johtajuus / Harjoitukset - 3.vsk + 2.vsk ryhmä 4](course)
+- [Romanian kielen alkeet / Basic Course in Romanian](course) academic term
+- Which semester will [Käyttöliittymien perusteet](course) begin
+- The period of [Erikoisalojen käännösviestinnän seminaari ruotsi-suomi](course)
+- The semester of [Kasvatus tieteellisen tutkimuksen kohteena - verkko-opetus, II-periodi](course)
+- The academic term of [Dialogitulkkaus / Dialogdolmetschen](course)
+- The quarter of [Specialised International Relations Research Methods (book exam/essay)](course)
+- Which quarter is [Global Issues on Mental Health and Mental Health Services - Web course](course)
+- What is the quarter of [Kasvatus tieteellisen tutkimuksen kohteena - verkko-opetus, II-periodi](course)
+- Which quarter will [Tutkimustyön perusteet (kevät, optio ryhmälle)](course) begin
+- I want to know which semester will [Dialogue: Constructive Talk at Work](course) start
+- I want to know which semester is [Pro gradu -seminaari ja -tutkielma](course)
+- I want to know the study period of [Radiokääntäminen (saksa)](course)
+- I want to know the academic term for [Taloustiede, talouspolitiikka ja ajankohtaiset taloudelliset ja yhteiskunnalliset ongelmat](course)
+- Period [KATTAP11](course)
+- Semester [Johdatus sosiaaliantropologiaan -seminaari](course)
+- Quarter [Tiedon rajat](course)
+- Academic term [Opetusharjoittelu](course)
+- [Ruotsin kielen kirjallinen ja suullinen viestintä / Monenlaisten oppijoiden ryhmä](course) semester
+- [Laadullisen aineiston analysointi](course) academic term
+- [Liiketoimintaosaamisen kokonaisdynamiikka ja sen ohjaaminen - VIBU-yritysstimulaatio](course) quarter
+- This semester [Erikoisalojen käännösviestinnän seminaari ruotsi-suomi](course)
+- What period [Sosiaaliturvan ajankohtaisia kysymyksiä](course)
+- What study period [Asiantuntijuuden kehittymiseen orientoiva opintojakso - opintosuuntakohtaiset ryhmät jatkaville maisteriopiskelijoille (KASSY-, KASSO- ja KASSA-opintosuuntien ryhmiä)](course)
+- What study period is [Integraation teoria ja EU:n päätöksenteko (kirjatentti/essee)](course) in
+- What period will [Esiintyminen](course) begin
+- [Tutkimusprosessin hallinta tohtoriopinnoissa](course) period
+- Is [Kandidaatintutkielmaseminaari - Muuntotyöryhmä, klk19](course) this period
+- Which period is [Graduseminaari / Henttonen](course)
+- Which period will [Käsityö - Käsityö 1. vsk ja erillisen opinto-oikeuden POM-opintoihin saaneet opiskelijat (pienryhmäopetus)](course) begin
+- What period will [Terveyden edistämisen interventiot, Seinäjoki](course) begin
+- [Julkisen talousjohtamisen tietojärjestelmät](course) curriculum
+- When is [Tieteellinen kirjoittaminen / avoin yliopisto-opetus](course) in the curriulum
+- The period of [Orientoivat ja asiantuntijuuden kehittymistä tukevat opinnot - Kasvatustieteellinen luku- ja kirjoitustaito](course)
+- Study period of [Aineenvaihdunta](course)
+- Semester [Valinnainen jakso: Podcastit ja äänimedian ajankohtaisjournalismi](course)
+- Which semester will [Writing for Research (online course)](course) start
+- Which semester is [Kandidaatintutkielmaseminaari - Seminaari](course)
+- Is [Lasten ja nuorten neuropsykologien kuntoutus](course) this semester
+- What semester is [Talouselämän ja tekniikan käännösviestinnän seminaari saksa-suomi](course)
+- Academic term [Yhteiskunnan tutkimuksen ajankohtaisia kysymyksiä - Luennot](course)
+- Which academic term will [Global politics of gender](course) begin
+- Which academic term is [Saksa IV](course)
+- [Työ- ja virkamiesoikeus](course) academic term
+- Which semester will [Sosiaalipsykologinen ajattelu II](course) begin
+- The period of [Murder and Representation](course)
+- The semester of [Orientaatio yhteiskuntatutkimuksen opintoihin](course)
+- The academic term of [Liikunnan projekti (5 op)](course)
+- The quarter of [Introduction to Finnish History](course)
+- Which quarter is [Finnish Elementary Course 4](course)
+- What is the quarter of [Julkistalouden jatkokurssi](course)
+- Which quarter will [Algorithmic Problem Solving](course) begin
+- I want to know which semester will [Asiantuntijan puheviestintä ja vuorovaikutus (1. periodi)](course) start
+- I want to know which semester is [Syventävä ammatillinen asiantuntijuus -](course)
+- I want to know the study period of [Erot, jaot ja niiden rakentuminen, kirjatentti, Pori](course)
+- I want to know the academic term for [Yksilön työhyvinvointi](course)
+- Period [KATTAP11](course)
+- Semester [Kehittyminen hoitotyön opettajaksi ja kouluttajaksi](course)
+- Quarter [Johdanto riskienhallintaan ja vakuuttamiseen (avoin yliopisto-opetus), monimuoto-opetus](course)
+- Academic term [Opintopiiri](course)
+- [Sosiologia (verkkokurssi)](course) semester
+- [Päätöksenteon etiikka](course) academic term
+- [Eriytyvä syventävä tutkimusmenetelmäkurssi A: Diskurssianalyysi](course) quarter
+- This semester [Näkökulmia kääntämiseen - Tekstin ymmärtäminen](course)
+- What period [Tutkimustyötä tukevat tohtoriopinnot (tilastotiede)](course)
+- What study period [Eliittiteoriat ja -tutkimus](course)
+- What study period is [Bioinformatics tools (autumn 2018)](course) in
+- What period will [Normit ja asiakirjoittaminen - Tieteellinen kirjoittaminen](course) begin
+- [Introduction to Academic English (diverse learners)](course) period
+- Is [Seminaari (Seppänen) jatkuu keväältä](course) this period
+- Which period is [Ruotsin kielen kirjallinen ja suullinen viestintä (myös TTY:n biotekniikan opiskelijoille)](course)
+- Which period will [Johdatus viestintään ja mediaan - verkkokurssi](course) begin
+- What period will [Julkiset hankinnat](course) begin
+- [Fenomenologia](course) curriculum
+- When is [Kvalitatiivinen tutkimus kasvatustieteissä - Verkkokurssi, varhaiskasvatuksen opiskelijat](course) in the curriulum
+- The period of [Julkistalousoikeus](course)
+- Study period of [Monikielinen käännöstyöpaja](course)
+- Semester [Suullinen viestintä / Mündliche Kommunikation](course)
+- Which semester will [Writing for Publications](course) start
+- Which semester is [Kirjallinen ja suullinen viestintä II: kirjallinen viestintä](course)
+- Is [Translators' Cultural Competencies](course) this semester
+- What semester is [Scientific Writing - Module A - Writing Clinic](course)
+- Academic term [Oppimispelien käyttö ja evaluaatio](course)
+- Which academic term will [Pelit ja pelillisyys (keväällä 2018 perusopinnot aloittaneille) - verkkokurssi](course) begin
+- Which academic term is [Sosiaalitieteiden kvalitatiiviset menetelmät - Luennot ja harjoitukset](course)
+- [Moniammatillinen -klinikkaopetus](course) academic term
+- Which semester will [Current Approaches in Games and Internet Research](course) begin
+- The period of [Varhaiskasvatuksen kehittyvä asiantuntijuus - Työssäoppiminen (2.vsk ryhmä 4)](course)
+- The semester of [Tilastotieteen johdantokurssi, kevät](course)
+- The academic term of [Tieteellinen kirjoittaminen](course)
+- The quarter of [Tilastotieteen perusteet](course)
+- Which quarter is [Seminaari](course)
+- What is the quarter of [Kansainvälisen politiikan työseminaari - Luennot ja seminaari](course)
+- Which quarter will [Pohjoismaisten kielten lähtötasokoe](course) begin
+- I want to know which semester will [Tietorakenteet](course) start
+- I want to know which semester is [ABC of Scientific Communication](course)
+- I want to know the study period of [Research Ethics](course)
+- I want to know the academic term for [Moniammatillisuus, yhteisö ja vuorovaikutus / Luennot - 3.vsk + 2.vsk ryhmä 4](course)
+- Period [KATTAP11](course)
+- Semester [Työoikeuden syventävä opintojakso](course)
+- Quarter [Literature and Urban Space](course)
+- Academic term [Päätöksenteko lastensuojelussa](course)
+- [Valtio-opin teoriat (kirjatentti/essee)](course) semester
+- [Tekstianalyysi - Luennot](course) academic term
+- [Julkisen hallinnon reformit ja muutos](course) quarter
+- This semester [Current and Future Challenges of World Politics and Economy (POMLFCS3)](course)
+- What period [Tekoälyn filosofia](course)
+- What study period [Kuvakulttuuri -](course)
+- What study period is [Venäjän kielen rakenne - Morfologia](course) in
+- What period will [Ohjatut asiakastyöt](course) begin
+- [Leikki kulttuurisena, kehityksellisenä ja pedagogisena ilmiönä / Harjoitukset - 1.vsk](course) period
+- Is [Päätöksenteon etiikka](course) this period
+- Which period is [Kasvatus, koulutus ja yhteiskunta, monimuoto-opetus](course)
+- Which period will [Johdatus viestinnän tutkimukseen ja analyysiin - verkkokurssi](course) begin
+- What period will [Kielen kehitys / Harjoitukset - 2.vsk + 1.vsk ryhmät 6 ja 7](course) begin
+- [Urban Ethnography: The Social, Political and Economic Dimensions of Marginalization](course) curriculum
+- When is [Pro gradu -seminaari ja -tutkielma](course) in the curriulum
+- The period of [Poliittinen viestintä: Eduskuntavaalit 2019](course)
+- Study period of [Ohjelmistotuotannon käytännöt](course)
+- Semester [Espanja IV](course)
+- Which semester will [Communication Skills in English - Speaking Practice](course) start
+- Which semester is [Saksa III](course)
+- Is [Methods of Variationist Linguistics](course) this semester
+- What semester is [MA Thesis Seminar](course)
+- Academic term [Kaikille avoin tutkijaseminaari](course)
+- Which academic term will [Yritysetiikka (verkkokurssi)](course) begin
+- Which academic term is [Innovation Project (2018-II)](course)
+- [Johdatus hoitotieteeseen](course) academic term
+- Which semester will [Molekyylibiologia](course) begin
+- The period of [Mitä oikeudenmukaisuus on?](course)
+- The semester of [Omaan tieteenalaan ja tutkimusaiheeseen liittyvät opinnot teatteritaiteen tohtorin tutkinnossa](course)
+- The academic term of [Kehityspsykologia I (avoin yliopisto)](course)
+- The quarter of [Kandidaattiseminaari ja -tutkielma (ympäristöpolitiikka ja aluetiede), syksy](course)
+- Which quarter is [Suullinen viestintä II/Muntlig kommunikation II](course)
+- What is the quarter of [Basic Studies in Education -courses, introductory meetings, reading circles and book exams](course)
+- Which quarter will [Hallinto-oikeuden syventävä jakso](course) begin
+- I want to know which semester will [ATLAS.ti laadullisen analyysin tukena](course) start
+- I want to know which semester is [Syventävä projekti, syksyllä 2018 alkava](course)
+- I want to know the study period of [Identity and Lifecourse - Lectures, reading groups and essay](course)
+- I want to know the academic term for [Espanja IV](course)
+- Period [KATTAP11](course)
+- Semester [Sosiaalisen median ja vuorovaikutteisen median perusteet](course)
+- Quarter [Global Terrorism: Political Violence in a Global Age](course)
+- Academic term [Master's Thesis Seminar in Human-Technology Interaction (Starting Fall term)](course)
+- [Seminaari (Seppänen)](course) semester
+- [Popular Music and Politics](course) academic term
+- [Research seminar for postgraduate studies](course) quarter
+- This semester [Ranska eilen, tänään ja huomenna](course)
+- What period [Lausekielinen ohjelmointi I - Näyttökoe, syksy 2018](course)
+- What study period [Kandidaattiseminaari (Mustakallio)](course)
+- What study period is [Tuutorina toimiminen](course) in
+- What period will [Verkkojulkaiseminen](course) begin
+- [Nuorisotutkimuksen ajankohtaisia kysymyksiä](course) period
+- Is [Semantiikka ja pragmatiikka / Sémantique et pragmatique](course) this period
+- Which period is [Innovation Project (Spring term 2018-III)](course)
+- Which period will [Kehittävä asiantuntijatyö organisaatioissa](course) begin
+- What period will [Tutkielmakurssi (III)](course) begin
+- [Tekstianalyysi / Textanalyse](course) curriculum
+- When is [Hoitotiede tieteenä](course) in the curriulum
+- The period of [Communication écrite/Kirjallinen viestintä](course)
+- Study period of [Sukupuolen ja ruumiillisuuden tutkimuksen nykykeskustelut](course)
+- Semester [Vapaaehtoistyö - Osallistuminen vapaaehtoistyöhön](course)
+- Which semester will [Lausekielinen ohjelmointi II](course) start
+- Which semester is [Seminaari (Kunelius) jatkuu keväältä](course)
+- Is [Valtio-opin johdantokurssi (kirjatentti)](course) this semester
+- What semester is [Nuorisotyön ja nuorisotutkimuksen maisteriohjelman lähijakso 4.-5.10.2018](course)
+- Academic term [Fonetiikan ja yleisen kielitieteen perusteet - Yleinen kielitiede](course)
+- Which academic term will [Kandidaatintutkielmaseminaari - Seminaari](course) begin
+- Which academic term is [Ruotsin kielen kirjallinen ja suullinen viestintä](course)
+- [Kandidaatintutkielmaseminaari - Seminaari](course) academic term
+- Which semester will [Inclusiveness in Local Innovation Environments](course) begin
+- The period of [Pohjoismaiden kirjallisuus/Nordisk litteratur](course)
+- The semester of [Psykologian tutkimusmenetelmät I (avoin yliopisto)](course)
+- The academic term of [Kandidaattiseminaari (JATKAVA, Nevala)](course)
+- The quarter of [Terveyden ja mielenterveyden psykologia II](course)
+- Which quarter is [Finnish Elementary Course 1 (taught in 1. period)](course)
+- What is the quarter of [Työhyvinvointi](course)
+- Which quarter will [Student Exchange - courses completed in foreign universities 2-8 ECTS](course) begin
+- I want to know which semester will [Opetus, ohjaus, oppiminen - Luokanopettajaopiskelijat: Pienryhmäopetus ja siihen liittyvä harjoittelu (2 op) ja kirjallisuus (2 op)](course) start
+- I want to know which semester is [Lähtötasokoe](course)
+- I want to know the study period of [Viestinnän ja median tutkimuksen metodologia, harjoitukset vaihtoehtoisissa työpajoissa](course)
+- I want to know the academic term for [Kandidaattiseminaari ja tutkielma (yritysjuridiikka ja vero-oikeus)](course)
+- Period [KATTAP11](course)
+- Semester [Lapsen puheen ja kielen tutkimus ja kuntoutus](course)
+- Quarter [Specialized Optional Research Methodology: Action research](course)
+- Academic term [Maisteriopintojen esittely - CBDA](course)
+- [Romanian historia, yhteiskunta ja talouselämä / Romanian History, Society and Economy -](course) semester
+- [Vähittäiskaupan konseptit](course) academic term
+- [Sosiaalitieteiden teoria I - SOS5b luennot](course) quarter
+- This semester [Kielitieto ja -taito - Fraseologia  / Sprachwissen und Sprachfertigkeiten: Phraseologie](course)
+- What period [Asiantuntemus ja arjen ympäristöpolitiikka (esseesuoritusvaihtoehto) - oppimispaivakirja ja teemaessee](course)
+- What study period [Poliittinen kommunikaatio ja retoriikka (kirjatentti/essee)](course)
+- What study period is [Scottish Literature](course) in
+- What period will [Johdatus asiakastyöhön](course) begin
+- [Research seminar for postgraduate studies](course) period
+- Is [Ulkopolitiikka ja diplomatia (kirjatentti/essee)](course) this period
+- Which period is [Experimental Research in Human-Technology Interaction](course)
+- Which period will [Ajankohtaisia kansanterveyskysymyksiä](course) begin
+- What period will [Learning difficulties and the challenges in schooling in multicultural settings: critical reflections on the role of teachers](course) begin
+- [Dialogue: Constructive Talk at Work](course) curriculum
+- When is [Ranskan kirjallisuus II / Littérature française II](course) in the curriulum
+- The period of [Saksa I](course)
+- Study period of [Comparative Education - book exam](course)
+- Semester [Kirjallisuuden teoria - Kirjallisuustieteen klassikoita](course)
+- Which semester will [Kasvatus, koulutus ja yhteiskunta, monimuoto-opetus](course) start
+- Which semester is [Julkisen talousjohtamisen tutkimusotteet](course)
+- Is [Jatkokoulutusseminaari](course) this semester
+- What semester is [Tiedonhaun kieliteknologia](course)
+- Academic term [Orientoivat opinnot ja HOPS (englannin kieli, kirjallisuus ja kääntäminen)](course)
+- Which academic term will [Kasvatus tieteellisen tutkimuksen kohteena - verkko-opetus, IV-periodi](course) begin
+- Which academic term is [Ohjatut asiakastyöt](course)
+- [Kognitiivinen neurotiede II](course) academic term
+- Which semester will [Puolueet, vaalit ja poliittinen vaikuttaminen (kirjatentti/essee)](course) begin
+- The period of [Graduseminaari / Kekäläinen](course)
+- The semester of [Johdatus historiantutkimukseen - Johdatus historiantutkimukseen -luentokurssi](course)
+- The academic term of [SPSS:n perusteet, kevät](course)
+- The quarter of [Biostatistics](course)
+- Which quarter is [Ruotsin kielen kirjallinen ja suullinen viestintä / avoin yliopisto-opetus](course)
+- What is the quarter of [Matematiikkakasvatus / Harjoitukset - 2.vsk + 1.vsk ryhmät 6 ja 7](course)
+- Which quarter will [Kestävän kehityksen käytäntöjä](course) begin
+- I want to know which semester will [Comparative Education Policy](course) start
+- I want to know which semester is [Asiantuntijan puheviestintä ja vuorovaikutus (INTENSIIVIKURSSI 17.8.-29.8.18)](course)
+- I want to know the study period of [Research Mobility for Doctoral Researchers](course)
+- I want to know the academic term for [EU ja Länsi-Balkan: ehdollistettua demokratiaa ja valtionrakennusta](course)
+- Period [KATTAP11](course)
+- Semester [Johdatus historiantutkimukseen - Johdatus historiantutkimukseen -luentokurssi](course)
+- Quarter [Media maailmassa - verkkokurssi](course)
+- Academic term [Eettinen johtajuus](course)
+- [Espanja III](course) semester
+- [Introduction to Web Publishing - Autumn 2018](course) academic term
+- [Orientation to study in the Programme](course) quarter
+- This semester [Proseminaari, kandidaatintutkielma ja kypsyysnäyte](course)
+- What period [Kirjoitusviestintä / COMS](course)
+- What study period [Introduction to International Criminal Justice System](course)
+- What study period is [Implementation and Evaluation of Public Policies](course) in
+- What period will [Audiovisuaalisen kääntämisen seminaari / Kuvailutulkkaus](course) begin
+- [Johdatus kulttuurisosiologiaan](course) period
+- Is [Re-Thinking Value Creation](course) this period
+- Which period is [Sosiaalityön peruskurssi (kirjatentti)](course)
+- Which period will [Omaan tieteenalaan ja tutkimusaiheeseen liittyvät opinnot](course) begin
+- What period will [Kandidaattiseminaari ja -tutkielma (ympäristöpolitiikka ja aluetiede), syksy](course) begin
+- [Interview as a means of data generation](course) curriculum
+- When is [Orientoivat opinnot - Orientoivat opinnot](course) in the curriulum
+- The period of [Kvalitatiiviset menetelmät](course)
+- Study period of [Suurvalta kriiseissä: näkökulmia Venäjän historiaan 1700-luvulta 1900-luvulle](course)
+- Semester [Tasa-arvon ja yhdenvertaisuuden edistäminen työnä (verkkokurssi)](course)
+- Which semester will [Nuorisotyön ja nuorisotutkimuksen maisteriohjelman lähijakso 3.-4.10.2018](course) start
+- Which semester is [Latinan kielen alkeiskurssi](course)
+- Is [Viestinnän etiikka - verkkokurssi](course) this semester
+- What semester is [Vapaaehtoistyössä toimiminen](course)
+- Academic term [Henkilöstöjohtaminen](course)
+- Which academic term will [Kvalitatiivinen tutkimus kasvatustieteissä - Harjoitukset, Ryhmä, yhteinen varhaiskasv. ja luokanop. ryhmä](course) begin
+- Which academic term is [Conflict Resolution (book exam/essay)](course)
+- [Kulutuksen ja ostokäyttäytymisen teoria](course) academic term
+- Which semester will [Vahinkoriskien vakuuttaminen](course) begin
+- The period of [Biologia ja ympäristötieto - Biologian kenttäkurssi (1-4 ryhmät, Arboretum ja Pyynikinharju)](course)
+- The semester of [Finnish Elementary Course 1 (taught in 3. period)](course)
+- The academic term of [Perusharjoittelu](course)
+- The quarter of [Sosiaalityön arvot, etiikka ja vapaaehtoistyö](course)
+- Which quarter is [Terve ja turvallinen kouluyhteisö](course)
+- What is the quarter of [Taloustieteen perusteet, monimuoto-opetus](course)
+- Which quarter will [Arviointimenetelmät](course) begin
+- I want to know which semester will [Kansainvälistymistä ja verkostoitumista tukevat opinnot teatteritaiteen tohtorin tutkinnossa](course) start
+- I want to know which semester is [Finnish Elementary Course 1 (taught in 1. period)](course)
+- I want to know the study period of [Asiantuntijan puheviestintä ja vuorovaikutus / avoin yliopisto-opetus](course)
+- I want to know the academic term for [Tiede, tutkimus, kirjoittaminen](course)
+- Period [KATTAP11](course)
+- Semester [Kuvataidekasvatus / Harjoitukset - 2.vsk](course)
+- Quarter [Markkinoinnin johtaminen ja organisointi](course)
+- Academic term [Teknologiakasvatus - Teknologia](course)
+- [Political Communication and Rhetoric (book exam/essay)](course) semester
+- [Espanja III](course) academic term
+- [EU:n ulkosuhteiden erityiskysymykset: turvallisuus, talous ja arvot (kirjatentti/essee)](course) quarter
+- This semester [BMT-70100 Kudosteknologian perusteet](course)
+- What period [Tieto- ja asiakirjahallinto](course)
+- What study period [Kansainvälisen politiikan johdantokurssi (kaikki opiskelijat)](course)
+- What study period is [Pedagoginen johtaminen - Luennot ja ryhmätyöskentely](course) in
+- What period will [Kasvatushistoria - kirjatentti (slk ja klk)](course) begin
+- [Linguistics I: Introduction to Basic Concepts](course) period
+- Is [Kvalitatiivinen tutkimus kasvatustieteissä - Harjoitukset, luokanop. ryhmä](course) this period
+- Which period is [Strateginen johtaminen julkisyhteisöissä](course)
+- Which period will [Kansainvälisen politiikan johdantokurssi (kaikki opiskelijat)](course) begin
+- What period will [Kvalitatiivinen tutkimus kasvatustieteissä - Harjoitukset, luokanop. ryhmä](course) begin
+- [Health in disasters, conflicts and complex human emergencies](course) curriculum
+- When is [Seminaari](course) in the curriulum
+- The period of [Kandidaatintutkielmaseminaari - Seminaari](course)
+- Study period of [Talouselämän käännösviestinnän seminaari venäjä-suomi](course)
+- Semester [Pro gradu -seminaari ja -tutkielma (2018-2019)](course)
+- Which semester will [Saksan kielen valmentava kurssi - Interkulturelles Training](course) start
+- Which semester is [Työelämän myytit ja todellisuus](course)
+- Is [Vakuutuksen ja riskienhallinnan erikoistumisosa](course) this semester
+- What semester is [Kvantitatiivinen tutkimus kasvatustieteissä - Harjoitukset, varhaiskasvatus](course)
+- Academic term [Julkistalouden valvonta ja tarkastus](course)
+- Which academic term will [World society: National policies, global governance and transnational sociology](course) begin
+- Which academic term is [Eheyttävä musiikkikasvatus / Luennot - 2.vsk](course)
+- [History of English](course) academic term
+- Which semester will [Radiokääntäminen (saksa)](course) begin
+- The period of [Literature and Change after 1900 (British Literature)](course)
+- The semester of [Kandidaattiseminaari (Vuolanto)](course)
+- The academic term of [Introduction to Bayesian Analysis 1](course)
+- The quarter of [Kielen variaatio](course)
+- Which quarter is [Suomen kielen rakenne S2-näkökulmasta](course)
+- What is the quarter of [Venäjän kielen rakenne - Syntaksi](course)
+- Which quarter will [Kvalitatiivinen tutkimus kasvatustieteissä - Verkkokurssi, yhteisopetus avoimen yo:n ja tutkinto-opiskelijoille](course) begin
+- I want to know which semester will [Regression analysis](course) start
+- I want to know which semester is [Moniulotteinen markkinointi](course)
+- I want to know the study period of [Graduseminaari / Kekäläinen](course)
+- I want to know the academic term for [Kielioppi I/Språkets strukturer I](course)
+- Period [KATTAP11](course)
+- Semester [Kandidaattiseminaari (Vahtikari)](course)
+- Quarter [Internet ja vuorovaikutteinen media (syksyllä 2017 perusopinnot aloittaneille) - verkkokurssi](course)
+- Academic term [Kansalaisyhteiskunta ja poliittinen osallistuminen (kirjatentti/essee)](course)
+- [Minustako asiantuntijamyynnin ammattilainen?](course) semester
+- [Moniammatillisuus, yhteisö ja vuorovaikutus / Harjoitukset - 3.vsk + 2.vsk ryhmä 4](course) academic term
+- [Opimme lisää venäjän kielen suullisia taitoja](course) quarter
+- This semester [Käännösviestintä II englanti-suomi](course)
+- What period [Software Project Management, Software Project Management (Fall term)](course)
+- What study period [Näkökulmia kääntämiseen - Tekstin ymmärtäminen](course)
+- What study period is [Vero-oikeuden perusteet](course) in
+- What period will [Introduction to Argumentation and Scientific Reasoning](course) begin
+- [International Society (book exam/essay)](course) period
+- Is [Kandidaatintutkielmaseminaari - Muuntotyöryhmä, klk19](course) this period
+- Which period is [Työelämäviestinnän tutkimus- tai kehityshanke](course)
+- Which period will [Missä mennään Mead? -seminaari](course) begin
+- What period will [Journalistinen kieli - Tekstinhuolto](course) begin
+- [Kirjallisuuden teoria - Kirjallisuuden teorian suuntia](course) curriculum
+- When is [Terveydenhuollon ja terveystutkimuksen etiikka, Seinäjoki](course) in the curriulum
+- The period of [Työelämän myytit ja todellisuus](course)
+- Study period of [Vanheneminen ikääntyvässä yhteiskunnassa](course)
+- Semester [Poliittiset prosessit (kirjatentti/essee)](course)
+- Which semester will [Tutkimustyön perusteet - d) Kandidaattiseminaari (syksyllä 2018 alkava)](course) start
+- Which semester is [Individual project course](course)
+- Is [Opintojen suunnittelu - HOPS2](course) this semester
+- What semester is [Saksankielinen kaunokirjallisuus valistusajasta toiseen maailmansotaan / Deutschsprachige Literatur von der Aufklärung bis zum Zweiten Weltkrieg](course)
+- Academic term [Seminaari I/Seminarium I](course)
+- Which academic term will [Analyyttinen geometria (itseopiskelumateriaali ja opintopiiri)](course) begin
+- Which academic term is [Tiede ja teknologia yhteiskunnassa](course)
+- [Tietotekniikkataidot (kevät)](course) academic term
+- Which semester will [Puhe- ja nielemistoimintojen tutkimus ja kuntoutus](course) begin
+- The period of [Poliittisen sosiologian käsitteet ja tutkimukset](course)
+- The semester of [Opetussuunnitelmateoria, kirjatentti, Pori](course)
+- The academic term of [Rekisteritutkimukset](course)
+- The quarter of [Yritysjuridiikan ajankohtaiset teemat](course)
+- Which quarter is [Lähtötasokoe / Schwellentest](course)
+- What is the quarter of [Liiketoiminnan analysoinnin ja kehittämisen case-kurssi](course)
+- Which quarter will [Opetuksen, oppimisen ja koulutuksen arviointi ja laatu - Seminaari](course) begin
+- I want to know which semester will [Kirjallisuudentutkimuksen menetelmät - Menetelmät ja sovellukset](course) start
+- I want to know which semester is [Tutkimustyön perusteet (kevät, optio ryhmälle)](course)
+- I want to know the study period of [Valtio-opin johdantokurssi (kirjatentti)](course)
+- I want to know the academic term for [Tutkimustyötä tukevat tohtoriopinnot (matematiikka)](course)
+- Period [KATTAP11](course)
+- Semester [Näkökulmia kääntämiseen - Kääntäminen viestinnällisenä asiantuntijatehtävänä / Perspektiven auf Übersetzen](course)
+- Quarter [Kasvatus, tieto ja teoria - Luennot](course)
+- Academic term [Rahoitusoikeuden syventävä opintojakso - kirjatentti](course)
+- [Asiantuntijan puheviestintä ja vuorovaikutus (INTENSIIVIKURSSI 17.8.-29.8.18)](course) semester
+- [Introduction to Risk Management and Insurance (spring semester)](course) academic term
+- [International tutoring / Kv-tuutorina toimiminen](course) quarter
+- This semester [Business Translation Seminar Finnish - English](course)
+- What period [Tuloksellisuuden arvioinnin teoria](course)
+- What study period [Cultural Diversity in Education and at Work -  (autumn)](course)
+- What study period is [Pro gradu -tutkielma ja seminaari (vaiheet I-IV)](course) in
+- What period will [Kandidaattiseminaari (JATKAVA, Katermaa)](course) begin
+- [Keskustelunanalyysi (verkkokurssi), syksy 2018](course) period
+- Is [Kielen käyttö II](course) this period
+- Which period is [Sosiaaliturvan ajankohtaisia kysymyksiä](course)
+- Which period will [Oikeustieteellinen tutkimus](course) begin
+- What period will [Luemme ja keskustelemme venäjäksi](course) begin
+- [Leadership for Sustainable Change (KATVAS39)](course) curriculum
+- When is [Informaatio- ja mediajärjestelmien historiaa ja nykypäivää (syksyllä 2018 perusopinnot aloittaville) - verkkokurssi](course) in the curriulum
+- The period of [Kommunikationstraining II](course)
+- Study period of [[CANCELLED] Editing Project](course)
+- Semester [Suomet vieraina suussa](course)
+- Which semester will [Tieteellinen kirjoittaminen / COMS (puheviestinnän opiskelijoille)](course) start
+- Which semester is [Sosiaalityön peruskurssi (verkkokurssi)](course)
+- Is [Korkeakoulujen rahoitus ja talous - Harjoitustyö](course) this semester
+- What semester is [Organizational Behavior (Independent study, Spring 2019)](course)
+- Academic term [Yhteiskunnallinen muutos](course)
+- Which academic term will [Orientoivat opinnot Pori](course) begin
+- Which academic term is [Kvantitatiivinen tutkimus kasvatustieteissä - Harjoitukset, yhteinen avoimen ja tutkinto-op. ryhmä](course)
+- [Simultaanitulkkaus I englanti-suomi-englanti](course) academic term
+- Which semester will [Organisaatiokäyttäytyminen (itsenäinen suoritustapa, syksy 2018)](course) begin
+- The period of [Hallinto-oikeuden harjoituskurssi](course)
+- The semester of [Tieteellinen kirjoittaminen](course)
+- The academic term of [Sosiaalityön peruskurssi (kirjatentti)](course)
+- The quarter of [Eriytyvä syventävä tutkimusmenetelmäkurssi A: Kehittävän työntutkimuksen menetelmät](course)
+- Which quarter is [Kirjallinen viestintä I (venäjänkieliset opiskelijat)](course)
+- What is the quarter of [Asiakastyön menetelmät, luennot](course)
+- Which quarter will [Ikääntyminen, kieli ja vuorovaikutus](course) begin
+- I want to know which semester will [Business, Society and Nature (Lectures)](course) start
+- I want to know which semester is [Introduction to Academic English (JKK, EDU, LUO, COMS & SOC)](course)
+- I want to know the study period of [Lapset ympäristönsä tutkijoina - Käsityö](course)
+- I want to know the academic term for [Johdatus kunta- ja aluejohtamiseen](course)
+- Period [KATTAP11](course)
+- Semester [POLVOA22](course)
+- Quarter [KASSG](course)
+- Academic term [KKRULL](course)
+- [STYS1B1](course) semester
+- [TERKANP6](course) academic term
+- [KASA6](course) quarter
+- This semester [KIRP1](course)
+- What period [HALDIGI01](course)
+- What study period [TIETA15](course)
+- What study period is [SOSM6.5](course) in
+- What period will [LTLY213](course) begin
+- [KKENVAL9](course) period
+- Is [SOS9](course) this period
+- Which period is [KKKI1](course)
+- Which period will [RANS5](course) begin
+- What period will [FILAPRO](course) begin
+- [KASLOM4](course) curriculum
+- When is [KKRUYHT](course) in the curriulum
+- The period of [KASMULTI4](course)
+- Study period of [LFCOR](course)
+- Semester [DPJKK20](course)
+- Which semester will [KKENYHT](course) start
+- Which semester is [STYS2B](course)
+- Is [KASERIT4](course) this semester
+- What semester is [MVKS13E](course)
+- Academic term [KASLOK3](course)
+- Which academic term will [HALJUA64](course) begin
+- Which academic term is [KKSAPRE1](course)
+- [BTK0030](course) academic term
+- Which semester will [KASMULTI1](course) begin
+- The period of [KASTUTOR](course)
+- The semester of [RANP0](course)
+- The academic term of [KASP1](course)
+- The quarter of [POLKVS31](course)
+- Which quarter is [JOVP1](course)
+- What is the quarter of [KASSM2](course)
+- Which quarter will [RANP6](course) begin
+- I want to know which semester will [DPCMTJ2/JMMETUS](course) start
+- I want to know which semester is [RANP5](course)
+- I want to know the study period of [HALHAA99](course)
+- I want to know the academic term for [MVKS36/31](course)
+- Period [KATTAP11](course)
+- Semester [KIRA2](course)
+- Quarter [POLVOA31](course)
+- Academic term [TERY4](course)
+- [KATVRA23](course) semester
+- [PSYS5](course) academic term
+- [KASLOM7](course) quarter
+- This semester [BTK5003](course)
+- What period [KKENYHT](course)
+- What study period [PGHES01](course)
+- What study period is [SAKA8](course) in
+- What period will [STYS2A](course) begin
+- [DPEDUB.2](course) period
+- Is [TIEA4](course) this period
+- Which period is [DPJKK20](course)
+- Which period will [ITIS24](course) begin
+- What period will [KKENYHT](course) begin
+- [TERHOI4](course) curriculum
+- When is [KKKI2](course) in the curriulum
+- The period of [KASVAR9](course)
+- Study period of [RANAV3](course)
+- Semester [TERKAN14](course)
+- Which semester will [KASVAPAA](course) start
+- Which semester is [TIEA1](course)
+- Is [POLKVS32](course) this semester
+- What semester is [DPEDUB.2](course)
+- Academic term [KASSO7](course)
+- Which academic term will [KATVRP12](course) begin
+- Which academic term is [STYA3A2](course)
+- [MVKS40/62](course) academic term
+- Which semester will [KASP1](course) begin
+- The period of [KATVAA13](course)
+- The semester of [TERTIETO5](course)
+- The academic term of [ITIA11](course)
+- The quarter of [KASLOM10](course)
+- Which quarter is [LOGS2](course)
+- What is the quarter of [JOVP4](course)
+- Which quarter will [TERA3](course) begin
+- I want to know which semester will [MTTTP1](course) start
+- I want to know which semester is [KASVART3](course)
+- I want to know the study period of [LTLY16](course)
+- I want to know the academic term for [KIRS3](course)
+- Period [KATTAP11](course)
+- Semester [JKKYVAP](course)
+- Quarter [KKSUHY](course)
+- Academic term [SOSM1](course)
+- [TERKANP5](course) semester
+- [JOVA20](course) academic term
+- [HALYAA15](course) quarter
+- This semester [JOVTS1/SOS10.6](course)
+- What period [KASA10](course)
+- What study period [KASP4](course)
+- What study period is [DPIS1](course) in
+- What period will [TERHOJ3](course) begin
+- [KATMAS12](course) period
+- Is [KATMAS12](course) this period
+- Which period is [TECHS6](course)
+- Which period will [TIETS43](course) begin
+- What period will [YKYYHT3](course) begin
+- [JOVA18](course) curriculum
+- When is [TIETS13](course) in the curriulum
+- The period of [TIETA8](course)
+- Study period of [JKKYJOTE1](course)
+- Semester [KKKI4](course)
+- Which semester will [MTTTS17](course) start
+- Which semester is [KIRS3](course)
+- Is [TERKANP4](course) this semester
+- What semester is [PSYA9](course)
+- Academic term [TERA6](course)
+- Which academic term will [TAYJ035](course) begin
+- Which academic term is [POHS10](course)
+- [KASS3](course) academic term
+- Which semester will [JKKYORP1](course) begin
+- The period of [LATAP4](course)
+- The semester of [JOUJOVTS](course)
+- The academic term of [FONEA4](course)
+- The quarter of [KKRA1](course)
+- Which quarter is [KKSUTTK](course)
+- What is the quarter of [KATJOA19](course)
+- Which quarter will [MTTMA10](course) begin
+- I want to know which semester will [KASLOK1](course) start
+- I want to know which semester is [KKSUSC](course)
+- I want to know the study period of [POHA6](course)
+- I want to know the academic term for [STYA3B](course)
+- Period [KATTAP11](course)
+- Semester [SUOK2/A6](course)
+- Quarter [BTK5557](course)
+- Academic term [TERKAN16](course)
+- [DPHSFC07](course) semester
+- [PSYS16](course) academic term
+- [KKENKTK](course) quarter
+- This semester [POLKVS31](course)
+- What period [COSOPC1](course)
+- What study period [TIETA18](course)
+- What study period is [LOGA8](course) in
+- What period will [MEDU06](course) begin
+- [POHP5](course) period
+- Is [KASPUHS7](course) this period
+- Which period is [KASP5](course)
+- Which period will [SUOP3](course) begin
+- What period will [HALKAS11](course) begin
+- [POLVOA41/S23/28](course) curriculum
+- When is [HISA4](course) in the curriulum
+- The period of [KASSO1](course)
+- Study period of [HALJTS07](course)
+- Semester [POLKVA31](course)
+- Which semester will [DPIS1](course) start
+- Which semester is [GTS9](course)
+- Is [KASA3](course) this semester
+- What semester is [POLVOS23](course)
+- Academic term [TAYJ12](course)
+- Which academic term will [SOSM5.1](course) begin
+- Which academic term is [JOVA6](course)
+- [MTTMA1A](course) academic term
+- Which semester will [HALJUA14](course) begin
+- The period of [ITIA11](course)
+- The semester of [STYS3B](course)
+- The academic term of [HALJTS99](course)
+- The quarter of [SOS06.4](course)
+- Which quarter is [TSEKP2](course)
+- What is the quarter of [HALTVA12](course)
+- Which quarter will [MVKS42E](course) begin
+- I want to know which semester will [HALKOS22](course) start
+- I want to know which semester is [KASLOM2](course)
+- I want to know the study period of [JOUJOVTS](course)
+- I want to know the academic term for [MTTMA1C](course)
+- Period [KATTAP11](course)
+- Semester [KATRAS11](course)
+- Quarter [JOVAT2](course)
+- Academic term [POLVOA12](course)
+- [KKSU1](course) semester
+- [ITIS24](course) academic term
+- [JKKYTVA13](course) quarter
+- This semester [KKRA4](course)
+- What period [KKENKTK](course)
+- What study period [SOP03.6](course)
+- What study period is [KKSAPRE2](course) in
+- What period will [KKIN4](course) begin
+- [ENGS13](course) period
+- Is [KKSAPRE2](course) this period
+- Which period is [KKSUYP](course)
+- Which period will [KASLOM4](course) begin
+- What period will [POLKVS33](course) begin
+- [BTK3125](course) curriculum
+- When is [KKSUPRO](course) in the curriulum
+- The period of [KKRAVAL1](course)
+- Study period of [KASMULTI4](course)
+- Semester [KASPUHP3](course)
+- Which semester will [TAYJ035](course) start
+- Which semester is [RANSV5](course)
+- Is [KASMULTI2A](course) this semester
+- What semester is [TERVAL5](course)
+- Academic term [KASA13](course)
+- Which academic term will [VIROP1](course) begin
+- Which academic term is [JOVP5](course)
+- [KASELOHA](course) academic term
+- Which semester will [KASA9](course) begin
+- The period of [TIEA2.1B](course)
+- The semester of [VENA5](course)
+- The academic term of [SAKS5](course)
+- The quarter of [JKKYTVA13](course)
+- Which quarter is [MTTY3](course)
+- What is the quarter of [SOS6.5.2](course)
+- Which quarter will [BTK0024](course) begin
+- I want to know which semester will [KATRAA11](course) start
+- I want to know which semester is [ESPFP4](course)
+- I want to know the study period of [LUOYA200](course)
+- I want to know the academic term for [KASP2](course)
+- Period [KATTAP11](course)
+- Semester [POLKVA31](course)
+- Quarter [KKSAVAL1](course)
+- Academic term [KATLITO3](course)
+- [HISA1B](course) semester
+- [MTTA2](course) academic term
+- [HISA2](course) quarter
+- This semester [KKENVAL1](course)
+- What period [KKSUPRO](course)
+- What study period [TIEP5](course)
+- What study period is [PSYP5](course) in
+- What period will [KASLOE6.5](course) begin
+- [KATRAS12](course) period
+- Is [STYA3A](course) this period
+- Which period is [ITIY3](course)
+- Which period will [TERKANA1](course) begin
+- What period will [HALJUA23](course) begin
+- [KATTAA35](course) curriculum
+- When is [KATYVS22](course) in the curriulum
+- The period of [JKKYY](course)
+- Study period of [KATLAS27](course)
+- Semester [POLKVA21](course)
+- Which semester will [HALJUS31](course) start
+- Which semester is [KKENKTM](course)
+- Is [BIO4661](course) this semester
+- What semester is [VENA8](course)
+- Academic term [TEE6](course)
+- Which academic term will [SAKA5](course) begin
+- Which academic term is [KKRUYHT](course)
+- [BIO2085](course) academic term
+- Which semester will [KATTAA40](course) begin
+- The period of [KASPUHA5](course)
+- The semester of [SOS10.10.1](course)
+- The academic term of [DPHSR404](course)
+- The quarter of [PSYS5](course)
+- Which quarter is [KASSG](course)
+- What is the quarter of [KKVE4](course)
+- Which quarter will [KASP4](course) begin
+- I want to know which semester will [PEDAYOA1](course) start
+- I want to know which semester is [LOGA9](course)
+- I want to know the study period of [KATLITO8](course)
+- I want to know the academic term for [KKRUYHT](course)
+- Period [KATTAP11](course)
+- Semester [STYA3B](course)
+- Quarter [ITIS14](course)
+- Academic term [KKRULL](course)
+- [LOGM3](course) semester
+- [MVKS42E](course) academic term
+- [KATLITO4](course) quarter
+- This semester [KATYVP11](course)
+- What period [HALKOS24](course)
+- What study period [HALJTA05](course)
+- What study period is [SAKA9](course) in
+- What period will [KATLAS90](course) begin
+- [KKES3](course) period
+- Is [TIEP2](course) this period
+- Which period is [KKKI4](course)
+- Which period will [KASLOM10](course) begin
+- What period will [KKSAVAL3](course) begin
+- [NORDIG4](course) curriculum
+- When is [PSYA11](course) in the curriulum
+- The period of [KASVAR12](course)
+- Study period of [JOVTS5](course)
+- Semester [HISA1B](course)
+- Which semester will [KASA9](course) start
+- Which semester is [KASA8](course)
+- Is [FILA1](course) this semester
+- What semester is [HALTVA12](course)
+- Academic term [RANS2](course)
+- Which academic term will [ITIY003](course) begin
+- Which academic term is [KATJOA14](course)
+- [HALJTA21](course) academic term
+- Which semester will [KKSAVAL1](course) begin
+- The period of [HALKOS21](course)
+- The semester of [HALJUS15](course)
+- The academic term of [FILS1](course)
+- The quarter of [FILJATKO](course)
+- Which quarter is [PEDAYOP3](course)
+- What is the quarter of [LTLY229](course)
+- Which quarter will [SUKKP2](course) begin
+- I want to know which semester will [TIETS21](course) start
+- I want to know which semester is [YKT09.4](course)
+- I want to know the study period of [STYP1A](course)
+- I want to know the academic term for [JKKYVAP](course)
+- Period [KATTAP11](course)
+- Semester [DPHSR404](course)
+- Quarter [HALJUA65](course)
+- Academic term [HALHAS20](course)
+- [ENGA8](course) semester
+- [KATSTA12](course) academic term
+- [KATVAA12](course) quarter
+- This semester [JKKYOA11](course)
+- What period [KKSUHUK1](course)
+- What study period [POLPOP04](course)
+- What study period is [HISS2](course) in
+- What period will [KIRS3](course) begin
+- [MTTMA1B](course) period
+- Is [HALJUA14](course) this period
+- Which period is [SAKA12](course)
+- Which period will [TIEY4](course) begin
+- What period will [HALJUA14](course) begin
+- [KASVART3](course) curriculum
+- When is [YKIEP1](course) in the curriulum
+- The period of [RANP4](course)
+- Study period of [SOS9](course)
+- Semester [KKLA1](course)
+- Which semester will [KKENVAL1](course) start
+- Which semester is [KATYVA44](course)
+- Is [KASLOE1.1](course) this semester
+- What semester is [KATVRA00](course)
+- Academic term [KKSAVAL3](course)
+- Which academic term will [JOVVAL](course) begin
+- Which academic term is [SUOS1](course)
+- [POLVOA41](course) academic term
+- Which semester will [HALHAA13](course) begin
+- The period of [TAYJ12](course)
+- The semester of [KKENYHT](course)
+- The academic term of [MVKS01](course)
+- The quarter of [TIEP1](course)
+- Which quarter is [HALJUA24](course)
+- What is the quarter of [HALTVP11](course)
+- Which quarter will [KATTAA13B](course) begin
+- I want to know which semester will [TIETS19](course) start
+- I want to know which semester is [KASA9](course)
+- I want to know the study period of [KKVE2](course)
+- I want to know the academic term for [MVKS42E](course)
+- Period [KATTAP11](course)
+- Semester [KIRP3](course)
+- Quarter [STYS1B1](course)
+- Academic term [ENGA11](course)
+- [KKENVAL9](course) semester
+- [KASP4](course) academic term
+- [KATJOS13](course) quarter
+- This semester [HALJUA25](course)
+- What period [MTTTS14](course)
+- What study period [HTIS66](course)
+- What study period is [PGHES03](course) in
+- What period will [KASVAR7](course) begin
+- [KATVAA11](course) period
+- Is [ITIA03](course) this period
+- Which period is [FILA9](course)
+- Which period will [POLKVA41](course) begin
+- What period will [SOSM2](course) begin
+- [KATVAA12](course) curriculum
+- When is [SOS6.2.3](course) in the curriulum
+- The period of [POLPOP01](course)
+- Study period of [KATYVA99](course)
+- Semester [DPCMTJ4](course)
+- Which semester will [ITIA03](course) start
+- Which semester is [TERKANA5](course)
+- Is [BTK1085](course) this semester
+- What semester is [SAKA3](course)
+- Academic term [YKYYV07](course)
+- Which academic term will [STYP3](course) begin
+- Which academic term is [SOSM2](course)
+- [TERKAN4](course) academic term
+- Which semester will [COSOPOM2](course) begin
+- The period of [KKSAPRE2](course)
+- The semester of [PSYS7](course)
+- The academic term of [SOSM5.1](course)
+- The quarter of [RANSV5](course)
+- Which quarter is [VENS8](course)
+- What is the quarter of [STYA1A1](course)
+- Which quarter will [KASVART2](course) begin
+- I want to know which semester will [KKKI4](course) start
+- I want to know which semester is [STYA3B2](course)
+- I want to know the study period of [VENP1](course)
+- I want to know the academic term for [PSYS7](course)
+- Period [KATTAP11](course)
+- Semester [PEDA5](course)
+- Quarter [HALJUS22](course)
+- Academic term [VENA11](course)
+- [KKIN5](course) semester
+- [SAKS5](course) academic term
+- [POLKVA22](course) quarter
+- This semester [KASSM2](course)
+- What period [KASVAR7](course)
+- What study period [IGS006](course)
+- What study period is [KASA13](course) in
+- What period will [TIEP3](course) begin
+- [COSOPON4](course) period
+- Is [KASLOM5](course) this period
+- Which period is [KATLITO5](course)
+- Which period will [KKSUVAL1](course) begin
+- What period will [KASPUHS6](course) begin
+- [HALKOS25](course) curriculum
+- When is [KASLOE6.2](course) in the curriulum
+- The period of [MTTMA2](course)
+- Study period of [KASA1.1](course)
+- Semester [KKRUYHT](course)
+- Which semester will [KASP2](course) start
+- Which semester is [TAYJ035](course)
+- Is [KASP4](course) this semester
+- What semester is [JOVY1](course)
+- Academic term [KASERIT3](course)
+- Which academic term will [ITIA11](course) begin
+- Which academic term is [KATTAA12A](course)
+- [STYS2A](course) academic term
+- Which semester will [RANS2](course) begin
+- The period of [YKT07.1](course)
+- The semester of [PSYS16](course)
+- The academic term of [POLVOS27](course)
+- The quarter of [POLKVA23](course)
+- Which quarter is [POLKVS21](course)
+- What is the quarter of [ITIA8](course)
+- Which quarter will [HALJUS31](course) begin
+- I want to know which semester will [KATLITO7](course) start
+- I want to know which semester is [TAYJ12](course)
+- I want to know the study period of [MVKS28](course)
+- I want to know the academic term for [SOS10.10.1](course)
+- Period [KATTAP11](course)
+- Semester [SAKA12](course)
+- Quarter [POLKVA12](course)
+- Academic term [KASVAR2](course)
+- [HALYAA99](course) semester
+- [LTLY16](course) academic term
+- [KASP4](course) quarter
+- This semester [SUOA5/YKIEA1](course)
+- What period [SOSM2](course)
+- What study period [POLVOA32/S23/24](course)
+- What study period is [SOS4.5](course) in
+- What period will [KATYVS25](course) begin
+- [BTK2223](course) period
+- Is [PSYA9](course) this period
+- Which period is [KATLAS14](course)
+- Which period will [KATTAS31](course) begin
+- What period will [TSEKP2](course) begin
+- [JOVA17](course) curriculum
+- When is [KATJOS99](course) in the curriulum
+- The period of [JKKYMYJK05](course)
+- Study period of [YKYYHT3](course)
+- Semester [LTLY210](course)
+- Which semester will [KASVAR11](course) start
+- Which semester is [HALJUA44](course)
+- Is [TIEP4](course) this semester
+- What semester is [KKRUYHT](course)
+- Academic term [HALYAS11](course)
+- Which academic term will [MEJOS15](course) begin
+- Which academic term is [PEACE2](course)
+- [POLVOS10](course) academic term
+- Which semester will [TAYJ033](course) begin
+- The period of [HALJUA62](course)
+- The semester of [HISS2](course)
+- The academic term of [KKRUKTK](course)
+- The quarter of [VENP1](course)
+- Which quarter is [ROMAP2](course)
+- What is the quarter of [KKSUBMT](course)
+- Which quarter will [ENGS22-24](course) begin
+- I want to know which semester will [SAKA12](course) start
+- I want to know which semester is [HISS2](course)
+- I want to know the study period of [TERHOIA1](course)
+- I want to know the academic term for [KATLAS14](course)
+- Period [KATTAP11](course)
+- Semester [KKENVAL2](course)
+- Quarter [TAYJ035](course)
+- Academic term [KKSUPRO](course)
+- [TERHOI2](course) semester
+- [JOVKA1](course) academic term
+- [KASVAR3](course) quarter
+- This semester [KKES1](course)
+- What period [KIRP5](course)
+- What study period [KASVAR2](course)
+- What study period is [TERA2](course) in
+- What period will [STYS3A](course) begin
+- [KASVAR10](course) period
+- Is [POHS5](course) this period
+- Which period is [SOSM6.3](course)
+- Which period will [FILP3B](course) begin
+- What period will [KASLOM6](course) begin
+- [POHS10](course) curriculum
+- When is [DPHSM304](course) in the curriulum
+- The period of [TERY4](course)
+- Study period of [KKSULUK](course)
+- Semester [KASSA3](course)
+- Which semester will [TERKAN4](course) start
+- Which semester is [SOS08.2](course)
+- Is [ITIA11](course) this semester
+- What semester is [DPCMTJ4](course)
+- Academic term [FONEP3](course)
+- Which academic term will [FONEP4](course) begin
+- Which academic term is [KASA15](course)
+- [KATYVS43](course) academic term
+- Which semester will [KASA11](course) begin
+- The period of [POLVOA12](course)
+- The semester of [KASLOM5](course)
+- The academic term of [BTK4300](course)
+- The quarter of [TERHOIA6](course)
+- Which quarter is [KASLOE6.3](course)
+- What is the quarter of [YKYYKEKE1](course)
+- Which quarter will [HALJUS13](course) begin
+- I want to know which semester will [KASMAT1](course) start
+- I want to know which semester is [TAYJ12](course)
+- I want to know the study period of [ENGA3](course)
+- I want to know the academic term for [JOVTS1/SOS10.6](course)
+- Period [KATTAP11](course)
+- Semester [KASMULTI5](course)
+- Quarter [HISP2](course)
+- Academic term [HALJUA65](course)
+- [JOVPVA5](course) semester
+- [KATLITO5](course) academic term
+- [BTK3115](course) quarter
+- This semester [KASP5](course)
+- What period [KASLOH1](course)
+- What study period [HALYAS99](course)
+- What study period is [MTTY1](course) in
+- What period will [HALJUA24](course) begin
+- [KASA8](course) period
+- Is [JOVTS5](course) this period
+- Which period is [FONEP4](course)
+- Which period will [KIRA3G](course) begin
+- What period will [POLVOA32](course) begin
+- [HISA2](course) curriculum
+- When is [SOS3](course) in the curriulum
+- The period of [PEDAYOP2](course)
+- Study period of [BTK1062](course)
+- Semester [PSYS14](course)
+- Which semester will [SOSM5.1](course) start
+- Which semester is [KASVAR11](course)
+- Is [KASA9](course) this semester
+- What semester is [KIRA1](course)
+- Academic term [TERA6](course)
+- Which academic term will [KASA12](course) begin
+- Which academic term is [JOVVAL](course)
+- [SUOA1](course) academic term
+- Which semester will [KASLOE8.3](course) begin
+- The period of [MVKS47](course)
+- The semester of [KASLOH3](course)
+- The academic term of [SUOA4](course)
+- The quarter of [SOS10.2](course)
+- Which quarter is [TAYJ032](course)
+- What is the quarter of [HISA3B](course)
+- Which quarter will [KASVAR4](course) begin
+- I want to know which semester will [NORDIG1](course) start
+- I want to know which semester is [JOVPVS6](course)
+- I want to know the study period of [POLPOP02](course)
+- I want to know the academic term for [KATVRS55](course)
+- Period [KATTAP11](course)
+- Semester [SOS4.3](course)
+- Quarter [VENA10](course)
+- Academic term [KATMAS14](course)
+- [KKENKTM](course) semester
+- [RANP2](course) academic term
+- [SOS6.5.1](course) quarter
+- This semester [MTTY4](course)
+- What period [SOS4.3](course)
+- What study period [HALJUS11](course)
+- What study period is [KKES3](course) in
+- What period will [HISA1A](course) begin
+- [RANP1](course) period
+- Is [MVKS39E/S](course) this period
+- Which period is [JOVA6](course)
+- Which period will [KASLOM10](course) begin
+- What period will [HALYAA15](course) begin
+- [STYA6](course) curriculum
+- When is [KATVAS21](course) in the curriulum
+- The period of [ENGA13](course)
+- Study period of [KASLOH4B](course)
+- Semester [KASA12](course)
+- Which semester will [HALHAS19](course) start
+- Which semester is [YKT6.6.1](course)
+- Is [JKKYOA12](course) this semester
+- What semester is [KATLAA23](course)
+- Academic term [KATJOA99](course)
+- Which academic term will [HTIS81](course) begin
+- Which academic term is [TEATP3](course)
+- [DPEDUB.1B](course) academic term
+- Which semester will [BTK3115](course) begin
+- The period of [HALEUA11](course)
+- The semester of [HALTVA12](course)
+- The academic term of [TAYJ029](course)
+- The quarter of [LTLY01](course)
+- Which quarter is [KATLITO6](course)
+- What is the quarter of [HALJTP01](course)
+- Which quarter will [TAYJ032](course) begin
+- I want to know which semester will [MTTTP1](course) start
+- I want to know which semester is [DPEDUC.3](course)
+- I want to know the study period of [KKSAVAL1](course)
+- I want to know the academic term for [COSOPOM3](course)
+- Period [KATTAP11](course)
+- Semester [DPMED15](course)
+- Quarter [HALJTA14](course)
+- Academic term [KATYVS99](course)
+- [JOVPVS9](course) semester
+- [KASVAR11](course) academic term
+- [YKYYHT4A](course) quarter
+- This semester [BTK5003](course)
+- What period [DPHSFC06](course)
+- What study period [POLVOS21](course)
+- What study period is [KKRUYHT](course) in
+- What period will [KATYVA22](course) begin
+- [SOST10.4](course) period
+- Is [TERHOJ3](course) this period
+- Which period is [KASA13](course)
+- Which period will [LOGS4](course) begin
+- What period will [KATVAA11](course) begin
+- [DPHSO101](course) curriculum
+- When is [MOLI](course) in the curriulum
+- The period of [HISA1B](course)
+- Study period of [SAKA5](course)
+- Semester [RANS5](course)
+- Which semester will [KKSUYTK](course) start
+- Which semester is [MTTMP1A](course)
+- Is [VENA6](course) this semester
+- What semester is [POLKVS33](course)
+- Academic term [MTTMA1C](course)
+- Which academic term will [KATMAA13](course) begin
+- Which academic term is [TIEA5](course)
+- [YKT09.4](course) academic term
+- Which semester will [KASSM2](course) begin
+- The period of [KATJOA99](course)
+- The semester of [HALJTS01](course)
+- The academic term of [KASERIT3](course)
+- The quarter of [PSYP5](course)
+- Which quarter is [ITIP1](course)
+- What is the quarter of [HISP1](course)
+- Which quarter will [SAKP2](course) begin
+- I want to know which semester will [JKKYOA12](course) start
+- I want to know which semester is [TERY3](course)
+- I want to know the study period of [DPJKK20](course)
+- I want to know the academic term for [JOVA1](course)
+- Period [KATTAP11](course)
+- Semester [SOS4.4](course)
+- Quarter [YKT10.1.2](course)
+- Academic term [LTLY16](course)
+- [BIO4230](course) semester
+- [KASA8](course) academic term
+- [KASERIT3](course) quarter
+- This semester [TEE2](course)
+- What period [LOGA4](course)
+- What study period [JOUJOVTS](course)
+- What study period is [MTTTP1](course) in
+- What period will [PSYA7](course) begin
+- [ITIS42](course) period
+- Is [TAYJ13](course) this period
+- Which period is [SOS6.5.3](course)
+- Which period will [KKENKTK](course) begin
+- What period will [TIEP4](course) begin
+- [STYS3C](course) curriculum
+- When is [FILP5A](course) in the curriulum
+- The period of [JOVTS5](course)
+- Study period of [KKES2](course)
+- Semester [TERTIETO5](course)
+- Which semester will [KKRULUK](course) start
+- Which semester is [KKRA5](course)
+- Is [SAKP3](course) this semester
+- What semester is [FONEP1](course)
+- Academic term [MVKS16V](course)
+- Which academic term will [KKRUYHT](course) begin
+- Which academic term is [TERKAN11](course)
+- [TIETS07](course) academic term
+- Which semester will [PGHES03](course) begin
+- The period of [BTK1013](course)
+- The semester of [ESPFP2](course)
+- The academic term of [TERKANP3](course)
+- The quarter of [BIO4460](course)
+- Which quarter is [TERY4](course)
+- What is the quarter of [KIRS1/A4](course)
+- Which quarter will [HALYAS14](course) begin
+- I want to know which semester will [ITIS11](course) start
+- I want to know which semester is [SUOR1/A6](course)
+- I want to know the study period of [YKYYHT1](course)
+- I want to know the academic term for [STYS3B2](course)
+- Period [KATTAP11](course)
+- Semester [SOSM2](course)
+- Quarter [JOVA6/JMMETUS](course)
+- Academic term [FONEP3](course)
+- [KKSA2](course) semester
+- [POLPOP01](course) academic term
+- [PGHINT](course) quarter
+- This semester [KATYVS24](course)
+- What period [KATTAA13B](course)
+- What study period [MVKS18E](course)
+- What study period is [HISA4](course) in
+- What period will [PSYA2](course) begin
+- [KASP3](course) period
+- Is [RANS3](course) this period
+- Which period is [MVKS13E](course)
+- Which period will [JKKYORP1](course) begin
+- What period will [ITIP5](course) begin
+- [LOGS9](course) curriculum
+- When is [SOS4.2](course) in the curriulum
+- The period of [KKSUHUK](course)
+- Study period of [KKES3](course)
+- Semester [KATLAS13](course)
+- Which semester will [KATLAA22](course) start
+- Which semester is [MTTTY1](course)
+- Is [ITIA03](course) this semester
+- What semester is [HISA1B](course)
+- Academic term [ITIP1](course)
+- Which academic term will [HALYHT](course) begin
+- Which academic term is [KASP4](course)
+- [KKSUTTK](course) academic term
+- Which semester will [KKENYHT](course) begin
+- The period of [KKENYHT](course)
+- The semester of [BTK4032](course)
+- The academic term of [KASA5](course)
+- The quarter of [HISA1B](course)
+- Which quarter is [KKIN5](course)
+- What is the quarter of [HIS](course)
+- Which quarter will [KATSTA12](course) begin
+- I want to know which semester will [STYP3](course) start
+- I want to know which semester is [PGHES03](course)
+- I want to know the study period of [ITIA8](course)
+- I want to know the academic term for [TRSU02](course)
+- Period [KATTAP11](course)
+- Semester [SUOS4](course)
+- Quarter [STYP2](course)
+- Academic term [HALJUS22](course)
+- [KATMAA16](course) semester
+- [KIRA3G](course) academic term
+- [SOS6.3.3](course) quarter
+- This semester [TIEA1](course)
+- What period [KKKI2](course)
+- What study period [YKT04.2](course)
+- What study period is [FILP1A](course) in
+- What period will [JOVP3](course) begin
+- [KKSAVAL0](course) period
+- Is [TERHOIA4](course) this period
+- Which period is [DPJKK20](course)
+- Which period will [KKENYHT](course) begin
+- What period will [PSYP1](course) begin
+- [KASLOM3](course) curriculum
+- When is [TERKAN16](course) in the curriulum
+- The period of [STYVA](course)
+- Study period of [ITIS31](course)
+- Semester [MTTTY1](course)
+- Which semester will [KATTAA37](course) start
+- Which semester is [POLKVA33](course)
+- Is [KASSM2](course) this semester
+- What semester is [KATMAS13](course)
+- Academic term [BIO4722](course)
+- Which academic term will [KASVAR11](course) begin
+- Which academic term is [TAYJ029](course)
+- [ENGA9](course) academic term
+- Which semester will [POLKVS33](course) begin
+- The period of [KASPUHP2](course)
+- The semester of [POLKVA43](course)
+- The academic term of [KKSA4](course)
+- The quarter of [MTTTY1](course)
+- Which quarter is [KKSAVAL0](course)
+- What is the quarter of [KKRA1](course)
+- Which quarter will [SOS06.4](course) begin
+- I want to know which semester will [TERY4](course) start
+- I want to know which semester is [HALTVA12](course)
+- I want to know the study period of [SOS08.2](course)
+- I want to know the academic term for [TERHOI6](course)
+- Period [KATTAP11](course)
+- Semester [TERA3](course)
+- Quarter [YKYYHT4A](course)
+- Academic term [PSYA3](course)
+- [FIL](course) semester
+- [KKIN5](course) academic term
+- [BTK1023](course) quarter
+- This semester [PSYS2](course)
+- What period [SUOS4](course)
+- What study period [JOVP3](course)
+- What study period is [VENA13](course) in
+- What period will [KATRAS12](course) begin
+- [KATVRA24](course) period
+- Is [TERY4](course) this period
+- Which period is [KATJOS21](course)
+- Which period will [KIRA4E](course) begin
+- What period will [KASA13](course) begin
+- [POLVOS40](course) curriculum
+- When is [KATJOS21](course) in the curriulum
+- The period of [ENGP3](course)
+- Study period of [YKYYHT2](course)
+- Semester [KATVAA11](course)
+- Which semester will [PEACE2](course) start
+- Which semester is [KKSUHUK1](course)
+- Is [TERVAL1](course) this semester
+- What semester is [TERHOIA6](course)
+- Academic term [POHP4](course)
+- Which academic term will [LTLY16](course) begin
+- Which academic term is [TIEY2](course)
+- [KASVAR8](course) academic term
+- Which semester will [KASA11](course) begin
+- The period of [YKYYHT5](course)
+- The semester of [KASLOM1](course)
+- The academic term of [KASPUHA4](course)
+- The quarter of [DPHSFC06](course)
+- Which quarter is [SAKA3](course)
+- What is the quarter of [JOVA21](course)
+- Which quarter will [KKRUYHT](course) begin
+- I want to know which semester will [HALJUA21](course) start
+- I want to know which semester is [JKKYVAL00](course)
+- I want to know the study period of [KASVAR9](course)
+- I want to know the academic term for [KASLOM6](course)
+- Period [KATTAP11](course)
+- Semester [MTTTP1](course)
+- Quarter [DPCMTJ1/JT1](course)
+- Academic term [SUOK2/A6](course)
+- [KATTAA13B](course) semester
+- [KATYVS44](course) academic term
+- [BTK5557](course) quarter
+- This semester [KASLOK1](course)
+- What period [KATYVP11](course)
+- What study period [HALKOS23](course)
+- What study period is [TIEY1](course) in
+- What period will [KATLAA12](course) begin
+- [PSYP2](course) period
+- Is [JOVP5](course) this period
+- Which period is [DPCMTJT3](course)
+- Which period will [HISA2](course) begin
+- What period will [KKSUYHT](course) begin
+- [POLVOA31](course) curriculum
+- When is [KATLAA12](course) in the curriulum
+- The period of [TRMU2](course)
+- Study period of [KASMULTI4](course)
+- Semester [BIO4450](course)
+- Which semester will [YKYYHT1](course) start
+- Which semester is [KASA7](course)
+- Is [ROMAP3](course) this semester
+- What semester is [TERY4](course)
+- Academic term [KATRAS12](course)
+- Which academic term will [TERKANA5](course) begin
+- Which academic term is [JOVTS5](course)
+- [HISA4](course) academic term
+- Which semester will [POLKVS21](course) begin
+- The period of [HALJUA99](course)
+- The semester of [LOGS8](course)
+- The academic term of [KASTUTOR](course)
+- The quarter of [KKENVAL9](course)
+- Which quarter is [SUOS4](course)
+- What is the quarter of [KATJOS13](course)
+- Which quarter will [TERY4](course) begin
+- I want to know which semester will [MEDU07](course) start
+- I want to know which semester is [TERTIETO2](course)
+- I want to know the study period of [KASA15](course)
+- I want to know the academic term for [KASA11](course)
+- Period [KATTAP11](course)
+- Semester [KATYVS42](course)
+- Quarter [SOS7.2/STYA4B](course)
+- Academic term [JOVY3](course)
+- [SOS08.3](course) semester
+- [TERTIETO4](course) academic term
+- [KATLAS15](course) quarter
+- This semester [BTK5001](course)
+- What period [KASP5](course)
+- What study period [KASSM2](course)
+- What study period is [HALKAA12](course) in
+- What period will [MTTTS13](course) begin
+- [MVKS15E](course) period
+- Is [LTLY01](course) this period
+- Which period is [POLVOA21](course)
+- Which period will [KASSG](course) begin
+- What period will [POLVOS40](course) begin
+- [KIRA3G](course) curriculum
+- When is [KASA3](course) in the curriulum
+- The period of [POHS2](course)
+- Study period of [TIEP1](course)
+- Semester [JKKYVAL00](course)
+- Which semester will [HALJTA12](course) start
+- Which semester is [SOS08.2](course)
+- Is [KASLOE7.2](course) this semester
+- What semester is [KASA8](course)
+- Academic term [KKRUYHT](course)
+- Which academic term will [KATTAS40](course) begin
+- Which academic term is [HTIS50](course)
+- [HISA2](course) academic term
+- Which semester will [TIETS09](course) begin
+- The period of [DPHSR402](course)
+- The semester of [HALHAA99](course)
+- The academic term of [KASLOM1](course)
+- The quarter of [SOS6.2.4](course)
+- Which quarter is [TIEP3](course)
+- What is the quarter of [LTLY210](course)
+- Which quarter will [KKSUPRO](course) begin
+- I want to know which semester will [SAKA4](course) start
+- I want to know which semester is [STYS3C](course)
+- I want to know the study period of [COSOPC3](course)
+- I want to know the academic term for [KKENVAL8](course)
+- Period [KATTAP11](course)
+- Semester [ITIA03](course)
+- Quarter [MTTY1](course)
+- Academic term [TAYJ025](course)
+- [KASLTT](course) semester
+- [POLKVS10](course) academic term
+- [MVKS24E](course) quarter
+- This semester [ENGA11](course)
+- What period [STYA1A1](course)
+- What study period [ENGA11](course)
+- What study period is [KATRAA12](course) in
+- What period will [JOVA13](course) begin
+- [DPHSS204](course) period
+- Is [TAYJ032](course) this period
+- Which period is [ITIA11](course)
+- Which period will [KKRUKK](course) begin
+- What period will [SOS6.3.3](course) begin
+- [HALYAS11](course) curriculum
+- When is [HALKOS22](course) in the curriulum
+- The period of [KASLOM8](course)
+- Study period of [LATAP3](course)
+- Semester [POLKVS31](course)
+- Which semester will [STYA1B](course) start
+- Which semester is [KATLAP21](course)
+- Is [HALYAA99](course) this semester
+- What semester is [DPIS1](course)
+- Academic term [SOS3](course)
+- Which academic term will [TAYJ025](course) begin
+- Which academic term is [POLKVS21](course)
+- [KASA9](course) academic term
+- Which semester will [KATLAS27](course) begin
+- The period of [TERKANP4](course)
+- The semester of [TERKANP1](course)
+- The academic term of [HALJUS21](course)
+- The quarter of [KATLAS27](course)
+- Which quarter is [TAYJ035](course)
+- What is the quarter of [KKSU8](course)
+- Which quarter will [KASMULTI2A](course) begin
+- I want to know which semester will [PEACE046](course) start
+- I want to know which semester is [KASP5](course)
+- I want to know the study period of [KASLOH4A](course)
+- I want to know the academic term for [POHP3](course)
+- Period [KATTAP11](course)
+- Semester [ROMAP5](course)
+- Quarter [SOCYKV2/RES012](course)
+- Academic term [SAKP3](course)
+- [TIETA15](course) semester
+- [POLKVS21](course) academic term
+- [BIO2085](course) quarter
+- This semester [KASVAR5](course)
+- What period [TERHOIA7](course)
+- What study period [BIOMJ016](course)
+- What study period is [POLVOA31](course) in
+- What period will [POLVOS40](course) begin
+- [TIETA8](course) period
+- Is [SAKA5](course) this period
+- Which period is [TIETS05](course)
+- Which period will [POLKVS31](course) begin
+- What period will [TAYJ035](course) begin
+- [RANS4](course) curriculum
+- When is [SUKKP6](course) in the curriulum
+- The period of [HALHAA16](course)
+- Study period of [KASA13](course)
+- Semester [KASVART2](course)
+- Which semester will [KKENYHT](course) start
+- Which semester is [SOS9](course)
+- Is [KIRS4](course) this semester
+- What semester is [ENGP9](course)
+- Academic term [ITIS11](course)
+- Which academic term will [KATLAS20](course) begin
+- Which academic term is [KASS3](course)
+- [KATTAS31](course) academic term
+- Which semester will [DPIS2](course) begin
+- The period of [HALYAA99](course)
+- The semester of [HALKOS23](course)
+- The academic term of [RANA2](course)
+- The quarter of [KASA9](course)
+- Which quarter is [ITIP3](course)
+- What is the quarter of [VENA1](course)
+- Which quarter will [SOS09.1](course) begin
+- I want to know which semester will [HALJTA99](course) start
+- I want to know which semester is [KASSM2](course)
+- I want to know the study period of [KIRA3G](course)
+- I want to know the academic term for [KASA11](course)
+- Period [KATTAP11](course)
+- Semester [KKSUPRO](course)
+- Quarter [STYA7](course)
+- Academic term [HALJUA21](course)
+- [HTIS66](course) semester
+- [MVKS17/13S](course) academic term
+- [KATYVS26](course) quarter
+- This semester [TERHOIA4](course)
+- What period [POLPOP04](course)
+- What study period [KASVAR4](course)
+- What study period is [POLKVA31](course) in
+- What period will [KKENLL](course) begin
+- [FILT10](course) period
+- Is [DPHSFC07](course) this period
+- Which period is [KKENYHT](course)
+- Which period will [BTK4661](course) begin
+- What period will [BTK3125](course) begin
+- [SOS6.4.3](course) curriculum
+- When is [PEDAYOP1](course) in the curriulum
+- The period of [KATYVS44](course)
+- Study period of [RANS4](course)
+- Semester [HALTVP11](course)
+- Which semester will [YKT6.6.3](course) start
+- Which semester is [KASA11](course)
+- Is [KASSG](course) this semester
+- What semester is [ENGA8](course)
+- Academic term [SAKS3](course)
+- Which academic term will [POLVOA51/52/S24](course) begin
+- Which academic term is [DPCMTJT4](course)
+- [TERTIETO2](course) academic term
+- Which semester will [BIO2350](course) begin
+- The period of [YKYYHT5](course)
+- The semester of [KASA11](course)
+- The academic term of [HISP1](course)
+- The quarter of [DPCMTJ2/JMMETUS](course)
+- Which quarter is [HISS2](course)
+- What is the quarter of [YKYYV07](course)
+- Which quarter will [HALJTA14](course) begin
+- I want to know which semester will [MVKS15R](course) start
+- I want to know which semester is [BTK2112](course)
+- I want to know the study period of [ESPFP1](course)
+- I want to know the academic term for [BIO2250](course)
+- Period [KATTAP11](course)
+- Semester [KATLAS90](course)
+- Quarter [JKKYINA11](course)
+- Academic term [JOVMS2A](course)
+- [KATMAA99](course) semester
+- [YKTM6.3](course) academic term
+- [HALHAP01](course) quarter
+- This semester [HISA1B](course)
+- What period [BTK4121](course)
+- What study period [KKENVAL9](course)
+- What study period is [HISS1B](course) in
+- What period will [KATLAA23](course) begin
+- [POHP3](course) period
+- Is [KATTAA40](course) this period
+- Which period is [ITIA11](course)
+- Which period will [MTTTP1](course) begin
+- What period will [HALYAA15](course) begin
+- [PGHES03](course) curriculum
+- When is [KASA11](course) in the curriulum
+- The period of [KASVAL](course)
+- Study period of [BTK1053](course)
+- Semester [SAKP1](course)
+- Which semester will [BIO4395](course) start
+- Which semester is [HALKOS27](course)
+- Is [POLKVS22](course) this semester
+- What semester is [KATVRS55](course)
+- Academic term [KKRULL](course)
+- Which academic term will [TIEP1](course) begin
+- Which academic term is [KASA11](course)
+- [HIST03](course) academic term
+- Which semester will [KATMAA15](course) begin
+- The period of [ENGA11](course)
+- The semester of [HALYAS14](course)
+- The academic term of [KATVRS44](course)
+- The quarter of [KATJOA14](course)
+- Which quarter is [VENP4](course)
+- What is the quarter of [VENA1](course)
+- Which quarter will [KATSTA11](course) begin
+- I want to know which semester will [SOS9](course) start
+- I want to know which semester is [HISA2](course)
+- I want to know the study period of [KIRP3](course)
+- I want to know the academic term for [KATVRA12](course)
+- Period [KATTAP11](course)
+- Semester [VENS1](course)
+- Quarter [SOS6.5.2](course)
+- Academic term [TIETS26](course)
+- [ITIA4](course) semester
+- [TIETS21](course) academic term
+- [KKENYHT](course) quarter
+- This semester [KASMAT2](course)
+- What period [TIETA12](course)
+- What study period [ESPFA6](course)
+- What study period is [VENP1](course) in
+- What period will [KATYVS41](course) begin
+- [TIEP1](course) period
+- Is [SOS06.1](course) this period
+- Which period is [KASLOM6](course)
+- Which period will [LTLY16](course) begin
+- What period will [JKKYTUO2](course) begin
+- [KKSU4](course) curriculum
+- When is [DPHSFC07](course) in the curriulum
+- The period of [SOS6.1.1](course)
+- Study period of [VIROP3](course)
+- Semester [KKENYHT](course)
+- Which semester will [KASVAR7](course) start
+- Which semester is [LTLY213](course)
+- Is [HALJTA06](course) this semester
+- What semester is [JOVKA4](course)
+- Academic term [PSYS13](course)
+- Which academic term will [LUOYY027](course) begin
+- Which academic term is [STYS2A](course)
+- [SUOA5/YKIEA1](course) academic term
+- Which semester will [YKT6.6.2](course) begin
+- The period of [ENGP9](course)
+- The semester of [KKSUVAL3](course)
+- The academic term of [TRMU2](course)
+- The quarter of [KKSUYP](course)
+- Which quarter is [KATLAA99](course)
+- What is the quarter of [SUKKP1](course)
+- Which quarter will [FONEP3](course) begin
+- I want to know which semester will [KATTAA13A](course) start
+- I want to know which semester is [JOVTS5](course)
+- I want to know the study period of [KKSU2](course)
+- I want to know the academic term for [KASLOH3](course)
+- Period [KATTAP11](course)
+- Semester [KASP3](course)
+- Quarter [JOUJOVTS](course)
+- Academic term [KASA12](course)
+- [KKENKTM](course) semester
+- [LUOYY006](course) academic term
+- [HISA2](course) quarter
+- This semester [DPEDUC.3](course)
+- What period [ITIA11](course)
+- What study period [HALJUS12](course)
+- What study period is [MTTTP5](course) in
+- What period will [POLKAA99](course) begin
+- [MEJOS15](course) period
+- Is [KASA9](course) this period
+- Which period is [KASVAR1](course)
+- Which period will [KASP3](course) begin
+- What period will [TIEP1](course) begin
+- [KIRS5](course) curriculum
+- When is [JOVA20](course) in the curriulum
+- The period of [KASA12](course)
+- Study period of [BTK1099](course)
+- Semester [MVKS04](course)
+- Which semester will [ITIS61](course) start
+- Which semester is [POLPOP05](course)
+- Is [TAYJ035](course) this semester
+- What semester is [KATYVA43](course)
+- Academic term [ENGA11](course)
+- Which academic term will [KATTAS12](course) begin
+- Which academic term is [BTK1061](course)
+- [STYA3B](course) academic term
+- Which semester will [DPIS1](course) begin
+- The period of [KATVRS40](course)
+- The semester of [HALYAS12](course)
+- The academic term of [KKRUYHT](course)
+- The quarter of [KASLOM1](course)
+- Which quarter is [KASLOM10](course)
+- What is the quarter of [JOVVJS2](course)
+- Which quarter will [KASP5](course) begin
+- I want to know which semester will [KASLOE8.1](course) start
+- I want to know which semester is [JOVTS5](course)
+- I want to know the study period of [MTTTA6](course)
+- I want to know the academic term for [KASA11](course)
+- Period [KATTAP11](course)
+- Semester [HALYAA14](course)
+- Quarter [HALKAS11](course)
+- Academic term [RANA1](course)
+- [NAM-IV](course) semester
+- [HTIY005](course) academic term
+- [TERKANA3](course) quarter
+- This semester [SUOA8](course)
+- What period [ITIS21](course)
+- What study period [DPHSS206](course)
+- What study period is [MTTMA1B](course) in
+- What period will [PSYS5](course) begin
+- [ITIP4](course) period
+- Is [KKENKTK](course) this period
+- Which period is [HISS2](course)
+- Which period will [HALYAA14](course) begin
+- What period will [HALKAA12](course) begin
+- [POLPOP01](course) curriculum
+- When is [KATMAS99](course) in the curriulum
+- The period of [HALHAP01](course)
+- Study period of [JOVTS5](course)
+- Semester [MTTA1](course)
+- Which semester will [JOVA13](course) start
+- Which semester is [KASLOM6](course)
+- Is [ENGP3](course) this semester
+- What semester is [KASLOM4](course)
+- Academic term [BTK4121](course)
+- Which academic term will [JOVA14](course) begin
+- Which academic term is [YKYYHT1](course)
+- [LFCS03](course) academic term
+- Which semester will [HISA2](course) begin
+- The period of [KATVRA22](course)
+- The semester of [ENGA5](course)
+- The academic term of [BTK2037](course)
+- The quarter of [ENGS44](course)
+- Which quarter is [TIEY2](course)
+- What is the quarter of [HTIS60](course)
+- Which quarter will [HALTTS12](course) begin
+- I want to know which semester will [KASLOM8](course) start
+- I want to know which semester is [ENGS13/15-16](course)
+- I want to know the study period of [JKKYINA15](course)
+- I want to know the academic term for [HALJUA42](course)
+- Period [KATTAP11](course)
+- Semester [TERKANP3](course)
+- Quarter [KASPUHA5](course)
+- Academic term [LTLY16](course)
+- [ITIS44](course) semester
+- [PGHAS07](course) academic term
+- [BTK1061](course) quarter
+- This semester [KASLOE7.2](course)
+- What period [KAMVRS99](course)
+- What study period [TERTIETO1](course)
+- What study period is [STYA7](course) in
+- What period will [STYA3B2](course) begin
+- [SUOS4](course) period
+- Is [TEE1](course) this period
+- Which period is [POHP2](course)
+- Which period will [HALJUA99](course) begin
+- What period will [HTIS86](course) begin
+- [TERHOI2](course) curriculum
+- When is [ENGA6](course) in the curriulum
+- The period of [SOS10.6](course)
+- Study period of [PEACE045](course)
+- Semester [JKKYTUO2](course)
+- Which semester will [JOUJOVTS](course) start
+- Which semester is [HISJATKO](course)
+- Is [TIEA2.1B](course) this semester
+- What semester is [KIRA4E](course)
+- Academic term [VENP2](course)
+- Which academic term will [PEACE045](course) begin
+- Which academic term is [BTK2060](course)
+- [POLVOS28](course) academic term
+- Which semester will [TERHOIA1](course) begin
+- The period of [KATTAA35](course)
+- The semester of [ESPFA7](course)
+- The academic term of [LATA0](course)
+- The quarter of [ITIS24](course)
+- Which quarter is [SOS6.5.3](course)
+- What is the quarter of [KATYVA22](course)
+- Which quarter will [HALJUS15](course) begin
+- I want to know which semester will [KATJOS99](course) start
+- I want to know which semester is [MVKS11](course)
+- I want to know the study period of [POHP2](course)
+- I want to know the academic term for [KATSTA11](course)
+- Period [KATTAP11](course)
+- Semester [JKKYPS1](course)
+- Quarter [SOP03.6](course)
+- Academic term [GTS8](course)
+- [MTTMA1A](course) semester
+- [KATLAP21](course) academic term
+- [SOSM6.5](course) quarter
+- This semester [DPJKKPS](course)
+- What period [TERTIETO4](course)
+- What study period [BTK0030](course)
+- What study period is [KKIN5](course) in
+- What period will [KASMULTI3](course) begin
+- [TRMU2](course) period
+- Is [KKENYHT](course) this period
+- Which period is [TSEKP2](course)
+- Which period will [KASP4](course) begin
+- What period will [BTK4702](course) begin
+- [KKRUYHT](course) curriculum
+- When is [JOVPVS3](course) in the curriulum
+- The period of [ITIP2](course)
+- Study period of [LOGA5](course)
+- Semester [LOGA8](course)
+- Which semester will [MTTTP5](course) start
+- Which semester is [HISA3B](course)
+- Is [POHA1](course) this semester
+- What semester is [ITIS24](course)
+- Academic term [GTS9](course)
+- Which academic term will [ITIS44](course) begin
+- Which academic term is [YKYYKEKE0](course)
+- [TIETS17](course) academic term
+- Which semester will [KKRUYHT](course) begin
+- The period of [KATPAL12](course)
+- The semester of [TIETA6](course)
+- The academic term of [KASA2](course)
+- The quarter of [TIEVA36](course)
+- Which quarter is [KASA9](course)
+- What is the quarter of [KASA11](course)
+- Which quarter will [JOVA2](course) begin
+- I want to know which semester will [KASA13](course) start
+- I want to know which semester is [HALYHT](course)
+- I want to know the study period of [VIROP2](course)
+- I want to know the academic term for [KKSUYHT](course)
+
+## intent:poikkeusajat
+- Exceptions [Study skills and personal study planning - Basics of Information Literacy](course)
+- Exception [Opetus, ohjaus, oppiminen, verkko-opetus](course)
+- What are the exceptions for [Kandidaatintutkielma - Seminaari ja tutkielma](course)
+- [Urban Ethnography: The Social, Political and Economic Dimensions of Marginalization](course) exceptions
+- [Radio Project](course) exception
+- Exceptions in teaching hours [Venäjän kulttuuri](course)
+- Exceptions in teaching times [Matrices for Statistics and Computational Methods](course)
+- Are there any exceptions in teaching [Human-Technology Interaction Project Work](course)
+- What exceptions are there in [Kansainvälisen politiikan menetelmäseminaari (kirjatentti)](course)
+- Lecture exceptions [Professional Writing (online course)](course)
+- Does [Introduction to Education in Finland - Lectures, observation, essay and learning diary](course) have exceptions in teaching hours
+- Were there exceptions in lectures [Graduvauhditus](course)
+- Teaching times exceptions for [Oman äänen analyysi ja harjoittaminen](course)
+- What were the exceptions of teaching in [Kansainvälisen politiikan johdantokurssi (kirjatentti)](course)
+- Does the schedule for [Kulttuurinen monimuotoisuus koulutuksessa ja työelämässä, kirjatentti, Seinäjoki](course) have any exceptions
+- When were the exceptions for [WWW Programming](course)
+- The exceptions in lessons for [Tieteellinen kirjoittaminen / COMS (kirjallisuuden opiskelijoille)](course)
+- Special teaching times for [Puolueet, vaalit ja poliittinen vaikuttaminen (kirjatentti/essee)](course)
+- Is there anything special I should know about the course schedule for [Leadership for Sustainable Change (KATVAS39)](course)
+- [Käännösviestintä II englanti-suomi](course) special lecture hours
+- Special schedule [Modern Risk Management](course)
+- Will there be lectures in holidays in [Yksilö, yhteiskunta ja kulttuuri - evankelisluterilaiset uskonnon ja elämänkatsomustiedon harjoitusryhmät - 2. vsk](course)
+- Holiday exceptions [Ruotsin kielen kirjallinen ja suullinen viestintä](course)
+- Course break teaching times [Käännösviestintä II englanti-suomi](course)
+- Do we have a lecture during holiday in [Teemaseminaari Kant Puhtaan järjen kritiikki](course)
+- Cancelled lectures [Software Project Management, Theory](course)
+- Will [Pro gradu -seminaari ja -tutkielma (hallintotiede) - Seminaari](course) lectures be cancelled during holiday
+- Will [Tekstienväliset suhteet: Syventävä tekstianalyysi](course) have a lecture every week
+- I want to know the exceptions in lessons for [Rakennebiologia](course)
+- I want to know special teaching times for [Advanced International Relations Research Methods (book exam/essay)](course)
+- I want to know does the schedule for [Kasvatus tieteellisen tutkimuksen kohteena - avoin yo, lähi- ja monimuotototeutus](course) have any exceptions
+- I want to know Teaching times exceptions for [Valtio-opin johdantokurssi (kirjatentti)](course)
+- Exceptions [Current Approaches in Games and Internet Research](course)
+- Exception [Asiantuntijan puheviestintä ja vuorovaikutus (4. periodi) / KTM-tutkinto](course)
+- What are the exceptions for [Monikulttuurisen sosiaalityön erityiskysymykset - Sosnet verkkokurssi](course)
+- [Cost-Benefit and Cost-Effectiveness Analysis for Social Planning](course) exceptions
+- [Johdatus kasvatuksen ja koulutuksen yhteiskunnalliseen ja kulttuuriseen tutkimukseen - Luennot ja luentopäiväkirja](course) exception
+- Exceptions in teaching hours [Terveys ja yhteiskuntapolitiikka](course)
+- Exceptions in teaching times [Organisaatioteoria](course)
+- Are there any exceptions in teaching [Feministinen teoria ja metodologia](course)
+- What exceptions are there in [Fighting Against Human Rights Violations](course)
+- Lecture exceptions [Gender in Society](course)
+- Does [Opetussuunnitelmateoria, kirjatentti](course) have exceptions in teaching hours
+- Were there exceptions in lectures [Kasvatus tieteellisen tutkimuksen kohteena - verkko-opetus, I-periodi](course)
+- Teaching times exceptions for [Venäjä I](course)
+- What were the exceptions of teaching in [Accounting Information Systems](course)
+- Does the schedule for [Lukuteoria ja algebra opettajille -](course) have any exceptions
+- When were the exceptions for [Political Communication and Rhetoric (book exam/essay)](course)
+- The exceptions in lessons for [Laadullisten tutkimusmenetelmien soveltaminen hoitotieteessä](course)
+- Special teaching times for [Puhelääketiede](course)
+- Is there anything special I should know about the course schedule for [Matemaattisen tilastotieteen perusteet](course)
+- [Talous ja yhteiskunta](course) special lecture hours
+- Special schedule [Venäjän kulttuuri](course)
+- Will there be lectures in holidays in [Johdanto riskienhallintaan ja vakuuttamiseen (avoin yliopisto-opetus), monimuoto-opetus](course)
+- Holiday exceptions [EI toteutusta 2018-19 Advanced immunology](course)
+- Course break teaching times [Vakuutustiede ja vakuutustutkimus](course)
+- Do we have a lecture during holiday in [Tietojärjestelmätieteen jatkokoulutusseminaari - Seminaari](course)
+- Cancelled lectures [Varhaismoderni yhteiskunta](course)
+- Will [Poliittinen kommunikaatio ja retoriikka (kirjatentti/essee)](course) lectures be cancelled during holiday
+- Will [Global Issues on Mental Health and Mental Health Services - Web course](course) have a lecture every week
+- I want to know the exceptions in lessons for [Näkökulmia kääntämiseen - Käännös-, rakenne- ja sanastoharjoitukset I / Perspektiven auf Übersetzen](course)
+- I want to know special teaching times for [Opetus, ohjaus, oppiminen, verkko-opetus](course)
+- I want to know does the schedule for [Introduction to International Criminal Justice System](course) have any exceptions
+- I want to know Teaching times exceptions for [Tieteellinen kirjoittaminen / COMS (kirjallisuuden opiskelijoille)](course)
+- Exceptions [Kulttuuripsykologian perusteet](course)
+- Exception [Tuutorina toimiminen](course)
+- What are the exceptions for [Fenomenologia](course)
+- [Johdatus etiikkaan](course) exceptions
+- [Fördjupad kurs i skriftlig och muntlig affärskommunikation](course) exception
+- Exceptions in teaching hours [Tieteellinen seminaarisarja](course)
+- Exceptions in teaching times [Johdatus kunta- ja aluejohtamiseen](course)
+- Are there any exceptions in teaching [Aikuisten puheen ja kielen häiriöt - A2a Aikuisten puheen ja kielen häiriöt](course)
+- What exceptions are there in [Lastenkirjallisuus ja draama / Harjoitukset - 3.vsk + 1.vsk ryhmät 6 ja 7](course)
+- Lecture exceptions [Kunnallisoikeuden syventävä jakso](course)
+- Does [Solut](course) have exceptions in teaching hours
+- Were there exceptions in lectures [Parhaat filosofiset artikkelit](course)
+- Teaching times exceptions for [Minustako asiantuntijamyynnin ammattilainen?](course)
+- What were the exceptions of teaching in [Kansainvälisen politiikan teoria ja metateoria (kirjatentti)](course)
+- Does the schedule for [YK-päivä](course) have any exceptions
+- When were the exceptions for [Lapset kehittyvinä ja sosiaalisina toimijoina varhaiskasvatuksessa / Luennot - 1.vsk](course)
+- The exceptions in lessons for [Työelämäviestinnän tutkimus- tai kehityshanke](course)
+- Special teaching times for [Pohjoismaisten kielten lähtötasokoe](course)
+- Is there anything special I should know about the course schedule for [Seminaari](course)
+- [Julkiset hankinnat](course) special lecture hours
+- Special schedule [Molekulaarinen solubiologia](course)
+- Will there be lectures in holidays in [Tieteellisen tiedonhankinnan perusteet (pohjoismaiset kielet) -](course)
+- Holiday exceptions [Vakuutuksen ja riskienhallinnan erikoistumisosa](course)
+- Course break teaching times [Journalistinen kieli - Kielenhuolto, oikeinkirjoitusoppi](course)
+- Do we have a lecture during holiday in [Kirjallinen viestintä I - Sanasto- ja rakenneharjoitukset](course)
+- Cancelled lectures [Seminaarit 1. lukukausi/2. lukukausi](course)
+- Will [Lapset ympäristönsä tutkijoina - Käsityö](course) lectures be cancelled during holiday
+- Will [Johtamisviestintä](course) have a lecture every week
+- I want to know the exceptions in lessons for [Käsiteanalyysi ja filosofiset tutkimusmenetelmät (kirjatentti/essee)](course)
+- I want to know special teaching times for [Knowledge, business and work in a digital society](course)
+- I want to know does the schedule for [Inclusive Education](course) have any exceptions
+- I want to know Teaching times exceptions for [Ranskan yhteiskunta I / Société française I](course)
+- Exceptions [Introduction to Criminal Justice](course)
+- Exception [The Theory and Method of International Relations (theory) (book exam)](course)
+- What are the exceptions for [Kuvataide - 2. vsk ja opinnot 1½ lukuvuodessa suorittavat  1.vsk ja POM-opintoihin opinto-oikeuden saaneet opiskelijat](course)
+- [Academic Writing](course) exceptions
+- [Kiina III](course) exception
+- Exceptions in teaching hours [Verkkojulkaisemisen perusteet (keväällä 2018 opintokokonaisuuden aloittaneille) - verkkokurssi](course)
+- Exceptions in teaching times [Data Structures](course)
+- Are there any exceptions in teaching [Kunta- ja aluejohtamisen vaihtuvasisältöinen erikoiskurssi](course)
+- What exceptions are there in [Empiirinen projekti](course)
+- Lecture exceptions [Erot, jaot ja niiden rakentuminen - Luennot ja lukupiiri (klk) TAI kirjatentti (slk ja klk)](course)
+- Does [Opetus, ohjaus, oppiminen, monimuoto-opeus](course) have exceptions in teaching hours
+- Were there exceptions in lectures [Asiantuntijuuden kehittymiseen orientoiva opintojakso - opintosuuntakohtaiset ryhmät jatkaville maisteriopiskelijoille (KASSY-, KASSO- ja KASSA-opintosuuntien ryhmiä)](course)
+- Teaching times exceptions for [Draama - 2.vsk ja   opinnot 1½ lukuvuodessa suorittavat 1.vsk ja POM-opintoihin opinto-oikeuden saaneet opiskelijat( luennot)](course)
+- What were the exceptions of teaching in [Media, Race and Society](course)
+- Does the schedule for [Internet ja vuorovaikutteinen media](course) have any exceptions
+- When were the exceptions for [Eastern European Model: Lithuanian System of Work and Social Security](course)
+- The exceptions in lessons for [Kielikonsultointia käytännössä](course)
+- Special teaching times for [Kandidaattiseminaari (Mustakallio)](course)
+- Is there anything special I should know about the course schedule for [Studies of expansive learning: Foundations, findings and challenges](course)
+- [Viestinnän ja median tutkimussuuntauksia](course) special lecture hours
+- Special schedule [Suullinen ja kirjallinen taito - Suulliset ja kirjalliset harjoitukset/Expresión oral y escrita - Conversación y redacción](course)
+- Will there be lectures in holidays in [Äidinkieli ja kirjallisuus - Lukeminen ja kirjoittaminen - 1. vsk (luennot)](course)
+- Holiday exceptions [Global Terrorism: Political Violence in a Global Age](course)
+- Course break teaching times [Lausekielinen ohjelmointi I - Näyttökoe, kevät 2019](course)
+- Do we have a lecture during holiday in [Tiimi toimii - puheviestinnän syventävä kurssi (3. - 4. periodi)](course)
+- Cancelled lectures [Macroprudential Policy and Financial Stability](course)
+- Will [Advanced English Business Communication (RPL) / näyttökoe](course) lectures be cancelled during holiday
+- Will [Introduction to Risk Management and Insurance (autumn semester)](course) have a lecture every week
+- I want to know the exceptions in lessons for [Valinnainen jakso: Tiedeviestinnän käytänteet](course)
+- I want to know special teaching times for [Monimuuttujamenetelmien perusteet](course)
+- I want to know does the schedule for [Comparative Education - book exam](course) have any exceptions
+- I want to know Teaching times exceptions for [Arjen latinaa ja kulttuurihistoriaa](course)
+- Exceptions [Sustainable business practices (Independent study)](course)
+- Exception [Kvalitatiivinen tutkimus kasvatustieteissä - Harjoitukset, luokanop. ryhmä](course)
+- What are the exceptions for [Basics of Project Management](course)
+- [Harjoittelu](course) exceptions
+- [Sosiaalihuollon hallinto ja johtaminen](course) exception
+- Exceptions in teaching hours [Kuva-  ja mediakulttuurit - Mediakulttuurit - 1. vsk ja erillisen opinto-oikeuden POM-opintoihin saaneet opiskelijat  (ryhmätyöskentely)](course)
+- Exceptions in teaching times [Statistical Analysis with Missing Data (advanced)](course)
+- Are there any exceptions in teaching [Seminaari I, kandidaatintutkielma ja kypsyysnäyte / Bachelor-Seminar, Bachelorarbeit und Klausur zum Thema der Arbeit](course)
+- What exceptions are there in [Yritysjuridiikan case-kurssi](course)
+- Lecture exceptions [Capstone - Talousjohdon tehtävät ja osaamisalueet](course)
+- Does [Parties and Elections (book exam/essay)](course) have exceptions in teaching hours
+- Were there exceptions in lectures [Mediakasvatus, osallisuus ja aktiivinen kansalaisuus, kirjatentti](course)
+- Teaching times exceptions for [Legal English](course)
+- What were the exceptions of teaching in [EU:n ulkosuhteiden erityiskysymykset: turvallisuus, talous ja arvot (kirjatentti/essee)](course)
+- Does the schedule for [Suomen historian tutkijaseminaari](course) have any exceptions
+- When were the exceptions for [Tila, teknologia ja toiminta - essee](course)
+- The exceptions in lessons for [Introduction to Social Circus Pedagogy - (Tampere Summer School 2018)](course)
+- Special teaching times for [Johdatus viestinnän tutkimukseen ja analyysiin](course)
+- Is there anything special I should know about the course schedule for [Terveydenhuollon koulutuspolitiikka](course)
+- [Reading Waste](course) special lecture hours
+- Special schedule [Opimme lisää venäjän kielen suullisia taitoja](course)
+- Will there be lectures in holidays in [Liike-elämän ruotsia I / näyttökoe (AHOT)](course)
+- Holiday exceptions [Johdatus taloushallintoon](course)
+- Course break teaching times [Johtaminen ja organisaatiot I (kirjallisuus)](course)
+- Do we have a lecture during holiday in [Tulkkauksen teoria](course)
+- Cancelled lectures [Luottamustehtävissä toimiminen - Luottamustehtäväraportti](course)
+- Will [Fonetiikan ja yleisen kielitieteen perusteet - Yleinen kielitiede](course) lectures be cancelled during holiday
+- Will [Lähtötasokoe / Schwellentest](course) have a lecture every week
+- I want to know the exceptions in lessons for [Journalistinen kieli - Kielenhuolto, lauseoppi](course)
+- I want to know special teaching times for [Protein technology Laboratory Course A](course)
+- I want to know does the schedule for [Tieto-oppi](course) have any exceptions
+- I want to know Teaching times exceptions for [Kaunokirjallisen kääntämisen peruskurssi](course)
+- Exceptions [Tekstianalyysi - Luennot](course)
+- Exception [Organisaatio, hallinto ja johtaminen - Harjoitustyö](course)
+- What are the exceptions for [Kielioppi- ja sanastoharjoitukset / Grammatik und Wortschatzübungen](course)
+- [Kasvatus, tieto ja teoria - Luennot](course) exceptions
+- [Verkkomedian suunnittelu](course) exception
+- Exceptions in teaching hours [Orientaatio tutkielman tekemiseen](course)
+- Exceptions in teaching times [Työelämän korttipakka](course)
+- Are there any exceptions in teaching [Fonetiikan ja yleisen kielitieteen perusteet - Fonetiikka](course)
+- What exceptions are there in [Työelämäntutkimusta monimuuttujamenetelmin](course)
+- Lecture exceptions [Audiovisuaalisen kääntämisen seminaari / Kuvailutulkkaus](course)
+- Does [Muu valinnainen kurssi](course) have exceptions in teaching hours
+- Were there exceptions in lectures [Projektinhallinnan perusteet](course)
+- Teaching times exceptions for [Research in Practice](course)
+- What were the exceptions of teaching in [Tekstin tekemisen perusteet](course)
+- Does the schedule for [Kulttuurinen monimuotoisuus koulutuksessa ja työelämässä, kirjatentti](course) have any exceptions
+- When were the exceptions for [Työhyvinvoinnin johtaminen (itsenäinen suoritustapa, kesäopinnot)](course)
+- The exceptions in lessons for [Äänne- ja muoto-oppi](course)
+- Special teaching times for [Kasvatus tieteellisen tutkimuksen kohteena, verkko-opetus, III-periodi](course)
+- Is there anything special I should know about the course schedule for [Uskontojen antropologiaa](course)
+- [Venäjä I](course) special lecture hours
+- Special schedule [Johdatus Suomen kirjallisuushistoriaan - luennot](course)
+- Will there be lectures in holidays in [Luontokirjoittamisen klassikot](course)
+- Holiday exceptions [Väkivallan uudet muodot, turvallisuuskäsityksen muutos (kirjatentti/essee)](course)
+- Course break teaching times [Puhesuomi ja esiintyminen](course)
+- Do we have a lecture during holiday in [Moniammatillisuus, yhteisö ja vuorovaikutus / Harjoitukset - 3.vsk + 2.vsk ryhmä 4](course)
+- Cancelled lectures [[CANCELLED] Editing Project](course)
+- Will [Pelit ja pelillisyys](course) lectures be cancelled during holiday
+- Will [Luontokirjoittamisen klassikot](course) have a lecture every week
+- I want to know the exceptions in lessons for [Verkkomedian suunnittelu](course)
+- I want to know special teaching times for [Kaupunkien maankäytön pelikenttä](course)
+- I want to know does the schedule for [Kaupungistuva maailma: Kaupungit ja kaupunkilaisuus 1800-luvulta nykypäivään](course) have any exceptions
+- I want to know Teaching times exceptions for [Esiintyminen](course)
+- Exceptions [Pro gradu -seminaari ja -tutkielma (julkisoikeus)](course)
+- Exception [Qualitative Research Methods and Comparative Research Design](course)
+- What are the exceptions for [Teaching, Pedagogical Facilitating, Learning](course)
+- [Tieto- ja asiakirjahallinto](course) exceptions
+- [Terve ja turvallinen kouluyhteisö](course) exception
+- Exceptions in teaching hours [Mediakasvatus, osallisuus ja aktiivinen kansalaisuus, kirjatentti](course)
+- Exceptions in teaching times [Tutkielmapiiri](course)
+- Are there any exceptions in teaching [Asiantuntijan puheviestintä ja vuorovaikutus / AHOT (näyttökoe)](course)
+- What exceptions are there in [Kandidaatintutkielma ja seminaari, syksy 2018](course)
+- Lecture exceptions [Tutkimusseminaari ja pro gradu -tutkielma](course)
+- Does [Struggles on Education](course) have exceptions in teaching hours
+- Were there exceptions in lectures [Vakuutustoiminnan periaatteet ja johtaminen](course)
+- Teaching times exceptions for [Erot, jaot ja niiden rakentuminen, kirjatentti, Seinäjoki](course)
+- What were the exceptions of teaching in [Tutkijan työpaja](course)
+- Does the schedule for [Kehitys, kasvatus ja elämänkulku - Pienryhmät 1 op ja kirjallisuus 2 op (EDUn tutkinto-opiskelijat, aineenop.opiskelijat, avoin yo/lähiopetus)](course) have any exceptions
+- When were the exceptions for [Tilinpäätös- ja verosuunnittelu](course)
+- The exceptions in lessons for [Introduction to Web Publishing (Tampere Summer School 2018)](course)
+- Special teaching times for [Johdatus sosiaalitieteisiin (verkkokurssi)](course)
+- Is there anything special I should know about the course schedule for [Theory and practice of peaceful change: The Baltic Sea Region](course)
+- [Orientoivat opinnot ja HOPS (kirjallisuustiede)](course) special lecture hours
+- Special schedule [Kvantitatiivinen tutkimus kasvatustieteissä - Harjoitukset, luokanop.](course)
+- Will there be lectures in holidays in [Budgeting and capital budgeting (online course)](course)
+- Holiday exceptions [Suomen kielen rakenne S2-näkökulmasta](course)
+- Course break teaching times [Monikulttuurisen sosiaalityön erityiskysymykset - Sosnet verkkokurssi](course)
+- Do we have a lecture during holiday in [Vakuutuslaitosten sijoitustoiminta](course)
+- Cancelled lectures [Basics of programming and algorithms for bioinformatics](course)
+- Will [Vauvasta vaariin. Ikä feministisessä tutkimuksessa](course) lectures be cancelled during holiday
+- Will [Musiikki - Musiikin teoria alakoulussa - 1. vsk ja  erillisen opinto-oikeuden POM-opintoihin saaneet opiskelijat](course) have a lecture every week
+- I want to know the exceptions in lessons for [Valinnainen jakso: TV-makasiinikurssi (kevään ryhmä)](course)
+- I want to know special teaching times for [KEB-62100 Orgaaninen kemia](course)
+- I want to know does the schedule for [Liikuntatuutorina toimiminen / Sports Tutoring](course) have any exceptions
+- I want to know Teaching times exceptions for [Taloustiede, talouspolitiikka ja ajankohtaiset taloudelliset ja yhteiskunnalliset ongelmat](course)
+- Exceptions [Kuvakulttuuri -](course)
+- Exception [Tulevaisuuden hyvinvointipalvelut: ratkaisuna robotiikka?](course)
+- What are the exceptions for [Yritysverotus](course)
+- [Praktikum](course) exceptions
+- [Johdatus etiikkaan](course) exception
+- Exceptions in teaching hours [Kasvatus, tieto ja teoria - Luennot](course)
+- Exceptions in teaching times [Fonetiikan ja yleisen kielitieteen perusteet - Fonetiikka](course)
+- Are there any exceptions in teaching [Pro gradu -seminaari ja -tutkielma](course)
+- What exceptions are there in [Ammattimainen tekstintarkistus](course)
+- Lecture exceptions [Kasvatuksen historialliset ja filosofiset lähtökohdat, monimuoto-opetus](course)
+- Does [Requirements Engineering](course) have exceptions in teaching hours
+- Were there exceptions in lectures [User Experience: Design and Evaluation (TUT/IHTE)](course)
+- Teaching times exceptions for [Kvantitatiivinen tutkimus kasvatustieteissä - Harjoitukset, yhteinen avoimen ja tutkinto-op. ryhmä](course)
+- What were the exceptions of teaching in [Liikunta - Liikuntapedagogiikan perusteet - 1 vsk ja  erillisen opinto-oikeuden POM-opintoihin saaneet opiskelijat](course)
+- Does the schedule for [Tilastollisen päättelyn perusteet](course) have any exceptions
+- When were the exceptions for [Knowledge, business and work in a digital society](course)
+- The exceptions in lessons for [Kirjallinen viestintä II/Skriftlig kommunikation II](course)
+- Special teaching times for [Sosiaalioikeus - STYA1A1 Sosiaalioikeus I](course)
+- Is there anything special I should know about the course schedule for [Mediakasvatus, osallisuus ja aktiivinen kansalaisuus, kirjatentti](course)
+- [Gender and wellbeing in the global South and North](course) special lecture hours
+- Special schedule [Kandidaatintutkielma, seminaari](course)
+- Will there be lectures in holidays in [Monikielinen käännöstyöpaja](course)
+- Holiday exceptions [Kvalitatiivinen tutkimus kasvatustieteissä - Näyttökoe](course)
+- Course break teaching times [Ajankohtaiset ilmiöt hallintotieteissä](course)
+- Do we have a lecture during holiday in [Yhteisöt ja yhteisösosiaalityön lähtökohdat - Sosnet verkkokurssi](course)
+- Cancelled lectures [Orientoivat opinnot ja HOPS (englannin kieli, kirjallisuus ja kääntäminen)](course)
+- Will [Luemme ja keskustelemme venäjäksi](course) lectures be cancelled during holiday
+- Will [Basic Studies in Education -courses,  introductory meetings, reading circles and book exams](course) have a lecture every week
+- I want to know the exceptions in lessons for [Tila, teknologia ja toiminta](course)
+- I want to know special teaching times for [Tietokäytännöt (keväällä 2018 perusopinnot aloittaneille) - verkkokurssi](course)
+- I want to know does the schedule for [Biostatistiikka ja tilastollinen tietojenkäsittely](course) have any exceptions
+- I want to know Teaching times exceptions for [Kandidaattiseminaari ja -tutkielma (ympäristöpolitiikka ja aluetiede), syksy](course)
+- Exceptions [Theatre, Society, and Politics 1660-1760](course)
+- Exception [Työhyvinvoinnin johtaminen (itsenäinen suoritustapa)](course)
+- What are the exceptions for [Latinan jatkokurssi](course)
+- [PhD by publication: writing integrative chapter](course) exceptions
+- [Kvalitatiivinen tutkimus kasvatustieteissä - Näyttökoe](course) exception
+- Exceptions in teaching hours [Venäjä III](course)
+- Exceptions in teaching times [Approaches and Tools for Conflict Analysis and Peace Mediation](course)
+- Are there any exceptions in teaching [Nuorisotutkimuksen ajankohtaisia kysymyksiä](course)
+- What exceptions are there in [Kehityspsykologia II](course)
+- Lecture exceptions [Kandidaatintutkielmaseminaari - Muuntotyöryhmä, slk18](course)
+- Does [Tieteellinen kirjoittaminen / SOC (logopedia)](course) have exceptions in teaching hours
+- Were there exceptions in lectures [Internet ja vuorovaikutteinen media](course)
+- Teaching times exceptions for [Laskentatoimen teoria ja IFRS II](course)
+- What were the exceptions of teaching in [Kunnallistalouden kirjanpito -](course)
+- Does the schedule for [Julkisen hallinnon reformit ja muutos](course) have any exceptions
+- When were the exceptions for [Palvelut ja hyvinvointivaltion murros](course)
+- The exceptions in lessons for [Professional Writing (online course)](course)
+- Special teaching times for [Tieteellinen kirjoittaminen (2. vuosikurssin opiskelijoille)](course)
+- Is there anything special I should know about the course schedule for [Sosiaalityön teoriahistoria](course)
+- [Nuorten ryhmät ja ryhmän ohjaus, harjoitukset](course) special lecture hours
+- Special schedule [Yksilö, yhteiskunta ja kulttuuri - Monikulttuurisuus koulussa - 2. vsk](course)
+- Will there be lectures in holidays in [Understanding and Managing a Business as a Dynamic Whole - VIBU Business Simulation Game](course)
+- Holiday exceptions [Yhteisöllinen oppiminen ja ohjaus - Seminaari](course)
+- Course break teaching times [Syntyvyys, hoiva, sukupolvi](course)
+- Do we have a lecture during holiday in [Pro gradu -tutkielma ja -seminaari](course)
+- Cancelled lectures [Pohjoismaisten kielten lähtötasokoe](course)
+- Will [Politics of Memory in Eastern Europe](course) lectures be cancelled during holiday
+- Will [Opetussuunnitelmateoria, kirjatentti, Seinäjoki](course) have a lecture every week
+- I want to know the exceptions in lessons for [Mielenterveys, yhteiskunta ja sukupuoli](course)
+- I want to know special teaching times for [Fonetiikan ja yleisen kielitieteen perusteet - Fonetiikka](course)
+- I want to know does the schedule for [Johdanto terveysviestintään](course) have any exceptions
+- I want to know Teaching times exceptions for [Kasvatus tieteellisen tutkimuksen kohteena, verkko-opetus, III-periodi](course)
+- Exceptions [Monikielisyys ja -kulttuurisuus](course)
+- Exception [Euroopan integraation teoria ja ulkosuhteet (kirjatentti/essee)](course)
+- What are the exceptions for [Lukuteoria ja algebra opettajille -](course)
+- [Sosiaalipolitiikan teoreettinen ajattelu -lukuseminaari](course) exceptions
+- [Kuva-  ja mediakulttuurit - Kuvakulttuurit - 1. vsk ja erillisen opinto-oikeuden POM-opintoihin saaneet opiskelijat (luennot)](course) exception
+- Exceptions in teaching hours [Ainedidaktiikka II](course)
+- Exceptions in teaching times [Lukeminen ja kirjoittaminen oppimisen haasteena (seminaarit 1-4 ryhmät)](course)
+- Are there any exceptions in teaching [Valinnainen jakso: Dokumentaarisen nyky-Suomi-sarjan konseptikehitys ja verkkosuunnittelu](course)
+- What exceptions are there in [Work and Health](course)
+- Lecture exceptions [Reading Waste](course)
+- Does [Klassinen länsimainen kertomakirjallisuus](course) have exceptions in teaching hours
+- Were there exceptions in lectures [Ainedidaktinen tutkimus ja tutkiva opettajuus](course)
+- Teaching times exceptions for [Kuvan uudet muodot](course)
+- What were the exceptions of teaching in [Symbols that move us - popular culture/deep culture](course)
+- Does the schedule for [Medioitu vuorovaikutus](course) have any exceptions
+- When were the exceptions for [Kulttuurinen monimuotoisuus koulutuksessa ja työelämässä, kirjatentti, Pori](course)
+- The exceptions in lessons for [Social Scientific Perspectives on Consumption (online course)](course)
+- Special teaching times for [Asiantuntijan puheviestintä ja vuorovaikutus, 3.-4. periodi / VIESTINTÄROHKEUDEN RYHMÄ](course)
+- Is there anything special I should know about the course schedule for [Academic Writing](course)
+- [Pro gradu -tutkielma ja -seminaari, syksyllä 2018 aloittavat ryhmät](course) special lecture hours
+- Special schedule [Orientoivat opinnot ja HOPS (saksan kieli, kulttuuri ja kääntäminen)](course)
+- Will there be lectures in holidays in [EU Financial Management](course)
+- Holiday exceptions [Käännösteknologian harjoituskurssi](course)
+- Course break teaching times [Julkistalousoikeus](course)
+- Do we have a lecture during holiday in [Laskentatoimen teoria ja IFRS II](course)
+- Cancelled lectures [Journalistinen kieli - Kielenhuolto, lauseoppi](course)
+- Will [Research on Teaching and Learning - Seminar](course) lectures be cancelled during holiday
+- Will [Terveystiedon sisällöt (sähköinen tentti)](course) have a lecture every week
+- I want to know the exceptions in lessons for [Managing Research Information](course)
+- I want to know special teaching times for [Julkisoikeuden perusteet (järjestäjä TAMK)](course)
+- I want to know does the schedule for [Topical Issues in Governance, Management and Administration](course) have any exceptions
+- I want to know Teaching times exceptions for [Sidosryhmäteoria ja -johtaminen](course)
+- Exceptions [Viestinnän ja median tutkimussuuntauksia](course)
+- Exception [Introduction to Web Publishing (Tampere Summer School 2018)](course)
+- What are the exceptions for [Fonetiikan ja yleisen kielitieteen perusteet - Yleinen kielitiede](course)
+- [Introduction to Academic English (JKK, EDU, LUO, COMS & SOC)](course) exceptions
+- [Biologia ja ympäristötieto - Biologian ja maantieteen perusteet  ja erillisen opinto-oikeuden POM-opintoihin saaneet opiskelijat (pienryhmäopetus)](course) exception
+- Exceptions in teaching hours [Kielen kehitys / Harjoitukset - 2.vsk + 1.vsk ryhmät 6 ja 7](course)
+- Exceptions in teaching times [International Society (book exam/essay)](course)
+- Are there any exceptions in teaching [Pratiques de l'écrit: méthodes et techniques d'expression écrite/Kirjoitusharjoituksia: kirjallisen esityksen metodit ja tekniikka](course)
+- What exceptions are there in [Writing the Nation](course)
+- Lecture exceptions [Valinnainen jakso: Dokumenttikurssi](course)
+- Does [Keskustelunanalyysi (verkkokurssi), syksy 2018](course) have exceptions in teaching hours
+- Were there exceptions in lectures [Improving the quality and safety of health care through outcomes research](course)
+- Teaching times exceptions for [Visual Peace Research](course)
+- What were the exceptions of teaching in [Opetus, ohjaus, oppiminen, monimuoto-opetus](course)
+- Does the schedule for [Tutkiva harjoittelu](course) have any exceptions
+- When were the exceptions for [Kuinka suurenmoisia ihmiset ovat olleet - sopeutumaan pohjoisiin luonnonolosuhteisiin!](course)
+- The exceptions in lessons for [Kasvatusfilosofia: ihminen, luonto ja kulttuuri - Luennot](course)
+- Special teaching times for [Aluetalous ja kaupunkitalous](course)
+- Is there anything special I should know about the course schedule for [Communication orale/Suullinen viestintä](course)
+- [Suullinen viestintä II/Muntlig kommunikation II](course) special lecture hours
+- Special schedule [Terveyden ja mielenterveyden psykologia I](course)
+- Will there be lectures in holidays in [Kuvataiteen vaihtuvateemainen opintojakso/Elokuva mediakasvatuksen välineenä](course)
+- Holiday exceptions [Kansainvälisen politiikan teoria ja menetelmät (kirjatentti)](course)
+- Course break teaching times [Johdon laskentatoimen perusteet](course)
+- Do we have a lecture during holiday in [Kielioppi I / Grammatik I](course)
+- Cancelled lectures [Euroopan integraation teoria ja ulkosuhteet (kirjatentti/essee)](course)
+- Will [Filosofian työpaja](course) lectures be cancelled during holiday
+- Will [Kokeellinen, kokeileva ja kokemuksellinen sosiaalipsykologia](course) have a lecture every week
+- I want to know the exceptions in lessons for [Journalismin tulevaisuus, harjoittelun kielikritiikki](course)
+- I want to know special teaching times for [Health systems and health in developing Asia: India, China, and North Korea](course)
+- I want to know does the schedule for [Argumentaation ja tieteellisen päättelyn perusteet](course) have any exceptions
+- I want to know Teaching times exceptions for [Sosiaalioikeus I](course)
+- Exceptions [Johtajuuden nykysuuntia](course)
+- Exception [European, Eurasian and Global Energy Policy (book exam/essay)](course)
+- What are the exceptions for [Kansainvälisen historian tutkijaseminaari](course)
+- [Seminaarit 1. lukukausi/2. lukukausi](course) exceptions
+- [Writing Scientific Journal Articles](course) exception
+- Exceptions in teaching hours [Orientaatiopäivä väitöskirjatutkijoille](course)
+- Exceptions in teaching times [Kasvatuksen historialliset ja filosofiset lähtökohdat, verkko-opetus](course)
+- Are there any exceptions in teaching [Ruotsin kielen kirjallinen ja suullinen viestintä / avoin yliopisto-opetus](course)
+- What exceptions are there in [Työ- ja organisaatiopsykologia II](course)
+- Lecture exceptions [Käsiteanalyysi ja filosofiset tutkimusmenetelmät (kirjatentti/essee)](course)
+- Does [Olio-ohjelmoinnin perusteet](course) have exceptions in teaching hours
+- Were there exceptions in lectures [Kandidaattiseminaari ja tutkielma (laskentatoimi) - Kandidaattiseminaari, kevät 2018](course)
+- Teaching times exceptions for [Johdatus etiikkaan](course)
+- What were the exceptions of teaching in [Practical Programming in Python](course)
+- Does the schedule for [Linguistics I: Introduction to Basic Concepts](course) have any exceptions
+- When were the exceptions for [Multi-level Governance and Europeanisation (book exam/essay)](course)
+- The exceptions in lessons for [Nimistöntutkimus](course)
+- Special teaching times for [Dramaturgia: Musikaalin dramaturgia](course)
+- Is there anything special I should know about the course schedule for [Dialogue: Constructive Talk at Work](course)
+- [Latinankielinen kirjallisuus II: keski- ja uuden ajan latina](course) special lecture hours
+- Special schedule [Institutions, Innovation and Economic Renewal (NORDIG)](course)
+- Will there be lectures in holidays in [Contemporary Political Theory (book exam/essay)](course)
+- Holiday exceptions [Pro gradu -tutkielma ja -seminaari, tammikuussa 2019 aloittavat ryhmät](course)
+- Course break teaching times [Cultural Conversations](course)
+- Do we have a lecture during holiday in [Tietokantaohjelmointi](course)
+- Cancelled lectures [Kansainvälisen politiikan johdantokurssi (tutkinto-ohjelman opiskelijat)](course)
+- Will [Tietokäytännöt](course) lectures be cancelled during holiday
+- Will [Suomen kulttuuri ja yhteiskunta -lukupiiri](course) have a lecture every week
+- I want to know the exceptions in lessons for [Latinan kielen alkeiskurssi](course)
+- I want to know special teaching times for [Kansainvälisen historian tutkijaseminaari](course)
+- I want to know does the schedule for [Pro gradu -seminaari ja -tutkielma](course) have any exceptions
+- I want to know Teaching times exceptions for [Latinankielinen kirjallisuus I: klassinen latina](course)
+- Exceptions [Poliittinen kommunikointi ja retoriikka (kirjatentti/essee)](course)
+- Exception [Writing for Research (online course)](course)
+- What are the exceptions for [Kirjallisuuden analyysi/Analiz hudozhestvennoj literatury](course)
+- [Kerronnan monet muodot - kirjatentti ja essee](course) exceptions
+- [Leikki kulttuurisena, kehityksellisenä ja pedagogisena ilmiönä / Harjoitukset - 1.vsk](course) exception
+- Exceptions in teaching hours [Pro gradu -seminaari ja -tutkielma](course)
+- Exceptions in teaching times [MED Research Day](course)
+- Are there any exceptions in teaching [Strategia ja yrittäjyys](course)
+- What exceptions are there in [Tietokäytännöt (keväällä 2018 perusopinnot aloittaneille) - verkkokurssi](course)
+- Lecture exceptions [Tutkimustyön perusteet - d) Kandidaattiseminaari (keväällä 2018 alkava)](course)
+- Does [KEB-61410 Laaja kemia 1](course) have exceptions in teaching hours
+- Were there exceptions in lectures [Kvalitatiiviset tutkimusmenetelmät (kirjatentti/essee)](course)
+- Teaching times exceptions for [Terveyden edistämisen interventiot, Seinäjoki](course)
+- What were the exceptions of teaching in [Asiantuntijan puheviestintä ja vuorovaikutus sosiaali- ja terveysalalla (1. periodi)](course)
+- Does the schedule for [Johdatus kunta- ja aluejohtamiseen (avoin yliopisto-opetus), monimuoto-opetus](course) have any exceptions
+- When were the exceptions for [Yhteisöviestintä kunta- ja aluejohtamisessa](course)
+- The exceptions in lessons for [Ympäristöhallinnan muutos](course)
+- Special teaching times for [Turvallisuuspalvelujen suunnittelu ja palvelumuotoilu (service design)](course)
+- Is there anything special I should know about the course schedule for [Ruotsin kielen valmentava kurssi](course)
+- [Orientoivat opinnot ja HOPS (suomen kieli)](course) special lecture hours
+- Special schedule [Näkökulmia kääntämiseen - Kääntäminen viestinnällisenä asiantuntijatehtävänä / Perspektiven auf Übersetzen](course)
+- Will there be lectures in holidays in [Social Scientific Perspectives on Consumption (online course)](course)
+- Holiday exceptions [Oikeudellisen tutkimuksen perusteet](course)
+- Course break teaching times [Käännösviestintä suomi-venäjä](course)
+- Do we have a lecture during holiday in [Kommunikationstraining I](course)
+- Cancelled lectures [Lasten oikeuspsykologia](course)
+- Will [Tutkielmaseminaari (keväällä 2019 alkavat seminaarit) - Seminaari](course) lectures be cancelled during holiday
+- Will [Kehitys, kasvatus ja elämänkulku, verkko-opetus](course) have a lecture every week
+- I want to know the exceptions in lessons for [TUTU2 Tulevaisuudentutkimuksen menetelmät](course)
+- I want to know special teaching times for [Matemaattiset ohjelmistot (luentokurssi)](course)
+- I want to know does the schedule for [Finnish Elementary Course 1 (taught in 3. period)](course) have any exceptions
+- I want to know Teaching times exceptions for [Digital Media Landscape and Media Policies](course)
+- Exceptions [Re-Thinking Value Creation](course)
+- Exception [TUTU2 Tulevaisuudentutkimuksen menetelmät](course)
+- What are the exceptions for [Asiantuntijan puheviestintä ja vuorovaikutus / AHOT (näyttökoe)](course)
+- [Poliittinen kommunikointi ja retoriikka (kirjatentti/essee)](course) exceptions
+- [Kandidaatintutkielmaseminaari - Seminaari, II-periodissa alkava nopeasti etenevä ryhmä](course) exception
+- Exceptions in teaching hours [Juridisk svenska (vain KTM:ksi klklla 2019 valmistuville)](course)
+- Exceptions in teaching times [Scientific Writing - Module B - Thesis Writing (online)](course)
+- Are there any exceptions in teaching [Matkakirjallisuus kulttuurihistorian lähteenä -verkkokurssi](course)
+- What exceptions are there in [Yhteiskunnallinen muutos](course)
+- Lecture exceptions [Korkeakoulujen rahoitus ja talous - Harjoitustyö](course)
+- Does [Radiokääntäminen (venäjä)](course) have exceptions in teaching hours
+- Were there exceptions in lectures [Valinnainen jakso: Toimitustyön johtaminen/ JOVVJS1 Visuaalisen työn johtaminen](course)
+- Teaching times exceptions for [Tilinpäätös- ja verosuunnittelu](course)
+- What were the exceptions of teaching in [Psykologiharjoittelu](course)
+- Does the schedule for [Research Methods in HTI](course) have any exceptions
+- When were the exceptions for [Hesdoc Annual Meeting](course)
+- The exceptions in lessons for [Tieteellinen kirjoittaminen](course)
+- Special teaching times for [Espanja I](course)
+- Is there anything special I should know about the course schedule for [Kasvatus, koulutus ja yhteiskunta, verkko-opetus](course)
+- [Harjoittelu / Elinikäinen oppiminen ja kasvatus - Arviointiseminaari vuonna 2018 harjoitteleville](course) special lecture hours
+- Special schedule [Tieteenfilosofiaa kasvatustieteen näkökulmasta](course)
+- Will there be lectures in holidays in [Vaihtuvasisältöiset erikoiskurssit (kirjallinen tentti suoritusvaihtoehto) -](course)
+- Holiday exceptions [Foundations of English Business Communication (RPL) / näyttökoe](course)
+- Course break teaching times [Käsitekerho/ Mediatutkimuksen valinn. jakso](course)
+- Do we have a lecture during holiday in [Pro gradu -seminaari ja -tutkielma (julkisoikeus)](course)
+- Cancelled lectures [Romanticism and Its Legacy](course)
+- Will [Käyttöliittymien perusteet](course) lectures be cancelled during holiday
+- Will [Opetussuunnitelmateoria - Luennot, seminaari ja lukupiiri (slk) TAI kirjatentti (slk ja klk)](course) have a lecture every week
+- I want to know the exceptions in lessons for [Finnish Elementary Course 2 (taught in 4. period)](course)
+- I want to know special teaching times for [Introduction to Formal Specification](course)
+- I want to know does the schedule for [Tutkimustyön perusteet - d) Kandidaattiseminaari (keväällä 2019 alkava)](course) have any exceptions
+- I want to know Teaching times exceptions for [Introduction to Corporate Social Responsibility](course)
+- Exceptions [New Wars and How to Study Them (POMLFCS3)](course)
+- Exception [Äärellisten mallien teorian seminaari (Finite model theory seminar)](course)
+- What are the exceptions for [Asiakassuhde ja haastattelu](course)
+- [Pelit ja pelillisyys (syksyllä 2017 perusopinnot aloittaneille) - verkkokurssi](course) exceptions
+- [Tiimi toimii - puheviestinnän syventävä kurssi (4. periodi)](course) exception
+- Exceptions in teaching hours [Sidosryhmäteoria ja -johtaminen](course)
+- Exceptions in teaching times [Proseminaari, kandidaatintutkielma ja kypsyysnäyte](course)
+- Are there any exceptions in teaching [Osallisuudet, oikeudet ja vastuut palvelujärjestelmäkohtaamisissa](course)
+- What exceptions are there in [Uutisjournalismi](course)
+- Lecture exceptions [Terve ja sairas ihminen](course)
+- Does [Seminaari, kandidaatintutkielma ja kypsyysnäyte - Seminaari (kääntäminen ja tulkkaus)](course) have exceptions in teaching hours
+- Were there exceptions in lectures [Managing Research Information](course)
+- Teaching times exceptions for [Journalistinen kieli - Tekstinhuolto](course)
+- What were the exceptions of teaching in [Book Exam in Human-Technology Interaction](course)
+- Does the schedule for [Kasvatus, tieto ja teoria - Luennot](course) have any exceptions
+- When were the exceptions for [Gradu-kvantimetodit](course)
+- The exceptions in lessons for [Johdatus filosofiaan](course)
+- Special teaching times for [Käännösviestintä ranska-suomi I /  Traduction français-finnois I](course)
+- Is there anything special I should know about the course schedule for [Ruotsin kielen kirjallinen ja suullinen viestintä / avoin yliopisto-opetus](course)
+- [Tutkimuspraktikum](course) special lecture hours
+- Special schedule [Johdatus yhteiskuntafilosofiaan](course)
+- Will there be lectures in holidays in [Kandidaatin tutkielma ja seminaari (Kansanterveystieteen opiskelijoille)](course)
+- Holiday exceptions [Kliininen neuropsykologia II](course)
+- Course break teaching times [Dialogue: Constructive Talk at Work](course)
+- Do we have a lecture during holiday in [Current and Future Challenges of World Politics and Economy (POMLFCS3)](course)
+- Cancelled lectures [Kasvatus, koulutus ja yhteiskunta - Luennot ja kirjallisuus](course)
+- Will [MED Research Day](course) lectures be cancelled during holiday
+- Will [Terve ja turvallinen kouluyhteisö](course) have a lecture every week
+- I want to know the exceptions in lessons for [Nykyajan filosofia](course)
+- I want to know special teaching times for [Kandidaattiseminaari (Mustakallio)](course)
+- I want to know does the schedule for [Työpaja (matematiikan perustaitotesti)](course) have any exceptions
+- I want to know Teaching times exceptions for [Saksa IV](course)
+- Exceptions [Johdatus hoitotieteeseen](course)
+- Exception [Kiina III](course)
+- What are the exceptions for [Practices of Strategic Leadership](course)
+- [Kasvatustieteen metodologiset lähtökohdat, kirjatentti, Seinäjoki](course) exceptions
+- [Julkisen talousjohtamisen informaatio](course) exception
+- Exceptions in teaching hours [Mental Health Research: Using the Knowledge and Adding to it](course)
+- Exceptions in teaching times [Johdanto riskienhallintaan ja vakuuttamiseen](course)
+- Are there any exceptions in teaching [Riskienhallinta](course)
+- What exceptions are there in [Kauppatieteellisen tutkimuksen menetelmät (markkinointi ja yrityksen johtaminen)](course)
+- Lecture exceptions [English Word Formation](course)
+- Does [Saksa II](course) have exceptions in teaching hours
+- Were there exceptions in lectures [Tieteellinen kirjoittaminen / Wissenschaftliches Schreiben](course)
+- Teaching times exceptions for [Pro gradu -seminaari ja -tutkielma](course)
+- What were the exceptions of teaching in [Venäjä IV](course)
+- Does the schedule for [Kandidaatintutkielma ja seminaari - Seminaari](course) have any exceptions
+- When were the exceptions for [Johdatus etiikkaan](course)
+- The exceptions in lessons for [Kirjallisuuden opettaminen](course)
+- Special teaching times for [Historian määrällisen tiedon esittäminen](course)
+- Is there anything special I should know about the course schedule for [Johtamisen ja julkisen politiikan tutkimus ja ajankohtaiset kysymykset](course)
+- [Human-Centered Product Development (TUT/IHTE)](course) special lecture hours
+- Special schedule [Case study: Examining leadership challenges](course)
+- Will there be lectures in holidays in [Research seminar for postgraduate studies](course)
+- Holiday exceptions [Parties, Elections and Political Participation (book exam/essay)](course)
+- Course break teaching times [Eläimet työssä](course)
+- Do we have a lecture during holiday in [Uuden ajan alun ryhmä](course)
+- Cancelled lectures [Perusharjoittelu](course)
+- Will [Johdatus Suomen kirjallisuushistoriaan - harjoitukset](course) lectures be cancelled during holiday
+- Will [Suomen kielen rakenne S2-näkökulmasta](course) have a lecture every week
+- I want to know the exceptions in lessons for [Oikeus ja politiikka](course)
+- I want to know special teaching times for [Tutkiva opiskelu (syksyllä 2018 perusopinnot aloittaville) - verkkokurssi](course)
+- I want to know does the schedule for [Ylirajallinen liikkuminen Itämerellä: Suomenlahden alueet kautta aikojen -verkkokurssi](course) have any exceptions
+- I want to know Teaching times exceptions for [KV-tuutorina toimiminen](course)
+- Exceptions [Strategic Management Accounting and Control](course)
+- Exception [Ruotsin kielen valmentava kurssi](course)
+- What are the exceptions for [Popular Music and Politics](course)
+- [BMT-70100 Kudosteknologian perusteet](course) exceptions
+- [Eastern European Model: Lithuanian System of Work and Social Security](course) exception
+- Exceptions in teaching hours [KnowUp - Yrittäjyys ja liiketoiminnan kehittäminen](course)
+- Exceptions in teaching times [Yhtiöoikeus](course)
+- Are there any exceptions in teaching [Media and Globalization - Seminar](course)
+- What exceptions are there in [Kompleksianalyysi](course)
+- Lecture exceptions [Academic Presentations](course)
+- Does [Graduseminaari / Henttonen](course) have exceptions in teaching hours
+- Were there exceptions in lectures [Kandidaattitutkielma ja seminaari (tilastotiede)](course)
+- Teaching times exceptions for [Pro gradu -tutkielma ja -seminaari, tammikuussa 2018 aloittaneet ryhmät](course)
+- What were the exceptions of teaching in [Kvantitatiiviset tutkimusmenetelmät (kirjatentti/essee)](course)
+- Does the schedule for [Global Humanitarianism and its Critics (POMLFCS3)](course) have any exceptions
+- When were the exceptions for [Ruututekstikääntämisen peruskurssi](course)
+- The exceptions in lessons for [Microfinance and development](course)
+- Special teaching times for [Governing Hybrid Organizations](course)
+- Is there anything special I should know about the course schedule for [Työelämän tekstitaidot](course)
+- [Tuutorivastaavana toimiminen](course) special lecture hours
+- Special schedule [Bioinformatics tools (autumn 2018)](course)
+- Will there be lectures in holidays in [Software Project Management, Theory](course)
+- Holiday exceptions [Interacting Interculturally: Engaging in dialogue](course)
+- Course break teaching times [Euroopan unioni (kirjatentti/essee)](course)
+- Do we have a lecture during holiday in [Finlaysonin kielimaailmat](course)
+- Cancelled lectures [Maisteriopintojen esittely - HTI (in Finnish)](course)
+- Will [Journalistinen kieli - Kielenhuolto, oikeinkirjoitusoppi](course) lectures be cancelled during holiday
+- Will [Lapsuuden antropologia ja transnationaali lapsuus](course) have a lecture every week
+- I want to know the exceptions in lessons for [Opetus, ohjaus, oppiminen, verkko-opetus](course)
+- I want to know special teaching times for [Tutkimustyön perusteet - c) Tutkimusmenetelmien erityiskysymyksiä](course)
+- I want to know does the schedule for [Luova kaupunkikehittäminen](course) have any exceptions
+- I want to know Teaching times exceptions for [Kuvataidekasvatus / Harjoitukset - 2.vsk](course)
+- Exceptions [Opetus, ohjaus, oppiminen - Luokanopettajaopiskelijat: Pienryhmäopetus ja siihen liittyvä harjoittelu (2 op) ja kirjallisuus (2 op)](course)
+- Exception [Ryhmät ja ryhmien väliset suhteet](course)
+- What are the exceptions for [Kansainvälisen politiikan johdantokurssi (kaikki opiskelijat)](course)
+- [Seminaari I/Seminarium I](course) exceptions
+- [Kandidaatintutkielmaseminaari - Seminaari](course) exception
+- Exceptions in teaching hours [Structure of English II - Phonology and Pronunciation II](course)
+- Exceptions in teaching times [Inklusiivinen koulu - Luennot, seminaarit, kenttätehtävä ja raportointi](course)
+- Are there any exceptions in teaching [Seminaari](course)
+- What exceptions are there in [Usability Evaluation Methods](course)
+- Lecture exceptions [Semantiikka ja pragmatiikka / Semantik und Pragmatik](course)
+- Does [Poverty in the world: Hunger, inequalities and action](course) have exceptions in teaching hours
+- Were there exceptions in lectures [COURSE CANCELLED: Islamism](course)
+- Teaching times exceptions for [Kasvatus tieteellisen tutkimuksen kohteena - verkko-opetus, IV-periodi](course)
+- What were the exceptions of teaching in [Tekstianalyysi / Textanalyse](course)
+- Does the schedule for [Makrotalousteorian jatkokurssi II](course) have any exceptions
+- When were the exceptions for [Automaatit I](course)
+- The exceptions in lessons for [Experimental Research in Human-Technology Interaction](course)
+- Special teaching times for [Tieteellinen kommunikaatio ja bibliometriikka](course)
+- Is there anything special I should know about the course schedule for [Lähtötasokoe](course)
+- [Inklusiivinen pedagogiikka ja oppimisen tukeminen](course) special lecture hours
+- Special schedule [Introduction to Entrepreneurship](course)
+- Will there be lectures in holidays in [Terve ja turvallinen kouluyhteisö](course)
+- Holiday exceptions [Yhtiöoikeus](course)
+- Course break teaching times [Tutkielmaseminaari (logopedia)](course)
+- Do we have a lecture during holiday in [Book Exam in Human-Technology Interaction](course)
+- Cancelled lectures [Kauppatieteellisen tutkimuksen menetelmät (vakuutus ja riskienhallinta + laskentatoimi)](course)
+- Will [The European Union's Transnational Policies (POMLFCS2)](course) lectures be cancelled during holiday
+- Will [Curriculum Studies - Lectures](course) have a lecture every week
+- I want to know the exceptions in lessons for [Finlaysonin kielimaailmat](course)
+- I want to know special teaching times for [Tietojenkäsittelyopin syventävä opintojakso TTY:ltä](course)
+- I want to know does the schedule for [Kehitys, kasvatus ja elämänkulku, monimuoto-opetus](course) have any exceptions
+- I want to know Teaching times exceptions for [Kääntämisen ja tulkkauksen teoria ja käytäntö - Tulkkausviestinnän perusteet](course)
+- Exceptions [Kasvatushistoria - kirjatentti (slk ja klk)](course)
+- Exception [Tiimi toimii - puheviestinnän syventävä kurssi (3. - 4. periodi)](course)
+- What are the exceptions for [Johdatus kaunokirjalliseen kääntämiseen](course)
+- [Eriytyvä syventävä tutkimusmenetelmäkurssi A: Etnografia](course) exceptions
+- [Eriytyvä syventävä tutkimusmenetelmäkurssi B: Metodologinen essee](course) exception
+- Exceptions in teaching hours [Kvantitatiivinen tutkimus kasvatustieteissä - Harjoitukset, yleinen](course)
+- Exceptions in teaching times [Lähtötasokoe](course)
+- Are there any exceptions in teaching [Service Marketing](course)
+- What exceptions are there in [Qualitative Approach](course)
+- Lecture exceptions [Orientoivat opinnot - HOPS1](course)
+- Does [Professional Writing (online course)](course) have exceptions in teaching hours
+- Were there exceptions in lectures [Psykiatria](course)
+- Teaching times exceptions for [Seminaari (Heinonen)](course)
+- What were the exceptions of teaching in [Sosiaaliturvan ajankohtaisia kysymyksiä](course)
+- Does the schedule for [Biological data analysis with R](course) have any exceptions
+- When were the exceptions for [Ääntämisharjoituksia](course)
+- The exceptions in lessons for [Vuorovaikutuksen perusteet - verkkokurssina II](course)
+- Special teaching times for [Kielen variaatio](course)
+- Is there anything special I should know about the course schedule for [Gender and wellbeing in the global South and North](course)
+- [Seminaari (Nikunen) jatkuu keväältä](course) special lecture hours
+- Special schedule [Työpaja (matematiikan perustaitotesti)](course)
+- Will there be lectures in holidays in [Kandidaattitutkielma ja seminaari (matematiikka) - LaTeX-opinnot](course)
+- Holiday exceptions [Asiantuntijan puheviestintä ja vuorovaikutus sosiaali- ja terveysalalla (4. periodi)](course)
+- Course break teaching times [Biomolekyylit](course)
+- Do we have a lecture during holiday in [Lapsuuden, nuoruuden ja perheen tutkimuskeskus PERLAn tutkimusseminaari](course)
+- Cancelled lectures [Orientoivat opinnot - Tiedonhankintataidot](course)
+- Will [Kvantitatiivinen tutkimus kasvatustieteissä - Harjoitukset, yhteisopetusta avoimen yo:n kanssa](course) lectures be cancelled during holiday
+- Will [Valtio-opin maisteriseminaari](course) have a lecture every week
+- I want to know the exceptions in lessons for [Antiikintutkimuksen lähteet ja menetelmät](course)
+- I want to know special teaching times for [Mediakulttuurit / Luennot - 2.vsk + 1.vsk ryhmät 6 ja 7](course)
+- I want to know does the schedule for [Pohjoismaiden yhteiskuntaolot ja kulttuurit](course) have any exceptions
+- I want to know Teaching times exceptions for [Terveyden edistämisen interventiot, Seinäjoki](course)
+- Exceptions [Terveystaloustieteen tohtorikoulutussemiaari](course)
+- Exception [Kielellinen vaihtelu/Språklig variation](course)
+- What are the exceptions for [Varhaismoderni yhteiskunta](course)
+- [Euroopan unionin finanssihallinto-oikeus - Luennot ja tentti.](course) exceptions
+- [Kansainvälisen politiikan yleiset syventävät menetelmäopinnot](course) exception
+- Exceptions in teaching hours [Sosiaalihuollon hallinto ja johtaminen](course)
+- Exceptions in teaching times [Saksankielinen kaunokirjallisuus valistusajasta toiseen maailmansotaan / Deutschsprachige Literatur von der Aufklärung bis zum Zweiten Weltkrieg](course)
+- Are there any exceptions in teaching [Tilintarkastus II](course)
+- What exceptions are there in [Olio-ohjelmoinnin perusteet](course)
+- Lecture exceptions [Sosiaalioikeus - STYA1A1 Sosiaalioikeus I](course)
+- Does [Lähtötasokoe - Kirjallinen tentti](course) have exceptions in teaching hours
+- Were there exceptions in lectures [Diskutera som specialist](course)
+- Teaching times exceptions for [Performance management in public organizations](course)
+- What were the exceptions of teaching in [Tekninen viestintä ja informaation suunnittelu](course)
+- Does the schedule for [Tieteellisen kirjoittamisen seminaari kvantitatiivista tutkimusta tekeville](course) have any exceptions
+- When were the exceptions for [Tiedonhankinnan perusteet](course)
+- The exceptions in lessons for [Kandidaattiseminaari ja -tutkielma (kunta- ja aluejohtaminen) - Seminaari Syksy 2018](course)
+- Special teaching times for [Sukupuolen ja ruumiillisuuden tutkimuksen nykykeskustelut](course)
+- Is there anything special I should know about the course schedule for [Johdatus yhteiskuntahistoriaan](course)
+- [Terveys, tieto, asiantuntijuus](course) special lecture hours
+- Special schedule [Laskentatoimen perusteet (avoin yliopisto-opetus), monimuoto-opetus](course)
+- Will there be lectures in holidays in [Tieteellisen kirjoittamisen seminaari kvantitatiivista tutkimusta tekeville](course)
+- Holiday exceptions [Perhehoitotieteellisen tiedon syventäminen -](course)
+- Course break teaching times [Vaikuttaminen ja argumentointi](course)
+- Do we have a lecture during holiday in [Kuva-  ja mediakulttuurit - Mediakulttuurit - 1. vsk ja erillisen opinto-oikeuden POM-opintoihin saaneet opiskelijat  (ryhmätyöskentely)](course)
+- Cancelled lectures [Orientoivat opinnot - Alkuorientaatio](course)
+- Will [SOS6.2.3 Työelämän vuorovaikutus](course) lectures be cancelled during holiday
+- Will [PhD by publication: writing integrative chapter](course) have a lecture every week
+- I want to know the exceptions in lessons for [Special Issues in Games and Internet Cultures](course)
+- I want to know special teaching times for [Terveystieteiden laadulliset tutkimusmenetelmät, kansanterveystieteen opiskelijoille](course)
+- I want to know does the schedule for [Solut](course) have any exceptions
+- I want to know Teaching times exceptions for [Kandidaatintutkielmaseminaari - Seminaari](course)
+- Exceptions [Työmarkkinat, työvoiman käyttö ja työllisyysturva](course)
+- Exception [Institutions, Innovation and Economic Renewal (NORDIG)](course)
+- What are the exceptions for [Lasten arki suomalaisessa yhteiskunnassa / Luennot - 1.vsk](course)
+- [Kognitiivinen neurotiede I](course) exceptions
+- [Valtio-opin maisteriseminaari](course) exception
+- Exceptions in teaching hours [Markkinoinnin ja myynnin perusteet](course)
+- Exceptions in teaching times [Johdatus matemaattiseen päättelyyn](course)
+- Are there any exceptions in teaching [Algebra 2](course)
+- What exceptions are there in [Usean muuttujan integraalilaskenta](course)
+- Lecture exceptions [Sosiaalioikeus](course)
+- Does [Asevelvollisuus Suomessa ja kansainvälisesti](course) have exceptions in teaching hours
+- Were there exceptions in lectures [Kandidaatintutkielmaseminaari - Muuntotyöryhmä, klk19](course)
+- Teaching times exceptions for [Kuvataiteen perusteet - 1.vsk](course)
+- What were the exceptions of teaching in [Study Skills and Personal Study Planning - Basics of Information Literacy](course)
+- Does the schedule for [Tilastollisten tutkimusmenetelmien soveltaminen hoitotieteessä](course) have any exceptions
+- When were the exceptions for [Sukupuoli, perhe ja yhteiskunta](course)
+- The exceptions in lessons for [Master's Thesis Seminar and Master's Thesis (2nd year students)](course)
+- Special teaching times for [Kvantitatiivinen tutkimus kasvatustieteissä - Näyttökoe](course)
+- Is there anything special I should know about the course schedule for [Pro gradu -tutkielma ja -seminaari, syksyllä 2018 aloittavat ryhmät](course)
+- [International tutoring / Kv-tuutorina toimiminen](course) special lecture hours
+- Special schedule [Muu valinnainen kurssi](course)
+- Will there be lectures in holidays in [Kehitys, kasvatus ja elämänkulku, monimuoto-opetus](course)
+- Holiday exceptions [Specialized Optional Research Methodology: Action research](course)
+- Course break teaching times [Liikunta pedagogisena ilmiönä - B Liikunnan vaihtevat ympäristöt](course)
+- Do we have a lecture during holiday in [Espanja II](course)
+- Cancelled lectures [Tutkiva opiskelu (keväällä 2019 perusopinnot aloittaville) - verkkokurssi](course)
+- Will [Introduction to Web Publishing - Autumn 2018](course) lectures be cancelled during holiday
+- Will [Kvantitatiivinen tutkimus kasvatustieteissä - Harjoitukset, varhaiskasvatus](course) have a lecture every week
+- I want to know the exceptions in lessons for [Lapset ympäristönsä tutkijoina - Ympäristökasvatus](course)
+- I want to know special teaching times for [Tieteellinen kirjoittaminen](course)
+- I want to know does the schedule for [Tieteenfilosofiaa kasvatustieteen näkökulmasta](course) have any exceptions
+- I want to know Teaching times exceptions for [Specialised International Relations Research Methods (book exam/essay)](course)
+- Exceptions [Psykologian tutkimusmenetelmät II: kokeellinen ja korrelatiivinen tutkimus](course)
+- Exception [Kirjoitusviestintä / COMS](course)
+- What are the exceptions for [Kaikille avoin tutkijaseminaari](course)
+- [Ainedidaktiikka I](course) exceptions
+- [Todennäköisyyslaskenta](course) exception
+- Exceptions in teaching hours [Terveysviestintä](course)
+- Exceptions in teaching times [Marketing Communications](course)
+- Are there any exceptions in teaching [Nuorisotyön ja nuorisotutkimuksen maisteriohjelman lähijakso 7.-8.11.2018](course)
+- What exceptions are there in [Comparative European Politics and the Finnish Political System (book exam/essay)](course)
+- Lecture exceptions [Asiantuntijan puheviestintä ja vuorovaikutus opetus- ja kasvatustyössä (4. periodi)](course)
+- Does [Philosophy of Science](course) have exceptions in teaching hours
+- Were there exceptions in lectures [Visuaalisen journalismin erityisalueet](course)
+- Teaching times exceptions for [Journalism Start-Ups and Enterpreneurialism](course)
+- What were the exceptions of teaching in [Asiantuntijan puheviestintä ja vuorovaikutus (1. periodi)](course)
+- Does the schedule for [Lapset ympäristönsä tutkijoina - Matematiikka](course) have any exceptions
+- When were the exceptions for [Governing Hybrid Organizations](course)
+- The exceptions in lessons for [Advanced English Business Communication](course)
+- Special teaching times for [Teaching, Pedagogical Facilitating, Learning](course)
+- Is there anything special I should know about the course schedule for [Ohjelmointia teknisille viestijöille](course)
+- [Project Work (Spring term 2018)](course) special lecture hours
+- Special schedule [Nuorisotyön ja nuorisotutkimuksen maisteriohjelman lähijakso 14.-15.3.2019](course)
+- Will there be lectures in holidays in [Inklusiivinen varhaiskasvatus / Harjoitukset - 3.vsk](course)
+- Holiday exceptions [African and Black Diaspora Studies Research Seminar](course)
+- Course break teaching times [Vanhuus ja gerontologinen sosiaalityö](course)
+- Do we have a lecture during holiday in [Poverty in the world: Hunger, inequalities and action](course)
+- Cancelled lectures [Mediakasvatus, osallisuus ja aktiivinen kansalaisuus - Luennot ja ryhmä-/verkkotyöskentely (klk) TAI kirjatentti (slk ja klk)](course)
+- Will [Moniammatilliset johtamisopinnot](course) lectures be cancelled during holiday
+- Will [Tuutorvastaavana toimiminen / Being a tutor in charge](course) have a lecture every week
+- I want to know the exceptions in lessons for [Filosofian työpaja](course)
+- I want to know special teaching times for [Rekisteritutkimukset](course)
+- I want to know does the schedule for [Study skills and personal study planning - Basics of Information Literacy](course) have any exceptions
+- I want to know Teaching times exceptions for [Kandidaatintutkielma - Seminaari ja tutkielma](course)
+- Exceptions [Project Work (Spring term 2018)](course)
+- Exception [Management and organizations I (literature)](course)
+- What are the exceptions for [Johdatus Suomen kirjallisuushistoriaan - harjoitukset](course)
+- [Kick-start to Biomedical Technology](course) exceptions
+- [Second Language Acquisition](course) exception
+- Exceptions in teaching hours [Media maailmassa - verkkokurssi](course)
+- Exceptions in teaching times [Game Project](course)
+- Are there any exceptions in teaching [Mediakasvatus, osallisuus ja aktiivinen kansalaisuus, kirjatentti](course)
+- What exceptions are there in [Euroopan unioni ja maailma](course)
+- Lecture exceptions [Varhaiskasvatuksen kehittyvä asiantuntijuus - Työssäoppiminen (2.vsk ryhmä 4)](course)
+- Does [Tieteellinen kirjoittaminen / COMS (puheviestinnän opiskelijoille)](course) have exceptions in teaching hours
+- Were there exceptions in lectures [Espanja IV](course)
+- Teaching times exceptions for [Yhdyskuntakehittämisen ajankohtaisia kysymyksiä](course)
+- What were the exceptions of teaching in [Ruotsin kielen kirjallinen ja suullinen viestintä (ensijaisesti EDU:n opiskelijoille), 4. periodi](course)
+- Does the schedule for [Finnish Survival Course](course) have any exceptions
+- When were the exceptions for [Psykiatria](course)
+- The exceptions in lessons for [Tieto-oppi](course)
+- Special teaching times for [Olio-ohjelmoinnin perusteet](course)
+- Is there anything special I should know about the course schedule for [Pro gradu -tutkielma ja -seminaari](course)
+- [Basics I: Basics of Czech language II](course) special lecture hours
+- Special schedule [Johdatus visuaaliseen kulttuuriin](course)
+- Will there be lectures in holidays in [Epidemiology Journal Club](course)
+- Holiday exceptions [Inclusiveness in Local Innovation Environments](course)
+- Course break teaching times [Kansainvälisen politiikan erikoistuvat menetelmäopinnot](course)
+- Do we have a lecture during holiday in [Tutkijan digi- ja medianäkyvyys](course)
+- Cancelled lectures [Legal English](course)
+- Will [Literature and Society in Early Modern Britain](course) lectures be cancelled during holiday
+- Will [Espanja III](course) have a lecture every week
+- I want to know the exceptions in lessons for [Espanjan kielioppi II/Gramática española II](course)
+- I want to know special teaching times for [Agenda-Setting in Public Policy (POMLFCS1)](course)
+- I want to know does the schedule for [Kulttuurien kohtaaminen](course) have any exceptions
+- I want to know Teaching times exceptions for [Orientation - Orientation to studying in the Software Development programme](course)
+- Exceptions [Järjestöjen rooli sosiaalipolitiikassa ja vapaaehtoistyö](course)
+- Exception [KEB-21101 Mikrobiologia](course)
+- What are the exceptions for [Bioinformatics tools (spring 2019)](course)
+- [Kvalitatiivinen tutkimus kasvatustieteissä - Näyttökoe](course) exceptions
+- [Introduction to Academic English (diverse learners)](course) exception
+- Exceptions in teaching hours [Finlaysonin kielimaailmat](course)
+- Exceptions in teaching times [Ympäristökasvatus / Luennot - 2.vsk + 1.vsk ryhmät 6 ja 7](course)
+- Are there any exceptions in teaching [Kaunokirjallisen kääntämisen peruskurssi](course)
+- What exceptions are there in [Kehityspsykologia I (avoin yliopisto)](course)
+- Lecture exceptions [Kandidaatin tutkielma ja seminaari (hoitotiede)](course)
+- Does [Suomen kielen rakenne S2-näkökulmasta](course) have exceptions in teaching hours
+- Were there exceptions in lectures [Valinnainen jakso: Audiovisuaalisen kerronnan teoria ja dramaturgia](course)
+- Teaching times exceptions for [Introduction to Science and Research (autumn)](course)
+- What were the exceptions of teaching in [Terveydenhuollon koulutuspolitiikka](course)
+- Does the schedule for [Courses in Computer Science in TUT](course) have any exceptions
+- When were the exceptions for [Käsityö - Projektiosio - 2.vsk ja opinnot 1½ lukuvuodessa suorittavat 1.vsk ja POM-opintoihin opinto-oikeuden saaneet opiskelijat](course)
+- The exceptions in lessons for [Asiantuntijan ja esimiehen työelämätaidot](course)
+- Special teaching times for [Kielioppi I/Språkets strukturer I](course)
+- Is there anything special I should know about the course schedule for [Kielen kehitys / Luennot- 2.vsk + 1.vsk ryhmät 6 ja 7](course)
+- [Arviointimenetelmät](course) special lecture hours
+- Special schedule [Johdatus tilastotieteeseen](course)
+- Will there be lectures in holidays in [Aikuiskasvatus ja työelämä, kirjatentti, Pori](course)
+- Holiday exceptions [Theatre, Society, and Politics 1660-1760](course)
+- Course break teaching times [Parametric and Non-Parametric Statistics](course)
+- Do we have a lecture during holiday in [Global Ghallenges to the Future of Welfare State (Tampere Summer School 2018)](course)
+- Cancelled lectures [Menetelmäklinikka](course)
+- Will [Sosiaalisen median yhteisöt: menetelmällisiä ratkaisuja määrällisestä laadulliseen](course) lectures be cancelled during holiday
+- Will [Orientation](course) have a lecture every week
+- I want to know the exceptions in lessons for [Henkilöstöjohtaminen](course)
+- I want to know special teaching times for [Politiikan tutkimuksen kandidaatintutkielma ja -seminaari](course)
+- I want to know does the schedule for [Musiikin tiedolliset valmiudet ja niiden soveltaminen - Kuuntelukasvatus](course) have any exceptions
+- I want to know Teaching times exceptions for [Strateginen johtaminen julkisyhteisöissä](course)
+- Exceptions [Äänen tutkimus ja kuntoutus](course)
+- Exception [Orientoivat opinnot ja HOPS (pohjoismaiset kielet)](course)
+- What are the exceptions for [Cultural Transitions](course)
+- [Lineaarialgebra 1B](course) exceptions
+- [Semantiikan harjoituskurssi](course) exception
+- Exceptions in teaching hours [Käsitteellinen mallintaminen I](course)
+- Exceptions in teaching times [Moniammatilliset johtamisopinnot](course)
+- Are there any exceptions in teaching [Asioimistulkkaus venäjä-suomi-venäjä](course)
+- What exceptions are there in [Käännösviestintä suomi - saksa / Translation Finnisch-Deutsch](course)
+- Lecture exceptions [Sosiaalityön vuorovaikutuksen tutkimus - Sosnet-verkkokurssi](course)
+- Does [Ruotsin kielen kirjallinen ja suullinen viestintä (ensijaisesti EDU:n opiskelijoille), 3. periodi](course) have exceptions in teaching hours
+- Were there exceptions in lectures [Tiede, tutkimus, kirjoittaminen (verkkokurssi)](course)
+- Teaching times exceptions for [Äkilliset traumaattiset kriisit ja niiden käsittely](course)
+- What were the exceptions of teaching in [Ruotsin kielen valmentava kurssi](course)
+- Does the schedule for [Multi-level Modelling (MLM) - Concepts and Practice -](course) have any exceptions
+- When were the exceptions for [Liikunta pedagogisena ilmiönä - A Liikunnan ainedidaktiikka (yhteiset seminaarit)](course)
+- The exceptions in lessons for [Lähtötasokoe](course)
+- Special teaching times for [Matemaattiset aineet - Johdatus lukukäsitteeseen ja toimintamateriaalit - 1. vsk  ja erillisen opinto-oikeuden POM-opintoihin saaneet opiskelijat (luennot)](course)
+- Is there anything special I should know about the course schedule for [Työelämän korttipakka](course)
+- [Lähihistorian ryhmä](course) special lecture hours
+- Special schedule [Orientaatio maisteriopintoihin](course)
+- Will there be lectures in holidays in [Lukeminen ja kirjoittaminen oppimisen haasteena - (luennot)](course)
+- Holiday exceptions [Introduction to Academic English (diverse learners)](course)
+- Course break teaching times [Information Visualization](course)
+- Do we have a lecture during holiday in [Johdatus visuaaliseen kulttuuriin](course)
+- Cancelled lectures [Seminaari (Nikunen) jatkuu keväältä](course)
+- Will [Sosiaalipolitiikan ideat ja käytännöt](course) lectures be cancelled during holiday
+- Will [Poliittinen kommunikaatio ja retoriikka (kirjatentti/essee)](course) have a lecture every week
+- I want to know the exceptions in lessons for [Globaali, lokaali ja yhteisöllisyys sosiaalityössä (kirjatentti)](course)
+- I want to know special teaching times for [Writing the Nation](course)
+- I want to know does the schedule for [Work and Health](course) have any exceptions
+- I want to know Teaching times exceptions for [Kerronnan monet muodot (luentokurssi korvaa kirjatentin)](course)
+- Exceptions [Tilastomenetelmien perusteet](course)
+- Exception [Verkkomedian suunnittelu - verkkokurssi](course)
+- What are the exceptions for [Pitkä harjoittelu](course)
+- [Tekniikan käännösviestinnän seminaari englanti-suomi](course) exceptions
+- [Liikekirjanpito ja tilinpäätös](course) exception
+- Exceptions in teaching hours [Responsible Business and Social Accounting (Online course)](course)
+- Exceptions in teaching times [Kulttuurien kohtaaminen](course)
+- Are there any exceptions in teaching [Tilastotieteen matriisilaskenta ja laskennalliset menetelmät](course)
+- What exceptions are there in [Työelämävalmiudet ja asiantuntijuus - valmennusseminaari ja palautekeskustelu](course)
+- Lecture exceptions [Kohti matematiikan opettajuutta 1(TTY)](course)
+- Does [Terveydenhuollon ja terveystutkimuksen etiikka, Seinäjoki](course) have exceptions in teaching hours
+- Were there exceptions in lectures [Lausekielinen ohjelmointi I](course)
+- Teaching times exceptions for [Inklusiivinen varhaiskasvatus / Harjoitukset - 3.vsk](course)
+- What were the exceptions of teaching in [Introduction to Web Publishing (Tampere Summer School 2018)](course)
+- Does the schedule for [Thesis seminar](course) have any exceptions
+- When were the exceptions for [Yritysjuridiikan perusteet (avoin yliopisto-opetus)](course)
+- The exceptions in lessons for [Keskustelun- ja diskurssianalyysi / Gesprächs- und Diskursanalyse](course)
+- Special teaching times for [Asiantuntijan puheviestintä ja vuorovaikutus (1. periodi)](course)
+- Is there anything special I should know about the course schedule for [Kirjallinen viestintä I - Sanasto- ja rakenneharjoitukset](course)
+- [Moniulotteinen markkinointi (avoin yliopisto-opetus), monimuoto-opetus](course) special lecture hours
+- Special schedule [Johdatus kunta- ja aluejohtamiseen (avoin yliopisto-opetus), monimuoto-opetus](course)
+- Will there be lectures in holidays in [Vierailuluentoja johtamisesta](course)
+- Holiday exceptions [Väitöskirja (tutkijaseminaarit)](course)
+- Course break teaching times [Making sense of globalization - Theorizing beyond the nation-state - seminar](course)
+- Do we have a lecture during holiday in [Orientaatio filosofian tutkinto-ohjelman opintoihin](course)
+- Cancelled lectures [Methods in Text and Discourse Analysis](course)
+- Will [Espanja IV](course) lectures be cancelled during holiday
+- Will [Viestintä ammatillisissa ja läheisissä vuorovaikutussuhteissa](course) have a lecture every week
+- I want to know the exceptions in lessons for [Hoitotiede tieteenä](course)
+- I want to know special teaching times for [Johdatus yritysjuridiikkaan](course)
+- I want to know does the schedule for [Kirjallisuustieteen tohtoriohjelman tutkijaseminaari](course) have any exceptions
+- I want to know Teaching times exceptions for [Kandidaatin tutkielma ja seminaari (syksy)](course)
+- Exceptions [Terveys, tieto, asiantuntijuus](course)
+- Exception [Kirjoitusviestintä / COMS](course)
+- What are the exceptions for [Pro gradu -tutkielma ja -seminaari, syksyllä 2018 aloittavat ryhmät](course)
+- [Luemme ja keskustelemme venäjäksi](course) exceptions
+- [Business Ethics (Lectures)](course) exception
+- Exceptions in teaching hours [Ranskan kielen suullinen harjoituskurssi](course)
+- Exceptions in teaching times [Moniammatillisuus, yhteisö ja vuorovaikutus / Luennot - 3.vsk + 2.vsk ryhmä 4](course)
+- Are there any exceptions in teaching [Current Issues in Speech Communication (Puheviestintä tieteenä jatkuu)](course)
+- What exceptions are there in [Orientoivat opinnot - Tiedonhankintataidot](course)
+- Lecture exceptions [Perehdyttäminen tietotekniikan alkeisiin (kevät)](course)
+- Does [Ilmoittautuminen pro gradu -seminaariin, tammikuussa 2019 alkavat ryhmät](course) have exceptions in teaching hours
+- Were there exceptions in lectures [Game Theory/Advanced Course in Microeconomics](course)
+- Teaching times exceptions for [Sote ja sosiaalipolitiikka](course)
+- What were the exceptions of teaching in [Valtio-opin maisteriseminaari](course)
+- Does the schedule for [Taloustieteen matematiikka I](course) have any exceptions
+- When were the exceptions for [Preparatory Course in Reading and Writing for Academic Purposes (online)](course)
+- The exceptions in lessons for [Graduseminaari (Junkkari)](course)
+- Special teaching times for [Terve ja turvallinen kouluyhteisö](course)
+- Is there anything special I should know about the course schedule for [Tutkimusprosessin hallinta tohtoriopinnoissa](course)
+- [Aikuiskasvatus ja työelämä, kirjatentti slk tai klk](course) special lecture hours
+- Special schedule [Kääntämisen ja tulkkauksen teoria ja käytäntö - Käännösteoria](course)
+- Will there be lectures in holidays in [Tekstiklinikka tutkielman kirjoittajille](course)
+- Holiday exceptions [Julkinen eurooppaoikeus - Eurooppalaisen ihmisoikeustutkimuksen syventava kurssi](course)
+- Course break teaching times [Työelämän korttipakka](course)
+- Do we have a lecture during holiday in [Euroopan integraation teoria ja ulkosuhteet (kirjatentti/essee)](course)
+- Cancelled lectures [Grammaire/Kielioppi](course)
+- Will [Yhteiskunnan mittaaminen (verkkokurssi)](course) lectures be cancelled during holiday
+- Will [Uuden ajan alun murroksia](course) have a lecture every week
+- I want to know the exceptions in lessons for [Eurooppa-vero-oikeus](course)
+- I want to know special teaching times for [Tutkijan puheviestintä](course)
+- I want to know does the schedule for [Kuva, sana ja ääni -multimodaalisuuskurssi](course) have any exceptions
+- I want to know Teaching times exceptions for [Johdatus viestintään ja mediaan](course)
+- Exceptions [Draama - 2.vsk ja   opinnot 1½ lukuvuodessa suorittavat 1.vsk ja POM-opintoihin opinto-oikeuden saaneet opiskelijat( luennot)](course)
+- Exception [Maisteriopintojen esittely - CBDA](course)
+- What are the exceptions for [Omaan tieteenalaan ja tutkimusaiheeseen liittyvät opinnot teatteritaiteen tohtorin tutkinnossa](course)
+- [Kandidaattiseminaari ja tutkielma (laskentatoimi) - Kandidaattiseminaari, kevät 2018](course) exceptions
+- [Opetus, ohjaus, oppiminen - Luennot (1 op) EDUn opiskelijoille TAI luennot (1 op) ja kirjatentti (4 op) opintojakson valinnaisena suorittaville](course) exception
+- Exceptions in teaching hours [Orientation and Study Planning](course)
+- Exceptions in teaching times [Introduction to Argumentation and Scientific Reasoning](course)
+- Are there any exceptions in teaching [Quantitative Approach](course)
+- What exceptions are there in [Tutkimustyön perusteet - b) Tutkimusmenetelmät](course)
+- Lecture exceptions [Internationalisation in Education - (Tampere Summer School 2018)](course)
+- Does [Theories of Welfare States and Comparative Social Policy: An introduction](course) have exceptions in teaching hours
+- Were there exceptions in lectures [Seminaari I, kandidaatintutkielma ja kypsyysnäyte - Seminaari I](course)
+- Teaching times exceptions for [Sosiaalityön toimintaympäristöt](course)
+- What were the exceptions of teaching in [Radiokääntäminen (venäjä)](course)
+- Does the schedule for [Johdatus viestintään ja mediaan - verkkokurssi](course) have any exceptions
+- When were the exceptions for [EU Financial Management](course)
+- The exceptions in lessons for [History of Education - book exam](course)
+- Special teaching times for [Terveys politiikassa, taloudessa ja järjestelmissä](course)
+- Is there anything special I should know about the course schedule for [Yhtiöoikeuden syventävä opintojakso](course)
+- [Asiantuntijan puheviestintä ja vuorovaikutus / AHOT (näyttökoe)](course) special lecture hours
+- Special schedule [Johdatus viestinnän tutkimukseen ja analyysiin - kirjatentti](course)
+- Will there be lectures in holidays in [Terveys, tieto, asiantuntijuus](course)
+- Holiday exceptions [Identity and Lifecourse - Lectures, reading groups and essay](course)
+- Course break teaching times [Orientoivat opinnot ja HOPS (englannin kieli, kirjallisuus ja kääntäminen)](course)
+- Do we have a lecture during holiday in [Varhaismoderni yhteiskunta](course)
+- Cancelled lectures [Asiantuntijan puheviestintä ja vuorovaikutus (1. periodi)](course)
+- Will [Johdatus tieteenfilosofiaan](course) lectures be cancelled during holiday
+- Will [Eriytyvä syventävä tutkimusmenetelmäkurssi A: Etnografia](course) have a lecture every week
+- I want to know the exceptions in lessons for [Kvantitatiivinen tutkimus kasvatustieteissä - Harjoitukset, yleinen](course)
+- I want to know special teaching times for [Seminaari (Ridell)](course)
+- I want to know does the schedule for [Äänen tutkimus ja kuntoutus](course) have any exceptions
+- I want to know Teaching times exceptions for [Sosiaalityön tutkimuksen metodologisia suunnistuksia](course)
+- Exceptions [Critical theory and social ontology](course)
+- Exception [Postgraduate seminar in Interactive Technology (Turunen)](course)
+- What are the exceptions for [Suomi ja maailman kielet](course)
+- [MED Research Day](course) exceptions
+- [Olio-ohjelmoinnin perusteet](course) exception
+- Exceptions in teaching hours [Tutkimusprosessin hallinta tohtoriopinnoissa](course)
+- Exceptions in teaching times [Writing for Research](course)
+- Are there any exceptions in teaching [Musiikin tiedolliset valmiudet ja niiden soveltaminen - Kuuntelukasvatus](course)
+- What exceptions are there in [Oppimisyhteisöt ja vuorovaikutus, kirjatentti, Pori](course)
+- Lecture exceptions [Science and Biotechnology Journal Club](course)
+- Does [Rahatalous](course) have exceptions in teaching hours
+- Were there exceptions in lectures [Käännösviestintä suomi - saksa / Translation Finnisch-Deutsch](course)
+- Teaching times exceptions for [Yhteiskunnallinen laskentatoimi](course)
+- What were the exceptions of teaching in [Verkkojulkaisemisen perusteet (keväällä 2018 opintokokonaisuuden aloittaneille) - verkkokurssi](course)
+- Does the schedule for [European Integration Theory and External Relations (book exam/essay)](course) have any exceptions
+- When were the exceptions for [Pro gradu -seminaari 2018-2019 (vaihe I)](course)
+- The exceptions in lessons for [Master's Thesis Seminar in Software Development](course)
+- Special teaching times for [Ruotsin kielen kirjallinen ja suullinen viestintä (ensijaisesti EDU:n opiskelijoille), 3. periodi](course)
+- Is there anything special I should know about the course schedule for [Theatre, Society, and Politics 1660-1760](course)
+- [Professional Writing (online course)](course) special lecture hours
+- Special schedule [Tekstilingvistiikka / Textlinguistik](course)
+- Will there be lectures in holidays in [Professional Writing (online course)](course)
+- Holiday exceptions [Monikulttuurinen kirjallisuus Suomessa](course)
+- Course break teaching times [Lain ja hallinnon käännösviestinnän seminaari ranska-suomi](course)
+- Do we have a lecture during holiday in [Kaunokirjallinen kääntäminen venäjä-suomi](course)
+- Cancelled lectures [Kehitys, kasvatus ja elämänkulku - Pienryhmät 1 op ja kirjallisuus 2 op (EDUn tutkinto-opiskelijat, aineenop.opiskelijat, avoin yo/lähiopetus)](course)
+- Will [Mental Health Research: Using the Knowledge and Adding to it](course) lectures be cancelled during holiday
+- Will [Julkisoikeuden tutkimuspraktikum](course) have a lecture every week
+- I want to know the exceptions in lessons for [Grammaire/Kielioppi](course)
+- I want to know special teaching times for [Representations and Identities](course)
+- I want to know does the schedule for [Ympäristökasvatus / Luennot - 2.vsk + 1.vsk ryhmät 6 ja 7](course) have any exceptions
+- I want to know Teaching times exceptions for [Kuva-  ja mediakulttuurit - Kuvakulttuurit  1 vsk ja erillisen opinto-oikeuden POM-opintoihin saaneet opiskelijat (ryhmätyöskentely/taidemuseot harjoitusryhmät)](course)
+- Exceptions [Valtio-opin maisteriseminaari](course)
+- Exception [Vanhat ja uudet klassikot (kirjatentti/essee)](course)
+- What are the exceptions for [Käännösviestintä II englanti-suomi](course)
+- [Tieteellinen kirjoittaminen / COMS (kirjallisuuden opiskelijoille)](course) exceptions
+- [Julkistalouden valvonta ja tarkastus](course) exception
+- Exceptions in teaching hours [Tutkijan puheviestintä](course)
+- Exceptions in teaching times [Managing Research Information](course)
+- Are there any exceptions in teaching [Kandidaatin tutkielma ja seminaari (kurssi alkaa keväällä 2019 Hoitotieteen opiskelijoille)](course)
+- What exceptions are there in [Lausekielinen ohjelmointi II](course)
+- Lecture exceptions [Harjoittelu ja työelämävalmiudet](course)
+- Does [Political Systems Outside of Europe (book exam/essay)](course) have exceptions in teaching hours
+- Were there exceptions in lectures [Journalistinen kieli - Tekstinhuolto](course)
+- Teaching times exceptions for [Tekniikan käännösviestinnän seminaari englanti-suomi](course)
+- What were the exceptions of teaching in [Management Accounting and Human Behaviour](course)
+- Does the schedule for [Korkeakoulut työyhteisöinä - Kehittämistehtävä](course) have any exceptions
+- When were the exceptions for [Seminaari](course)
+- The exceptions in lessons for [Vaikuttaminen ja argumentointi](course)
+- Special teaching times for [Shakespeare: Past and Present](course)
+- Is there anything special I should know about the course schedule for [Tekninen työ -](course)
+- [Introduction to Cultural Psychology](course) special lecture hours
+- Special schedule [Kuvataiteen vaihtuvateemainen opintojakso/Elokuva mediakasvatuksen välineenä](course)
+- Will there be lectures in holidays in [Welfare State Theories](course)
+- Holiday exceptions [Historian määrällisen tiedon esittäminen](course)
+- Course break teaching times [Johdatus viestinnän tutkimukseen ja analyysiin - verkkokurssi](course)
+- Do we have a lecture during holiday in [Oikeustulkkaus I/II (monikielinen)](course)
+- Cancelled lectures [Taloustiede, talouspolitiikka ja ajankohtaiset taloudelliset ja yhteiskunnalliset ongelmat](course)
+- Will [Tieteenfilosofiaa kasvatustieteen näkökulmasta](course) lectures be cancelled during holiday
+- Will [Yhtiöoikeuden syventävä opintojakso](course) have a lecture every week
+- I want to know the exceptions in lessons for [Äärellisten mallien teorian seminaari (Finite model theory seminar)](course)
+- I want to know special teaching times for [Strategia ja yrittäjyys](course)
+- I want to know does the schedule for [Eheyttävä musiikkikasvatus / Harjoitukset - 2.vsk](course) have any exceptions
+- I want to know Teaching times exceptions for [Kirjallinen viestintä I / Schriftliche Kommunikation I](course)
+- Exceptions [MTTMA11](course)
+- Exception [KASA3](course)
+- What are the exceptions for [PSYA9](course)
+- [SOS08.2](course) exceptions
+- [POLKVA43](course) exception
+- Exceptions in teaching hours [SOS4.5](course)
+- Exceptions in teaching times [ITIS43](course)
+- Are there any exceptions in teaching [KKSAPRE2](course)
+- What exceptions are there in [POLVOA32](course)
+- Lecture exceptions [KASMULTI3](course)
+- Does [KASA11](course) have exceptions in teaching hours
+- Were there exceptions in lectures [ENGS46](course)
+- Teaching times exceptions for [KKRA3](course)
+- What were the exceptions of teaching in [HALJUA24](course)
+- Does the schedule for [MOLI](course) have any exceptions
+- When were the exceptions for [POLVOA22](course)
+- The exceptions in lessons for [KASA5](course)
+- Special teaching times for [KASA1.2](course)
+- Is there anything special I should know about the course schedule for [KKRUVAL1](course)
+- [HALYAS11](course) special lecture hours
+- Special schedule [LOGA3](course)
+- Will there be lectures in holidays in [KATYVS24](course)
+- Holiday exceptions [JOVA15](course)
+- Course break teaching times [ENGS3](course)
+- Do we have a lecture during holiday in [HALKAA15](course)
+- Cancelled lectures [DPEDUB.2](course)
+- Will [HALJUA99](course) lectures be cancelled during holiday
+- Will [KASS2](course) have a lecture every week
+- I want to know the exceptions in lessons for [KASVAR2](course)
+- I want to know special teaching times for [SOS6.2.3](course)
+- I want to know does the schedule for [POLVOA12](course) have any exceptions
+- I want to know Teaching times exceptions for [COSOPOM2](course)
+- Exceptions [TERY4](course)
+- Exception [TRSU05](course)
+- What are the exceptions for [KASLOM10](course)
+- [KASA9](course) exceptions
+- [JOVA15](course) exception
+- Exceptions in teaching hours [POLKVS99](course)
+- Exceptions in teaching times [TERHOO3](course)
+- Are there any exceptions in teaching [YKT07.1](course)
+- What exceptions are there in [SAKA4](course)
+- Lecture exceptions [MVKS54-56](course)
+- Does [STYVA](course) have exceptions in teaching hours
+- Were there exceptions in lectures [KASA12](course)
+- Teaching times exceptions for [BIO2200](course)
+- What were the exceptions of teaching in [JOUJOVTS](course)
+- Does the schedule for [TERTIETO4](course) have any exceptions
+- When were the exceptions for [SOS4.4](course)
+- The exceptions in lessons for [VENA1](course)
+- Special teaching times for [KKRA3](course)
+- Is there anything special I should know about the course schedule for [KATLAS23](course)
+- [KKSUPRO](course) special lecture hours
+- Special schedule [KASERIT2](course)
+- Will there be lectures in holidays in [VENS10](course)
+- Holiday exceptions [KATVRA12](course)
+- Course break teaching times [TIETS46](course)
+- Do we have a lecture during holiday in [TERA6](course)
+- Cancelled lectures [MTTTP1](course)
+- Will [POHA13](course) lectures be cancelled during holiday
+- Will [POLVOS28](course) have a lecture every week
+- I want to know the exceptions in lessons for [HALYAA14](course)
+- I want to know special teaching times for [KASSM3](course)
+- I want to know does the schedule for [KATLITO7](course) have any exceptions
+- I want to know Teaching times exceptions for [KASLOM8](course)
+- Exceptions [PSYS16](course)
+- Exception [KASA3](course)
+- What are the exceptions for [POLKVA42](course)
+- [KASSM2](course) exceptions
+- [KASA13](course) exception
+- Exceptions in teaching hours [TERKANA5](course)
+- Exceptions in teaching times [JOVPVS5](course)
+- Are there any exceptions in teaching [KASA13](course)
+- What exceptions are there in [BTK2045](course)
+- Lecture exceptions [BTK4665](course)
+- Does [PSYS14](course) have exceptions in teaching hours
+- Were there exceptions in lectures [KASLOM6](course)
+- Teaching times exceptions for [MTTA2](course)
+- What were the exceptions of teaching in [JOVPVS3](course)
+- Does the schedule for [HALJTA12](course) have any exceptions
+- When were the exceptions for [TRSU01](course)
+- The exceptions in lessons for [KKRUYHT](course)
+- Special teaching times for [KASLOM3](course)
+- Is there anything special I should know about the course schedule for [KASSM2](course)
+- [JOVAT2](course) special lecture hours
+- Special schedule [PSYS17](course)
+- Will there be lectures in holidays in [KASVART3](course)
+- Holiday exceptions [STYA7](course)
+- Course break teaching times [SOS10.1.3](course)
+- Do we have a lecture during holiday in [KASLOE6.3](course)
+- Cancelled lectures [KASP2](course)
+- Will [POLVOA41/S23/28](course) lectures be cancelled during holiday
+- Will [DPHSR401](course) have a lecture every week
+- I want to know the exceptions in lessons for [ITIP1](course)
+- I want to know special teaching times for [KASS1](course)
+- I want to know does the schedule for [KATLITO5](course) have any exceptions
+- I want to know Teaching times exceptions for [MOLI](course)
+- Exceptions [KATLAS12](course)
+- Exception [KKSA2](course)
+- What are the exceptions for [KASLOM6](course)
+- [KASLOE7.2](course) exceptions
+- [MVKS13P](course) exception
+- Exceptions in teaching hours [HALDIGI01](course)
+- Exceptions in teaching times [KATVRS55](course)
+- Are there any exceptions in teaching [STYA3A2](course)
+- What exceptions are there in [KASP1-2, KASP5](course)
+- Lecture exceptions [TAYJ032](course)
+- Does [TERY4](course) have exceptions in teaching hours
+- Were there exceptions in lectures [POLKVA33](course)
+- Teaching times exceptions for [KATVAA14](course)
+- What were the exceptions of teaching in [TERKAN2](course)
+- Does the schedule for [BIO4460](course) have any exceptions
+- When were the exceptions for [KASVAR1](course)
+- The exceptions in lessons for [TERHOIA4](course)
+- Special teaching times for [TIETS05](course)
+- Is there anything special I should know about the course schedule for [KASP5](course)
+- [JOVPVS1](course) special lecture hours
+- Special schedule [POLVOS40](course)
+- Will there be lectures in holidays in [BTK1031](course)
+- Holiday exceptions [MVKS18S](course)
+- Course break teaching times [KASP1](course)
+- Do we have a lecture during holiday in [PGHES01](course)
+- Cancelled lectures [RANP1](course)
+- Will [KKENYHT](course) lectures be cancelled during holiday
+- Will [KASVAR7](course) have a lecture every week
+- I want to know the exceptions in lessons for [LFCS01](course)
+- I want to know special teaching times for [VENA13](course)
+- I want to know does the schedule for [PEACE046/047](course) have any exceptions
+- I want to know Teaching times exceptions for [HALJUA63](course)
+- Exceptions [JOVP2](course)
+- Exception [TERKANP1](course)
+- What are the exceptions for [KASS3](course)
+- [LOGP2](course) exceptions
+- [DPHSFC07](course) exception
+- Exceptions in teaching hours [KASVAR7](course)
+- Exceptions in teaching times [KATLITO8](course)
+- Are there any exceptions in teaching [ENGA9](course)
+- What exceptions are there in [KKRUKTK](course)
+- Lecture exceptions [KATYVA38](course)
+- Does [HALHAA16](course) have exceptions in teaching hours
+- Were there exceptions in lectures [KKRA5](course)
+- Teaching times exceptions for [BIO2085](course)
+- What were the exceptions of teaching in [KATVRS52](course)
+- Does the schedule for [ITIP3](course) have any exceptions
+- When were the exceptions for [MTTTS12](course)
+- The exceptions in lessons for [PGHES01](course)
+- Special teaching times for [MTTMA1B](course)
+- Is there anything special I should know about the course schedule for [HTIS53](course)
+- [KATYVA31](course) special lecture hours
+- Special schedule [KATLITO6](course)
+- Will there be lectures in holidays in [SOSM5.1](course)
+- Holiday exceptions [KATTAA90](course)
+- Course break teaching times [NORDIG2](course)
+- Do we have a lecture during holiday in [GTS2](course)
+- Cancelled lectures [YKTM6.3](course)
+- Will [ENGA3](course) lectures be cancelled during holiday
+- Will [KASS4](course) have a lecture every week
+- I want to know the exceptions in lessons for [DPHSS204](course)
+- I want to know special teaching times for [TAYJ12](course)
+- I want to know does the schedule for [POLYEP11](course) have any exceptions
+- I want to know Teaching times exceptions for [SUOT1](course)
+- Exceptions [ITIA11](course)
+- Exception [JOVP4](course)
+- What are the exceptions for [POLKVA22](course)
+- [YKIEP1](course) exceptions
+- [POLVOA32/S23/24](course) exception
+- Exceptions in teaching hours [MTTA2](course)
+- Exceptions in teaching times [ESPFA3](course)
+- Are there any exceptions in teaching [KKSUVAL3](course)
+- What exceptions are there in [SOS6.2.4](course)
+- Lecture exceptions [VENP4](course)
+- Does [KKENVAL1](course) have exceptions in teaching hours
+- Were there exceptions in lectures [POLPOP01](course)
+- Teaching times exceptions for [KASVAR12](course)
+- What were the exceptions of teaching in [KASVAR5](course)
+- Does the schedule for [BTK4321](course) have any exceptions
+- When were the exceptions for [KASLOM10](course)
+- The exceptions in lessons for [DPHSF501](course)
+- Special teaching times for [KATLAS17](course)
+- Is there anything special I should know about the course schedule for [KKENYHT](course)
+- [YKYYHT5](course) special lecture hours
+- Special schedule [KATRAA12](course)
+- Will there be lectures in holidays in [KASLOE7.2](course)
+- Holiday exceptions [HEAAE03](course)
+- Course break teaching times [KKSAVAL2](course)
+- Do we have a lecture during holiday in [SOS4.1](course)
+- Cancelled lectures [VENP6](course)
+- Will [KASVART2](course) lectures be cancelled during holiday
+- Will [LUOYY023](course) have a lecture every week
+- I want to know the exceptions in lessons for [SAKP4](course)
+- I want to know special teaching times for [KKRUYHT](course)
+- I want to know does the schedule for [LUOYY003](course) have any exceptions
+- I want to know Teaching times exceptions for [KKENKTM](course)
+- Exceptions [LOGS8](course)
+- Exception [LUOYA200](course)
+- What are the exceptions for [GTS3](course)
+- [ENGP5](course) exceptions
+- [COSOPOM1](course) exception
+- Exceptions in teaching hours [POLVOA31](course)
+- Exceptions in teaching times [JOVA21](course)
+- Are there any exceptions in teaching [KASA2](course)
+- What exceptions are there in [HALJTA04](course)
+- Lecture exceptions [KKRA2](course)
+- Does [YKT09.4](course) have exceptions in teaching hours
+- Were there exceptions in lectures [VENP1](course)
+- Teaching times exceptions for [POHA12](course)
+- What were the exceptions of teaching in [HALJTA05](course)
+- Does the schedule for [TERKAN2](course) have any exceptions
+- When were the exceptions for [KIRP4](course)
+- The exceptions in lessons for [KASLOM11](course)
+- Special teaching times for [KASLOM6](course)
+- Is there anything special I should know about the course schedule for [HALKAA17](course)
+- [VENP5/VENK2](course) special lecture hours
+- Special schedule [JOVA6/JMMETUS](course)
+- Will there be lectures in holidays in [KASLOH3](course)
+- Holiday exceptions [POLVOA41/S28](course)
+- Course break teaching times [HISA1B](course)
+- Do we have a lecture during holiday in [KKSUPRO](course)
+- Cancelled lectures [KASVAR8](course)
+- Will [JMMETUS](course) lectures be cancelled during holiday
+- Will [POLVOS34](course) have a lecture every week
+- I want to know the exceptions in lessons for [KATJOA99](course)
+- I want to know special teaching times for [PSYP4](course)
+- I want to know does the schedule for [MTTTS17](course) have any exceptions
+- I want to know Teaching times exceptions for [POLVOS27](course)
+- Exceptions [KASVAR8](course)
+- Exception [POLYEP12](course)
+- What are the exceptions for [KKSU4](course)
+- [COSOPON1](course) exceptions
+- [KASLOH4A](course) exception
+- Exceptions in teaching hours [COSOPOM1](course)
+- Exceptions in teaching times [TERA6](course)
+- Are there any exceptions in teaching [ITIS61](course)
+- What exceptions are there in [KATLITO3](course)
+- Lecture exceptions [BIO2310](course)
+- Does [LFCS03](course) have exceptions in teaching hours
+- Were there exceptions in lectures [TIETA10](course)
+- Teaching times exceptions for [KASLTT](course)
+- What were the exceptions of teaching in [JOVTS2](course)
+- Does the schedule for [LUOYY006](course) have any exceptions
+- When were the exceptions for [ENGS13/15-16](course)
+- The exceptions in lessons for [TERA1](course)
+- Special teaching times for [ITIA11](course)
+- Is there anything special I should know about the course schedule for [POLVOS33](course)
+- [KKRAVAL1](course) special lecture hours
+- Special schedule [KKSAVAL1](course)
+- Will there be lectures in holidays in [ITIP5](course)
+- Holiday exceptions [DPJKKPS](course)
+- Course break teaching times [LTLY16](course)
+- Do we have a lecture during holiday in [KASLOM5](course)
+- Cancelled lectures [KASA13](course)
+- Will [KKENVAL4](course) lectures be cancelled during holiday
+- Will [LOGM2](course) have a lecture every week
+- I want to know the exceptions in lessons for [KASA6](course)
+- I want to know special teaching times for [KASLOE7.1](course)
+- I want to know does the schedule for [SOSM4](course) have any exceptions
+- I want to know Teaching times exceptions for [TIETA6](course)
+- Exceptions [HALJTP01](course)
+- Exception [POLVOS32](course)
+- What are the exceptions for [KKSU2](course)
+- [POLYEP12](course) exceptions
+- [TERHOI3](course) exception
+- Exceptions in teaching hours [DPEDUA.1B](course)
+- Exceptions in teaching times [LTLY16](course)
+- Are there any exceptions in teaching [SUKKP1](course)
+- What exceptions are there in [HALYAA12](course)
+- Lecture exceptions [VENP5/VENK2](course)
+- Does [YKT06.2](course) have exceptions in teaching hours
+- Were there exceptions in lectures [KKSU1](course)
+- Teaching times exceptions for [PSYS12](course)
+- What were the exceptions of teaching in [MTTMS5](course)
+- Does the schedule for [JOVP4](course) have any exceptions
+- When were the exceptions for [HALKAS99](course)
+- The exceptions in lessons for [MVKS39V](course)
+- Special teaching times for [FONEA4](course)
+- Is there anything special I should know about the course schedule for [POLPOP03](course)
+- [HALKOS21](course) special lecture hours
+- Special schedule [KASERIT3](course)
+- Will there be lectures in holidays in [PSYP2](course)
+- Holiday exceptions [KASSA3](course)
+- Course break teaching times [SAKW1](course)
+- Do we have a lecture during holiday in [RANA5](course)
+- Cancelled lectures [SOS6.4.1](course)
+- Will [KASLOE1.1](course) lectures be cancelled during holiday
+- Will [KATTAS31](course) have a lecture every week
+- I want to know the exceptions in lessons for [TERKANP1](course)
+- I want to know special teaching times for [KASSO4](course)
+- I want to know does the schedule for [TERHOIA6](course) have any exceptions
+- I want to know Teaching times exceptions for [MTTMA1B](course)
+- Exceptions [HTIS64](course)
+- Exception [KKSUHUK1](course)
+- What are the exceptions for [STYA9](course)
+- [KASLOM8](course) exceptions
+- [HISP1](course) exception
+- Exceptions in teaching hours [MTTA1](course)
+- Exceptions in teaching times [MTTMA1C](course)
+- Are there any exceptions in teaching [DPEDUA.1B](course)
+- What exceptions are there in [KASA8](course)
+- Lecture exceptions [JOVTS5](course)
+- Does [VIROP2](course) have exceptions in teaching hours
+- Were there exceptions in lectures [NORDIG2](course)
+- Teaching times exceptions for [HALTVA15](course)
+- What were the exceptions of teaching in [HISA1B](course)
+- Does the schedule for [JKKYVAL00](course) have any exceptions
+- When were the exceptions for [KASJOHT3](course)
+- The exceptions in lessons for [KKRUKTM](course)
+- Special teaching times for [HISA2](course)
+- Is there anything special I should know about the course schedule for [SOS6.2.4](course)
+- [JOUJOVTS](course) special lecture hours
+- Special schedule [HALJUA64](course)
+- Will there be lectures in holidays in [ITIY3](course)
+- Holiday exceptions [KKENVAL4](course)
+- Course break teaching times [VIROP2](course)
+- Do we have a lecture during holiday in [HALJUA61](course)
+- Cancelled lectures [MTTMA4](course)
+- Will [TIETA10](course) lectures be cancelled during holiday
+- Will [ITIA11](course) have a lecture every week
+- I want to know the exceptions in lessons for [POLKVA22](course)
+- I want to know special teaching times for [LTLY16](course)
+- I want to know does the schedule for [BTK4501](course) have any exceptions
+- I want to know Teaching times exceptions for [JOVAT2](course)
+- Exceptions [TERHOIA6](course)
+- Exception [PSYS14](course)
+- What are the exceptions for [KASA9](course)
+- [KKSUVAL3](course) exceptions
+- [VENP4/VENK2](course) exception
+- Exceptions in teaching hours [STYP1B](course)
+- Exceptions in teaching times [MTTMA15](course)
+- Are there any exceptions in teaching [STYA3A2](course)
+- What exceptions are there in [TERKAN1](course)
+- Lecture exceptions [HALYAP01](course)
+- Does [KATVAA13](course) have exceptions in teaching hours
+- Were there exceptions in lectures [TERY4](course)
+- Teaching times exceptions for [KASLOM9](course)
+- What were the exceptions of teaching in [KATVAS31](course)
+- Does the schedule for [DPJKKPS](course) have any exceptions
+- When were the exceptions for [HALYAA14](course)
+- The exceptions in lessons for [JOVA20](course)
+- Special teaching times for [KASMULTI2C](course)
+- Is there anything special I should know about the course schedule for [MVKS02](course)
+- [JOVMS2A](course) special lecture hours
+- Special schedule [MEDU10](course)
+- Will there be lectures in holidays in [POLPOP05](course)
+- Holiday exceptions [TERHOI5](course)
+- Course break teaching times [TIEY4](course)
+- Do we have a lecture during holiday in [TRMU1](course)
+- Cancelled lectures [KASLOM7](course)
+- Will [RANS3](course) lectures be cancelled during holiday
+- Will [KASP2](course) have a lecture every week
+- I want to know the exceptions in lessons for [DPHSFC06](course)
+- I want to know special teaching times for [KASP1-2, KASP5](course)
+- I want to know does the schedule for [HISA2](course) have any exceptions
+- I want to know Teaching times exceptions for [HALTTS13](course)
+- Exceptions [KASA11](course)
+- Exception [ENGA1](course)
+- What are the exceptions for [KASLOE7.2](course)
+- [HALJTA02](course) exceptions
+- [KKES3](course) exception
+- Exceptions in teaching hours [TAYJ024](course)
+- Exceptions in teaching times [JOVKA5](course)
+- Are there any exceptions in teaching [LATAP2](course)
+- What exceptions are there in [KIRP5](course)
+- Lecture exceptions [STYS3](course)
+- Does [HALJUA61](course) have exceptions in teaching hours
+- Were there exceptions in lectures [SOS10.1.3](course)
+- Teaching times exceptions for [ITIS24](course)
+- What were the exceptions of teaching in [SOS6.4.3](course)
+- Does the schedule for [HISJATKO](course) have any exceptions
+- When were the exceptions for [KIRS4](course)
+- The exceptions in lessons for [KATYVA52](course)
+- Special teaching times for [MVKS26](course)
+- Is there anything special I should know about the course schedule for [POLPOP01](course)
+- [BIO4716](course) special lecture hours
+- Special schedule [FONEP3](course)
+- Will there be lectures in holidays in [HALYAS12](course)
+- Holiday exceptions [KKSUHUK](course)
+- Course break teaching times [TAYJ032](course)
+- Do we have a lecture during holiday in [KASLOE6.5](course)
+- Cancelled lectures [SOS6.2.3](course)
+- Will [KATYVA12](course) lectures be cancelled during holiday
+- Will [LOGS3](course) have a lecture every week
+- I want to know the exceptions in lessons for [ENGA10](course)
+- I want to know special teaching times for [POLKVA42](course)
+- I want to know does the schedule for [HALJTS06](course) have any exceptions
+- I want to know Teaching times exceptions for [STYP1A](course)
+- Exceptions [KASA10](course)
+- Exception [HTIS80](course)
+- What are the exceptions for [PSYP2](course)
+- [TIETS31](course) exceptions
+- [SOS08.2](course) exception
+- Exceptions in teaching hours [KKSUYHT](course)
+- Exceptions in teaching times [YKT07.2](course)
+- Are there any exceptions in teaching [HALJTJ00](course)
+- What exceptions are there in [JKKYORP1](course)
+- Lecture exceptions [SOS6.5.2](course)
+- Does [FILT10](course) have exceptions in teaching hours
+- Were there exceptions in lectures [ITIA11](course)
+- Teaching times exceptions for [STYS1B1](course)
+- What were the exceptions of teaching in [PEDAYOP4](course)
+- Does the schedule for [MVKS47](course) have any exceptions
+- When were the exceptions for [VIROP1](course)
+- The exceptions in lessons for [STYP3](course)
+- Special teaching times for [TAYJ035](course)
+- Is there anything special I should know about the course schedule for [KASP4](course)
+- [ITIS11](course) special lecture hours
+- Special schedule [ENGP6](course)
+- Will there be lectures in holidays in [HALKAS11](course)
+- Holiday exceptions [HALJTS07](course)
+- Course break teaching times [BTK1074](course)
+- Do we have a lecture during holiday in [KATMAS14](course)
+- Cancelled lectures [ITIP1](course)
+- Will [KATLAA23](course) lectures be cancelled during holiday
+- Will [MVKS54](course) have a lecture every week
+- I want to know the exceptions in lessons for [POLVOS40](course)
+- I want to know special teaching times for [FILA4A](course)
+- I want to know does the schedule for [VIROP3](course) have any exceptions
+- I want to know Teaching times exceptions for [VENP0](course)
+- Exceptions [POHP2](course)
+- Exception [HALJTA02](course)
+- What are the exceptions for [POLKVS22](course)
+- [POLVOA42/52/S23](course) exceptions
+- [KASA12](course) exception
+- Exceptions in teaching hours [KASA5](course)
+- Exceptions in teaching times [KKVE3](course)
+- Are there any exceptions in teaching [SUOA8](course)
+- What exceptions are there in [KATTAS34](course)
+- Lecture exceptions [KATVRS41](course)
+- Does [ITIA01](course) have exceptions in teaching hours
+- Were there exceptions in lectures [HTIS86](course)
+- Teaching times exceptions for [KIRP5](course)
+- What were the exceptions of teaching in [POLVOA21](course)
+- Does the schedule for [SOS6.3.3](course) have any exceptions
+- When were the exceptions for [KASA13](course)
+- The exceptions in lessons for [STYP2](course)
+- Special teaching times for [SOS06.1](course)
+- Is there anything special I should know about the course schedule for [SOS6.2.2](course)
+- [KKLA1](course) special lecture hours
+- Special schedule [POHS5](course)
+- Will there be lectures in holidays in [JOUJOVTS](course)
+- Holiday exceptions [KASMULTI4](course)
+- Course break teaching times [ESPFA4](course)
+- Do we have a lecture during holiday in [YKYYHT1](course)
+- Cancelled lectures [KATVRA30](course)
+- Will [KATTAS31](course) lectures be cancelled during holiday
+- Will [POHP3](course) have a lecture every week
+- I want to know the exceptions in lessons for [KASVAR2](course)
+- I want to know special teaching times for [KATVAS11](course)
+- I want to know does the schedule for [KATLAA22](course) have any exceptions
+- I want to know Teaching times exceptions for [KATJOS43](course)
+- Exceptions [LOGA9](course)
+- Exception [KKSUPRO](course)
+- What are the exceptions for [JOVTS2](course)
+- [BIO2450](course) exceptions
+- [TERA6](course) exception
+- Exceptions in teaching hours [IGS005](course)
+- Exceptions in teaching times [RANAV3](course)
+- Are there any exceptions in teaching [SOS4.4](course)
+- What exceptions are there in [BTK1062](course)
+- Lecture exceptions [MVKS15R](course)
+- Does [KASVAR7](course) have exceptions in teaching hours
+- Were there exceptions in lectures [SOS04.4](course)
+- Teaching times exceptions for [SAKA9](course)
+- What were the exceptions of teaching in [ITIA03](course)
+- Does the schedule for [KASS3](course) have any exceptions
+- When were the exceptions for [ENGA1](course)
+- The exceptions in lessons for [JOVA18](course)
+- Special teaching times for [KASVART2](course)
+- Is there anything special I should know about the course schedule for [KATJOS13](course)
+- [KATTAA13B](course) special lecture hours
+- Special schedule [COSOPON3](course)
+- Will there be lectures in holidays in [POLKVA41](course)
+- Holiday exceptions [KASLOM3](course)
+- Course break teaching times [KATVRA22](course)
+- Do we have a lecture during holiday in [KASSO8](course)
+- Cancelled lectures [BIOMJ016](course)
+- Will [KKENVAL9](course) lectures be cancelled during holiday
+- Will [POLKVA43](course) have a lecture every week
+- I want to know the exceptions in lessons for [BTK1013](course)
+- I want to know special teaching times for [POLVOA51](course)
+- I want to know does the schedule for [SOS09.3](course) have any exceptions
+- I want to know Teaching times exceptions for [ITIA01](course)
+- Exceptions [ENGA9](course)
+- Exception [KASP4](course)
+- What are the exceptions for [LOGA4](course)
+- [KATLAS12](course) exceptions
+- [KASP4](course) exception
+- Exceptions in teaching hours [KKIN5](course)
+- Exceptions in teaching times [KASP4](course)
+- Are there any exceptions in teaching [VENP2](course)
+- What exceptions are there in [KASSM2](course)
+- Lecture exceptions [STYS2B](course)
+- Does [HALJUA22](course) have exceptions in teaching hours
+- Were there exceptions in lectures [YKYYHT4B](course)
+- Teaching times exceptions for [KIRA4E](course)
+- What were the exceptions of teaching in [VENA5](course)
+- Does the schedule for [SOS6.3.1](course) have any exceptions
+- When were the exceptions for [JOVTS7](course)
+- The exceptions in lessons for [DPEDUB.2](course)
+- Special teaching times for [TIETA6](course)
+- Is there anything special I should know about the course schedule for [TIETA6](course)
+- [JOVA4](course) special lecture hours
+- Special schedule [TAYJ13](course)
+- Will there be lectures in holidays in [ENGA11](course)
+- Holiday exceptions [KKSUPRO](course)
+- Course break teaching times [KATLITO2](course)
+- Do we have a lecture during holiday in [HALHAA12](course)
+- Cancelled lectures [TERKAN14](course)
+- Will [KKENYHT](course) lectures be cancelled during holiday
+- Will [KKES5](course) have a lecture every week
+- I want to know the exceptions in lessons for [YKT10.5](course)
+- I want to know special teaching times for [KKSA3](course)
+- I want to know does the schedule for [YKT6.6.2](course) have any exceptions
+- I want to know Teaching times exceptions for [KASA4](course)
+- Exceptions [SOSM5.1](course)
+- Exception [POHP1](course)
+- What are the exceptions for [SUOP3](course)
+- [BTK1053](course) exceptions
+- [TAYJ042](course) exception
+- Exceptions in teaching hours [HALJTA99](course)
+- Exceptions in teaching times [KATPAL11](course)
+- Are there any exceptions in teaching [POLKVS32](course)
+- What exceptions are there in [KASA10](course)
+- Lecture exceptions [FIL](course)
+- Does [YKYYHT1](course) have exceptions in teaching hours
+- Were there exceptions in lectures [KASLOM10](course)
+- Teaching times exceptions for [SUOV3](course)
+- What were the exceptions of teaching in [KKRA1](course)
+- Does the schedule for [POLVOA51](course) have any exceptions
+- When were the exceptions for [MVKS34](course)
+- The exceptions in lessons for [KATYVA31](course)
+- Special teaching times for [SUKKP5B](course)
+- Is there anything special I should know about the course schedule for [KASSG](course)
+- [HALYHT](course) special lecture hours
+- Special schedule [KASP5](course)
+- Will there be lectures in holidays in [POLVOS25](course)
+- Holiday exceptions [KATVAA11](course)
+- Course break teaching times [VENP1](course)
+- Do we have a lecture during holiday in [MVKS48/58](course)
+- Cancelled lectures [HISP1](course)
+- Will [BTK4661](course) lectures be cancelled during holiday
+- Will [MTTMA1B](course) have a lecture every week
+- I want to know the exceptions in lessons for [KKENYHT](course)
+- I want to know special teaching times for [TERY6](course)
+- I want to know does the schedule for [KATJOP11](course) have any exceptions
+- I want to know Teaching times exceptions for [TRSU01](course)
+- Exceptions [VENA13](course)
+- Exception [MTTTS17](course)
+- What are the exceptions for [BIO4460](course)
+- [HALHAS21](course) exceptions
+- [KASP5](course) exception
+- Exceptions in teaching hours [TAYJ035](course)
+- Exceptions in teaching times [LUOYY006](course)
+- Are there any exceptions in teaching [TIEP5](course)
+- What exceptions are there in [KKSUOPE](course)
+- Lecture exceptions [VENA12](course)
+- Does [ENGP8](course) have exceptions in teaching hours
+- Were there exceptions in lectures [PEACE043](course)
+- Teaching times exceptions for [HTIY006](course)
+- What were the exceptions of teaching in [SOSKV1](course)
+- Does the schedule for [COSOPON1](course) have any exceptions
+- When were the exceptions for [KKSAVAL4](course)
+- The exceptions in lessons for [SUOT4](course)
+- Special teaching times for [POLVOS24](course)
+- Is there anything special I should know about the course schedule for [KKSUOPE](course)
+- [HALHAS19](course) special lecture hours
+- Special schedule [HALTTS12](course)
+- Will there be lectures in holidays in [NORDIG2](course)
+- Holiday exceptions [SOS04.4](course)
+- Course break teaching times [SAKS3](course)
+- Do we have a lecture during holiday in [POLVOA11](course)
+- Cancelled lectures [HALKAS12](course)
+- Will [HALKAS11](course) lectures be cancelled during holiday
+- Will [KASLOE7.2](course) have a lecture every week
+- I want to know the exceptions in lessons for [HISP2](course)
+- I want to know special teaching times for [KASA13](course)
+- I want to know does the schedule for [KASA13](course) have any exceptions
+- I want to know Teaching times exceptions for [SOS4.2](course)
+- Exceptions [ITIS61](course)
+- Exception [LOGS8](course)
+- What are the exceptions for [NORDIG2](course)
+- [KKENYHT](course) exceptions
+- [DPCMTJ2/JMMETUS](course) exception
+- Exceptions in teaching hours [JOVPVS8](course)
+- Exceptions in teaching times [STYVA](course)
+- Are there any exceptions in teaching [RANAV3](course)
+- What exceptions are there in [KATLITO2](course)
+- Lecture exceptions [KATVAA15](course)
+- Does [JOUJOVTS](course) have exceptions in teaching hours
+- Were there exceptions in lectures [TERKANA2](course)
+- Teaching times exceptions for [KKSUHY](course)
+- What were the exceptions of teaching in [KATJOS13](course)
+- Does the schedule for [COSOPN2](course) have any exceptions
+- When were the exceptions for [KATYVA31](course)
+- The exceptions in lessons for [TERKANP1](course)
+- Special teaching times for [SOSKV1](course)
+- Is there anything special I should know about the course schedule for [POLPOP05](course)
+- [POLKVA12](course) special lecture hours
+- Special schedule [KATVRP12](course)
+- Will there be lectures in holidays in [POLVOS32](course)
+- Holiday exceptions [KASA12](course)
+- Course break teaching times [HTIS81](course)
+- Do we have a lecture during holiday in [SOS10.6](course)
+- Cancelled lectures [HALKAP01](course)
+- Will [BIO4470](course) lectures be cancelled during holiday
+- Will [KASSO7](course) have a lecture every week
+- I want to know the exceptions in lessons for [KASP4](course)
+- I want to know special teaching times for [MTTS1](course)
+- I want to know does the schedule for [KATYVS26](course) have any exceptions
+- I want to know Teaching times exceptions for [STYA8](course)
+- Exceptions [KASVAR3](course)
+- Exception [POLPOP02](course)
+- What are the exceptions for [KKENVAL3](course)
+- [LOGM2](course) exceptions
+- [JOVY2](course) exception
+- Exceptions in teaching hours [KASLOE7.2](course)
+- Exceptions in teaching times [KKRUYHT](course)
+- Are there any exceptions in teaching [KASA13](course)
+- What exceptions are there in [TERY4](course)
+- Lecture exceptions [HALTTS13](course)
+- Does [BIO4230](course) have exceptions in teaching hours
+- Were there exceptions in lectures [TERKAN14](course)
+- Teaching times exceptions for [KKRUKTMO](course)
+- What were the exceptions of teaching in [TRMU2](course)
+- Does the schedule for [KATYVA44](course) have any exceptions
+- When were the exceptions for [SOS7.2/STYA4B](course)
+- The exceptions in lessons for [SOSM2](course)
+- Special teaching times for [KASA2](course)
+- Is there anything special I should know about the course schedule for [KASA12](course)
+- [JKKYLT01](course) special lecture hours
+- Special schedule [KATVAA14](course)
+- Will there be lectures in holidays in [KATYVS99](course)
+- Holiday exceptions [ENGA10](course)
+- Course break teaching times [HISJATKO](course)
+- Do we have a lecture during holiday in [FILJATKO](course)
+- Cancelled lectures [ITIS23](course)
+- Will [KATLITO8](course) lectures be cancelled during holiday
+- Will [KASVAR10](course) have a lecture every week
+- I want to know the exceptions in lessons for [KASVARH](course)
+- I want to know special teaching times for [TERHOJ4](course)
+- I want to know does the schedule for [ENGA13](course) have any exceptions
+- I want to know Teaching times exceptions for [TRMU1](course)
+- Exceptions [KATYVA36](course)
+- Exception [LTLY01](course)
+- What are the exceptions for [KATVAA13](course)
+- [VIROP2](course) exceptions
+- [ITIS23](course) exception
+- Exceptions in teaching hours [HALJUA44](course)
+- Exceptions in teaching times [PGHINT](course)
+- Are there any exceptions in teaching [KKVE5](course)
+- What exceptions are there in [KASA13](course)
+- Lecture exceptions [MTTMA15](course)
+- Does [COSOPN2](course) have exceptions in teaching hours
+- Were there exceptions in lectures [LFCS01](course)
+- Teaching times exceptions for [KKENKTK](course)
+- What were the exceptions of teaching in [HTIY006](course)
+- Does the schedule for [KATJOA99](course) have any exceptions
+- When were the exceptions for [MTTTA14](course)
+- The exceptions in lessons for [MOLI](course)
+- Special teaching times for [PEDA1](course)
+- Is there anything special I should know about the course schedule for [JOVPVS10](course)
+- [POLVOS21](course) special lecture hours
+- Special schedule [KASLOM11](course)
+- Will there be lectures in holidays in [RUST5/VENS10](course)
+- Holiday exceptions [HALJUS14](course)
+- Course break teaching times [TAYJ031](course)
+- Do we have a lecture during holiday in [TSEKP1](course)
+- Cancelled lectures [SOSM4](course)
+- Will [KKRUYHT](course) lectures be cancelled during holiday
+- Will [POLKVS99](course) have a lecture every week
+- I want to know the exceptions in lessons for [KASA8](course)
+- I want to know special teaching times for [HALHAP01](course)
+- I want to know does the schedule for [KASLOM5](course) have any exceptions
+- I want to know Teaching times exceptions for [POLKVA22](course)
+- Exceptions [HALYAP01](course)
+- Exception [JKKYTVA13](course)
+- What are the exceptions for [ENGA12](course)
+- [VENA10](course) exceptions
+- [POLPOP01](course) exception
+- Exceptions in teaching hours [FILS2A](course)
+- Exceptions in teaching times [KKRUVAL1](course)
+- Are there any exceptions in teaching [TEE2](course)
+- What exceptions are there in [HISA4](course)
+- Lecture exceptions [MVKS30](course)
+- Does [KATVRS42](course) have exceptions in teaching hours
+- Were there exceptions in lectures [HALKAA99](course)
+- Teaching times exceptions for [TAYJ032](course)
+- What were the exceptions of teaching in [SOS4.2](course)
+- Does the schedule for [POHP1](course) have any exceptions
+- When were the exceptions for [TAYJ024](course)
+- The exceptions in lessons for [SOS6.2.3](course)
+- Special teaching times for [STYS2A](course)
+- Is there anything special I should know about the course schedule for [POLKVA12](course)
+- [KASPUHS8](course) special lecture hours
+- Special schedule [HALDIGI01](course)
+- Will there be lectures in holidays in [KASSM2](course)
+- Holiday exceptions [SUOP2](course)
+- Course break teaching times [KKENVAL4](course)
+- Do we have a lecture during holiday in [KASLOE7.2](course)
+- Cancelled lectures [TAYJ027](course)
+- Will [KKRUYHT](course) lectures be cancelled during holiday
+- Will [JOVPVS8](course) have a lecture every week
+- I want to know the exceptions in lessons for [JOVP1](course)
+- I want to know special teaching times for [KASA13](course)
+- I want to know does the schedule for [TERY1](course) have any exceptions
+- I want to know Teaching times exceptions for [KATJOA12](course)
+- Exceptions [TIEP5](course)
+- Exception [HISP3](course)
+- What are the exceptions for [POLKVS31](course)
+- [KATLAS27](course) exceptions
+- [KATTAA40](course) exception
+- Exceptions in teaching hours [HISP1](course)
+- Exceptions in teaching times [PSYP2](course)
+- Are there any exceptions in teaching [POLVOA32](course)
+- What exceptions are there in [TIETS07](course)
+- Lecture exceptions [KATTAA13B](course)
+- Does [POLVOS22](course) have exceptions in teaching hours
+- Were there exceptions in lectures [KATJOS13](course)
+- Teaching times exceptions for [KATJOS99](course)
+- What were the exceptions of teaching in [KKENKTM](course)
+- Does the schedule for [POLKAA99](course) have any exceptions
+- When were the exceptions for [MTTMA1B](course)
+- The exceptions in lessons for [POLKVS99](course)
+- Special teaching times for [MTTTA6](course)
+- Is there anything special I should know about the course schedule for [ESPFP5](course)
+- [KATLAA12](course) special lecture hours
+- Special schedule [TERA6](course)
+- Will there be lectures in holidays in [KKIN1](course)
+- Holiday exceptions [KASLOH4A](course)
+- Course break teaching times [KKENPRE1](course)
+- Do we have a lecture during holiday in [KASPUHA4](course)
+- Cancelled lectures [KATVRP12](course)
+- Will [RUST1/RUST3](course) lectures be cancelled during holiday
+- Will [PSYP2](course) have a lecture every week
+- I want to know the exceptions in lessons for [TIEP3](course)
+- I want to know special teaching times for [KKRUYHT](course)
+- I want to know does the schedule for [STYVA](course) have any exceptions
+- I want to know Teaching times exceptions for [KATJOA99](course)
+- Exceptions [DPJKK20](course)
+- Exception [ITIS44](course)
+- What are the exceptions for [POHP6](course)
+- [TERA6](course) exceptions
+- [ENGS40](course) exception
+- Exceptions in teaching hours [ITIA1](course)
+- Exceptions in teaching times [KATYVS41](course)
+- Are there any exceptions in teaching [HTIS52](course)
+- What exceptions are there in [KATJOS32](course)
+- Lecture exceptions [BTK0011](course)
+- Does [MTTTA1](course) have exceptions in teaching hours
+- Were there exceptions in lectures [POLKVA33](course)
+- Teaching times exceptions for [KKENYHT](course)
+- What were the exceptions of teaching in [VENP4](course)
+- Does the schedule for [SOS10.6](course) have any exceptions
+- When were the exceptions for [KKVE4](course)
+- The exceptions in lessons for [HALJTA03](course)
+- Special teaching times for [KKES3](course)
+- Is there anything special I should know about the course schedule for [KATLAA13](course)
+- [LTLY01](course) special lecture hours
+- Special schedule [HALJTS01](course)
+- Will there be lectures in holidays in [MTTA1](course)
+- Holiday exceptions [VENA10](course)
+- Course break teaching times [YKYYHT2](course)
+- Do we have a lecture during holiday in [ITIA11](course)
+- Cancelled lectures [POLVOS21](course)
+- Will [TAYJ034](course) lectures be cancelled during holiday
+- Will [ITIP1](course) have a lecture every week
+- I want to know the exceptions in lessons for [KATVRS51](course)
+- I want to know special teaching times for [MTTA2](course)
+- I want to know does the schedule for [TERVAL5](course) have any exceptions
+- I want to know Teaching times exceptions for [KASSO7](course)
+- Exceptions [KATTAA13B](course)
+- Exception [ENGP3](course)
+- What are the exceptions for [PSYP5](course)
+- [HIS](course) exceptions
+- [TERHOIA6](course) exception
+- Exceptions in teaching hours [KASLOM3](course)
+- Exceptions in teaching times [SUOA8](course)
+- Are there any exceptions in teaching [KASLOM8](course)
+- What exceptions are there in [TAYJ032](course)
+- Lecture exceptions [COSOPON3](course)
+- Does [STYS1B4](course) have exceptions in teaching hours
+- Were there exceptions in lectures [KASVAR7](course)
+- Teaching times exceptions for [KIRP3](course)
+- What were the exceptions of teaching in [KKES4](course)
+- Does the schedule for [ITIS61](course) have any exceptions
+- When were the exceptions for [LUOYY027](course)
+- The exceptions in lessons for [KKSUOPE](course)
+- Special teaching times for [POLVOS31](course)
+- Is there anything special I should know about the course schedule for [PEACE046](course)
+- [KATTAA31](course) special lecture hours
+- Special schedule [ITIS11](course)
+- Will there be lectures in holidays in [KATYVS22](course)
+- Holiday exceptions [KKSUPRO](course)
+- Course break teaching times [POHS1](course)
+- Do we have a lecture during holiday in [KKSAVAL2](course)
+- Cancelled lectures [KASLOM11](course)
+- Will [FILS2B/C](course) lectures be cancelled during holiday
+- Will [HALHAS21](course) have a lecture every week
+- I want to know the exceptions in lessons for [KASLOE6.2](course)
+- I want to know special teaching times for [FILJATKO](course)
+- I want to know does the schedule for [MTTMA4](course) have any exceptions
+- I want to know Teaching times exceptions for [HALYAA14](course)
+- Exceptions [POLKVS31](course)
+- Exception [KASSG](course)
+- What are the exceptions for [KATLAA99](course)
+- [TECHS2](course) exceptions
+- [MVKS48/58](course) exception
+- Exceptions in teaching hours [TERHOIA1](course)
+- Exceptions in teaching times [JOVP5](course)
+- Are there any exceptions in teaching [HTIS60](course)
+- What exceptions are there in [KKKI3](course)
+- Lecture exceptions [POLVOA22/A32](course)
+- Does [ITIA7](course) have exceptions in teaching hours
+- Were there exceptions in lectures [VENS13](course)
+- Teaching times exceptions for [KASVAR8](course)
+- What were the exceptions of teaching in [JOVPVS3](course)
+- Does the schedule for [KASS2](course) have any exceptions
+- When were the exceptions for [HALTTS13](course)
+- The exceptions in lessons for [KATLITO5](course)
+- Special teaching times for [TERHOIA1](course)
+- Is there anything special I should know about the course schedule for [POLVOS33](course)
+- [KKSAVAL3](course) special lecture hours
+- Special schedule [KASSM2](course)
+- Will there be lectures in holidays in [KASSM2](course)
+- Holiday exceptions [JKKYORP1](course)
+- Course break teaching times [HALHAS17](course)
+- Do we have a lecture during holiday in [BIO4440](course)
+- Cancelled lectures [POLKVA33](course)
+- Will [STYS2A](course) lectures be cancelled during holiday
+- Will [ESPFP3](course) have a lecture every week
+- I want to know the exceptions in lessons for [MTTMP4](course)
+- I want to know special teaching times for [KKENYHT](course)
+- I want to know does the schedule for [POHA3](course) have any exceptions
+- I want to know Teaching times exceptions for [POLVOA22](course)
+- Exceptions [BTK4121](course)
+- Exception [KASMAT2](course)
+- What are the exceptions for [ENGS2](course)
+- [TRMU2](course) exceptions
+- [SOS6.4.1](course) exception
+- Exceptions in teaching hours [PSYS11](course)
+- Exceptions in teaching times [JOVPVA5](course)
+- Are there any exceptions in teaching [SOS1](course)
+- What exceptions are there in [DPIS1](course)
+- Lecture exceptions [KKRUYHT](course)
+- Does [KKSUHUK1](course) have exceptions in teaching hours
+- Were there exceptions in lectures [HALYAS14](course)
+- Teaching times exceptions for [DPJKKKS](course)
+- What were the exceptions of teaching in [MTTTA6](course)
+- Does the schedule for [KATTAS36](course) have any exceptions
+- When were the exceptions for [POLVOS28](course)
+- The exceptions in lessons for [JOVKA2&JOVKA3](course)
+- Special teaching times for [POLKVS22](course)
+- Is there anything special I should know about the course schedule for [KASVAR5](course)
+- [HISS2](course) special lecture hours
+- Special schedule [KASVAR7](course)
+- Will there be lectures in holidays in [HISA4](course)
+- Holiday exceptions [ITIP5](course)
+- Course break teaching times [KASMAT1](course)
+- Do we have a lecture during holiday in [KASA12](course)
+- Cancelled lectures [TERTIETO4](course)
+- Will [KASA9](course) lectures be cancelled during holiday
+- Will [ITIA03](course) have a lecture every week
+- I want to know the exceptions in lessons for [SOS6.4.4](course)
+- I want to know special teaching times for [KIRP4](course)
+- I want to know does the schedule for [TERTIETO5](course) have any exceptions
+- I want to know Teaching times exceptions for [KASP5](course)
+- Exceptions [POHP0](course)
+- Exception [KASA9](course)
+- What are the exceptions for [ITIS61](course)
+- [POLKVA22](course) exceptions
+- [POLVOS40](course) exception
+- Exceptions in teaching hours [ITIA03](course)
+- Exceptions in teaching times [POLPOP02](course)
+- Are there any exceptions in teaching [TIETS46](course)
+- What exceptions are there in [TAYJ032](course)
+- Lecture exceptions [BTK4701](course)
+- Does [MVKS46](course) have exceptions in teaching hours
+- Were there exceptions in lectures [TIETA15](course)
+- Teaching times exceptions for [KASP4](course)
+- What were the exceptions of teaching in [TERHOI2](course)
+- Does the schedule for [LTLY16](course) have any exceptions
+- When were the exceptions for [NAM-III/VI](course)
+- The exceptions in lessons for [KASA3](course)
+- Special teaching times for [KASS4](course)
+- Is there anything special I should know about the course schedule for [STYS3C](course)
+- [KASVAR9](course) special lecture hours
+- Special schedule [FONEA4](course)
+- Will there be lectures in holidays in [JOVA2](course)
+- Holiday exceptions [JMMETUS](course)
+- Course break teaching times [SOS6.2.2](course)
+- Do we have a lecture during holiday in [KASA10](course)
+- Cancelled lectures [TIEA3](course)
+- Will [COSOPOM2](course) lectures be cancelled during holiday
+- Will [DPIS1](course) have a lecture every week
+- I want to know the exceptions in lessons for [MTTTY1](course)
+- I want to know special teaching times for [KASP2](course)
+- I want to know does the schedule for [POLKVA32](course) have any exceptions
+- I want to know Teaching times exceptions for [TERTIETO4](course)
+- Exceptions [KASA1.3](course)
+- Exception [KASLOK2](course)
+- What are the exceptions for [KATVRA00](course)
+- [JOVA11](course) exceptions
+- [MTTTA7](course) exception
+- Exceptions in teaching hours [FONEP1](course)
+- Exceptions in teaching times [SOS04.4](course)
+- Are there any exceptions in teaching [MVKS48/58](course)
+- What exceptions are there in [KATYVS43](course)
+- Lecture exceptions [TAYJ031](course)
+- Does [KASVAR3](course) have exceptions in teaching hours
+- Were there exceptions in lectures [KATLITO4](course)
+- Teaching times exceptions for [HALKAS15](course)
+- What were the exceptions of teaching in [TSEKP1](course)
+- Does the schedule for [KATRAA11](course) have any exceptions
+- When were the exceptions for [SOSM2](course)
+- The exceptions in lessons for [TERKANP4](course)
+- Special teaching times for [KKSU4](course)
+- Is there anything special I should know about the course schedule for [MVKS42V](course)
+- [ENGP7](course) special lecture hours
+- Special schedule [TERHOIA2](course)
+- Will there be lectures in holidays in [FONEP1](course)
+- Holiday exceptions [LFCS02](course)
+- Course break teaching times [PSYP5](course)
+- Do we have a lecture during holiday in [TAYJ024](course)
+- Cancelled lectures [ENGA20](course)
+- Will [MVKS17/13S](course) lectures be cancelled during holiday
+- Will [JOVTS5](course) have a lecture every week
+- I want to know the exceptions in lessons for [MOLI](course)
+- I want to know special teaching times for [RANA6](course)
+- I want to know does the schedule for [ENGP5](course) have any exceptions
+- I want to know Teaching times exceptions for [POLKVA23](course)
+- Exceptions [POLKVA42](course)
+- Exception [FONEP3](course)
+- What are the exceptions for [FILAPRO](course)
+- [TERHOI3](course) exceptions
+- [KASPUHP1](course) exception
+- Exceptions in teaching hours [MVKS42S](course)
+- Exceptions in teaching times [BTK2223](course)
+- Are there any exceptions in teaching [SOS4.2](course)
+- What exceptions are there in [HALTVA12](course)
+- Lecture exceptions [TERKANP5](course)
+- Does [ENGP1](course) have exceptions in teaching hours
+- Were there exceptions in lectures [POLKVS40](course)
+- Teaching times exceptions for [KASSG](course)
+- What were the exceptions of teaching in [SOSM5.1](course)
+- Does the schedule for [MVKS17V](course) have any exceptions
+- When were the exceptions for [ESPFP1](course)
+- The exceptions in lessons for [DPCMTJ4](course)
+- Special teaching times for [JOVA8](course)
+- Is there anything special I should know about the course schedule for [VENP3/VENK1](course)
+- [STYVA](course) special lecture hours
+- Special schedule [KATVRS40](course)
+- Will there be lectures in holidays in [STYP5](course)
+- Holiday exceptions [ENGS13](course)
+- Course break teaching times [SOSKV3](course)
+- Do we have a lecture during holiday in [TRSU01](course)
+- Cancelled lectures [ITIP2](course)
+- Will [HALJUS13](course) lectures be cancelled during holiday
+- Will [KASVAR3](course) have a lecture every week
+- I want to know the exceptions in lessons for [YKYYKEKE0](course)
+- I want to know special teaching times for [KASP2](course)
+- I want to know does the schedule for [ITIS24](course) have any exceptions
+- I want to know Teaching times exceptions for [JOVKA2&JOVKA3](course)
+
+## intent:nimi
+- What is the name of [Case study: Examining leadership challenges](course)
+- [Venäjän historia, kirjallisuus ja kulttuuri](course) name
+- [Romanit etnisenä vähemmistönä Euroopassa - Sosnet verkkokurssi](course) name is
+- [Proseminaari, kandidaatintutkielma ja kypsyysnäyte](course) name full
+- [Tragedy of the Commons? Problems and Solutions](course) complete name
+- [Ohjelmointia teknisille viestijöille](course) name actual
+- [Makrotalousteorian jatkokurssi II](course) whole name
+- What is name [Writing for Research (online course)](course)
+- The name of [Julkisen talousjohtamisen tietojärjestelmät](course)
+- Name [Comparative European Politics and the Finnish Political System (book exam/essay)](course)
+- What is the full name of [Tiivistämisen taito](course)
+- What is [Project Planning and Management](course) called
+- What is the course code [Kandidaatintutkielmaseminaari - Seminaari](course) called
+- What course is [Vapaaehtoistyössä toimiminen](course)
+- [Basics I: Basics of Czech language II](course) named
+- What's [Julkisten palvelujen johtaminen](course) named
+- Name of [Kokeellinen tiedonhaku](course)
+- Tell me the name of [Praktikum](course)
+- Say the name of [Kandidaatintutkielma](course)
+- The whole name of [Kielioppiharjoitukset](course)
+- [Orientoiva tutkielmaseminaari - Seminaari](course) full name
+- [Talouselämän käännösviestinnän seminaari venäjä-suomi](course) entire name
+- [Syventävä metodologia - Luennot](course) whole name
+- [Global Humanitarianism and its Critics (POMLFCS3)](course) meaning
+- What does [Puolueet, vaalit ja poliittinen vaikuttaminen (kirjatentti/essee)](course) mean
+- What means [Recommender Systems](course)
+- I want to know what [Aikuis- ja ammattikasvatuksen asiantuntijuus](course) means
+- I want to know what [Nuorten ja aikuisten mielenterveyden arviointi](course) actually means
+- What is the meaning of [Laaja-alaistava harjoittelu - Ohjattu opetusharjoittelu](course)
+- [Pro gradu -seminaari ja -tutkielma (hallintotiede) - Seminaari](course) meaning
+- True name of [Äidinkieli ja kirjallisuus - Lasten- ja nuortenkirjallisuus - 1. vsk](course)
+- Real name of [Kielitieteen historia ja tutkimussuunnat](course)
+- Which course is [Suomen kulttuuri ja yhteiskunta -lukupiiri](course)
+- What [TECHS3(course) means
+- I want to know what [Fonetiikan teoriaa - Fonetiikan jatkokurssi](course) stands for
+- I want to know the full name of course code [Radiojournalismi](course)
+- I want to know the whole name of [Johdatus filosofian historiaan](course)
+- I want to know the name of [Literature and Society in Early Modern Britain](course)
+- What is the name of [Tilastotieteen matriisilaskenta ja laskennalliset menetelmät](course)
+- [Tutkimusasetelman menetelmällinen rakentuminen tohtoriopinnoissa - Dialogipajat](course) name
+- [Projektiharjoittelu](course) name is
+- [Pro gradu -seminaari ja -tutkielma (hallintotiede) - Seminaari](course) name full
+- [Vakuutustoiminnan periaatteet ja johtaminen](course) complete name
+- [Liike-elämän ruotsia I](course) name actual
+- [Interview as a means of data generation](course) whole name
+- What is name [Practical Observation of Finnish School System for Incoming Exchange Students - Observation, written tasks, report](course)
+- The name of [Johdatus sosiaalitieteisiin](course)
+- Name [Contemporary Peace and Conflict Studies](course)
+- What is the full name of [Teaching, Pedagogical Facilitating, Learning](course)
+- What is [Kliinisen neuropsykologian perusteet](course) called
+- What is the course code [Advanced Functional Programming](course) called
+- What course is [Laskentatoimen teoria ja IFRS I](course)
+- [Konfliktinratkaisu (kirjatentti/essee)](course) named
+- What's [Pro gradu -tutkielma ja -seminaari, syksyllä 2018 aloittavat ryhmät](course) named
+- Name of [Liiketoimintaympäristön taloustiede](course)
+- Tell me the name of [Managing Research Information](course)
+- Say the name of [Tiimi toimii - puheviestinnän syventävä kurssi (2. periodi)](course)
+- The whole name of [Esimiestyö (kevät 2019)](course)
+- [Vapaaehtoistyö / Voluntary Work](course) full name
+- [Tutkielmakurssi (periodi I)](course) entire name
+- [Yhtiöoikeuden syventävä opintojakso](course) whole name
+- [Taitoseminaari](course) meaning
+- What does [Asiantuntemus ja arjen ympäristöpolitiikka](course) mean
+- What means [Communication Skills in English - Speaking Practice](course)
+- I want to know what [Systemaattinen tiedonhaku hoitotieteessä](course) means
+- I want to know what [Kvalitatiivinen tutkimus kasvatustieteissä - Verkkokurssi, yhteisopetus avoimen yo:n ja tutkinto-opiskelijoille](course) actually means
+- What is the meaning of [Seminaari (Ridell)](course)
+- [Kansanterveystieteen käsitteitä ja teoreettisia kysymyksiä](course) meaning
+- True name of [Kääntäjän ja tulkin työelämätaidot](course)
+- Real name of [Graduseminaari, jatkava (Markkola)](course)
+- Which course is [Writing Research Grant Proposals](course)
+- What [TECHS3(course) means
+- I want to know what [Normit ja asiakirjoittaminen - Kääntäjän kielen- ja tekstinhuolto](course) stands for
+- I want to know the full name of course code [Espanja IV](course)
+- I want to know the whole name of [Johdanto tietokäytäntöjen tutkimukseen](course)
+- I want to know the name of [Työn taloustiede](course)
+- What is the name of [Kvalitatiivinen tutkimus kasvatustieteissä - Verkkokurssi, yhteisopetus avoimen yo:n ja tutkinto-opiskelijoille](course)
+- [Introduction to R (Tampere Summer School 2018)](course) name
+- [Diskurssianalyysi](course) name is
+- [Political Systems (book exam/essay)](course) name full
+- [Leikki kulttuurisena, kehityksellisenä ja pedagogisena ilmiönä / Luennot - 1.vsk](course) complete name
+- [Tila, teknologia ja toiminta: Lukuseminaari: Julkinen toiminta teknoyhteiskunnassa](course) name actual
+- [Tila, teknologia ja toiminta - essee](course) whole name
+- What is name [Johdon laskentatoimen jatkokurssi](course)
+- The name of [Laskentatoimen teoria ja IFRS II](course)
+- Name [Graduvauhditus](course)
+- What is the full name of [Kääntämisen perusteet](course)
+- What is [Kvalitatiivinen tutkimus kasvatustieteissä - Harjoitukset, luokanop. ryhmä](course) called
+- What is the course code [Human Mobility in Peace and Conflict Research](course) called
+- What course is [Matemaattiset aineet - Fysiikka ja kemia - 2. vsk](course)
+- [Vahinkoriskien vakuuttaminen](course) named
+- What's [Kandidaattiseminaari (JATKAVA, Nevala)](course) named
+- Name of [Lukeminen ja kirjoittaminen oppimisen haasteena (seminaarit 1-4 ryhmät)](course)
+- Tell me the name of [Sosiaalipsykologia](course)
+- Say the name of [Poliittinen viestintä - verkkosuorituksena](course)
+- The whole name of [Fundamentals of Finance (Tampere Summer School)](course)
+- [Asiantuntijan puheviestintä ja vuorovaikutus sosiaali- ja terveysalalla (1. periodi)](course) full name
+- [Pohjoismaiden yhteiskuntaolot ja kulttuurit](course) entire name
+- [Harjoittelu / Elinikäinen oppiminen ja kasvatus - Arviointiseminaari vuonna 2018 harjoitteleville](course) whole name
+- [Puhe- ja nielemistoimintojen tutkimus ja kuntoutus](course) meaning
+- What does [Tutkimustyön perusteet - d) Kandidaattiseminaari (syksyllä 2018 alkava)](course) mean
+- What means [Seminaari (Seppänen)](course)
+- I want to know what [Literature and Change after 1900 (American Literature)](course) means
+- I want to know what [Kansainvälisen politiikan työseminaari - Luennot ja seminaari](course) actually means
+- What is the meaning of [Multi-level Modelling (MLM) - Concepts and Practice -](course)
+- [Kvantitatiivinen tutkimus kasvatustieteissä - Harjoitukset, luokanop.](course) meaning
+- True name of [Persoonallisuuspsykologia I (avoin yliopisto)](course)
+- Real name of [Orientoivat opinnot - Tiedonhankintataidot I (TIE)](course)
+- Which course is [Nuorisotyön ja nuorisotutkimuksen maisteriohjelman lähijakso 11.-12.4.2019](course)
+- What [TECHS3(course) means
+- I want to know what [Kvalitatiivinen tutkimus kasvatustieteissä - Harjoitukset, Ryhmä, yhteinen varhaiskasv. ja luokanop. ryhmä](course) stands for
+- I want to know the full name of course code [Kandidaattiseminaari (Mustakallio)](course)
+- I want to know the whole name of [Molekyylibiologia](course)
+- I want to know the name of [Visuaalisen journalismin perusteet, luennot](course)
+- What is the name of [Eheyttävä temaattinen loppuprojekti - projekti/käytännön työ ja portfolio](course)
+- [Kandidaattiseminaari ja tutkielma (vakuutus ja riskienhallinta), syksy 2018](course) name
+- [Introduction to International Relations (book exam)](course) name is
+- [Saksa III](course) name full
+- [Lastenkirjallisuus ja draama / Harjoitukset - 3.vsk + 1.vsk ryhmät 6 ja 7](course) complete name
+- [Microfinance and development](course) name actual
+- [Opetussuunnitelmateoria, kirjatentti](course) whole name
+- What is name [Moniammatilliset oppimisyhteisöt - Luennot](course)
+- The name of [Syventävä projekti, keväällä 2019 alkava](course)
+- Name [Ohjelmoinnin tekniikka C](course)
+- What is the full name of [Julkissektorin instituutioiden talous (monimuoto-opetus)](course)
+- What is [Algebra 1B](course) called
+- What is the course code [Venäjä I](course) called
+- What course is [Ruotsin kielen kirjallinen ja suullinen viestintä / Monenlaisten oppijoiden ryhmä](course)
+- [Introduction to leadership and management](course) named
+- What's [Ruotsin kielen kirjallinen ja suullinen viestintä](course) named
+- Name of [Sosiaalitieteiden kvantitatiiviset menetelmät - Luennot ja harjoitukset](course)
+- Tell me the name of [Terveystiedon perusteet](course)
+- Say the name of [Johdatus viestinnän tutkimukseen ja analyysiin - kirjatentti](course)
+- The whole name of [Ranska eilen, tänään ja huomenna](course)
+- [Eheyttävä musiikkikasvatus / Harjoitukset - 2.vsk](course) full name
+- [Ammattimainen tekstintarkistus](course) entire name
+- [Johdon laskentatoimi ja inhimillinen käyttäytyminen](course) whole name
+- [Journalism Start-Ups and Enterpreneurialism](course) meaning
+- What does [Julkisoikeuden perusteet (järjestäjä TAMK)](course) mean
+- What means [Johdatus kirjallisuuden poetiikkaan](course)
+- I want to know what [Käännösviestintä II englanti-suomi](course) means
+- I want to know what [Lausekielinen ohjelmointi I - Näyttökoe, kevät 2019](course) actually means
+- What is the meaning of [Syventävä projekti, keväällä 2019 alkava](course)
+- [Harjoittelu / Elinikäinen oppiminen ja kasvatus - HARJOITTELUTUKIOPTION HAKEMINEN: Seminaarit ja harjoittelu vuonna 2019 opintojakson suorittaville](course) meaning
+- True name of [Gerontologian tohtorikoulutusseminaari](course)
+- Real name of [Terveystiedon perusteet](course)
+- Which course is [Kansainvälisen politiikan erikoistuvat menetelmäopinnot (kirjatentti/essee)](course)
+- What [TECHS3(course) means
+- I want to know what [Ranska I](course) stands for
+- I want to know the full name of course code [Opetus, ohjaus, oppiminen - Luennot (1 op) EDUn opiskelijoille TAI luennot (1 op) ja kirjatentti (4 op) opintojakson valinnaisena suorittaville](course)
+- I want to know the whole name of [Varhaiskasvatuksen pedagogiikka ja opetussuunnitelmatyö / Luennot - 2.vsk + 1.vsk ryhmät 6 ja 7](course)
+- I want to know the name of [Asiakastyön menetelmät, luennot](course)
+- What is the name of [Kirjallinen viestintä I (venäjänkieliset opiskelijat)](course)
+- [Sosiaalinen kognitio](course) name
+- [Kansainvälisen politiikan yleiset syventävät menetelmäopinnot](course) name is
+- [Sustainable business practices (Lectures)](course) name full
+- [Tietotekniikkataidot (kevät)](course) complete name
+- [Kielen- ja tekstinhuolto](course) name actual
+- [Kandidaattiseminaari ja tutkielma (markkinointi) - kevät 2019](course) whole name
+- What is name [Business Ethics (Independent study)](course)
+- The name of [Tilastollisen päättelyn perusteet, iltaryhmä](course)
+- Name [Kandidaattiseminaari ja tutkielma (yrityksen johtaminen) - syksy 2018](course)
+- What is the full name of [Political Ideologies (book exam)](course)
+- What is [Orientoivat opinnot - Tiedonhankintataidot I](course) called
+- What is the course code [Kuva-  ja mediakulttuurit - Kuvakulttuurit - 1. vsk ja erillisen opinto-oikeuden POM-opintoihin saaneet opiskelijat (luennot)](course) called
+- What course is [Business Translation Seminar Finnish - English](course)
+- [Ruotsin kielen kirjallinen ja suullinen viestintä / Monenlaisten oppijoiden ryhmä](course) named
+- What's [Dramaturgia: Musikaalin dramaturgia](course) named
+- Name of [Monimuuttujamenetelmien perusteet](course)
+- Tell me the name of [Introduction to Pharmacology and Drug Modelling](course)
+- Say the name of [Tutkielmaseminaari (kevätlukukaudelta 2018 jatkavat seminaarit)](course)
+- The whole name of [Pelit ja pelillisyys (syksyllä 2017 perusopinnot aloittaneille) - verkkokurssi](course)
+- [Esimiestyö (kevät 2019)](course) full name
+- [Vuorovaikutuksen perusteet - verkkokurssina I](course) entire name
+- [Perhehoitotieteellisen tiedon syventäminen -](course) whole name
+- [Writing for Research (online course)](course) meaning
+- What does [Liikunta pedagogisena ilmiönä - A Liikunnan ainedidaktiikka (yhteiset seminaarit)](course) mean
+- What means [Introduction to Academic English (JKK, EDU, LUO, COMS & SOC)](course)
+- I want to know what [Pro gradu -seminaari ja -tutkielma (2018-2019)](course) means
+- I want to know what [Rahoitusoikeus](course) actually means
+- What is the meaning of [Continental Model: The Austrian System of Work and Social Security](course)
+- [Genetiikka](course) meaning
+- True name of [Terveystieteiden orientoivat tohtoriopinnot](course)
+- Real name of [Lasten arki suomalaisessa yhteiskunnassa / Harjoitukset - 1.vsk](course)
+- Which course is [Kvantitatiivinen tutkimus kasvatustieteissä - Harjoitukset, yhteinen avoimen ja tutkinto-op. ryhmä](course)
+- What [TECHS3(course) means
+- I want to know what [Lausekielinen ohjelmointi II](course) stands for
+- I want to know the full name of course code [Tiedonhankintataidot (hoitotiede), Seinäjoki](course)
+- I want to know the whole name of [Applied and Effective Project Management, Leadership and Communication - (Tampere Summer School)](course)
+- I want to know the name of [Kiina II](course)
+- What is the name of [Musiikin tiedolliset valmiudet ja niiden soveltaminen - Musiikkitieto](course)
+- [Käyttöliittymien perusteet](course) name
+- [Sosiaalioikeus](course) name is
+- [Vakuutuksen ja riskienhallinnan erikoistumisosa](course) name full
+- [Terveystiedon sisällöt (sähköinen tentti)](course) complete name
+- [Saksankielisten maiden kulttuurihistoria / Kulturgeschichte der deutschsprachigen Länder](course) name actual
+- [Tasa-arvon ja yhdenvertaisuuden edistäminen työnä (verkkokurssi)](course) whole name
+- What is name [Johdanto tietokäytäntöjen tutkimukseen](course)
+- The name of [Filosofian tutkija- ja tohtorikoulutusseminaari](course)
+- Name [Kääntämisen ja tulkkauksen teoria ja käytäntö - Tulkkausviestinnän perusteet](course)
+- What is the full name of [Kuva-  ja mediakulttuurit - Mediakulttuurit- I vsk ja  erillisen opinto-oikeuden POM-opintoihin saaneet opiskelijat (luennot)](course)
+- What is [Kansainvälisen politiikan teoria ja menetelmät (luentokurssi)](course) called
+- What is the course code [Olio-ohjelmoinnin perusteet](course) called
+- What course is [Perusharjoittelu A - Ohjattu opetusharjoittelu](course)
+- [Kasvatus tieteellisen tutkimuksen kohteena - verkko-opetus, IV-periodi](course) named
+- What's [Vapaaehtoistyö - Osallistuminen vapaaehtoistyöhön](course) named
+- Name of [Kehittyminen johtajaksi terveydenhuollossa](course)
+- Tell me the name of [Aktuelle Texte aus Presse und Studium](course)
+- Say the name of [Johdatus kunta- ja aluejohtamiseen](course)
+- The whole name of [Puheen ja äänen harjoitusmenetelmät](course)
+- [Tutkimustyön perusteet - d) Kandidaattiseminaari (keväällä 2018 alkava)](course) full name
+- [Dialogitulkkaus](course) entire name
+- [Kandidaattiseminaari ja tutkielma (yritysjuridiikka ja vero-oikeus)](course) whole name
+- [Cell Technology](course) meaning
+- What does [Tutkimustyön perusteet (syksy)](course) mean
+- What means [Vero-oikeuden perusteet](course)
+- I want to know what [Kvalitatiivinen tutkimus kasvatustieteissä - Verkkokurssi, varhaiskasvatuksen opiskelijat](course) means
+- I want to know what [Statistical Inference 1](course) actually means
+- What is the meaning of [New Wars and How to Study Them (POMLFCS3)](course)
+- [Matematiikan peruskäsitteitä](course) meaning
+- True name of [Johtaminen ja organisaatiot I (kirjallisuus)](course)
+- Real name of [Kandidaattiseminaari ja tutkielma (laskentatoimi) - Kandidaattiseminaari, syksy 2018](course)
+- Which course is [Kandidaattitutkielma ja seminaari (matematiikka) - seminaari](course)
+- What [TECHS3(course) means
+- I want to know what [Ajankohtaisia kansanterveyskysymyksiä](course) stands for
+- I want to know the full name of course code [Terveydenhuollon ja terveystutkimuksen etiikka](course)
+- I want to know the whole name of [Kandidaattiseminaari ja tutkielma (markkinointi) - syksy 2018](course)
+- I want to know the name of [Informaatio- ja mediajärjestelmien historiaa ja nykypäivää (keväällä 2019 perusopinnot aloittaville) - verkkokurssi](course)
+- What is the name of [Study Skills - Basics of Information Literacy](course)
+- [Kielikonsultointia käytännössä](course) name
+- [Tutkimustyötä tukevat tohtoriopinnot (tilastotiede)](course) name is
+- [Tutkimusetiikka](course) name full
+- [Human Rights Law](course) complete name
+- [Identity and Lifecourse - Lectures, reading groups and essay](course) name actual
+- [Rakenteinen dokumentaatio ja DITA](course) whole name
+- What is name [Soluviljely (2. vuosikurssin opiskelijoille)](course)
+- The name of [Cultural Conversations](course)
+- Name [Tutkijan puheviestintä](course)
+- What is the full name of [Yrityksen johtamisen perusteet](course)
+- What is [Seminaari, kandidaatintutkielma ja kypsyysnäyte](course) called
+- What is the course code [Poliittiset aatteet ja ideologiat](course) called
+- What course is [Studia generalia: Lastenkirja kääntäjän kädessä](course)
+- [Opetus, ohjaus, oppiminen - Luennot (1 op) EDUn opiskelijoille TAI luennot (1 op) ja kirjatentti (4 op) opintojakson valinnaisena suorittaville](course) named
+- What's [Liikuntapedagogiikka varhaiskasvatuksessa / Harjoitukset - 2.vsk](course) named
+- Name of [Tutkimuspraktikum -](course)
+- Tell me the name of [Kompleksianalyysi](course)
+- Say the name of [Methodology of Social and Comparative Research](course)
+- The whole name of [Julkisoikeuden perusteet (järjestäjä TAMK)](course)
+- [Tutkimustyötä tukevat tohtoriopinnot - Postgraduate Studies in Interactive Technology](course) full name
+- [Opetus, ohjaus, oppiminen - Luokanopettajaopiskelijat: Pienryhmäopetus ja siihen liittyvä harjoittelu (2 op) ja kirjallisuus (2 op)](course) entire name
+- [Musiikin perusteet / Luennot - 1.vsk ryhmät 1-5](course) whole name
+- [Lukeminen ja kirjoittaminen oppimisen haasteena - (luennot)](course) meaning
+- What does [Seminaari II/Seminarium II](course) mean
+- What means [Orientoivat opinnot - Tiedonhankintataidot](course)
+- I want to know what [Tilastollisen päättelyn perusteet](course) means
+- I want to know what [Eurooppa-vero-oikeus](course) actually means
+- What is the meaning of [Kääntämisen ja tulkkauksen teoria ja käytäntö - Tulkkausviestinnän perusteet](course)
+- [Kuvataiteen perusteet - 1.vsk](course) meaning
+- True name of [Biological data analysis with R](course)
+- Real name of [Study Skills - Basics of Information Literacy](course)
+- Which course is [Teaching, Pedagogical Facilitating, Learning](course)
+- What [TECHS3(course) means
+- I want to know what [Kommunikationstraining II](course) stands for
+- I want to know the full name of course code [Liikuntatuutorina toimiminen - Liikuntatuutoriperehdytys](course)
+- I want to know the whole name of [Tutkielmapiiri](course)
+- I want to know the name of [Usean muuttujan differentiaalilaskenta](course)
+- What is the name of [Perhehoitotieteellisen tiedon syventäminen -](course)
+- [Asiantuntijan puheviestintä ja vuorovaikutus (4. periodi)](course) name
+- [Käytännön opetus ja ohjaus - STYA3B1 Taitoseminaari](course) name is
+- [Kandidaattiseminaari (JATKAVA, Nevala)](course) name full
+- [Kick-start to Biomedical Technology](course) complete name
+- [Tietojärjestelmän suunnittelun perusteet](course) name actual
+- [Fonetiikan tilastomenetelmät](course) whole name
+- What is name [Politicization in Europe and the EU](course)
+- The name of [Terve ja turvallinen kouluyhteisö](course)
+- Name [Romanian kielen jatkokurssi II / Advanced Course 2 in Romanian -](course)
+- What is the full name of [Politiikan tutkimuksen kandidaatintutkielma ja -seminaari](course)
+- What is [Laaja-alaistava harjoittelu - Opetus- ja koulutushallinnon luennot](course) called
+- What is the course code [Stem Cells Laboratory Course](course) called
+- What course is [Terveystiedon asiantuntijuus (sähköinen tentti)](course)
+- [Journalism Start-Ups and Enterpreneurialism](course) named
+- What's [Uuden ajan alun ryhmä](course) named
+- Name of [Improving the quality and safety of health care through outcomes research](course)
+- Tell me the name of [Kasvatustieteen metodologiset lähtökohdat, kirjatentti, Seinäjoki](course)
+- Say the name of [Latinan kielen alkeiskurssi](course)
+- The whole name of [Tieteellinen kirjoittaminen](course)
+- [Liiketoiminnan analysoinnin ja kehittämisen case-kurssi](course) full name
+- [Ammattimainen tekstintarkistus](course) entire name
+- [Kvantitatiivinen tutkimus kasvatustieteissä - Harjoitukset, varhaiskasv. ryhmä, luokanop. ja varhaiskasv. yhteinen ryhmä](course) whole name
+- [Biologia ja ympäristötieto - Biologian kenttäkurssi - 2. vsk (1-2. ryhmät Hyytiälä)](course) meaning
+- What does [Tuutorivastaavana toimiminen](course) mean
+- What means [Advanced Course in Microeconomics I](course)
+- I want to know what [Ekonometria](course) means
+- I want to know what [Kuntien ja alueiden kansainväliset hallintasuhteet](course) actually means
+- What is the meaning of [Pelit ja pelillisyys](course)
+- [Tutkimustyötä tukevat tohtoriopinnot (tilastotiede)](course) meaning
+- True name of [Juridisk svenska (vain KTM:ksi klklla 2019 valmistuville)](course)
+- Real name of [Kandidaatin tutkielma ja seminaari (hoitotiede)](course)
+- Which course is [Simultaanitulkkaus I englanti-suomi-englanti](course)
+- What [TECHS3(course) means
+- I want to know what [Liikunnan projekti (5 op)](course) stands for
+- I want to know the full name of course code [Saksan kielen valmentava kurssi - Interkulturelles Training](course)
+- I want to know the whole name of [Kasvatuksen historialliset ja filosofiset lähtökohdat, monimuoto-opetus](course)
+- I want to know the name of [KEB-61420 Laaja kemia 2](course)
+- What is the name of [Ohjelmointia teknisille viestijöille](course)
+- [Cell Technology](course) name
+- [Perusharjoittelu](course) name is
+- [Terveys ja yhteiskuntapolitiikka](course) name full
+- [Practices of Strategic Leadership](course) complete name
+- [Innovation Project (Spring term 2018-IV)](course) name actual
+- [World society: National policies, global governance and transnational sociology](course) whole name
+- What is name [Tiedonhankintataidot - Tiedonhankintataidot III -  Systemaattinen tiedonhankinta (hoitotieteen opiskelijoille)](course)
+- The name of [Asiantuntijuuden kehittymiseen orientoiva opintojakso - v. 2018 EDUn opiskelijoiksi hyväksyttyjen ryhmät](course)
+- Name [Struggles on Education](course)
+- What is the full name of [Tekstianalyysi / Textanalyse](course)
+- What is [Studia generalia: Lastenkirja kääntäjän kädessä](course) called
+- What is the course code [Normit ja asiakirjoittaminen - Kääntäjän kielen- ja tekstinhuolto](course) called
+- What course is [Developing a Proposal for Community-Based Qualitative Research](course)
+- [Tutkimuspraktikum -](course) named
+- What's [Geometria](course) named
+- Name of [Johdatus tietojenkäsittelytieteisiin](course)
+- Tell me the name of [Pro gradu -tutkielma ja seminaari](course)
+- Say the name of [Asiantuntijuuden kehittymiseen orientoiva opintojakso - opintosuuntakohtaiset ryhmät jatkaville maisteriopiskelijoille (KASSY-, KASSO- ja KASSA-opintosuuntien ryhmiä)](course)
+- The whole name of [Lapset kehittyvinä ja sosiaalisina toimijoina varhaiskasvatuksessa / Luennot - 1.vsk](course)
+- [Gerontologian tohtorikoulutusseminaari](course) full name
+- [Pro gradu -tutkielma ja seminaari](course) entire name
+- [Romanian kielen jatkokurssi I / Advanced Course 1 in Romanian](course) whole name
+- [Kasvatus tieteellisen tutkimuksen kohteena - verkko-opetus, II-periodi](course) meaning
+- What does [Työoikeuden syventävä opintojakso](course) mean
+- What means [Tilinpäätös- ja verosuunnittelu](course)
+- I want to know what [Thesis seminar](course) means
+- I want to know what [Työ- ja organisaatiopsykologian interventiot](course) actually means
+- What is the meaning of [Kielioppi I / Grammatik I](course)
+- [Johtaminen ja organisaatiot I (kirjallisuus)](course) meaning
+- True name of [Struggles on Education](course)
+- Real name of [Sosiaalityön tutkimuksen metodologisia suunnistuksia](course)
+- Which course is [Erot, jaot ja niiden rakentuminen, kirjatentti](course)
+- What [TECHS3(course) means
+- I want to know what [Interview as a means of data generation](course) stands for
+- I want to know the full name of course code [Tiimi toimii - puheviestinnän syventävä kurssi (4. periodi)](course)
+- I want to know the whole name of [Liiketoimintaympäristön taloustiede](course)
+- I want to know the name of [Current theoretical questions of educational research](course)
+- What is the name of [Etnografinen tutkimusprosessi](course)
+- [Kansainvälisen politiikan johdantokurssi (kaikki opiskelijat)](course) name
+- [Asiantuntijan puheviestintä ja vuorovaikutus opetus- ja kasvatustyössä (4. periodi)](course) name is
+- [Romanian kielen jatkokurssi II / Advanced Course 2 in Romanian -](course) name full
+- [Kestävän kehityksen käytäntöjä](course) complete name
+- [Science and Biotechnology Journal Club](course) name actual
+- [Dialogitulkkaus](course) whole name
+- What is name [Kirjallisuuden teoria - Kirjallisuustieteen klassikoita](course)
+- The name of [Learning from Multiple Sources](course)
+- Name [Tieteellinen kirjoittaminen / SOC (historia & filosofia)](course)
+- What is the full name of [TUTU4 Tulevaisuudentutkimuksen tieteellinen perusta](course)
+- What is [Current Trends in Leadership](course) called
+- What is the course code [Projektin suunnittelu ja johtaminen](course) called
+- What course is [Tekoäly ja vakuutustoiminta](course)
+- [Legal English](course) named
+- What's [Luontokirjoittamisen klassikot](course) named
+- Name of [Methods of Variationist Linguistics](course)
+- Tell me the name of [Käytännön opetus ja ohjaus - STYA3B2 Käytännön opetus ja ohjaus](course)
+- Say the name of [Psykologian tutkimusmenetelmät I (avoin yliopisto)](course)
+- The whole name of [Mediatutkimuksen valinn. jakso: Työseminaari: Euroopan hullu vuosi 1968 ja sen perintö](course)
+- [Tuutorvastaavana toimiminen / Being a tutor in charge](course) full name
+- [Evaluation Research](course) entire name
+- [Inclusive Education](course) whole name
+- [Lesen, Verstehen, Schreiben](course) meaning
+- What does [Kasvatus, koulutus ja yhteiskunta, verkko-opetus](course) mean
+- What means [Tutkijan puheviestintä](course)
+- I want to know what [Viestintää tukevat keinot asiakas-työntekijä-suhteessa](course) means
+- I want to know what [Kirjallisuustieteen syysseminaari: Ihmesaduista adaptaatioihin. Näkökulmia sadun ja fantasian tutkimukseen](course) actually means
+- What is the meaning of [Asiantuntijan puheviestintä ja vuorovaikutus (1. periodi) / KTM-tutkinto](course)
+- [Matematiikkakasvatus / Harjoitukset - 2.vsk + 1.vsk ryhmät 6 ja 7](course) meaning
+- True name of [Software Engineering](course)
+- Real name of [The Transformation of Global Environmental Politics (Tampere Summer School 2018)](course)
+- Which course is [Tieteellinen kirjoittaminen / COMS (kirjallisuuden opiskelijoille)](course)
+- What [TECHS3(course) means
+- I want to know what [Liikekirjanpito ja tilinpäätös (avoin yliopisto-opetus)](course) stands for
+- I want to know the full name of course code [Vanhempien aikojen tutkijaseminaari](course)
+- I want to know the whole name of [Antiikin ja keskiajan ryhmä](course)
+- I want to know the name of [Understanding Legal Regulation of Business](course)
+- What is the name of [Psykologian tutkimusmenetelmät II: kokeellinen ja korrelatiivinen tutkimus](course)
+- [Lähtötasokoe - Kirjallinen tentti](course) name
+- [Liikunta - Liikuntapedagogiikka perusopetuksessa  B - 2. vsk  ja opinnot 1½ lukuvuodessa suorittavat 1.vsk ja POM-opintoihin opinto-oikeuden saaneet opiskelijat](course) name is
+- [Monikielinen käännöstyöpaja](course) name full
+- [Longitudinal and Finite Nonlinear Mixture Modelling and Associated Experimental Design Strategies (independent study and exams) 5 ECTS](course) complete name
+- [Tulevaisuuden hyvinvointipalvelut: ratkaisuna robotiikka?](course) name actual
+- [Kick-start to Biomedical Technology](course) whole name
+- What is name [Lain ja hallinnon tekstit ja niiden kääntäminen](course)
+- The name of [Deviance and Social Control](course)
+- Name [International Trade and Finance (Tampere Summer School) - luennot ja tentti](course)
+- What is the full name of [Kieli ja kielentäminen -2. vsk (luennot)](course)
+- What is [Embryology](course) called
+- What is the course code [Analyysi C](course) called
+- What course is [Julkisen talousjohtamisen tietojärjestelmät](course)
+- [Dramaturgia: Musikaalin dramaturgia](course) named
+- What's [Gender in Society](course) named
+- Name of [Ympäristö ja hyvinvointi](course)
+- Tell me the name of [Radio Project](course)
+- Say the name of [Yrityksen johtamisen perusteet](course)
+- The whole name of [Basics I: Basics of Czech language I](course)
+- [Tutkimushaastattelu: taito, tyylit ja kohderyhmät](course) full name
+- [Demola-projektityö I](course) entire name
+- [Media and Cultural Industries](course) whole name
+- [Palvelut ja hyvinvointivaltion murros](course) meaning
+- What does [Musiikin soveltava projekti - Yhteisöllinen musiikillinen projekti](course) mean
+- What means [Toisen vuoden opiskelijoiden info-tilaisuus](course)
+- I want to know what [Political Institutions and Processes (book exam/essay)](course) means
+- I want to know what [Finnish Education System - Seminar](course) actually means
+- What is the meaning of [Espanja I](course)
+- [Stem Cells Laboratory Course](course) meaning
+- True name of [Tekoälyn filosofia](course)
+- Real name of [Orientoivat opinnot - Tiedonhankintataidot I (TIE)](course)
+- Which course is [Sanaston tuntemus/Ordkunskap](course)
+- What [TECHS3(course) means
+- I want to know what [History, Culture and Literature: Culture and Literature](course) stands for
+- I want to know the full name of course code [Eheyttävä musiikkikasvatus - Soitinrakennus](course)
+- I want to know the whole name of [Viron peruskurssi](course)
+- I want to know the name of [Orientoivat opinnot, HOPS](course)
+- What is the name of [Semantiikka ja pragmatiikka / Sémantique et pragmatique](course)
+- [Tietojärjestelmän suunnittelun perusteet - Näyttökoe, syksy 2018](course) name
+- [Kansainvälisen politiikan erikoistuvat menetelmäopinnot (kirjatentti/essee)](course) name is
+- [Orientoivat opinnot - Alkuorientaatio](course) name full
+- [Kommunikationstraining II](course) complete name
+- [Oppimisyhteisöt ja vuorovaikutus, kirjatentti, Pori](course) name actual
+- [Ruotsin kielen kirjallinen ja suullinen viestintä (JKK: HK & YTK / EDU / LUO / COMS: HuK, LuK & YTK / SOC) verkkokurssi](course) whole name
+- What is name [Nuorisotyön ja nuorisotutkimuksen maisteriohjelman lähijakso 29.-30.8.2018](course)
+- The name of [Graduseminaari, alkava (Kaarninen)](course)
+- Name [Orientoivat opinnot - Tiedonhankintataidot I (MTT)](course)
+- What is the full name of [Old and New Classics of Political Theory (book exam/essay)](course)
+- What is [Graduvauhditus](course) called
+- What is the course code [Visual Peace Research](course) called
+- What course is [Latinalaisen Amerikan historia ja kirjallisuus - Historia y literatura de Latinoamérica](course)
+- [Äänen tutkimus ja kuntoutus](course) named
+- What's [POISTA TÄMÄ! Solun biokemia ja  molekyylibiologia](course) named
+- Name of [Johdatus matematiikkaan ja tilastotieteeseen](course)
+- Tell me the name of [Finnish Elementary Course 3](course)
+- Say the name of [Romanian kielen jatkokurssi II / Advanced Course 2 in Romanian -](course)
+- The whole name of [Liikuntapedagogiikan perusteet / Luennot - 1.vsk](course)
+- [Varhaiskasvatuksen kehittyvä asiantuntijuus - Työssäoppiminen 3.vsk](course) full name
+- [Epidemiologian perusteet](course) entire name
+- [Lasten arviointi](course) whole name
+- [WWW Programming](course) meaning
+- What does [Asiantuntemus ja arjen ympäristöpolitiikka (esseesuoritusvaihtoehto) - oppimispaivakirja ja teemaessee](course) mean
+- What means [Terveystiedon didaktiikan perusteet](course)
+- I want to know what [History, Culture and Literature: History](course) means
+- I want to know what [Kansainvälisen politiikan johdantokurssi (kirjatentti)](course) actually means
+- What is the meaning of [Teknologiakasvatus - Teknologia](course)
+- [Advanced International Relations Research Methods (book exam/essay)](course) meaning
+- True name of [Asiakirjatiedon organisointi- ja kuvailumenetelmät](course)
+- Real name of [Urban Inequalities](course)
+- Which course is [Näkökulmia kääntämiseen - Kääntäminen viestinnällisenä asiantuntijatehtävänä / Perspektiven auf Übersetzen](course)
+- What [TECHS3(course) means
+- I want to know what [Sosiaalitieteiden kvantitatiiviset tutkimusmenetelmät (verkkokurssi)](course) stands for
+- I want to know the full name of course code [Kielioppi II (venäjänkieliset opiskelijat)](course)
+- I want to know the whole name of [Sustainable business practices (Lectures)](course)
+- I want to know the name of [Tutkimustyötä tukevat tohtoriopinnot - Postgraduate Studies in Interactive Technology](course)
+- What is the name of [Seminaari](course)
+- [Ryhmät ja ryhmien väliset suhteet](course) name
+- [Poliittinen viestintä - verkkosuorituksena](course) name is
+- [Research Ethics](course) name full
+- [Structure of English I - Phonology and Pronunciation I](course) complete name
+- [Kirjallinen viestintä I (venäjänkieliset opiskelijat)](course) name actual
+- [Julkisoikeuden perusteet](course) whole name
+- What is name [Experimental animal course](course)
+- The name of [Valtio-opin teoriat (kirjatentti/essee)](course)
+- Name [Advanced International Relations Research Methods (book exam/essay)](course)
+- What is the full name of [Introduction to Bayesian Analysis 2](course)
+- What is [Matemaattiset aineet - Fysiikka ja kemia - 2. vsk](course) called
+- What is the course code [Asiantuntijan puheviestintä ja vuorovaikutus opetus- ja kasvatustyössä (4. periodi)](course) called
+- What course is [Tieteellinen kirjoittaminen](course)
+- [Development, Education and Lifecourse](course) named
+- What's [Terveys ja yhteiskuntapolitiikka](course) named
+- Name of [Master's Thesis Seminar (2nd year students)](course)
+- Tell me the name of [Poliittiset ongelmat ja niiden muuttuvat kontekstit (kirjatentti)](course)
+- Say the name of [Johdatus kirjallisuuden poetiikkaan](course)
+- The whole name of [Kandidaattiseminaari](course)
+- [Games and Internet in Society](course) full name
+- [Education in Developing Countries: Problems and Possible Solutions - Seminar](course) entire name
+- [Lähtötasokoe / Schwellentest](course) whole name
+- [Empiiristen tutkimusmenetelmien yleisesitykset (kirjatentti/essee)](course) meaning
+- What does [Research Methods in HTI](course) mean
+- What means [Cultural Conversations](course)
+- I want to know what [Julkisen talousjohtamisen tietojärjestelmät](course) means
+- I want to know what [Vertaisohjaus tietojenkäsittelytieteissä (kevät)](course) actually means
+- What is the meaning of [Tekstiklinikka tutkielman kirjoittajille](course)
+- [Tekstiklinikka tutkielman kirjoittajille](course) meaning
+- True name of [Lukeminen ja kirjoittaminen oppimisen haasteena - (luennot)](course)
+- Real name of [Tutkimusasetelman menetelmällinen rakentuminen tohtoriopinnoissa - Dialogipajat](course)
+- Which course is [Fundamentals of Human-Technology Interaction (Tampere Summer School 2018)](course)
+- What [TECHS3(course) means
+- I want to know what [Eriytyvä syventävä tutkimusmenetelmäkurssi A: Design-tutkimus](course) stands for
+- I want to know the full name of course code [Syntaxe du français/ Ranskan syntaksi](course)
+- I want to know the whole name of [A seminar on theoretical social research: Schmitt, Arendt, and The Political](course)
+- I want to know the name of [Hydrogel Journal Club](course)
+- What is the name of [Representations and Identities](course)
+- [Liike- ja työsopimukset](course) name
+- [Venäjä II](course) name is
+- [Asiantuntijuus ja tietopalvelujen kehittäminen](course) name full
+- [Institutions, Innovation and Economic Renewal](course) complete name
+- [Internship or work placement](course) name actual
+- [Kasvatustieteen metodologiset lähtökohdat, kirjatentti, Pori](course) whole name
+- What is name [Makrotalousteorian jatkokurssi II](course)
+- The name of [Foundations of English Business Communication](course)
+- Name [Introduction to computational biology](course)
+- What is the full name of [NEDIS tohtorikoulutusseminaari (Lasten ja nuorten terveyden edistämisen tutkimus)](course)
+- What is [Työhyvinvointi](course) called
+- What is the course code [POISTA TÄMÄ! Solun biologian perusteet](course) called
+- What course is [Julkissektorin instituutioiden talous (monimuoto-opetus)](course)
+- [Opetus, ohjaus, oppiminen - Luennot (1 op) EDUn opiskelijoille TAI luennot (1 op) ja kirjatentti (4 op) opintojakson valinnaisena suorittaville](course) named
+- What's [Yhteiskunnan mittaaminen](course) named
+- Name of [Statistical Inference 1](course)
+- Tell me the name of [Introduction to Formal Specification](course)
+- Say the name of [The Employment Protection in Russia](course)
+- The whole name of [Orientaatiopäivä väitöskirjatutkijoille](course)
+- [Methods in Text and Discourse Analysis](course) full name
+- [Työn taloustiede](course) entire name
+- [Environmental History and Cultural Ecology of Russia (VENS20)](course) whole name
+- [Kandidaattiseminaari ja tutkielma (taloustiede) - syksy 2018](course) meaning
+- What does [Oppimisyhteisöt ja vuorovaikutus, kirjatentti, Seinäjoki](course) mean
+- What means [Asiantuntemus ja arjen ympäristöpolitiikka](course)
+- I want to know what [Kielen kehitys / Harjoitukset - 2.vsk + 1.vsk ryhmät 6 ja 7](course) means
+- I want to know what [Comparative Education - book exam](course) actually means
+- What is the meaning of [Ranska II](course)
+- [Vahinkoriskien vakuuttaminen](course) meaning
+- True name of [Tieteellinen kirjoittaminen](course)
+- Real name of [Comparative Research in Social Policy](course)
+- Which course is [Varhaiskasvatuksen pedagogiikka ja opetussuunnitelmatyö / Luennot - 2.vsk + 1.vsk ryhmät 6 ja 7](course)
+- What [TECHS3(course) means
+- I want to know what [Introduction to Academic English (online / JKK, EDU, LUO, COMS & SOC)](course) stands for
+- I want to know the full name of course code [Dialogue: Constructive Talk at Work](course)
+- I want to know the whole name of [Rahoitusoikeus](course)
+- I want to know the name of [Tutkimustyötä tukevat tohtoriopinnot (tietojenkäsittelyoppi)](course)
+- What is the name of [Kielen opettaminen / Fremdsprachenlehren](course)
+- [Quantitative Research Methods and Comparative Research Design (only COSOPO students)](course) name
+- [Saksa I](course) name is
+- [Oppimispelien käyttö ja evaluaatio](course) name full
+- [Valinnainen jakso: Tiedeviestinnän projekti](course) complete name
+- [Asiantuntijan puheviestintä ja vuorovaikutus (3. periodi)](course) name actual
+- [Tilastomenetelmien perusteet, iltaryhmä](course) whole name
+- What is name [Terveystieteiden laadulliset tutkimusmenetelmät, hoitotieteen opiskelijoille](course)
+- The name of [Sukupuolentutkimus](course)
+- Name [Terveystiedon asiantuntijuus (sähköinen tentti)](course)
+- What is the full name of [Tiedonhankintataidot - Tiedonhankintataidot IV - Viitteiden hallinta (hoitotieteen opiskelijoille)](course)
+- What is [Introduction to Academic English (JKK, EDU, LUO, COMS & SOC) online](course) called
+- What is the course code [Tulkkauksen teoria](course) called
+- What course is [Gene Expression](course)
+- [Sisäinen valvonta ja sisäinen tarkastus](course) named
+- What's [BMT-61227 Medical Biomaterials](course) named
+- Name of [Institutions, Innovation and Economic Renewal (NORDIG)](course)
+- Tell me the name of [Variety in Present-day English](course)
+- Say the name of [Liikunta - Liikuntapedagogiikka perusopetuksessa A - 2. vsk](course)
+- The whole name of [Conflicts over the Use of Natural Resources and the Environment](course)
+- [Todennäköisyyslaskenta](course) full name
+- [Orientation - General Orientation Course for International Students](course) entire name
+- [Perintö-, lahja- ja varainsiirtoverotus](course) whole name
+- [Orientaatiopäivä väitöskirjatutkijoille](course) meaning
+- What does [EU External Relations: Security, Economy and Values (book exam/essay)](course) mean
+- What means [Personal Study Planning](course)
+- I want to know what [Tekoälyn filosofia](course) means
+- I want to know what [Rekisteritutkimukset](course) actually means
+- What is the meaning of [Tieteellinen kirjoittaminen](course)
+- [Tietotekniikkataidot (syksy)](course) meaning
+- True name of [Nuorisotyön harjoittelu](course)
+- Real name of [Advanced English Business Communication](course)
+- Which course is [Kulutuksen ja ostokäyttäytymisen teoria](course)
+- What [TECHS3(course) means
+- I want to know what [Advanced Project Studies](course) stands for
+- I want to know the full name of course code [Filosofian työpaja](course)
+- I want to know the whole name of [Romanian kielen jatkokurssi I / Advanced Course 1 in Romanian](course)
+- I want to know the name of [Euroopan integraation teoria ja ulkosuhteet (kirjatentti/essee)](course)
+- What is the name of [Poliittiset ongelmat ja niiden muuttuvat kontekstit (kirjatentti)](course)
+- [Orientoivat ja asiantuntijuuden kehittymistä tukevat opinnot - HOPS-työskentely](course) name
+- [Introduction to Academic English (JKK, EDU, LUO, COMS & SOC)](course) name is
+- [Foundations of English Business Communication (RPL) / näyttökoe](course) name full
+- [Creative Writing in English](course) complete name
+- [Kommunikationstraining I](course) name actual
+- [Tutkimustyön perusteet - b) Tutkimusmenetelmät](course) whole name
+- What is name [Lasten ja nuorten neuropsykologien kuntoutus](course)
+- The name of [Kandidaatin tutkielma ja seminaari (kurssi alkanut keväällä 2018 Hoitotieteen opiskelijoille)](course)
+- Name [Talous - politiikka - kulttuuri -lukupiiri](course)
+- What is the full name of [Environmental History and Cultural Ecology of Russia (VENS20)](course)
+- What is [Musiikin tiedolliset valmiudet ja niiden soveltaminen - Musiikkitieto](course) called
+- What is the course code [Eriytyvä syventävä tutkimusmenetelmäkurssi A: Kyselyaineiston analysointi](course) called
+- What course is [Liiketoimintaosaamisen kokonaisdynamiikka ja sen ohjaaminen - VIBU-yritysstimulaatio](course)
+- [Johdatus kääntäjän suomen opintoihin](course) named
+- What's [Kansainvälinen talous](course) named
+- Name of [Tekstitaidot](course)
+- Tell me the name of [Practical Observation and Reflection of ECEC - Observation, written tasks, report](course)
+- Say the name of [International Business Law](course)
+- The whole name of [Tuutorivastaavana toimiminen](course)
+- [Feministiset politiikat ja asiantuntijuus](course) full name
+- [Liiketoimintaosaamisen kokonaisdynamiikka ja sen ohjaaminen - VIBU-yritysstimulaatio](course) entire name
+- [Foundations of Ecological Economics](course) whole name
+- [Basics I: Basics of Czech language I](course) meaning
+- What does [Orientoivat opinnot - Tiedonhankintataidot I (MTT)](course) mean
+- What means [Tragedy of the Commons? Problems and Solutions](course)
+- I want to know what [Ruotsin kielen kirjallinen ja suullinen viestintä](course) means
+- I want to know what [Varhaismoderni yhteiskunta](course) actually means
+- What is the meaning of [Terveystieteiden laadulliset tutkimusmenetelmät](course)
+- [Todennäköisyyslaskenta](course) meaning
+- True name of [Kvantitatiivinen tutkimus kasvatustieteissä - Harjoitukset, luokanop.](course)
+- Real name of [SGN-53007 Computational Diagnostics](course)
+- Which course is [Aikuiskasvatus ja työelämä, kirjatentti, Pori](course)
+- What [TECHS3(course) means
+- I want to know what [Yhtiöoikeus](course) stands for
+- I want to know the full name of course code [Opetus, ohjaus, oppiminen, verkko-opetus](course)
+- I want to know the whole name of [POISTA TÄMÄ! Solun biokemia ja  molekyylibiologia](course)
+- I want to know the name of [Systems biology methods](course)
+- What is the name of [Tutkimus ja teoria](course)
+- [Taloustieteen matematiikka I](course) name
+- [Johdatus tilastotieteeseen](course) name is
+- [Julkisen talousjohtamisen klassikkoteokset (kirjallinen tentti)](course) name full
+- [Ekoterveys, luonto ja ihminen](course) complete name
+- [Maisteriopintojen esittely -  SDE](course) name actual
+- [Tila, teknologia ja toiminta: Lukuseminaari: Julkinen toiminta teknoyhteiskunnassa](course) whole name
+- What is name [Radio Project](course)
+- The name of [Liiketoimintaosaamisen kokonaisdynamiikka ja sen ohjaaminen - VIBU-yritysstimulaatio](course)
+- Name [Foundations of English Business Communication](course)
+- What is the full name of [Sukukieli: norska](course)
+- What is [Käytännön opetus ja ohjaus - STYA3B1 Taitoseminaari](course) called
+- What is the course code [Poliittiset aatteet ja ideologiat (kirjatentti)](course) called
+- What course is [Kokemuksen historia: tavoitteet ja menetelmät](course)
+- [Introduction to Academic English (JKK, EDU, LUO, COMS & SOC) online](course) named
+- What's [Musiikin perusteet / Harjoitukset - 1.vsk](course) named
+- Name of [Toimintatutkimus hyvinvointipalvelujen kehittämisessä](course)
+- Tell me the name of [Internationalisation in Education - (Tampere Summer School 2018)](course)
+- Say the name of [Kasvatuksen ja koulutuksen järjestelmät](course)
+- The whole name of [Lokalisoinnin peruskurssi](course)
+- [Games and Internet in Society](course) full name
+- [Postcolonial Literature](course) entire name
+- [Johdatus yrittäjyyteen](course) whole name
+- [KV-tuutorina toimiminen](course) meaning
+- What does [Kandidaattiseminaari ja tutkielma (markkinointi) - kevät 2019](course) mean
+- What means [Ruotsin kielen kirjallinen ja suullinen viestintä / AHOT (näyttökoe)](course)
+- I want to know what [Ranskan yhteiskunta II/Société française II](course) means
+- I want to know what [Perhe ja tunteet](course) actually means
+- What is the meaning of [OASIS Key Master 2018-2019](course)
+- [Moniulotteinen markkinointi](course) meaning
+- True name of [Practical Programming in Python](course)
+- Real name of [Human-Centered Product Development (TUT/IHTE)](course)
+- Which course is [Perehdyttäminen tietotekniikan alkeisiin (kevät)](course)
+- What [TECHS3(course) means
+- I want to know what [Kvantitatiivinen tutkimus kasvatustieteissä - Harjoitukset, yhteinen avoimen ja tutkinto-op. ryhmä](course) stands for
+- I want to know the full name of course code [Vakuutustoiminnan periaatteet ja johtaminen](course)
+- I want to know the whole name of [Cancer Biology](course)
+- I want to know the name of [Tutkielmaseminaari - Seminaari](course)
+- What is the name of [Eheyttävä musiikkikasvatus / Harjoitukset - 2.vsk](course)
+- [Current and Future Challenges of World Politics and Economy (POMLFCS3)](course) name
+- [Lapset kehittyvinä ja sosiaalisina toimijoina varhaiskasvatuksessa / Luennot - 1.vsk](course) name is
+- [Talous ja yhteiskunta](course) name full
+- [User Experience in Robotics (TUT/IHTE)](course) complete name
+- [Tila, teknologia ja toiminta](course) name actual
+- [Kansainvälisen politiikan johdantokurssi (tutkinto-ohjelman opiskelijat)](course) whole name
+- What is name [Representations and Identities - kirjatentti/essee](course)
+- The name of [Tiedonhankintataidot - Tiedonhankintataidot IV - Viitteiden hallinta (hoitotieteen opiskelijoille)](course)
+- Name [Tekninen kirjoittaminen (suomi)](course)
+- What is the full name of [Markkina- ja immateriaalioikeus](course)
+- What is [Leikki kulttuurisena, kehityksellisenä ja pedagogisena ilmiönä / Luennot - 1.vsk](course) called
+- What is the course code [Kielen kehitys](course) called
+- What course is [Nordic Model: Nordic Welfare Societies](course)
+- [Perusharjoittelu B - Ohjattu opetusharjoittelu](course) named
+- What's [Orientation - Orientation to studying in the Software Development programme](course) named
+- Name of [Master's Thesis Seminar / Internet and Game Studies](course)
+- Tell me the name of [Paikallisen hallinnan teoriat - Lukupiiri](course)
+- Say the name of [Rakenteinen dokumentaatio ja DITA](course)
+- The whole name of [Pratiques de l'écrit: méthodes et techniques d'expression écrite/Kirjoitusharjoituksia: kirjallisen esityksen metodit ja tekniikka](course)
+- [Macroprudential Policy and Financial Stability](course) full name
+- [Opetus, ohjaus, oppiminen - Luokanopettajaopiskelijat: Pienryhmäopetus ja siihen liittyvä harjoittelu (2 op) ja kirjallisuus (2 op)](course) entire name
+- [Tutkielmaseminaari - Seminaari](course) whole name
+- [Studia generalia: Lastenkirja kääntäjän kädessä](course) meaning
+- What does [Literary Theory and Methodology](course) mean
+- What means [Filosofian työpaja](course)
+- I want to know what [Visuaalisen journalismin perusteet, luennot](course) means
+- I want to know what [Tieteellinen kirjoittaminen](course) actually means
+- What is the meaning of [Agenda-Setting in Public Policy (POMLFCS1)](course)
+- [BMT-61227 Medical Biomaterials](course) meaning
+- True name of [Biologia ja ympäristötieto - Biologian kenttäkurssi - 2. vsk (1-2. ryhmät Hyytiälä)](course)
+- Real name of [Cultural Diversity in Education and at Work -  (autumn)](course)
+- Which course is [Current and Future Challenges of World Politics and Economy (POMLFCS3)](course)
+- What [TECHS3(course) means
+- I want to know what [Kasvatus tieteellisen tutkimuksen kohteena - verkko-opetus, I-periodi](course) stands for
+- I want to know the full name of course code [Erot, jaot ja niiden rakentuminen, kirjatentti, Seinäjoki](course)
+- I want to know the whole name of [Budgeting and capital budgeting (online course)](course)
+- I want to know the name of [Talouselämän käännösviestinnän seminaari venäjä-suomi](course)
+- What is the name of [Kielen opettaminen / Fremdsprachenlehren](course)
+- [Työeläkejärjestelmät](course) name
+- [Management and organizations I (literature)](course) name is
+- [Tietokäytännöt (keväällä 2018 perusopinnot aloittaneille) - verkkokurssi](course) name full
+- [Sosiaalisen median yhteisöt: menetelmällisiä ratkaisuja määrällisestä laadulliseen](course) complete name
+- [Asiantuntijan puheviestintä ja vuorovaikutus sosiaali- ja terveysalalla (1. periodi)](course) name actual
+- [Yksilön työhyvinvointi](course) whole name
+- What is name [Asiakirjatiedon normivaatimukset](course)
+- The name of [Writing for Research](course)
+- Name [Kehitys, kasvatus ja elämänkulku - Pienryhmät 1 op ja kirjallisuus 2 op (EDUn tutkinto-opiskelijat, aineenop.opiskelijat, avoin yo/lähiopetus)](course)
+- What is the full name of [Orientoivat ja asiantuntijuuden kehittymistä tukevat opinnot - HOPS-työskentely](course)
+- What is [Studia generalia: Lastenkirja kääntäjän kädessä](course) called
+- What is the course code [Pedagoginen kehittäminen ja johtajuus / Harjoitukset - 3.vsk + 2.vsk ryhmä 4](course) called
+- What course is [SGN-53007 Computational Diagnostics](course)
+- [Writing Research Grant Proposals](course) named
+- What's [Ruotsin kielen kirjallinen ja suullinen viestintä](course) named
+- Name of [Ranska II](course)
+- Tell me the name of [Kansainvälisen oikeuden peruskurssi](course)
+- Say the name of [Suullinen viestintä I/Muntlig kommunikation I](course)
+- The whole name of [Nuorisotyön ja nuorisotutkimuksen maisteriohjelman lähijakso 10.-11.1.2019](course)
+- [Tendances de la littérature française moderne/Ranskalaisen nykykirjallisuuden suuntauksia](course) full name
+- [Tutkimusseminaari ja pro gradu -tutkielma - Tutkimusseminaari](course) entire name
+- [Master´s Thesis and Seminar - for the group that started in 2018](course) whole name
+- [Tiedonhankintataidot - Tiedonhankintataidot III -  Systemaattinen tiedonhankinta (hoitotieteen opiskelijoille)](course) meaning
+- What does [Fonetiikan perusopintojen harjoitustyö](course) mean
+- What means [Orientation and Study Planning](course)
+- I want to know what [Musiikin tiedolliset valmiudet ja niiden soveltaminen - Kuuntelukasvatus](course) means
+- I want to know what [Advanced Microscopy](course) actually means
+- What is the meaning of [Political Systems (book exam/essay)](course)
+- [Teaching, Pedagogical Facilitating, Learning](course) meaning
+- True name of [Introduction to Bayesian Analysis 2](course)
+- Real name of [Yritysjuridiikan case-kurssi](course)
+- Which course is [Valinnainen jakso: Audiovisuaalisen kerronnan teoria ja dramaturgia](course)
+- What [TECHS3(course) means
+- I want to know what [Finnish Elementary Course 2 (taught in 4. period)](course) stands for
+- I want to know the full name of course code [Antiikin ja keskiajan ryhmä](course)
+- I want to know the whole name of [Kauppatieteellisen tutkimuksen menetelmät (vakuutus ja riskienhallinta + laskentatoimi)](course)
+- I want to know the name of [Requirements Engineering](course)
+- What is the name of [Regression analysis](course)
+- [Näkökulmia kääntämiseen - Johdatus käännösprosessiin](course) name
+- [Johtamisen ja organisaatioiden perusteet](course) name is
+- [Näkökulmia kääntämiseen - Tekstin ymmärtäminen](course) name full
+- [Studia generalia: Lastenkirja kääntäjän kädessä](course) complete name
+- [Tiedonhaun perusteet](course) name actual
+- [Ethnographic Research](course) whole name
+- What is name [Ylirajallinen liikkuminen Itämerellä: Suomenlahden alueet kautta aikojen -verkkokurssi](course)
+- The name of [Journalismin tulevaisuus, luennot](course)
+- Name [Musiikin perusteet / Harjoitukset - 1.vsk](course)
+- What is the full name of [Näkökulmia kääntämiseen - Kääntäminen viestinnällisenä asiantuntijatehtävänä / Perspektiven auf Übersetzen](course)
+- What is [Maisteriopintojen opintosuuntiin johdattava kirjallisuus](course) called
+- What is the course code [Kandidaattiseminaari](course) called
+- What course is [Finnish Survival Course (Tampere Summer School 2018)](course)
+- [Tilastotieteen perusteet](course) named
+- What's [Valinnainen jakso: Tiedeviestinnän käytänteet](course) named
+- Name of [Kulutuksen ja ostokäyttäytymisen teoria](course)
+- Tell me the name of [Sosiaalityö terveydenhuollossa](course)
+- Say the name of [Hydrogel Journal Club](course)
+- The whole name of [Liikekirjanpito ja tilinpäätös](course)
+- [Kandidaattiseminaari](course) full name
+- [Espanja III](course) entire name
+- [Diskutera som specialist](course) whole name
+- [Finlaysonin kielimaailmat](course) meaning
+- What does [Kognitiivinen neurotiede I (avoin yliopisto)](course) mean
+- What means [Psykologian tutkimusmenetelmät II: kokeellinen ja korrelatiivinen tutkimus](course)
+- I want to know what [Maisteriopintojen esittely - HTI (in Finnish)](course) means
+- I want to know what [Valtiosääntöoikeuden syventävä jakso](course) actually means
+- What is the meaning of [Rakenneyhtälömallinnus kasvatustieteellisessä tutkimuksessa](course)
+- [Johdatus historiantutkimukseen (verkkokurssi)](course) meaning
+- True name of [KEB-61410 Laaja kemia 1](course)
+- Real name of [Kaupungistuva maailma: Kaupungit ja kaupunkilaisuus 1800-luvulta nykypäivään](course)
+- Which course is [Verkkojulkaiseminen](course)
+- What [TECHS3(course) means
+- I want to know what [Kuvataide - 2. vsk ja opinnot 1½ lukuvuodessa suorittavat  1.vsk ja POM-opintoihin opinto-oikeuden saaneet opiskelijat](course) stands for
+- I want to know the full name of course code [Politiikan tutkimuksen kandidaatintutkielma ja -seminaari](course)
+- I want to know the whole name of [Terveystiedon perusteet](course)
+- I want to know the name of [Julkisen talousjohtamisen näkökulmia](course)
+- What is the name of [Etnografinen tutkimusprosessi](course)
+- [Aluetalous ja kaupunkitalous](course) name
+- [Conflict Resolution (book exam/essay)](course) name is
+- [Transcultural perspectives in developing media education](course) name full
+- [Matemaattiset aineet - Koulugeometria - 2 vsk](course) complete name
+- [Understanding and Managing a Business as a Dynamic Whole - VIBU Business Simulation Game](course) name actual
+- [Ainedidaktiikka I](course) whole name
+- What is name [Orientoivat opinnot ja HOPS (kirjallisuustiede)](course)
+- The name of [Tekstianalyysi - Luennot](course)
+- Name [Antiikin ja keskiajan ryhmä](course)
+- What is the full name of [Theatre, Society, and Politics 1660-1760](course)
+- What is [EU Financial Management](course) called
+- What is the course code [PhD by publication: writing integrative chapter](course) called
+- What course is [Conflicts over the Use of Natural Resources and the Environment](course)
+- [Geometria](course) named
+- What's [Suunnittelu ja kehittäminen hoitotyön johtamisessa](course) named
+- Name of [Sosiaalioikeus I](course)
+- Tell me the name of [Graduvauhditus](course)
+- Say the name of [Medioitu vuorovaikutus](course)
+- The whole name of [Tutkimusseminaari ja pro gradu -tutkielma](course)
+- [Vakuutustoiminnan periaatteet ja johtaminen](course) full name
+- [Tissue biology](course) entire name
+- [Espanja I](course) whole name
+- [Kansallisen ja Euroopan tason vuorovaikutus (kirjatentti/essee)](course) meaning
+- What does [Ranska IV](course) mean
+- What means [Business Ethics (Independent study)](course)
+- I want to know what [Introduction to R (Tampere Summer School 2018)](course) means
+- I want to know what [Monikulttuurinen kirjallisuus Suomessa](course) actually means
+- What is the meaning of [Valtio-opin johdantokurssi (kirjatentti)](course)
+- [Vero-oikeuden perusteet](course) meaning
+- True name of [Shakespeare: Past and Present](course)
+- Real name of [Sosiaalityön vuorovaikutuksen tutkimus - Sosnet-verkkokurssi](course)
+- Which course is [Kasvatuksen historialliset ja filosofiset lähtökohdat - Luennot ja kirjallisuus](course)
+- What [TECHS3(course) means
+- I want to know what [Puhe- ja nielemistoimintojen tutkimus ja kuntoutus](course) stands for
+- I want to know the full name of course code [Pedagoginen harjoittelu/Elinikäinen oppiminen ja kasvatus, aikuiskoulutuksen opettajan pedagogiset opinnot - Pedagoginen seminaari ja harjoittelu](course)
+- I want to know the whole name of [Finnish Elementary Course 1 (taught in 1. & 2. period)](course)
+- I want to know the name of [Fonetiikan ja yleisen kielitieteen perusteet - Fonetiikka](course)
+- What is the name of [Käännösviestintä I - Käännösviestintä I englanti-suomi](course)
+- [Tutkimusseminaari ja pro gradu -tutkielma](course) name
+- [Matematiikan peruskäsitteitä](course) name is
+- [Tilintarkastus I](course) name full
+- [Sosiaalitieteiden kvalitatiiviset tutkimusmenetelmät (verkkokurssi)](course) complete name
+- [Tieteellinen kirjoittaminen / COMS (kirjallisuuden opiskelijoille)](course) name actual
+- [Mediatutkimuksen valinn. jakso: Ääni, teknologia ja kulttuuri](course) whole name
+- What is name [Kielitieto ja -taito - Käännös-, rakenne- ja sanastoharjoitukset II  Sprachwissen und Sprachfertigkeiten: Kontrastive Text- und Wortschatzübungen](course)
+- The name of [Oppimisyhteisöt ja vuorovaikutus, kirjatentti, Pori](course)
+- Name [Management Accounting and Human Behaviour](course)
+- What is the full name of [Tutkiva opiskelu](course)
+- What is [Rekisteritutkimukset](course) called
+- What is the course code [Konfliktinratkaisu (kirjatentti/essee)](course) called
+- What course is [Oppimisyhteisöt ja vuorovaikutus - Luennot ja seminaari (klk) TAI luennot ja kirjallisuus (klk) TAI kirjallisuus (slk ja klk)](course)
+- [Graduseminaari, jatkava (Niemi)](course) named
+- What's [Business Writing](course) named
+- Name of [Kuntien ja alueiden kansainväliset hallintasuhteet](course)
+- Tell me the name of [Johdatus kielitieteeseen / Initiation à la linguistique](course)
+- Say the name of [Kansainvälisen politiikan teoria ja metateoria (kirjatentti)](course)
+- The whole name of [Strategic Management Accounting and Control](course)
+- [Liiketoimintaosaamisen kokonaisdynamiikka ja sen ohjaaminen - VIBU-yritysstimulaatio](course) full name
+- [Median ja politiikan välinen suhde](course) entire name
+- [Matemaattiset aineet - Fysiikka ja kemia - 2. vsk](course) whole name
+- [Riskienhallinta- ja vakuutuscaset](course) meaning
+- What does [Liikekirjanpito ja tilinpäätös (avoin yliopisto-opetus)](course) mean
+- What means [Development, Education and Lifecourse](course)
+- I want to know what [Genetics and Pathogenesis of Common Killers](course) means
+- I want to know what [Venäjän kielen rakenne - Tekstin ymmärtäminen II](course) actually means
+- What is the meaning of [Emotions and Sociality in Human-Technology Interaction](course)
+- [Lesen, Verstehen, Schreiben](course) meaning
+- True name of [Työelämävalmiudet ja asiantuntijuus - valmennusseminaari ja palautekeskustelu](course)
+- Real name of [Tutkimusetiikka](course)
+- Which course is [Advanced Course in Microeconomics I](course)
+- What [TECHS3(course) means
+- I want to know what [Biostatistiikka ja tilastollinen tietojenkäsittely](course) stands for
+- I want to know the full name of course code [Seminaari I, kandidaatintutkielma ja kypsyysnäyte / Bachelor-Seminar, Bachelorarbeit und Klausur zum Thema der Arbeit](course)
+- I want to know the whole name of [Kandidaattitutkielma ja seminaari (matematiikka) - LaTeX-opinnot](course)
+- I want to know the name of [Games and Internet in Society](course)
+- What is the name of [Tekoäly ja vakuutustoiminta](course)
+- [Kvalitatiiviset menetelmät](course) name
+- [Nuorisotyön ja nuorisotutkimuksen maisteriohjelman lähijakso 3.-4.10.2018](course) name is
+- [Verkkopalvelujen informaatioarkkitehtuuri](course) name full
+- [Valinnainen jakso: Valokuva historian tekijänä - luennot](course) complete name
+- [Proseminaari](course) name actual
+- [Political Ideologies (book exam)](course) whole name
+- What is name [Orientoivat opinnot - Alkuorientaatio](course)
+- The name of [Bioinformatics tools (autumn 2018)](course)
+- Name [Sukupuolen ja ruumiillisuuden tutkimuksen nykykeskustelut](course)
+- What is the full name of [Lehti- ja verkkojournalismi](course)
+- What is [Äidinkieli ja kirjallisuus - Lasten- ja nuortenkirjallisuus  -1. vsk ensijaisesi opinnot 1½ lukuvuodessa suorittavat 1.vsk lo-opiskelijat ja kaikkki erillisen opinto-oikeuden POM-opintoihin saaneet opiskelijat](course) called
+- What is the course code [Viron peruskurssi](course) called
+- What course is [Vakuutuslaitosten sijoitustoiminta](course)
+- [Terveys, tieto, asiantuntijuus](course) named
+- What's [Medical English - Introduction to Scientific Writing (RPL) / näyttökoe](course) named
+- Name of [Vakuutuksen ja riskienhallinnan erikoistumisosa](course)
+- Tell me the name of [Kandidaattitutkielma ja seminaari (tilastotiede)](course)
+- Say the name of [Viron jatkokurssi](course)
+- The whole name of [Ulko- ja turvallisuuspoliittinen päätöksentekoharjoitus](course)
+- [Kirjallinen viestintä II/Skriftlig kommunikation II](course) full name
+- [Sote ja sosiaalipolitiikka](course) entire name
+- [Organisaatiokäyttäytyminen (itsenäinen suoritustapa, syksy 2018)](course) whole name
+- [Kasvatuksen historialliset ja filosofiset lähtökohdat, verkko-opetus](course) meaning
+- What does [Environmental History and Cultural Ecology of Russia (VENS20)](course) mean
+- What means [ATLAS.ti laadullisen analyysin tukena](course)
+- I want to know what [Espanjan kielioppi II/Gramática española II](course) means
+- I want to know what [Kuntien ja alueiden kansainväliset hallintasuhteet](course) actually means
+- What is the meaning of [Lasten oikeuspsykologia](course)
+- [Terveydenhuollon koulutuspolitiikka](course) meaning
+- True name of [Media maailmassa - verkkokurssi](course)
+- Real name of [Henkilöstöjohtaminen](course)
+- Which course is [Latinan jatkokurssi](course)
+- What [TECHS3(course) means
+- I want to know what [Kuvanprosessointi / Digital Image Processing](course) stands for
+- I want to know the full name of course code [Käännösten suomi](course)
+- I want to know the whole name of [Valinnainen jakso: Valokuva historian tekijänä - työpaja](course)
+- I want to know the name of [Terveyden edistämisen perusteet](course)
+- What is the name of [Taloustiede, talouspolitiikka ja ajankohtaiset taloudelliset ja yhteiskunnalliset ongelmat](course)
+- [Cultural Conversations](course) name
+- [Laaja-alaistava harjoittelu - Ohjattu opetusharjoittelu](course) name is
+- [Kandidaattiseminaari (Nenonen)](course) name full
+- [Pedagoginen johtaminen - Luennot ja ryhmätyöskentely](course) complete name
+- [Business, Society and Nature (Independent study) Autumn 2018](course) name actual
+- [Liikuntapedagogiikka varhaiskasvatuksessa / Harjoitukset - 2.vsk](course) whole name
+- What is name [Latinan kielen alkeiskurssi](course)
+- The name of [Distributed Systems](course)
+- Name [Management Accounting and Human Behaviour](course)
+- What is the full name of [Urban Inequalities](course)
+- What is [Julkistalouden jatkokurssi](course) called
+- What is the course code [Opetus, ohjaus, oppiminen (toteutus aineenopettajan pedagogisia opintoja lukuvuonna 2018-2019 suorittaville)](course) called
+- What course is [Harjoittelu / Elinikäinen oppiminen ja kasvatus, Essee työkokemuksen pohjalta, klk19](course)
+- [Kielen kehitys](course) named
+- What's [The Theory and Method of International Relations (seminar) (book exam)](course) named
+- Name of [Perusharjoittelu A - Ohjattu opetusharjoittelu](course)
+- Tell me the name of [Tulevaisuuden hyvinvointipalvelut: ratkaisuna robotiikka?](course)
+- Say the name of [Kasvatus, koulutus ja yhteiskunta, verkko-opetus](course)
+- The whole name of [Kansainvälisen politiikan teoria ja metateoria (kirjatentti)](course)
+- [Valtio-opin maisteriseminaari](course) full name
+- [Matematiikkakasvatus / Harjoitukset - 2.vsk + 1.vsk ryhmät 6 ja 7](course) entire name
+- [History, Culture and Literature: Culture and Literature](course) whole name
+- [Eheyttävä musiikkikasvatus - Musiikkiteknologia](course) meaning
+- What does [Kvalitatiivinen tutkimus kasvatustieteissä - Harjoitukset, yleinen ryhmä](course) mean
+- What means [Tekstianalyysi - Harjoitukset](course)
+- I want to know what [Valinnainen jakso: Työpaja: Tulevaisuuden kaupunki](course) means
+- I want to know what [Työyhteisöjen muutos ja kehittäminen](course) actually means
+- What is the meaning of [Poliittinen filosofia (kirjatentti/essee)](course)
+- [Developing and implementing European Public Sector Accounting modules](course) meaning
+- True name of [Työelämäviestinnän tutkimus- tai kehityshanke](course)
+- Real name of [Kielioppi II (suomenkieliset opiskelijat)](course)
+- Which course is [Monikieliset tekstikorpukset (verkkokurssi)](course)
+- What [TECHS3(course) means
+- I want to know what [Pro gradu -seminaari ja -tutkielma](course) stands for
+- I want to know the full name of course code [Laajentava harjoittelu](course)
+- I want to know the whole name of [Oikeus ja politiikka](course)
+- I want to know the name of [Managing Research Information](course)
+- What is the name of [Orientation - General Orientation Course for International Students](course)
+- [Lasten arki suomalaisessa yhteiskunnassa / Harjoitukset - 1.vsk](course) name
+- [Oppimisyhteisöt ja vuorovaikutus, kirjatentti](course) name is
+- [Asiakirjatiedon normivaatimukset](course) name full
+- [Human-Technology Interaction Project Work](course) complete name
+- [Sosiaaliantropologian teoreettinen ajattelu](course) name actual
+- [Tiedon organisointi ja informaatioarkkitehtuuri](course) whole name
+- What is name [Introduction to Cultural Psychology](course)
+- The name of [Jatkokoulutusseminaari](course)
+- Name [Journalism Start-Ups and Enterpreneurialism](course)
+- What is the full name of [Tutkimustyötä tukevat tohtoriopinnot - Doctoral Studies in Information Studies and Interactive Media](course)
+- What is [Saksankielinen nykykirjallisuus / Deutschsprachige Gegenwartsliteratur](course) called
+- What is the course code [Kuvataidekasvatus / Luennot - 2.vsk](course) called
+- What course is [Nuorisotyön toimintaympäristöt, työmuodot ja menetelmät](course)
+- [Puolueet ja vaalit (kirjatentti/essee)](course) named
+- What's [Knowledge Discovery](course) named
+- Name of [Yrityksen taloustieteellisen tutkimuksen perusteet](course)
+- Tell me the name of [Parametric and Non-Parametric Statistics](course)
+- Say the name of [Erot, jaot ja niiden rakentuminen, kirjatentti, Seinäjoki](course)
+- The whole name of [Innovation Project (Spring term 2018-III)](course)
+- [Tilastollisen tutkimuksen perusteet](course) full name
+- [Draama - 2 vsk opinnot ja  1½ lukuvuodessa suorittavat 1.vsk ja POM-opintoihin opinto-oikeuden saaneet opiskelijat (pienryhmäopetus)](course) entire name
+- [Vuorovaikutus ja tekstit S2-näkökulmasta](course) whole name
+- [Äänne- ja muoto-oppi](course) meaning
+- What does [Sosiaalityön harjoittelu + kehittämistyön harjoittelu - STYS2B2 Harjoitteluseminaari](course) mean
+- What means [Finnish Reading Comprehension and Conversation Course 2 (taught in Finnish)](course)
+- I want to know what [Johdatus yrittäjyyteen](course) means
+- I want to know what [Työelämävalmiudet ja asiantuntijuus - valmennusseminaari ja palautekeskustelu](course) actually means
+- What is the meaning of [Vero-oikeuden case-kurssi](course)
+- [Asiantuntijan puheviestintä ja vuorovaikutus opetus- ja kasvatustyössä (3. periodi)](course) meaning
+- True name of [Julkisen hallinnon reformit ja muutos](course)
+- Real name of [Introduction to Education in Finland - Lectures, observation, essay and learning diary](course)
+- Which course is [Orientation Course - General Orientation Course for International Students](course)
+- What [TECHS3(course) means
+- I want to know what [Kansainvälinen yhteisö (kirjatentti/essee)](course) stands for
+- I want to know the full name of course code [Kirjallinen viestintä II/Skriftlig kommunikation II](course)
+- I want to know the whole name of [Seminaari (Seppänen)](course)
+- I want to know the name of [Kuluttajakäyttäytyminen](course)
+- What is the name of [Kirjoitusviestintä / COMS](course)
+- [Kirjallisuus ja tunteet](course) name
+- [Nuorisotyön ja nuorisotutkimuksen maisteriohjelman lähijakso 4.-5.10.2018](course) name is
+- [Feministinen tietäminen](course) name full
+- [Johtamisen ja julkisen politiikan tutkimus ja ajankohtaiset kysymykset](course) complete name
+- [Kvalitatiivinen tutkimus kasvatustieteissä - Harjoitukset, yleinen ryhmä](course) name actual
+- [Oman äänen analyysi ja harjoittaminen](course) whole name
+- What is name [Historiateoria](course)
+- The name of [Median ja politiikan välinen suhde](course)
+- Name [Valinnainen jakso: Podcastit ja äänimedian ajankohtaisjournalismi](course)
+- What is the full name of [Opintopiiri](course)
+- What is [Qualitative Research Methods and Comparative Research Design](course) called
+- What is the course code [Asiakastyön teorioita ja menetelmiä - STYA3A2 Asiakastyön menetelmät, luennot](course) called
+- What course is [Julkisoikeuden syventävä tutkimusjakso](course)
+- [Tiivistämisen taito](course) named
+- What's [Intercultural Communication](course) named
+- Name of [Practical Observation of Finnish School System for Incoming Exchange Students - Observation, written tasks, report](course)
+- Tell me the name of [Monikielinen käännöstyöpaja](course)
+- Say the name of [Tekniikan käännösviestinnän seminaari englanti-suomi](course)
+- The whole name of [Johdatus yrittäjyyteen](course)
+- [Sosiaalityön harjoittelu](course) full name
+- [Kaupungistuva maailma: Kaupungit ja kaupunkilaisuus 1800-luvulta nykypäivään](course) entire name
+- [Tieteenfilosofiaa kasvatustieteen näkökulmasta](course) whole name
+- [Kvalitatiivinen tutkimus kasvatustieteissä - Harjoitukset, yleinen ja varhaiskasv. opiskelijoiden ryhmiä](course) meaning
+- What does [Institutions, Innovation and Economic Renewal](course) mean
+- What means [Varhaiskasvatuksen ja esiopetuksen pedagogiikka - Työssäoppiminen 1.vsk:n monimuotoryhmien opiskelijoille](course)
+- I want to know what [Current Issues in Speech Communication (Puheviestintä tieteenä jatkuu)](course) means
+- I want to know what [Oppimisyhteisöt ja vuorovaikutus - Luennot ja seminaari (klk) TAI luennot ja kirjallisuus (klk) TAI kirjallisuus (slk ja klk)](course) actually means
+- What is the meaning of [Vähittäiskaupan konseptit](course)
+- [Ranskan yhteiskunta I / Société française I](course) meaning
+- True name of [Aineopintojen valinnainen jakso: Organisaatioviestintä](course)
+- Real name of [Klassinen länsimainen kertomakirjallisuus](course)
+- Which course is [Puheviestinnän tutkimuskurssi](course)
+- What [TECHS3(course) means
+- I want to know what [Tutkimustyön perusteet - c) Tutkimusmenetelmien erityiskysymyksiä](course) stands for
+- I want to know the full name of course code [Työoikeuden syventävä opintojakso](course)
+- I want to know the whole name of [Introduction to Academic English (JKK, EDU, LUO, COMS & SOC)](course)
+- I want to know the name of [Laaja-alaistava harjoittelu - Ohjattu opetusharjoittelu](course)
+- What is the name of [Introduction to Political Science (book exam)](course)
+- [Tietokantojen perusteet](course) name
+- [Vähittäiskaupan konseptit](course) name is
+- [Johdatus hoitotieteelliseen tutkimukseen, kirjatentti](course) name full
+- [Writing for Research](course) complete name
+- [Game Theory/Advanced Course in Microeconomics](course) name actual
+- [Kiina III](course) whole name
+- What is name [Sosiaalitieteiden kvantitatiiviset menetelmät - Luennot ja harjoitukset](course)
+- The name of [Kandidaattiseminaari ja -tutkielma (julkinen talousjohtaminen), syksy](course)
+- Name [Preparatory Course in Communicative Skills](course)
+- What is the full name of [Kandidaatintutkielmaseminaari - Seminaari](course)
+- What is [Johdatus www-tekniikoihin](course) called
+- What is the course code [Makrotalousteoria I](course) called
+- What course is [Eheyttävä temaattinen loppuprojekti - projekti/käytännön työ ja portfolio](course)
+- [Management Accounting and Human Behaviour](course) named
+- What's [Personal Study Planning](course) named
+- Name of [Eriytyvä syventävä tutkimusmenetelmäkurssi A: Kehittävän työntutkimuksen menetelmät](course)
+- Tell me the name of [Tietokäytännöt (keväällä 2018 perusopinnot aloittaneille) - verkkokurssi](course)
+- Say the name of [Romanian kielen jatkokurssi II / Advanced Course II in Romanian](course)
+- The whole name of [Writing Research Grant Proposals](course)
+- [Suomen turvallisuuspolitiikan historia ja tulevaisuus -luentosarja](course) full name
+- [Advanced Course in Corporate Finance](course) entire name
+- [Tietokantaohjelmointi](course) whole name
+- [Liikekirjanpito ja tilinpäätös (avoin yliopisto-opetus)](course) meaning
+- What does [Graduseminaari / Henttonen](course) mean
+- What means [Tutkiva opiskelu](course)
+- I want to know what [Lainvalmistelu ja vaikutusten arviointi](course) means
+- I want to know what [Ranska III](course) actually means
+- What is the meaning of [Inclusiveness in Local Innovation Environments](course)
+- [Foundations of Ecological Economics](course) meaning
+- True name of [Finnish Survival Course](course)
+- Real name of [Systemaattinen tiedonhaku hoitotieteessä](course)
+- Which course is [Vuorovaikutussuhteiden konsultointi](course)
+- What [TECHS3(course) means
+- I want to know what [Yrityksen johtamisen perusteet](course) stands for
+- I want to know the full name of course code [Seminaari (Seppänen)](course)
+- I want to know the whole name of [Harjoittelu / Varhaiskasvatus](course)
+- I want to know the name of [Master's Seminar and Thesis](course)
+- What is the name of [Graduseminaari, alkava (Kaarninen)](course)
+- [The Transformation of Global Environmental Politics (Tampere Summer School 2018)](course) name
+- [Behavioral Finance](course) name is
+- [Klinikkaharjoittelu](course) name full
+- [Informaatio- ja mediajärjestelmien historiaa ja nykypäivää](course) complete name
+- [Saksan kielen valmentava kurssi - Interkulturelles Training](course) name actual
+- [Täydennysilmoittautuminen pro gradu -seminaariin, syksyllä 2018 alkavat ryhmät](course) whole name
+- What is name [Politiikan tutkimuksen kandidaatintutkielma ja -seminaari](course)
+- The name of [Special Issues in Games and Internet Cultures](course)
+- Name [Orientaatio maisteriopintoihin](course)
+- What is the full name of [Fonetiikan ja yleisen kielitieteen perusteet - Fonetiikka](course)
+- What is [Lastenkirjallisuus ja draama / Harjoitukset - 3.vsk + 1.vsk ryhmät 6 ja 7](course) called
+- What is the course code [Kvantitatiivinen tutkimus kasvatustieteissä - Harjoitukset, luokanop. opiskelijat](course) called
+- What course is [Visuaalisen kulttuurin teoria - luennot ja pienryhmätyöskentely](course)
+- [Terveystieteiden laadulliset tutkimusmenetelmät, kansanterveystieteen opiskelijoille](course) named
+- What's [Recommender Systems](course) named
+- Name of [Työ- ja virkamiesoikeus](course)
+- Tell me the name of [Suullinen ja kirjallinen taito - Ääntämisharjoitukset ja tekstinymmärtäminen/Expresión oral y escrita - Pronunciación y Comprensión de textos](course)
+- Say the name of [Fonetiikan ja yleisen kielitieteen perusteet - Fonetiikka](course)
+- The whole name of [Puheen ja äänen tutkimusharjoittelu - Projekti / käytännön työ](course)
+- [Julkisoikeuden perusteet (järjestäjä TAMK)](course) full name
+- [Eettinen johtajuus](course) entire name
+- [Kasvatuksen historialliset ja filosofiset lähtökohdat, monimuoto-opetus](course) whole name
+- [Conflicts over the Use of Natural Resources and the Environment](course) meaning
+- What does [Tilastotieteen johdantokurssi, iltaryhmä](course) mean
+- What means [Tekstin ymmärtäminen III](course)
+- I want to know what [Uuden ajan alun murroksia](course) means
+- I want to know what [Kielen- ja tekstinhuolto](course) actually means
+- What is the meaning of [Yhtiöoikeus](course)
+- [Gradu-kvantimetodit](course) meaning
+- True name of [Kokeellinen, kokeileva ja kokemuksellinen sosiaalipsykologia](course)
+- Real name of [Practical Observation of Finnish School System for Incoming Exchange Students - Observation, written tasks, report](course)
+- Which course is [Professional Writing (online course)](course)
+- What [TECHS3(course) means
+- I want to know what [Media, Information and Democracy](course) stands for
+- I want to know the full name of course code [Johdatus viestintään ja mediaan - verkkokurssi](course)
+- I want to know the whole name of [Kandidaattiseminaari ja -tutkielma (hallintotiede), syksy](course)
+- I want to know the name of [Euroopan unioni ja maailma](course)
+- What is the name of [Kulttuurinen monimuotoisuus koulutuksessa ja työelämässä, kirjatentti, Seinäjoki](course)
+- [Algebra 1B](course) name
+- [Historian tutkimusprosessi ja historiantutkijan etiikka](course) name is
+- [Current Trends in Leadership](course) name full
+- [Kirjallinen viestintä I - Kirjallinen tuottaminen](course) complete name
+- [Interaction Techniques](course) name actual
+- [Tuutorina toimiminen](course) whole name
+- What is name [Ydinaseet ja kansainvälinen politiikka](course)
+- The name of [Kuvataiteen perusteet - 1.vsk](course)
+- Name [Musiikin tiedolliset valmiudet ja niiden soveltaminen - Harmonia ja improvisointi koskettimilla](course)
+- What is the full name of [Tutkielmaseminaari](course)
+- What is [Käännös suomi-espanja I/Traducción finés-español I](course) called
+- What is the course code [Poverty in the world: Hunger, inequalities and action](course) called
+- What course is [Stem Cells](course)
+- [Kandidaattiseminaari ja tutkielma (markkinointi) - kevät 2019](course) named
+- What's [Eriytyvä syventävä tutkimusmenetelmäkurssi A: Eläytymismenetelmä - yhdistetty Jari Eskolan graduryhmään](course) named
+- Name of [Kielioppi I/Gramática española I](course)
+- Tell me the name of [Teoria- ja metodiopinnot](course)
+- Say the name of [Kielen ja vuorovaikutuksen tutkimuksen teorioita ja sovellutuksia](course)
+- The whole name of [Current Issues in Speech Communication (Puheviestintä tieteenä jatkuu)](course)
+- [Intercultural Communication](course) full name
+- [Diskurssianalyysi](course) entire name
+- [Fonetiikan perusopintojen harjoitustyö](course) whole name
+- [Teaching, Pedagogical Facilitating, Learning](course) meaning
+- What does [Euroopan unionin finanssihallinto-oikeus - Luennot ja tentti.](course) mean
+- What means [Sosiaalisten riskien hallinta](course)
+- I want to know what [Student supervision in computer sciences](course) means
+- I want to know what [Pro gradu -seminaari ja -tutkielma (hallintotiede) - Seminaari](course) actually means
+- What is the meaning of [Emotions and Sociality in Human-Technology Interaction](course)
+- [Current Approaches in Games and Internet Research](course) meaning
+- True name of [Espanja IV](course)
+- Real name of [Seminaari](course)
+- Which course is [Laadulliset tutkimusotteet](course)
+- What [TECHS3(course) means
+- I want to know what [Johdon laskentatoimen perusteet (avoin yliopisto-opetus)](course) stands for
+- I want to know the full name of course code [Osallisuudet, oikeudet ja vastuut palvelujärjestelmäkohtaamisissa](course)
+- I want to know the whole name of [Kirjoitusviestintä / COMS](course)
+- I want to know the name of [Kielitaito ja kielitaidon arviointi](course)
+- What is the name of [Opetuksen, oppimisen ja koulutuksen arviointi ja laatu - Seminaari](course)
+- [Terveyden edistämisen interventiot](course) name
+- [Introduction to Science and Research (spring)](course) name is
+- [English Word Formation](course) name full
+- [Kandidaattiseminaari (Vuolanto)](course) complete name
+- [Työmarkkinat, työvoiman käyttö ja työllisyysturva](course) name actual
+- [Erot, jaot ja niiden rakentuminen, kirjatentti, Pori](course) whole name
+- What is name [Sosiaalitieteiden kvantitatiiviset tutkimusmenetelmät (verkkokurssi)](course)
+- The name of [Automaatit I](course)
+- Name [Syventävä projekti, keväällä 2019 alkava](course)
+- What is the full name of [Pelit ja pelillisyys](course)
+- What is [Advanced European Integration Studies (book exam/essay)](course) called
+- What is the course code [Nuorten ryhmät ja ryhmän ohjaus, harjoitukset](course) called
+- What course is [Finnish Advanced-Level Vocabulary Course (taught in Finnish)](course)
+- [Kielioppi I/Språkets strukturer I](course) named
+- What's [Dialogue: Constructive Talk at Work](course) named
+- Name of [Orientoivat opinnot - HOPS1](course)
+- Tell me the name of [Nuorisotyön harjoittelu](course)
+- Say the name of [Kirjallinen viestintä I/Skriftlig kommunikation I](course)
+- The whole name of [Interaction Techniques](course)
+- [Terveyden edistäminen kansanterveystieteilijöille](course) full name
+- [Orientation](course) entire name
+- [Terveys, arki ja toimijuus](course) whole name
+- [The Liberal Welfare State](course) meaning
+- What does [Phylogenetics](course) mean
+- What means [The Study of World Politics (book exam/essay)](course)
+- I want to know what [Latinalaisen Amerikan historia ja kirjallisuus - Historia y literatura de Latinoamérica](course) means
+- I want to know what [Epidemiologian perusteet](course) actually means
+- What is the meaning of [Käytännön opetus ja ohjaus](course)
+- [Käännösviestintä I - Käännösviestintä I englanti-suomi](course) meaning
+- True name of [Persoonallisuuspsykologia I (avoin yliopisto)](course)
+- Real name of [Kuvan uudet muodot](course)
+- Which course is [Systems biology methods](course)
+- What [TECHS3(course) means
+- I want to know what [Tutkimustyön perusteet (teemalla Verkostot ja somevaikuttaminen Twitterissä)](course) stands for
+- I want to know the full name of course code [Kielioppi II](course)
+- I want to know the whole name of [Global Humanitarianism and its Critics (POMLFCS3)](course)
+- I want to know the name of [Fonetiikan ja yleisen kielitieteen perusteet - Yleinen kielitiede](course)
+- What is the name of [SUOS1](course)
+- [KATTAS12](course) name
+- [KATJOA13](course) name is
+- [KASP4](course) name full
+- [LTLY16](course) complete name
+- [TIEP1](course) name actual
+- [ITIS22](course) whole name
+- What is name [PSYP2](course)
+- The name of [KATTAS21B](course)
+- Name [KASLOE6.1](course)
+- What is the full name of [ENGS22-24](course)
+- What is [KASLOE7.2](course) called
+- What is the course code [JKKYTVA13](course) called
+- What course is [TECHS2](course)
+- [KKSUVAL1](course) named
+- What's [VENP2](course) named
+- Name of [YKYYHT1](course)
+- Tell me the name of [KASLOM4](course)
+- Say the name of [LUOYY006](course)
+- The whole name of [KASA12](course)
+- [KKRUKTM](course) full name
+- [POLKVS10](course) entire name
+- [LTLY229](course) whole name
+- [STYS1A](course) meaning
+- What does [MTTMS10](course) mean
+- What means [ITIS31](course)
+- I want to know what [POHA6](course) means
+- I want to know what [SOS06.4](course) actually means
+- What is the meaning of [TERKANA2](course)
+- [HALJUA23](course) meaning
+- True name of [KIRP1](course)
+- Real name of [ITIP1](course)
+- Which course is [KASORIENT](course)
+- What [TECHS3(course) means
+- I want to know what [ENGS7-9](course) stands for
+- I want to know the full name of course code [KASA13](course)
+- I want to know the whole name of [KASSM2](course)
+- I want to know the name of [KKENMP3](course)
+- What is the name of [NORDIG1](course)
+- [TERHOIA4](course) name
+- [KKSUSC](course) name is
+- [KASP3](course) name full
+- [JOUJOVTS](course) complete name
+- [JOUJOVTS](course) name actual
+- [SOP03.1](course) whole name
+- What is name [KKSULL](course)
+- The name of [PSYA3](course)
+- Name [VENP5](course)
+- What is the full name of [KASVAR6](course)
+- What is [POHS5](course) called
+- What is the course code [KASVAR2](course) called
+- What course is [TAYJ041](course)
+- [VENS2](course) named
+- What's [KATJOA12](course) named
+- Name of [KATJOP11](course)
+- Tell me the name of [KASA3](course)
+- Say the name of [BTK1053](course)
+- The whole name of [KATLAS12](course)
+- [SOS6.1.3](course) full name
+- [KASLOM1](course) entire name
+- [DPLSSEM](course) whole name
+- [KKRA4](course) meaning
+- What does [LUOYA200](course) mean
+- What means [TERKAN6](course)
+- I want to know what [KASMULTI2C](course) means
+- I want to know what [HALHAS20](course) actually means
+- What is the meaning of [GTS3](course)
+- [HISS2](course) meaning
+- True name of [DPEDUB.1A](course)
+- Real name of [MVKS24E](course)
+- Which course is [KASA13](course)
+- What [TECHS3(course) means
+- I want to know what [HTIS87](course) stands for
+- I want to know the full name of course code [SOS7.2/STYA4B](course)
+- I want to know the whole name of [KKES1](course)
+- I want to know the name of [JOVPVS9](course)
+- What is the name of [KASSA4](course)
+- [YKTM6.3](course) name
+- [KASSY3](course) name is
+- [ENGA9](course) name full
+- [KASA9](course) complete name
+- [YKT6.4.3](course) name actual
+- [POLKAA99](course) whole name
+- What is name [POLVOS28](course)
+- The name of [KASMULTI6](course)
+- Name [TAYJ041](course)
+- What is the full name of [MTTMY1](course)
+- What is [KASMAT2](course) called
+- What is the course code [HALJTS99](course) called
+- What course is [MOLI](course)
+- [FILA7](course) named
+- What's [MVKS47](course) named
+- Name of [POLVOS23](course)
+- Tell me the name of [KASP3](course)
+- Say the name of [DPHSS201](course)
+- The whole name of [DPCMTJ2/JMMETUS](course)
+- [KASVAR7](course) full name
+- [KASSO5](course) entire name
+- [KKRUYHT](course) whole name
+- [KASP4](course) meaning
+- What does [ENGA1](course) mean
+- What means [JOVPVA7](course)
+- I want to know what [KKSAVAL1](course) means
+- I want to know what [HALJTA04](course) actually means
+- What is the meaning of [KASSY5](course)
+- [KASVAR6](course) meaning
+- True name of [TIETA18](course)
+- Real name of [KASA11](course)
+- Which course is [JOVAT1](course)
+- What [TECHS3(course) means
+- I want to know what [KASA1.3](course) stands for
+- I want to know the full name of course code [KASVAR12](course)
+- I want to know the whole name of [KASP3](course)
+- I want to know the name of [JOVTS7](course)
+- What is the name of [KASPUHP1](course)
+- [KASVAR5](course) name
+- [POLVOA22/A32](course) name is
+- [KASLOM4](course) name full
+- [TERKAN18](course) complete name
+- [KATVRA22](course) name actual
+- [KASVAR7](course) whole name
+- What is name [FILS1](course)
+- The name of [KKRUPRE2](course)
+- Name [SOS6.2.3](course)
+- What is the full name of [YKT6.4.3](course)
+- What is [PSYP3](course) called
+- What is the course code [TERTIETO3](course) called
+- What course is [PGHES07](course)
+- [MTTA2](course) named
+- What's [HALHAS99](course) named
+- Name of [MVKS54](course)
+- Tell me the name of [HISA2](course)
+- Say the name of [SOCYKV2](course)
+- The whole name of [LUOYY005](course)
+- [KIRP4](course) full name
+- [KATVAA11](course) entire name
+- [MOLI](course) whole name
+- [JOVPVS1](course) meaning
+- What does [POLKVS32](course) mean
+- What means [TERKAN5](course)
+- I want to know what [KASA10](course) means
+- I want to know what [KKSU1](course) actually means
+- What is the meaning of [KKENVAL8](course)
+- [SOS10.10.1](course) meaning
+- True name of [ENGS3](course)
+- Real name of [DPMED15](course)
+- Which course is [POLVOS26](course)
+- What [TECHS3(course) means
+- I want to know what [TIETS05](course) stands for
+- I want to know the full name of course code [YKIEP4](course)
+- I want to know the whole name of [KIRA3B](course)
+- I want to know the name of [SOS6.1.2](course)
+- What is the name of [GTS2](course)
+- [KASSA3](course) name
+- [KASA8](course) name is
+- [MVKS47](course) name full
+- [LOGA3](course) complete name
+- [TRMU2](course) name actual
+- [ITIS61](course) whole name
+- What is name [KIRA1](course)
+- The name of [DPHSFC07](course)
+- Name [BIO2450](course)
+- What is the full name of [JOVA14](course)
+- What is [HALYAA14](course) called
+- What is the course code [STYA6](course) called
+- What course is [HALJTA12](course)
+- [KASVAR12](course) named
+- What's [KASSG](course) named
+- Name of [HISA2](course)
+- Tell me the name of [STYS2A](course)
+- Say the name of [COSOPON4](course)
+- The whole name of [VENS13](course)
+- [HALJTS08](course) full name
+- [KATYVS22](course) entire name
+- [KKRUPRE2](course) whole name
+- [TERTIETO2](course) meaning
+- What does [JOVA13](course) mean
+- What means [HISA4](course)
+- I want to know what [KATJOA13](course) means
+- I want to know what [TERY4](course) actually means
+- What is the meaning of [KKRA3](course)
+- [DPHSS204](course) meaning
+- True name of [KASLOE7.2](course)
+- Real name of [YKYYHT3](course)
+- Which course is [VENS4](course)
+- What [TECHS3(course) means
+- I want to know what [TIEA2.1A](course) stands for
+- I want to know the full name of course code [KASLOM6](course)
+- I want to know the whole name of [SOSM5.1](course)
+- I want to know the name of [ITIS61](course)
+- What is the name of [SAKA1](course)
+- [KIRP5](course) name
+- [KATRAS11](course) name is
+- [TIETA8](course) name full
+- [HISA1B](course) complete name
+- [JKKYY](course) name actual
+- [KASVAR7](course) whole name
+- What is name [POHA3](course)
+- The name of [KKKI2](course)
+- Name [KATVRA15](course)
+- What is the full name of [KKSUYP](course)
+- What is [PSYS12](course) called
+- What is the course code [JOVKA2&JOVKA3](course) called
+- What course is [KASA12](course)
+- [KKKI1](course) named
+- What's [HALHAA12](course) named
+- Name of [TERKAN4](course)
+- Tell me the name of [ENGS2](course)
+- Say the name of [ITIA9](course)
+- The whole name of [SOS7.2/STYA4B](course)
+- [KKSA1](course) full name
+- [POLPOP04](course) entire name
+- [HALYAS14](course) whole name
+- [HTIS50](course) meaning
+- What does [POMLFCS2](course) mean
+- What means [KKENYHT](course)
+- I want to know what [KKVE4](course) means
+- I want to know what [KKENLL](course) actually means
+- What is the meaning of [MVKS24E](course)
+- [TAYJ032](course) meaning
+- True name of [MTTTA1](course)
+- Real name of [PSYA10](course)
+- Which course is [KASLOE6.2](course)
+- What [TECHS3(course) means
+- I want to know what [MTTTA14](course) stands for
+- I want to know the full name of course code [STYA5](course)
+- I want to know the whole name of [KIRA3G](course)
+- I want to know the name of [ITIS12](course)
+- What is the name of [JOVPVA7](course)
+- [HISA4](course) name
+- [HALJUA44](course) name is
+- [TIETA18](course) name full
+- [POLKVA41](course) complete name
+- [TIEA1](course) name actual
+- [TERHOI6](course) whole name
+- What is name [KKENYHT](course)
+- The name of [KATLAA15](course)
+- Name [TERHOIA1](course)
+- What is the full name of [POHP2](course)
+- What is [KASMULTI3](course) called
+- What is the course code [POLVOA41](course) called
+- What course is [JKKYVP11](course)
+- [KASVARH](course) named
+- What's [JOUJOVTS](course) named
+- Name of [KKSUVAL1](course)
+- Tell me the name of [ESPFA6](course)
+- Say the name of [ENGA9](course)
+- The whole name of [KATYVA45](course)
+- [KATLAS11](course) full name
+- [KATYVS26](course) entire name
+- [MTTTY1](course) whole name
+- [ITIS61](course) meaning
+- What does [GTS9](course) mean
+- What means [LUOYY026](course)
+- I want to know what [KKVE2](course) means
+- I want to know what [JOVPVA5](course) actually means
+- What is the meaning of [VENP3/VENK1](course)
+- [TAYJ029](course) meaning
+- True name of [ITIA03](course)
+- Real name of [VENT1](course)
+- Which course is [BIO2085](course)
+- What [TECHS3(course) means
+- I want to know what [SOS7.2/STYA4B](course) stands for
+- I want to know the full name of course code [KKENYHT](course)
+- I want to know the whole name of [TAYJ033](course)
+- I want to know the name of [VENS2](course)
+- What is the name of [POLKVA33](course)
+- [SOS10.1.5](course) name
+- [TRMU5](course) name is
+- [PSYS16](course) name full
+- [DPMED15](course) complete name
+- [MTTTP1](course) name actual
+- [HISA4](course) whole name
+- What is name [SUOA1](course)
+- The name of [COSOPON4](course)
+- Name [JKKYJOTE1](course)
+- What is the full name of [JOVTETUS3](course)
+- What is [TIEA2.1A](course) called
+- What is the course code [SOS6.5.3](course) called
+- What course is [ITIA11](course)
+- [DPIS1](course) named
+- What's [KASLOE8.1](course) named
+- Name of [JOVA16](course)
+- Tell me the name of [PSYS13](course)
+- Say the name of [TRMU1](course)
+- The whole name of [KASPUHA4](course)
+- [JOVTS2](course) full name
+- [KKKI3](course) entire name
+- [KKENKTM](course) whole name
+- [ENGA8](course) meaning
+- What does [PSYP5](course) mean
+- What means [BIO2310](course)
+- I want to know what [GTS9](course) means
+- I want to know what [BTK2036](course) actually means
+- What is the meaning of [KATYVA12](course)
+- [KKSUHUK1](course) meaning
+- True name of [KASA7](course)
+- Real name of [POLVOA21](course)
+- Which course is [VENT1](course)
+- What [TECHS3(course) means
+- I want to know what [KATYVA52](course) stands for
+- I want to know the full name of course code [LUOYA200](course)
+- I want to know the whole name of [ITIP3](course)
+- I want to know the name of [GTS9](course)
+- What is the name of [LOGP2](course)
+- [DPHSR402](course) name
+- [JOVY3](course) name is
+- [KASA11](course) name full
+- [ITIA8](course) complete name
+- [HALTTS13](course) name actual
+- [VENA12](course) whole name
+- What is name [SOS7.1/STYA4A](course)
+- The name of [SUKKP0](course)
+- Name [ITIP3](course)
+- What is the full name of [KKVE1](course)
+- What is [YKT10.1.2](course) called
+- What is the course code [ENGS40](course) called
+- What course is [MVKS39V](course)
+- [TERVAL4](course) named
+- What's [KASVAR7](course) named
+- Name of [KATJOP11](course)
+- Tell me the name of [TIETS19](course)
+- Say the name of [KATLAS12](course)
+- The whole name of [KASVAR10](course)
+- [MVKS23](course) full name
+- [FILAK](course) entire name
+- [KATVAA14](course) whole name
+- [KASLOE7.2](course) meaning
+- What does [POLKVA44](course) mean
+- What means [KKENYHT](course)
+- I want to know what [POLVOA41](course) means
+- I want to know what [DPJKKPS](course) actually means
+- What is the meaning of [YKT10.5](course)
+- [KASLOE6.5](course) meaning
+- True name of [TAYJ13](course)
+- Real name of [KATVRA24](course)
+- Which course is [KASVAR9](course)
+- What [TECHS3(course) means
+- I want to know what [KASLOM9](course) stands for
+- I want to know the full name of course code [RANA6](course)
+- I want to know the whole name of [KATSTA12](course)
+- I want to know the name of [PSYS5](course)
+- What is the name of [POLKVA21](course)
+- [KKSU8](course) name
+- [KKENVAL4](course) name is
+- [KKKI1](course) name full
+- [KKSAVAL2](course) complete name
+- [KATTAS22B](course) name actual
+- [MVKS34](course) whole name
+- What is name [KASVAR6](course)
+- The name of [JOVA5](course)
+- Name [PSYS6B](course)
+- What is the full name of [ITIP4](course)
+- What is [TIETS26](course) called
+- What is the course code [KKSULL](course) called
+- What course is [YKYY0](course)
+- [KKKI1](course) named
+- What's [HISS2](course) named
+- Name of [KASA11](course)
+- Tell me the name of [GTS1](course)
+- Say the name of [KASVAR2](course)
+- The whole name of [FONEP2](course)
+- [YKYYHT4A](course) full name
+- [ROMAP3](course) entire name
+- [JOUJOVTS](course) whole name
+- [HTIY005](course) meaning
+- What does [HALHAA12](course) mean
+- What means [COSOPON4](course)
+- I want to know what [POLVOA41/S28](course) means
+- I want to know what [MTTTY1](course) actually means
+- What is the meaning of [KKRUKK](course)
+- [JOVTS5](course) meaning
+- True name of [DPHSR404](course)
+- Real name of [HALKAS13](course)
+- Which course is [ENGA10](course)
+- What [TECHS3(course) means
+- I want to know what [VENP2](course) stands for
+- I want to know the full name of course code [LUOYY004](course)
+- I want to know the whole name of [POLKVA33](course)
+- I want to know the name of [VENA10](course)
+- What is the name of [TSEKP1](course)
+- [KATJOA99](course) name
+- [COSOPON3](course) name is
+- [POLKVS31](course) name full
+- [HTIS67](course) complete name
+- [POLPOP04](course) name actual
+- [MTTTP1](course) whole name
+- What is name [LTLY01](course)
+- The name of [TIEP5](course)
+- Name [KKENYHT](course)
+- What is the full name of [SOSM5.1](course)
+- What is [ITIP5](course) called
+- What is the course code [KASVAR3](course) called
+- What course is [KATTAS21B](course)
+- [KIRA3G](course) named
+- What's [HISS2](course) named
+- Name of [BTK4620](course)
+- Tell me the name of [TAYJ034](course)
+- Say the name of [KATJOA12](course)
+- The whole name of [MTTTS17](course)
+- [KKVEPRE1](course) full name
+- [LTLY16](course) entire name
+- [KASA12](course) whole name
+- [KKRUKK](course) meaning
+- What does [TIEA4](course) mean
+- What means [MVKS32/36/49/54](course)
+- I want to know what [KATJOA14](course) means
+- I want to know what [PGHAS06](course) actually means
+- What is the meaning of [JOVKA4](course)
+- [KKENYHT](course) meaning
+- True name of [SOS4.4](course)
+- Real name of [KATVAA14](course)
+- Which course is [SUOA8](course)
+- What [TECHS3(course) means
+- I want to know what [TIEP1](course) stands for
+- I want to know the full name of course code [KATJOS21](course)
+- I want to know the whole name of [KKRULL](course)
+- I want to know the name of [SOSM1](course)
+- What is the name of [BIO2085](course)
+- [JKKYTUA02](course) name
+- [SOCYKV2](course) name is
+- [TAYJ11](course) name full
+- [KKENYHT](course) complete name
+- [KASSG](course) name actual
+- [TIETA18](course) whole name
+- What is name [KASLOE8.1](course)
+- The name of [JOVA4](course)
+- Name [FONEP1](course)
+- What is the full name of [ENGS2](course)
+- What is [LATAP2](course) called
+- What is the course code [MTTTP1](course) called
+- What course is [POLKVA11](course)
+- [KASLOE6.1](course) named
+- What's [TERHOIA7](course) named
+- Name of [KASA5](course)
+- Tell me the name of [TERKAN18](course)
+- Say the name of [POHA1](course)
+- The whole name of [SUOR4/A6](course)
+- [FONEP2](course) full name
+- [JOVA20](course) entire name
+- [YKT10.5](course) whole name
+- [TSEKP3](course) meaning
+- What does [SAKA9](course) mean
+- What means [SOS1](course)
+- I want to know what [KASVAR5](course) means
+- I want to know what [LFCS01](course) actually means
+- What is the meaning of [ENGS7-9](course)
+- [STYA1A1](course) meaning
+- True name of [KASP3](course)
+- Real name of [PEACE046](course)
+- Which course is [TERA3](course)
+- What [TECHS3(course) means
+- I want to know what [SOS6.3.3](course) stands for
+- I want to know the full name of course code [KKSULUK](course)
+- I want to know the whole name of [KASLOE7.2](course)
+- I want to know the name of [KASSM2](course)
+- What is the name of [YKT07.1](course)
+- [HISS1B](course) name
+- [KATVRA23](course) name is
+- [KKENYHT](course) name full
+- [KATVRA30](course) complete name
+- [HISA2](course) name actual
+- [YKYYHT3](course) whole name
+- What is name [JOVKA1](course)
+- The name of [KASA6](course)
+- Name [GTS1](course)
+- What is the full name of [JOVPVS10](course)
+- What is [HISS1A](course) called
+- What is the course code [KKSUPRO](course) called
+- What course is [DPEDUC.3](course)
+- [FONEP3](course) named
+- What's [KKIN5](course) named
+- Name of [TAYJ033](course)
+- Tell me the name of [KKKI2](course)
+- Say the name of [KKSU1](course)
+- The whole name of [KKRUKK](course)
+- [KASS3](course) full name
+- [FONEA4](course) entire name
+- [BTK3125](course) whole name
+- [JOVA15](course) meaning
+- What does [FIL](course) mean
+- What means [MVKS54](course)
+- I want to know what [KASERIT4](course) means
+- I want to know what [MTTMS1](course) actually means
+- What is the meaning of [KASVAR7](course)
+- [KASLOM5](course) meaning
+- True name of [JOVP3](course)
+- Real name of [KIRP5](course)
+- Which course is [TRSU05](course)
+- What [TECHS3(course) means
+- I want to know what [KKRUYHT](course) stands for
+- I want to know the full name of course code [TAYJ11](course)
+- I want to know the whole name of [KKIN4](course)
+- I want to know the name of [POLVOS21](course)
+- What is the name of [POLKAA99](course)
+- [ENGP3](course) name
+- [DPHSS205](course) name is
+- [KKVE2](course) name full
+- [LOGA9](course) complete name
+- [KKKI3](course) name actual
+- [HALKAS14](course) whole name
+- What is name [HALYAA12](course)
+- The name of [HALJTA05](course)
+- Name [COSOPOM3](course)
+- What is the full name of [SAKS2](course)
+- What is [SOS6.5.2](course) called
+- What is the course code [SOS6.2.3](course) called
+- What course is [TAYJ12](course)
+- [KASVAR1](course) named
+- What's [HTIS66](course) named
+- Name of [LOGS7](course)
+- Tell me the name of [KASA5](course)
+- Say the name of [POLVOA22/A32](course)
+- The whole name of [KKSUOPE](course)
+- [KASLOM11](course) full name
+- [KATLITO8](course) entire name
+- [KASLOE7.5](course) whole name
+- [ENGS46](course) meaning
+- What does [PSYS1](course) mean
+- What means [TIETS05](course)
+- I want to know what [HALKAS13](course) means
+- I want to know what [KATLITO7](course) actually means
+- What is the meaning of [KASMULTI5](course)
+- [JOVP5](course) meaning
+- True name of [MTTTP5](course)
+- Real name of [KASSM2](course)
+- Which course is [TERA1](course)
+- What [TECHS3(course) means
+- I want to know what [TERKAN18](course) stands for
+- I want to know the full name of course code [MTTTP5](course)
+- I want to know the whole name of [KATJOP11](course)
+- I want to know the name of [KKSUVAL3](course)
+- What is the name of [POLKVA33](course)
+- [DPLASEM](course) name
+- [TAYJ024](course) name is
+- [KATYVA23](course) name full
+- [KKRUYHT](course) complete name
+- [HALYAS14](course) name actual
+- [KATLITO5](course) whole name
+- What is name [ITIA1](course)
+- The name of [KATVAA13](course)
+- Name [TERHOIA6](course)
+- What is the full name of [HALKAA16](course)
+- What is [KASTUTOR](course) called
+- What is the course code [STYA3B](course) called
+- What course is [KASLOM1](course)
+- [VENP2](course) named
+- What's [POHP3](course) named
+- Name of [KASLOE7.1](course)
+- Tell me the name of [KKSUKK](course)
+- Say the name of [MVKS39V](course)
+- The whole name of [MEDU10](course)
+- [KASA12](course) full name
+- [FILS1](course) entire name
+- [KASLOM7](course) whole name
+- [HALYAS13](course) meaning
+- What does [LUOYA200](course) mean
+- What means [KASLOE9.5](course)
+- I want to know what [TERHOJ4](course) means
+- I want to know what [RUST1/VENS15](course) actually means
+- What is the meaning of [MVKS46](course)
+- [JKKYORP1](course) meaning
+- True name of [ITIP1](course)
+- Real name of [STYA5](course)
+- Which course is [BTK4620](course)
+- What [TECHS3(course) means
+- I want to know what [KASSO1](course) stands for
+- I want to know the full name of course code [STYS3B2](course)
+- I want to know the whole name of [RANS2](course)
+- I want to know the name of [KATJOS13](course)
+- What is the name of [HALHAA16](course)
+- [KASLOM11](course) name
+- [POHA1](course) name is
+- [KASMULTI4](course) name full
+- [KASA12](course) complete name
+- [KATVRP12](course) name actual
+- [ESPFA3](course) whole name
+- What is name [MVKS23](course)
+- The name of [JOVA17](course)
+- Name [PSYP2](course)
+- What is the full name of [TERA2](course)
+- What is [SOS6.4.4](course) called
+- What is the course code [ITIS31](course) called
+- What course is [KKSUPRO](course)
+- [ROMAP5](course) named
+- What's [POMLFCS2](course) named
+- Name of [KKENYHT](course)
+- Tell me the name of [BIO4395](course)
+- Say the name of [ITIS12](course)
+- The whole name of [STYP5](course)
+- [TEE9](course) full name
+- [VENP4](course) entire name
+- [HISP4](course) whole name
+- [KKSU8](course) meaning
+- What does [SUKKP5A](course) mean
+- What means [ENGS29](course)
+- I want to know what [KATVAS31](course) means
+- I want to know what [FILA3](course) actually means
+- What is the meaning of [SOS9](course)
+- [KKVE3](course) meaning
+- True name of [KASVAR12](course)
+- Real name of [SOS06.1](course)
+- Which course is [HISS1B](course)
+- What [TECHS3(course) means
+- I want to know what [ROMAP1](course) stands for
+- I want to know the full name of course code [DPHSFC07](course)
+- I want to know the whole name of [KATLAS13](course)
+- I want to know the name of [KKVE3](course)
+- What is the name of [TERA3](course)
+- [KATTAS22B](course) name
+- [YKYYKV1](course) name is
+- [POHA6](course) name full
+- [ENGA12](course) complete name
+- [POLHAR10](course) name actual
+- [DPCMTJ2/JMMETUS](course) whole name
+- What is name [TERKAN14](course)
+- The name of [DPIS2](course)
+- Name [FILA9](course)
+- What is the full name of [POLVOS21](course)
+- What is [KATMAP11](course) called
+- What is the course code [POLKVA31](course) called
+- What course is [TERHOIA6](course)
+- [TRSU03](course) named
+- What's [KKSAVAL0](course) named
+- Name of [KASSG](course)
+- Tell me the name of [JOVP1](course)
+- Say the name of [KATJOS99](course)
+- The whole name of [ITIA03](course)
+- [BIO4470](course) full name
+- [ITIP1](course) entire name
+- [RANP3](course) whole name
+- [DPJKKPS](course) meaning
+- What does [KASLOM2](course) mean
+- What means [POLKVA43](course)
+- I want to know what [ITIA01](course) means
+- I want to know what [KASSO7](course) actually means
+- What is the meaning of [SUOK2/A6/S8](course)
+- [KATVAA14](course) meaning
+- True name of [KASVAR10](course)
+- Real name of [HALYAA14](course)
+- Which course is [TRSU02](course)
+- What [TECHS3(course) means
+- I want to know what [LTLY16](course) stands for
+- I want to know the full name of course code [SOSM5.1](course)
+- I want to know the whole name of [KATVRP11](course)
+- I want to know the name of [ITIP1](course)
+- What is the name of [PGHES03](course)
+- [HALHAS15](course) name
+- [TERVAL4](course) name is
+- [KASVAR3](course) name full
+- [JMMETUS](course) complete name
+- [KASSG](course) name actual
+- [DPEDUB.1A](course) whole name
+- What is name [KKENVAL4](course)
+- The name of [MTTTP1](course)
+- Name [KASP3](course)
+- What is the full name of [JKKYOA11](course)
+- What is [BTK4665](course) called
+- What is the course code [ENGS42-43](course) called
+- What course is [KKENLL](course)
+- [MVKS02](course) named
+- What's [BTK2112](course) named
+- Name of [STYS3A](course)
+- Tell me the name of [PSYS1](course)
+- Say the name of [HISA3B](course)
+- The whole name of [PGHES07](course)
+- [YKYYHT1](course) full name
+- [JOVY2](course) entire name
+- [KASLOE7.2](course) whole name
+- [HALJTP01](course) meaning
+- What does [KASS2](course) mean
+- What means [MVKS28](course)
+- I want to know what [KIRA2](course) means
+- I want to know what [HALKAA15](course) actually means
+- What is the meaning of [KKLA1](course)
+- [RANP3](course) meaning
+- True name of [KIRS1](course)
+- Real name of [JOVVAL](course)
+- Which course is [HALHAA16](course)
+- What [TECHS3(course) means
+- I want to know what [SAKP6](course) stands for
+- I want to know the full name of course code [TIETS21](course)
+- I want to know the whole name of [POLVOS24](course)
+- I want to know the name of [YKT6.6.2](course)
+- What is the name of [BTK2112](course)
+- [DPCMTJT3](course) name
+- [DPHSR403](course) name is
+- [KASSO8](course) name full
+- [KASA2](course) complete name
+- [PGHINT](course) name actual
+- [KKENVAL9](course) whole name
+- What is name [TERKANA2](course)
+- The name of [ESPFP3](course)
+- Name [HTIS87](course)
+- What is the full name of [YKYYHT4A](course)
+- What is [KIRA2](course) called
+- What is the course code [KKSUHUK](course) called
+- What course is [PEACE045](course)
+- [LUOYY006](course) named
+- What's [POLKVS31](course) named
+- Name of [KKRUVAL2](course)
+- Tell me the name of [KASSY4](course)
+- Say the name of [KKRUYHT](course)
+- The whole name of [POLPOP03](course)
+- [HALJUA19](course) full name
+- [TERKAN11](course) entire name
+- [POLVOA31](course) whole name
+- [DPHSS205](course) meaning
+- What does [KIRP4](course) mean
+- What means [TIETS43](course)
+- I want to know what [VENP2](course) means
+- I want to know what [KKENVAL9](course) actually means
+- What is the meaning of [KKSUPRO](course)
+- [SUKKP5B](course) meaning
+- True name of [KATTAA40](course)
+- Real name of [ENGS2](course)
+- Which course is [ITIS33](course)
+- What [TECHS3(course) means
+- I want to know what [JOVP2](course) stands for
+- I want to know the full name of course code [KASVAR1](course)
+- I want to know the whole name of [PCP10/NAM IV](course)
+- I want to know the name of [KKENVAL2](course)
+- What is the name of [JKKYTUO2](course)
+- [TRMU5](course) name
+- [HALJUA24](course) name is
+- [MTTTA4](course) name full
+- [ENGS13](course) complete name
+- [KATMAA99](course) name actual
+- [KKENMP3](course) whole name
+- What is name [PSYA10](course)
+- The name of [KASVAR5](course)
+- Name [KATTAA35](course)
+- What is the full name of [LOGS9](course)
+- What is [HALYAA13](course) called
+- What is the course code [VENP1](course) called
+- What course is [VENS2](course)
+- [JKKYPS1](course) named
+- What's [ENGA12](course) named
+- Name of [KATJOA12](course)
+- Tell me the name of [DPHSR403](course)
+- Say the name of [GTS4](course)
+- The whole name of [SAKA7](course)
+- [KKSAPRE1](course) full name
+- [LOGS3](course) entire name
+- [SOS6.3.3](course) whole name
+- [STYS3A](course) meaning
+- What does [HTIS52](course) mean
+- What means [HALKAA15](course)
+- I want to know what [PSYP2](course) means
+- I want to know what [KASA8](course) actually means
+- What is the meaning of [FILA1](course)
+- [LFCS02](course) meaning
+- True name of [POLKVA41](course)
+- Real name of [KIRA3G](course)
+- Which course is [KIRS5](course)
+- What [TECHS3(course) means
+- I want to know what [ENGA20](course) stands for
+- I want to know the full name of course code [MOLI](course)
+- I want to know the whole name of [SUOA8](course)
+- I want to know the name of [HALHAA99](course)
+- What is the name of [ENGA1](course)
+- [KKES2](course) name
+- [POLKVA33](course) name is
+- [HALKOS22](course) name full
+- [HALHAS18](course) complete name
+- [TERTIETO3](course) name actual
+- [JOVA2](course) whole name
+- What is name [KKES2](course)
+- The name of [KASA11](course)
+- Name [LOGS8](course)
+- What is the full name of [KKENVAL8](course)
+- What is [HALYAA99](course) called
+- What is the course code [SOS6.2.2](course) called
+- What course is [KKSAPRE2](course)
+- [SAKS4/K4](course) named
+- What's [LTLY16](course) named
+- Name of [HIST03](course)
+- Tell me the name of [HIST01](course)
+- Say the name of [KASMAT1](course)
+- The whole name of [PSYP2](course)
+- [VENP1](course) full name
+- [TERHOIA7](course) entire name
+- [PCP12](course) whole name
+- [PSYS1](course) meaning
+- What does [MEDU09](course) mean
+- What means [TIETA18](course)
+- I want to know what [HALYAA13](course) means
+- I want to know what [YKT04.2](course) actually means
+- What is the meaning of [SOS4.6](course)
+- [HALYAP01](course) meaning
+- True name of [ITIS41](course)
+- Real name of [KASA12](course)
+- Which course is [SOS6.1.3](course)
+- What [TECHS3(course) means
+- I want to know what [TIETS19](course) stands for
+- I want to know the full name of course code [KATRAS11](course)
+- I want to know the whole name of [FONEA4](course)
+- I want to know the name of [KKVEVAL1](course)
+- What is the name of [KKKI2](course)
+- [PGHAS06](course) name
+- [LTLY01](course) name is
+- [KKSU2](course) name full
+- [PSYA7](course) complete name
+- [ENGA13](course) name actual
+- [KATTAS21B](course) whole name
+- What is name [KASLOE6.3](course)
+- The name of [NORDIG3](course)
+- Name [RANP0](course)
+- What is the full name of [STYP2](course)
+- What is [TIETA13](course) called
+- What is the course code [KKKI2](course) called
+- What course is [HALYAS14](course)
+- [SAKS4/K4](course) named
+- What's [KATLITO1](course) named
+- Name of [HALJTS02](course)
+- Tell me the name of [KKRUKTMO](course)
+- Say the name of [BIOMJ016](course)
+- The whole name of [ESPFA7](course)
+- [KASVAR11](course) full name
+- [BIO4395](course) entire name
+- [ITIP2](course) whole name
+- [YKT04.2](course) meaning
+- What does [ITIA03](course) mean
+- What means [KASPUHP2](course)
+- I want to know what [HTIY005](course) means
+- I want to know what [KKENVAL8](course) actually means
+- What is the meaning of [DPEDUC.3](course)
+- [KATYVA22](course) meaning
+- True name of [KKES1](course)
+- Real name of [TERHOJ3](course)
+- Which course is [MVKS42E](course)
+- What [TECHS3(course) means
+- I want to know what [BTK4665](course) stands for
+- I want to know the full name of course code [KATLAS14](course)
+- I want to know the whole name of [KKENVAL4](course)
+- I want to know the name of [DPLSSEM](course)
+- What is the name of [KASA10](course)
+- [KASP5](course) name
+- [FONEA4](course) name is
+- [ITIS32](course) name full
+- [MTTA2](course) complete name
+- [TIEP4](course) name actual
+- [KKSUPRO](course) whole name
+- What is name [JKKYVP11](course)
+- The name of [KASA12](course)
+- Name [KKES3](course)
+- What is the full name of [RANS4](course)
+- What is [KKRUKTK](course) called
+- What is the course code [POLPOP02](course) called
+- What course is [TAYJ032](course)
+- [LTLY01](course) named
+- What's [STYA5](course) named
+- Name of [HALJTS01](course)
+- Tell me the name of [DPJKK20](course)
+- Say the name of [MVKS05](course)
+- The whole name of [KASLOK1](course)
+- [KKSUTTK](course) full name
+- [MVKS42S](course) entire name
+- [MTTS1](course) whole name
+- [DPHSF502](course) meaning
+- What does [KKSAVAL4](course) mean
+- What means [RANA1](course)
+- I want to know what [DPJKKHS](course) means
+- I want to know what [PSYS17](course) actually means
+- What is the meaning of [KASA9](course)
+- [TAYJ024](course) meaning
+- True name of [ITIA11](course)
+- Real name of [KKESVAL4](course)
+- Which course is [SAKA5](course)
+- What [TECHS3(course) means
+- I want to know what [TIETS13](course) stands for
+- I want to know the full name of course code [POHA6](course)
+- I want to know the whole name of [TERHOIA2](course)
+- I want to know the name of [LOGA10](course)
+- What is the name of [ENGS4](course)
+- [SOS4.4](course) name
+- [SOS06.4](course) name is
+- [TERY6](course) name full
+- [TERY4](course) complete name
+- [MVKS57](course) name actual
+- [PSYA1](course) whole name
+- What is name [KATTAA37](course)
+- The name of [KKSUPRO](course)
+- Name [LOGS7](course)
+- What is the full name of [TIETA6](course)
+- What is [ITIA03](course) called
+- What is the course code [ITIY3](course) called
+- What course is [HALJTA99](course)
+- [HISA4](course) named
+- What's [KASA13](course) named
+- Name of [MTTMP3](course)
+- Tell me the name of [KKENYHT](course)
+- Say the name of [LTLY213](course)
+- The whole name of [KASLOM7](course)
+- [MTTS1](course) full name
+- [FILAPRO](course) entire name
+- [KASLOE6.5](course) whole name
+- [KKSULL](course) meaning
+- What does [POLVOS25](course) mean
+- What means [KASSY3](course)
+- I want to know what [POHP3](course) means
+- I want to know what [POLKVA21](course) actually means
+- What is the meaning of [HALKAA12](course)
+- [PSYS2](course) meaning
+- True name of [KATRAA11](course)
+- Real name of [KKENVAL2](course)
+- Which course is [MEJOS15](course)
+- What [TECHS3(course) means
+- I want to know what [SOS6.5.1](course) stands for
+- I want to know the full name of course code [KKVE4](course)
+- I want to know the whole name of [LTLY01](course)
+- I want to know the name of [KATYVA23](course)
+- What is the name of [STYA3B](course)
+- [SUOA8](course) name
+- [MVKS40/62](course) name is
+- [ENGS13](course) name full
+- [TERHOIA4](course) complete name
+- [BTK4032](course) name actual
+- [MOLI](course) whole name
+- What is name [KASLOM5](course)
+- The name of [POHP3](course)
+- Name [POLKVS31](course)
+- What is the full name of [KASSY3](course)
+- What is [YKT6.4.3](course) called
+- What is the course code [KKRA5](course) called
+- What course is [POHA1](course)
+- [KASP2](course) named
+- What's [HALTVP11](course) named
+- Name of [LUOYY003](course)
+- Tell me the name of [KKSUPRO](course)
+- Say the name of [KASA10](course)
+- The whole name of [POHA13](course)
+- [LTLY16](course) full name
+- [KKRUYHT](course) entire name
+- [ENGP3](course) whole name
+- [HALYAS13](course) meaning
+- What does [JOUJOVTS/JMMETU](course) mean
+- What means [TIETS19](course)
+- I want to know what [KASPUHP1](course) means
+- I want to know what [HALKAA15](course) actually means
+- What is the meaning of [KKSUPRO](course)
+- [BTK4320](course) meaning
+- True name of [TERTIETO3](course)
+- Real name of [STYA3A](course)
+- Which course is [POLKVA33](course)
+- What [TECHS3(course) means
+- I want to know what [LTLY01](course) stands for
+- I want to know the full name of course code [POLPOP04](course)
+- I want to know the whole name of [KATJOS32](course)
+- I want to know the name of [KATVAA14](course)
+- What is the name of [YKYYKEKE1](course)
+- [TERKAN1](course) name
+- [LTLY16](course) name is
+- [KATVRP11](course) name full
+- [TERKAN4](course) complete name
+- [STYS2A](course) name actual
+- [STYA1B](course) whole name
+- What is name [TERVAL4](course)
+- The name of [DPCMTJT4](course)
+- Name [BTK1053](course)
+- What is the full name of [COSOPOM3](course)
+- What is [KATLAS15](course) called
+- What is the course code [KASVAR7](course) called
+- What course is [TERA3](course)
+- [KKSUHUK1](course) named
+- What's [POLKVA42](course) named
+- Name of [KASLOM6](course)
+- Tell me the name of [JOVMS2A](course)
+- Say the name of [TIEP2](course)
+- The whole name of [KASA2](course)
+- [KKSUOPE](course) full name
+- [HISA2](course) entire name
+- [HALHAA99](course) whole name
+- [BTK2020](course) meaning
+- What does [KASLOM1](course) mean
+- What means [KATLAS15](course)
+- I want to know what [KATTAA35](course) means
+- I want to know what [MVKS10](course) actually means
+- What is the meaning of [KKVE2](course)
+- [BIO2085](course) meaning
+- True name of [POLVOS23](course)
+- Real name of [TAYJ12](course)
+- Which course is [SUOP3](course)
+- What [TECHS3(course) means
+- I want to know what [TIEP3](course) stands for
+- I want to know the full name of course code [KASORIENT](course)
+- I want to know the whole name of [TIETS46](course)
+- I want to know the name of [ITIS61](course)
+- What is the name of [KKRA4](course)
+- [TECHS1](course) name
+- [KKVE5](course) name is
+- [TAYJ041](course) name full
+- [KASA12](course) complete name
+- [HALYAS99](course) name actual
+- [MTTTA1](course) whole name
+- What is name [TAYJ026](course)
+- The name of [MTTTP5](course)
+- Name [TERKANA2](course)
+- What is the full name of [HALJUA14](course)
+- What is [LUOYY003](course) called
+- What is the course code [TERA1](course) called
+- What course is [BTK1099](course)
+- [STYS3A](course) named
+- What's [JOVPVS3](course) named
+- Name of [HALJUA99](course)
+- Tell me the name of [BTK3125](course)
+- Say the name of [TRSU02](course)
+- The whole name of [TERKAN11](course)
+- [BTK4661](course) full name
+- [POLKVA43](course) entire name
+- [MOLI](course) whole name
+- [PEDA3](course) meaning
+- What does [PSYS6E](course) mean
+- What means [KKRA5](course)
+- I want to know what [SOP03.6](course) means
+- I want to know what [MTTTP5](course) actually means
+- What is the meaning of [KATTAA35](course)
+- [BTK2060](course) meaning
+- True name of [KATLAA11](course)
+- Real name of [HALYAA12](course)
+- Which course is [TERVAL1](course)
+- What [TECHS3(course) means
+- I want to know what [TERVAL4](course) stands for
+- I want to know the full name of course code [SAKA12](course)
+- I want to know the whole name of [ITIA01](course)
+- I want to know the name of [STYS2B](course)
+- What is the name of [MTTA1](course)
+- [KATTV01](course) name
+- [KATMAA15](course) name is
+- [DPIT1](course) name full
+- [COSOPON5](course) complete name
+- [KIRP5](course) name actual
+- [KASVAR9](course) whole name
+- What is name [NORDIG3](course)
+- The name of [SAKA11](course)
+- Name [ITIP5](course)
+- What is the full name of [KKENVAL4](course)
+- What is [KKRA2](course) called
+- What is the course code [TIEP3](course) called
+- What course is [TERHOI2](course)
+- [KASMULTI4](course) named
+- What's [TERY3](course) named
+- Name of [KKSU2](course)
+- Tell me the name of [KASA13](course)
+- Say the name of [JOVA20](course)
+- The whole name of [JOVAT2](course)
+- [TERKAN18](course) full name
+- [HISP1](course) entire name
+- [COSOPC3](course) whole name
+- [RUST5/VENS19/20](course) meaning
+- What does [KATLAS13](course) mean
+- What means [HISS2](course)
+- I want to know what [SOS6.4.3](course) means
+- I want to know what [KASP1](course) actually means
+- What is the meaning of [ITIA5](course)
+- [KATLAA23](course) meaning
+- True name of [BIO4450](course)
+- Real name of [STYS1A](course)
+- Which course is [DPHSR401](course)
+- What [TECHS3(course) means
+- I want to know what [TERVAL7](course) stands for
+- I want to know the full name of course code [FONEA4](course)
+- I want to know the whole name of [MTTTP5](course)
+- I want to know the name of [TERKANA4](course)
+- What is the name of [STYA3B](course)
+- [KATYVA13](course) name
+- [BTK1031](course) name is
+- [JOVTS2](course) name full
+- [KATTAA13B](course) complete name
+- [KASLOH4B](course) name actual
+- [TERY5B](course) whole name
+- What is name [KASPUHA4](course)
+- The name of [KATVRS41](course)
+- Name [DPEDUB.1B](course)
+- What is the full name of [DPHSS204](course)
+- What is [POHS12](course) called
+- What is the course code [BTK1062](course) called
+- What course is [PSYP4](course)
+- [DPHSS204](course) named
+- What's [KATYVA22](course) named
+- Name of [KATYVA37](course)
+- Tell me the name of [KKRUYHT](course)
+- Say the name of [KASA11](course)
+- The whole name of [TIEY4](course)
+- [ENGS4](course) full name
+- [JOVA15](course) entire name
+- [POLKVA23](course) whole name
+- [BTK4701](course) meaning
+- What does [JOVA18](course) mean
+- What means [POMLFCS3](course)
+- I want to know what [MOLI](course) means
+- I want to know what [KASLOE6.4](course) actually means
+- What is the meaning of [JOVP5](course)
+- [ENGS7-9](course) meaning
+- True name of [POHP5](course)
+- Real name of [MVKS17/13S](course)
+- Which course is [FILA1](course)
+- What [TECHS3(course) means
+- I want to know what [TIETA13](course) stands for
+- I want to know the full name of course code [KKSULL](course)
+- I want to know the whole name of [HALJTS08](course)
+- I want to know the name of [MTTMS10](course)
+- What is the name of [COSOPON1](course)
+- [MVKS18E](course) name
+- [SUOS4](course) name is
+- [TERY5B](course) name full
+- [HEAAE03](course) complete name
+- [TERHOI6](course) name actual
+- [KATTAA40](course) whole name
+- What is name [MTTY4](course)
+- The name of [ITIP1](course)
+- Name [MEDU10](course)
+- What is the full name of [MVKS63](course)
+- What is [KATYVA23](course) called
+- What is the course code [KASVAR1](course) called
+- What course is [KASMAT1](course)
+- [HTIS84](course) named
+- What's [KASSM2](course) named
+- Name of [KASLOE4.3](course)
+- Tell me the name of [HALHAS21](course)
+- Say the name of [KKSUTTK](course)
+- The whole name of [POLKVS31](course)
+- [KKENVAL4](course) full name
+- [KATLAA24](course) entire name
+- [HIST03](course) whole name
+- [HIST01](course) meaning
+- What does [KASLOM10](course) mean
+- What means [SOS6.2.4](course)
+- I want to know what [POLKVS21](course) means
+- I want to know what [KKENVAL4](course) actually means
+- What is the meaning of [KKKI2](course)
+- [SOSM2](course) meaning
+- True name of [TECHS4](course)
+- Real name of [POLVOS21](course)
+- Which course is [ENGA6](course)
+- What [TECHS3(course) means
+- I want to know what [VENS8](course) stands for
+- I want to know the full name of course code [BIO2200](course)
+- I want to know the whole name of [HALJUA99](course)
+- I want to know the name of [VENP2](course)
+
+<!--- lookup table list for course codes.  --> 
+## lookup:course  <!-- no list to specify lookup table file -->
+- data/course_codes.txt
+- data/uta_course_names.txt
