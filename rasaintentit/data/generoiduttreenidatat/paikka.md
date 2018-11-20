@@ -1,0 +1,29 @@
+- Where is [*](course)
+- Where is course [*](course)
+- Where is class [*](course)
+- Where is lecture [*](course)
+- Where is the classroom [*](course)
+- Where can I find [*](course)
+- How to get to [*](course)
+- Where [*](course)
+- Location [*](course)
+- Find [*](course)
+- How to find [*]
+- How can I find [*](course)
+- Which classroom is [*](course)
+- What is the classroom for [*](course)
+- Which room is [*](course)
+- I'd like to find [*(course)
+- Where can I find [*](course)
+- [*](course) place
+- [*](course) where
+- [*] (course) location
+- Locate [*](course)
+- Where is [*](course) located
+- The location of [*](course) class
+- I can't find [*](course)
+- I'm trying to find [*](course)
+- I want to know the location of [*](course)
+- I want to know where [*](course) is
+- I want to know the classroom for [*](course)
+- I want to know how to find [*](course)

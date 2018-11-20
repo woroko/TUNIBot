@@ -1,0 +1,841 @@
+- Where is [Introduction to Trans Studies](course)
+- Where is course [Orientaatio tutkielman tekemiseen -](course)
+- Where is class [Innovation Project (2018-I)](course)
+- Where is lecture [Introduction to Academic English / RPL (näyttökoe)](course)
+- Where is the classroom [Tekstienväliset suhteet: Syventävä tekstianalyysi](course)
+- Where can I find [Doctoral Studies](course)
+- How to get to [Introduction to Political Theory (book exam/essay)](course)
+- Where [Kandidaatintutkielmaseminaari - Seminaari](course)
+- Location [Visuaalisen journalismin perusteet, harjoitukset](course)
+- Find [Hallinto-oikeus](course)
+- How to find [Kandidaatintutkielmaseminaari - Seminaari]
+- How can I find [Venäjän kielen rakenne - Morfologia](course)
+- Which classroom is [Työn uusi järjestys ja aikuiskasvatus - Seminaari](course)
+- What is the classroom for [Asiantuntijan puheviestintä ja vuorovaikutus (1. periodi) / KTM-tutkinto](course)
+- Which room is [Work and Health](course)
+- I'd like to find [Software Project Management, Theory(course)
+- Where can I find [Yrityksen taloustieteellisen tutkimuksen perusteet](course)
+- [Analyysi B](course) place
+- [Lineaarialgebra 1B](course) where
+- [Vanhuus ja gerontologinen sosiaalityö] (course) location
+- Locate [Esimiestyö (syksy 2018)](course)
+- Where is [Environment and Well-Being](course) located
+- The location of [Henkilöstöjohtaminen](course) class
+- I can't find [Sarjakuva ja kuvakirja kääntäjän kädessä / Suomentamisseminaari](course)
+- I'm trying to find [Puheen ja äänen tutkimusharjoittelu - Projekti / käytännön työ](course)
+- I want to know the location of [Tutkimustyötä tukevat tohtoriopinnot - Doctoral Studies in Information Studies and Interactive Media](course)
+- I want to know where [Pro gradu - seminaari 2018 (jatkava)  (vaihe I)](course) is
+- I want to know the classroom for [Filosofinen argumentaatio, tulkinta ja kirjoittaminen](course)
+- I want to know how to find [Orientoivat opinnot - Tiedonhankintataidot I (MTT)](course)- Where is [Academic Presentations](course)
+- Where is course [Terveyden ja mielenterveyden psykologia II](course)
+- Where is class [Syntaxe du français/ Ranskan syntaksi](course)
+- Where is lecture [Biostatistiikka ja tilastollinen tietojenkäsittely](course)
+- Where is the classroom [Kasvatus, tieto ja teoria - Luennot](course)
+- Where can I find [Puheen, kielen ja viestinnän kehitys](course)
+- How to get to [Finnish Elementary Course 2](course)
+- Where [Algebra 2](course)
+- Location [Aikuisten neuropsykologinen tutkiminen](course)
+- Find [Business Translation Seminar Finnish - English](course)
+- How to find [Puheen ja äänen harjoitusmenetelmät]
+- How can I find [Korkeakoulujärjestelmät ja niiden ohjaus - Harjoitustyö](course)
+- Which classroom is [Kandidaatintutkielma](course)
+- What is the classroom for [Tuutorivastaavana toimiminen](course)
+- Which room is [Asiantuntijan puheviestintä ja vuorovaikutus / AHOT (näyttökoe)](course)
+- I'd like to find [Keskiajan symboliikkaa -verkkokurssi(course)
+- Where can I find [Terveydenhuollon koulutuspolitiikka](course)
+- [Johdon laskentatoimen teoria -](course) place
+- [Tieteellinen kommunikaatio ja bibliometriikka](course) where
+- [Quantitative Approach] (course) location
+- Locate [Yksilö, yhteiskunta ja kulttuuri - Historia, yhteiskuntaoppi ja katsomusopetus - 2. vsk (luennot)](course)
+- Where is [Reportaasi](course) located
+- The location of [Praktikum](course) class
+- I can't find [Cultural Conversations](course)
+- I'm trying to find [Tutkimustyön perusteet - c) Tutkimusmenetelmien erityiskysymyksiä](course)
+- I want to know the location of [Musiikki - Musiikkikasvatuksen perusteet 2 - 1. vsk  ja erillisen opinto-oikeuden POM-opintoihin saaneet opiskelijat](course)
+- I want to know where [Työhyvinvoinnin johtaminen](course) is
+- I want to know the classroom for [Puheviestintä ja hyvinvointi](course)
+- I want to know how to find [Qualitative Approach](course)- Where is [Practical Introduction to Data Mining](course)
+- Where is course [Tiedonhaun perusteet](course)
+- Where is class [Kirjallinen viestintä I/Skriftlig kommunikation I](course)
+- Where is lecture [Kielioppi I](course)
+- Where is the classroom [Proseminaari (ryhmä 2)](course)
+- Where can I find [Tiimi toimii - puheviestinnän syventävä kurssi (1.-2.periodi)](course)
+- How to get to [Johdanto tietokäytäntöjen tutkimukseen](course)
+- Where [Sustainable business practices (Lectures)](course)
+- Location [Olio-ohjelmoinnin perusteet II](course)
+- Find [Laadullisten tutkimusmenetelmien soveltaminen hoitotieteessä](course)
+- How to find [Graduseminaari / Kekäläinen (jatkuu keväältä 2018)]
+- How can I find [Sijoitustoiminta](course)
+- Which classroom is [Syntyvyys, hoiva, sukupolvi](course)
+- What is the classroom for [Structure of English I - Grammar I](course)
+- Which room is [Kirjallisuuden- ja kulttuurintutkimuksen teoriat](course)
+- I'd like to find [Global politics of gender(course)
+- Where can I find [Tiede ja teknologia yhteiskunnassa](course)
+- [Sarjakuva ja kuvakirja kääntäjän kädessä / Suomentamisseminaari](course) place
+- [Ranska I](course) where
+- [Kielioppi II (venäjänkieliset opiskelijat)] (course) location
+- Locate [Johdatus viestintään ja mediaan - verkkokurssi](course)
+- Where is [Eriytyvä syventävä tutkimusmenetelmäkurssi B: Metodologinen essee](course) located
+- The location of [Normit ja asiakirjoittaminen - Kääntäjän kielen- ja tekstinhuolto](course) class
+- I can't find [Ylellisyyden historia -verkkokurssi](course)
+- I'm trying to find [Cross-Institutional Studies in TUT](course)
+- I want to know the location of [Nuorisotutkimuksen ajankohtaisia kysymyksiä](course)
+- I want to know where [Variety in Present-day English](course) is
+- I want to know the classroom for [Research Seminar, Doctoral Programme in Language Studies](course)
+- I want to know how to find [Liikuntapedagogiikan perusteet / Luennot - 1.vsk](course)- Where is [Talous - politiikka - kulttuuri -lukupiiri](course)
+- Where is course [Human Rights and International Society (book exam/essay)](course)
+- Where is class [Kasvatushistoria, kirjatentti](course)
+- Where is lecture [Systems biology methods](course)
+- Where is the classroom [Tekninen työ -](course)
+- Where can I find [Lineaarialgebra 1A](course)
+- How to get to [Rakenteinen dokumentaatio ja DITA](course)
+- Where [Vuorovaikutuksen perusteet - verkkokurssina II](course)
+- Location [Multimodal Interaction](course)
+- Find [Liiketoimintamallit](course)
+- How to find [Työelämäntutkimusta monimuuttujamenetelmin]
+- How can I find [Äidinkieli ja kirjallisuus - Lasten- ja nuortenkirjallisuus  -1. vsk ensijaisesi opinnot 1½ lukuvuodessa suorittavat 1.vsk lo-opiskelijat ja kaikkki erillisen opinto-oikeuden POM-opintoihin saaneet opiskelijat](course)
+- Which classroom is [Romanian kielen jatkokurssi II / Advanced Course 2 in Romanian -](course)
+- What is the classroom for [New Wars and How to Study Them (POMLFCS3)](course)
+- Which room is [Yliopistopedagogiikan perusteet](course)
+- I'd like to find [Tutkijaseminaari(course)
+- Where can I find [Poliittiset järjestelmät (kirjatentti/essee)](course)
+- [Tissue biology](course) place
+- [International Society (book exam/essay)](course) where
+- [Philosophy of Science (online course)] (course) location
+- Locate [Nuorisotyön ja nuorisotutkimuksen maisteriohjelman lähijakso 11.-12.4.2019](course)
+- Where is [Kvalitatiivinen tutkimus kasvatustieteissä - Verkkokurssi, yhteisopetus avoimen yo:n ja tutkinto-opiskelijoille](course) located
+- The location of [Nykyespanja ja espanja vieraana kielenä/Español actual y español lengua extranjera](course) class
+- I can't find [Matematiikan gradustartti](course)
+- I'm trying to find [Ikääntyminen, kieli ja vuorovaikutus](course)
+- I want to know the location of [Metafysiikka](course)
+- I want to know where [Sopimusoikeuden syventävä opintojakso](course) is
+- I want to know the classroom for [Algebra 1A](course)
+- I want to know how to find [Tutkiva harjoittelu](course)- Where is [Datan hallinnan perusteet](course)
+- Where is course [Kehitys, kasvatus ja elämänkulku - Pienryhmät 1 op ja kirjallisuus 2 op (EDUn tutkinto-opiskelijat, aineenop.opiskelijat, avoin yo/lähiopetus)](course)
+- Where is class [Introduction to Academic English (JKK, EDU, LUO, COMS & SOC) online](course)
+- Where is lecture [Pohjoismaiden yhteiskuntaolot ja kulttuurit](course)
+- Where is the classroom [Tasa-arvon ja yhdenvertaisuuden edistäminen työnä (verkkokurssi)](course)
+- Where can I find [Lähtötasokoe](course)
+- How to get to [Parties, Elections and Political Participation (book exam/essay)](course)
+- Where [The Coeliac Disease Journal Club](course)
+- Location [Medioitu vuorovaikutus](course)
+- Find [Finnish Elementary Course 1 (taught in 1. period)](course)
+- How to find [Demola Project]
+- How can I find [Europe's Wicked Policy Problems (POMLFCS2)](course)
+- Which classroom is [Tutkimustyön perusteet - c) Tutkimusmenetelmien erityiskysymyksiä](course)
+- What is the classroom for [Kandidaatintutkielma](course)
+- Which room is [Kaikille avoin tutkijaseminaari](course)
+- I'd like to find [Ulko- ja turvallisuuspoliittinen päätöksentekoharjoitus(course)
+- Where can I find [Vanhempien aikojen tutkijaseminaari](course)
+- [Visuaalisen journalismin perusteet, luennot](course) place
+- [Luovat aineistot ja analyysimenetelmät (intensiivikurssi)](course) where
+- [Orientation and Study Planning] (course) location
+- Locate [Introduction to Finnish History](course)
+- Where is [Sosiaalityön vuorovaikutuksen tutkimus - Sosnet-verkkokurssi](course) located
+- The location of [Kerronnan monet muodot - kirjatentti ja essee](course) class
+- I can't find [Makrotalousteoria II](course)
+- I'm trying to find [Kontrastiivisen fonetiikan perusteet -](course)
+- I want to know the location of [Intercultural Communication](course)
+- I want to know where [Qualitative Approach](course) is
+- I want to know the classroom for [Yhteisö, terveys ja sairaus](course)
+- I want to know how to find [Kansainvälinen talous](course)- Where is [Introduction to Education Science and Research](course)
+- Where is course [Kuvataidekasvatus / Luennot - 2.vsk](course)
+- Where is class [Ympäristön ja alueiden poliittisuus (avoin yliopisto-opetus), monimuoto-opetus](course)
+- Where is lecture [Rauha, turvallisuus ja kansainväliset instituutiot (kirjatentti/essee)](course)
+- Where is the classroom [Paikallisen hallinnan teoriat - Lukupiiri](course)
+- Where can I find [Communication Skills in English - Speaking Practice](course)
+- How to get to [Erot, jaot ja niiden rakentuminen, kirjatentti, Seinäjoki](course)
+- Where [Finnish Advanced Course 1 (taught in Finnish)](course)
+- Location [Kvantitatiivinen tutkimus kasvatustieteissä - Harjoitukset, yleinen ja luokanopettajaopiskelijat](course)
+- Find [Cost-Benefit and Cost-Effectiveness Analysis for Social Planning](course)
+- How to find [Peace, Security and International Institutions (book exam/essay)]
+- How can I find [Johdon laskentatoimen perusteet](course)
+- Which classroom is [Johtaminen ja organisaatiot II](course)
+- What is the classroom for [Professional Writing (online course)](course)
+- Which room is [Tilastollisen tutkimuksen perusteet](course)
+- I'd like to find [Tekniikan käännösviestinnän seminaari englanti-suomi(course)
+- Where can I find [Kielioppi I / Grammatik I](course)
+- [Normit ja asiakirjoittaminen - Kääntäjän kielen- ja tekstinhuolto](course) place
+- [Yksilön työhyvinvointi (itsenäinen suoritustapa)](course) where
+- [Comparative Education - Lectures in English (spring) or book exam in English (autumn and spring)] (course) location
+- Locate [Lastenkirjallisuus ja draama / Harjoitukset - 3.vsk + 1.vsk ryhmät 6 ja 7](course)
+- Where is [Kaunokirjallisen kääntämisen peruskurssi](course) located
+- The location of [The European Union (book exam/essay)](course) class
+- I can't find [Monimuuttujamenetelmien perusteet](course)
+- I'm trying to find [Eriytyvä syventävä tutkimusmenetelmäkurssi A: Kyselyaineiston analysointi](course)
+- I want to know the location of [Eurooppalainen, euraasialainen ja globaali energiapolitiikka (kirjatentti/essee)](course)
+- I want to know where [Asiantuntijuuden kehittymiseen orientoiva opintojakso - v. 2018 EDUn opiskelijoiksi hyväksyttyjen ryhmät](course) is
+- I want to know the classroom for [Fundamentals of Finance (Tampere Summer School)](course)
+- I want to know how to find [Introduction to Science and Research (autumn)](course)- Where is [Terveystieteiden tilastolliset tutkimusmenetelmät](course)
+- Where is course [Laaja-alaistava harjoittelu - Opetus- ja koulutushallinnon luennot](course)
+- Where is class [Keskustelun- ja diskurssianalyysi / Gesprächs- und Diskursanalyse](course)
+- Where is lecture [Varhaismoderni yhteiskunta](course)
+- Where is the classroom [Conflicts over the Use of Natural Resources and the Environment](course)
+- Where can I find [Latinan kielen alkeiskurssi](course)
+- How to get to [Verkkomedian suunnittelu - verkkokurssi](course)
+- Where [Bioinformatics tools (autumn 2018)](course)
+- Location [Julkisoikeuden perusteet (järjestäjä TAMK)](course)
+- Find [Global politics of gender](course)
+- How to find [Johdatus tieteenfilosofiaan]
+- How can I find [Lähtötasokoe / Schwellentest](course)
+- Which classroom is [Introduction to Web Publishing - Autumn 2018](course)
+- What is the classroom for [Tieteellinen kirjoittaminen / LUO & COMS](course)
+- Which room is [Laaja-alaistava harjoittelu - Ohjattu opetusharjoittelu](course)
+- I'd like to find [KV-tuutorina toimiminen(course)
+- Where can I find [Dramaturgia: Musikaalin dramaturgia](course)
+- [Taidehistoria ja näyttelypedagogiikka -](course) place
+- [Orientation - Orientation to studying in the Degree Programme](course) where
+- [Yhteiskunnan mittaaminen] (course) location
+- Locate [History of English](course)
+- Where is [Yritysappro](course) located
+- The location of [Tiedonhankintataidot 3op - Tiedonhankintataidot I - Tiedonhankinnan perusteet](course) class
+- I can't find [American Government & Politics (Tampere Summer School 2018)](course)
+- I'm trying to find [Fonetiikan tutkimusmenetelmät - Menetelmäkurssi](course)
+- I want to know the location of [Experimental animal course](course)
+- I want to know where [Tragedy of the Commons? Problems and Solutions](course) is
+- I want to know the classroom for [Radio Project](course)
+- I want to know how to find [Preparatory Course in Reading and Writing for Academic Purposes (online)](course)- Where is [Software Project Management, Software Project Management (Spring term)](course)
+- Where is course [Marketing Communications](course)
+- Where is class [Ranskan yhteiskunta I / Société française I](course)
+- Where is lecture [Johtaminen ja organisaatiot I (kirjallisuus)](course)
+- Where is the classroom [Johdatus hoitotieteelliseen tutkimukseen, kirjatentti](course)
+- Where can I find [SOTEPO - Tohtorikoulutusseminaari (Sos.- ja terv.pol., tervh.tutk., terv.huollon joht.)](course)
+- How to get to [Terveystieteiden orientoivat tohtoriopinnot](course)
+- Where [Käännösviestintä saksa - suomi  / Transalation Deutsch-Finnisch](course)
+- Location [Venäjä II](course)
+- Find [Saksa IV](course)
+- How to find [Monimuuttujamenetelmien perusteet]
+- How can I find [Espanjan historia ja kirjallisuus - Historia y literatura de España](course)
+- Which classroom is [International Trade and Finance (Tampere Summer School) - luennot ja tentti](course)
+- What is the classroom for [Bioinformatics tools (autumn 2018)](course)
+- Which room is [Tiedonhankinnan perusteet](course)
+- I'd like to find [Työ ja äitiys tänään(course)
+- Where can I find [Julkisoikeuden perusteet (järjestäjä TAMK)](course)
+- [Johdatus hoitotieteelliseen tutkimukseen, kirjatentti, Seinäjoki](course) place
+- [Radio Project](course) where
+- [Kandidaatin tutkielma ja seminaari (kevät)] (course) location
+- Locate [Basics of Project Management](course)
+- Where is [Biological data analysis with R](course) located
+- The location of [Muuttuvat oppimisympäristöt - Luennot ja opintopiiri](course) class
+- I can't find [Qualitative Approach](course)
+- I'm trying to find [European Integration and the Political System of the European Union (book exam/essay)](course)
+- I want to know the location of [Strateginen johtaminen julkisyhteisöissä](course)
+- I want to know where [Global Ghallenges to the Future of Welfare State (Tampere Summer School 2018)](course) is
+- I want to know the classroom for [Psykiatria](course)
+- I want to know how to find [Introduction to Corporate Social Responsibility](course)- Where is [Tilinpäätösanalyysi](course)
+- Where is course [Vakuutuksen ja riskienhallinnan erikoistumisosa](course)
+- Where is class [Tiedonhankintataidot (hoitotiede)](course)
+- Where is lecture [Kasvatuksen historialliset ja filosofiset lähtökohdat, monimuoto-opetus](course)
+- Where is the classroom [Mediadiskurssi](course)
+- Where can I find [PlayLab! Game Journalism Project](course)
+- How to get to [Sarjakuva ja kuvakirja kääntäjän kädessä / Suomentamisseminaari](course)
+- Where [Asiantuntijan puheviestintä ja vuorovaikutus opetus- ja kasvatustyössä (2. periodi)](course)
+- Location [Yhteisö, terveys ja sairaus](course)
+- Find [Argumentaation ja tieteellisen päättelyn perusteet](course)
+- How to find [Introduction to Bayesian Analysis 2]
+- How can I find [Eriytyvä syventävä tutkimusmenetelmäkurssi A: Etnografia](course)
+- Which classroom is [Valinnainen jakso: Toimitustyön johtaminen/ JOVVJS1 Visuaalisen työn johtaminen](course)
+- What is the classroom for [Kandidaattiseminaari (Nenonen)](course)
+- Which room is [Kandidaattiseminaari ja tutkielma (yritysjuridiikka ja vero-oikeus)](course)
+- I'd like to find [Linguistics II: Meaning and Discourse(course)
+- Where can I find [Normit ja asiakirjoittaminen - Kääntäjän kielen- ja tekstinhuolto](course)
+- [Kirjallinen viestintä II/Skriftlig kommunikation II](course) place
+- [Informaatio- ja mediajärjestelmien historiaa ja nykypäivää](course) where
+- [Regression analysis] (course) location
+- Locate [Markkinoinnin erityiskysymyksiä](course)
+- Where is [Ammattimainen tekstintarkistus](course) located
+- The location of [Terveyden ja mielenterveyden psykologia I](course) class
+- I can't find [Laajentava harjoittelu](course)
+- I'm trying to find [Toisen kielen oppiminen ja opetus](course)
+- I want to know the location of [Kirjallisuustieteen tohtoriohjelman tutkijaseminaari](course)
+- I want to know where [Asiakastyön menetelmät, luennot](course) is
+- I want to know the classroom for [Valinnainen jakso: Dokumentaarisen nyky-Suomi-sarjan konseptikehitys ja verkkosuunnittelu](course)
+- I want to know how to find [Sosiaalitieteiden teoria I - SOS5b luennot](course)- Where is [Kasvatuksen historialliset ja filosofiset lähtökohdat, monimuoto-opetus](course)
+- Where is course [Kokeellinen tiedonhaku](course)
+- Where is class [Internet ja vuorovaikutteinen media](course)
+- Where is lecture [Klinikkaharjoittelu](course)
+- Where is the classroom [Soveltava projekti - projekti](course)
+- Where can I find [Rekisteritutkimukset](course)
+- How to get to [Terveyden edistämisen interventiot, Seinäjoki](course)
+- Where [Introduction to Academic English (JKK, EDU, LUO, COMS & SOC)](course)
+- Location [Oikeustieteellinen tutkimus](course)
+- Find [Marketing Communications](course)
+- How to find [Tekstin ymmärtäminen III]
+- How can I find [[CANCELLED] Editing Project](course)
+- Which classroom is [Orientation - Introduction to Academic Culture and Degree Studies](course)
+- What is the classroom for [Vieraan kielen taito, perustaso](course)
+- Which room is [Tutkimusprosessin hallinta - Läsnäoloon perustuva oppimispäiväkirja](course)
+- I'd like to find [Semantiikka ja pragmatiikka / Sémantique et pragmatique(course)
+- Where can I find [Dialogue: Constructive Talk at Work](course)
+- [New Forms of Violence, Change in Security Paradigm (book exam/essay)](course) place
+- [Lähisuhdeväkivalta ja sen ammatillinen kohtaaminen - Sosnet verkkokurssi](course) where
+- [Työhyvinvointi (itsenäinen suoritustapa)] (course) location
+- Locate [International Work Experience](course)
+- Where is [Kaikille avoin tutkijaseminaari](course) located
+- The location of [Vuorovaikutus ja tekstit S2-näkökulmasta](course) class
+- I can't find [Specialized Optional Research Methodology: Action research](course)
+- I'm trying to find [Laskentatoimen perusteet (avoin yliopisto-opetus), monimuoto-opetus](course)
+- I want to know the location of [Tekstilingvistiikka / Textlinguistik](course)
+- I want to know where [Vuorovaikutus ja tekstit S2-näkökulmasta](course) is
+- I want to know the classroom for [Tutkimusprosessin hallinta - Läsnäoloon perustuva oppimispäiväkirja](course)
+- I want to know how to find [Julkisen hallinnon reformit ja muutos](course)- Where is [Koulutussuunnittelu ja kehittäminen - Seminaari](course)
+- Where is course [Pro gradu -seminaari ja -tutkielma (alkaa kevät 2019)](course)
+- Where is class [Advanced Functional Programming](course)
+- Where is lecture [Käsitekerho/ Mediatutkimuksen valinn. jakso](course)
+- Where is the classroom [Media and the Arctic](course)
+- Where can I find [Johdatus hoitotieteeseen](course)
+- How to get to [Opetus, ohjaus, oppiminen - elokas ja avoimen lähiop.: pienryhmäopetus (2 op)  ja kirjallisuus (2 op)](course)
+- Where [Kandidaatintutkielmaseminaari - Seminaari](course)
+- Location [Venäjä I](course)
+- Find [Kehitys, kasvatus ja elämänkulku, monimuoto-opetus](course)
+- How to find [Medical English - Introduction to Scientific Writing (RPL) / näyttökoe]
+- How can I find [Arvonlisäverotuksen syventävä opintojakso](course)
+- Which classroom is [Behavioral Finance](course)
+- What is the classroom for [Eriytyvä syventävä tutkimusmenetelmäkurssi B: Metodologinen essee](course)
+- Which room is [Neurocomputing](course)
+- I'd like to find [Biotechnical product development(course)
+- Where can I find [Tutkimustyötä tukevat tohtoriopinnot (tilastotiede)](course)
+- [Asiantuntijan puheviestintä ja vuorovaikutus opetus- ja kasvatustyössä (3. periodi)](course) place
+- [Hydrogel Journal Club](course) where
+- [Tieteellinen kirjoittaminen (SOC)] (course) location
+- Locate [Johdanto riskienhallintaan ja vakuuttamiseen (avoin yliopisto-opetus), monimuoto-opetus](course)
+- Where is [Terveystiedon sisällöt (sähköinen tentti)](course) located
+- The location of [Terveystiedon asiantuntijuus (sähköinen tentti)](course) class
+- I can't find [Terveystieteiden laadulliset tutkimusmenetelmät, kansanterveystieteen opiskelijoille](course)
+- I'm trying to find [Työn ja hyvinvoinnin maisteriohjelman tutkielmaseminaari (jatkava)](course)
+- I want to know the location of [Cell Technology Laboratory Course](course)
+- I want to know where [Saksankielisten maiden kulttuurihistoria / Kulturgeschichte der deutschsprachigen Länder](course) is
+- I want to know the classroom for [Tutkimustyön perusteet (syksy)](course)
+- I want to know how to find [Tutkielmaseminaari - Tutkielmaseminaari](course)- Where is [Cross-Institutional Studies in TUT](course)
+- Where is course [Economic renewal of cities and regions](course)
+- Where is class [Hoitot. tiedon hyödyntäminen johtamisessa ja opettamisessa: syventävä projektityö (kurssi jatkuu syksyllä 2019)](course)
+- Where is lecture [Matkakirjallisuus kulttuurihistorian lähteenä -verkkokurssi](course)
+- Where is the classroom [Ajankohtaisia kansanterveyskysymyksiä](course)
+- Where can I find [Orientation - Orientation to studying in the Degree Programme](course)
+- How to get to [Poliittisen sosiologian käsitteet ja tutkimukset](course)
+- Where [Human Rights Law](course)
+- Location [Seminaari (Kunelius) jatkuu keväältä](course)
+- Find [Euroopan unionin finanssihallinto-oikeus - Luennot ja tentti.](course)
+- How to find [Imagining Persia/Iran: Orientalism, Revolution and Diaspora]
+- How can I find [Organisaatioiden tiedonhallinta](course)
+- Which classroom is [Orientation - General Orientation Course for International Students](course)
+- What is the classroom for [Sosiaalipsykologia](course)
+- Which room is [Transcultural perspectives in developing media education](course)
+- I'd like to find [Matemaattiset aineet - Koulugeometria - 2 vsk(course)
+- Where can I find [Business Writing](course)
+- [Tutkielmapiiri](course) place
+- [Social Constructionism](course) where
+- [Learning About Language with Corpora] (course) location
+- Locate [Asiakirjatiedon organisointi- ja kuvailumenetelmät](course)
+- Where is [Poliittiset aatteet ja ideologiat (kirjatentti)](course) located
+- The location of [Tila, teknologia ja toiminta](course) class
+- I can't find [Eriytyvä syventävä tutkimusmenetelmäkurssi A: Eläytymismenetelmä - yhdistetty Jari Eskolan graduryhmään](course)
+- I'm trying to find [Dialogitulkkaus](course)
+- I want to know the location of [Tieteellinen kirjoittaminen / COMS (kirjallisuuden opiskelijoille)](course)
+- I want to know where [Puhetekniikan ja äänenkäytön perusteet](course) is
+- I want to know the classroom for [Espanjan kielen variaatio ajallisesti ja maantieteellisesti/Variación diacrónica y sincrónica del español](course)
+- I want to know how to find [Kuvataidekasvatus / Luennot - 2.vsk](course)- Where is [Matematiikkakasvatus / Luennot - 2.vsk + 1.vsk ryhmät 6 ja 7](course)
+- Where is course [Research Ethics](course)
+- Where is class [Ruotsin kielen kirjallinen ja suullinen viestintä (myös TTY:n biotekniikan opiskelijoille)](course)
+- Where is lecture [Introduction to Cultural Psychology](course)
+- Where is the classroom [Sosiaalityön harjoittelu + kehittämistyön harjoittelu - STYS2B2 Harjoitteluseminaari](course)
+- Where can I find [Epidemiologian tohtorikoulutusseminaari](course)
+- How to get to [Kirjasto- ja tietopalvelujen suunnittelu ja arviointi (keväällä 2018 opintokokonaisuuden aloittaneille)](course)
+- Where [Symbols that move us - popular culture/deep culture](course)
+- Location [Opintojen ohjattu suunnittelu](course)
+- Find [Psykiatria](course)
+- How to find [Advanced English Business Communication]
+- How can I find [Introduction to R](course)
+- Which classroom is [Lähtötasokoe](course)
+- What is the classroom for [Introduction to Academic English (diverse learners)](course)
+- Which room is [Puheviestintä tieteenä](course)
+- I'd like to find [Julkisen talousjohtamisen näkökulmia(course)
+- Where can I find [Graduseminaari, alkava (Niemi)](course)
+- [Principles of Usability, User Experience and User Interfaces](course) place
+- [Semantiikan harjoituskurssi](course) where
+- [Ääntämisharjoituksia] (course) location
+- Locate [EU Financial Management](course)
+- Where is [Writing for Research](course) located
+- The location of [Vanhat ja uudet klassikot (kirjatentti/essee)](course) class
+- I can't find [Julkisoikeuden perusteet](course)
+- I'm trying to find [Tieteellinen kirjoittaminen / COMS (puheviestinnän opiskelijoille)](course)
+- I want to know the location of [Kvantitatiivinen tutkimus kasvatustieteissä - Harjoitukset, yleinen](course)
+- I want to know where [Tekstin tekemisen perusteet](course) is
+- I want to know the classroom for [Sustainable business practices (Lectures)](course)
+- I want to know how to find [Tutkimusetiikka](course)- Where is [Distributed Systems](course)
+- Where is course [Journal club](course)
+- Where is class [Practical Observation of Finnish School System for Incoming Exchange Students - Observation, written tasks, report](course)
+- Where is lecture [Yhteisösosiaalityö monikulttuurisessa ympäristössä](course)
+- Where is the classroom [Suurvalta kriiseissä: näkökulmia Venäjän historiaan 1700-luvulta 1900-luvulle](course)
+- Where can I find [Tiede, tutkimus, kirjoittaminen](course)
+- How to get to [Seminaari II - Tieteellisen tekstin tuottaminen](course)
+- Where [Tieteellisen tiedonhankinnan perusteet (venäjä) -](course)
+- Location [Teoria, ideologia & talouspolitiikka - Keynesiläisyydestä uusliberalismiin](course)
+- Find [Lineaarialgebra 1A](course)
+- How to find [Cultural Conversations]
+- How can I find [Kuva, sana ja ääni -multimodaalisuuskurssi](course)
+- Which classroom is [Kauppatieteellisen tutkimuksen menetelmät (markkinointi ja yrityksen johtaminen)](course)
+- What is the classroom for [Liiketoimintaympäristön taloustiede](course)
+- Which room is [Projektinhallinnan perusteet](course)
+- I'd like to find [Terveystiedon asiantuntijuus (sähköinen tentti)(course)
+- Where can I find [Organisaatiokäyttäytyminen (itsenäinen suoritustapa, kevät 2019)](course)
+- [Teoria, ideologia & talouspolitiikka - Keynesiläisyydestä uusliberalismiin](course) place
+- [Perusharjoittelu](course) where
+- [[CANCELLED] Editing Project] (course) location
+- Locate [Terveystieteiden laadulliset tutkimusmenetelmät, hoitotieteen opiskelijoille](course)
+- Where is [Matematiikkakasvatus / Luennot - 2.vsk + 1.vsk ryhmät 6 ja 7](course) located
+- The location of [Tilastotieteen johdantokurssi, kevät](course) class
+- I can't find [Monikulttuurinen kirjallisuus Suomessa](course)
+- I'm trying to find [Kandidaatin tutkielma ja seminaari (Kansanterveystieteen opiskelijoille)](course)
+- I want to know the location of [Specialised International Relations Research Methods (book exam/essay)](course)
+- I want to know where [Terveystieteiden laadulliset tutkimusmenetelmät, hoitotieteen opiskelijoille](course) is
+- I want to know the classroom for [Kirjallinen viestintä I (venäjänkieliset opiskelijat)](course)
+- I want to know how to find [Deutsch im Alltag und Studium](course)- Where is [Introduction to Academic English / RPL (näyttökoe)](course)
+- Where is course [Literature and Society in Early Modern Britain](course)
+- Where is class [Tieteenfilosofia](course)
+- Where is lecture [Latinankielinen kirjallisuus I: klassinen latina](course)
+- Where is the classroom [Asiantuntijan puheviestintä ja vuorovaikutus (INTENSIIVIKURSSI 17.8.-29.8.18)](course)
+- Where can I find [Advanced bioinformatics tools](course)
+- How to get to [Muutosjohtaminen sosiaalityössä - Sosnet verkkokurssi](course)
+- Where [Viron jatkokurssi](course)
+- Location [Sosiaalisen median ja vuorovaikutteisen median perusteet](course)
+- Find [Luottamustehtävissä toimiminen - Luottamustehtäväraportti](course)
+- How to find [Johdatus matematiikkaan ja tilastotieteeseen]
+- How can I find [Sukupuolen ja ruumiillisuuden tutkimuksen nykykeskustelut](course)
+- Which classroom is [Palvelut ja hyvinvointivaltion murros](course)
+- What is the classroom for [Opetussuunnitelmatyö yliopistossa](course)
+- Which room is [EU External Relations: Security, Economy and Values (book exam/essay)](course)
+- I'd like to find [Finnish Reading Comprehension and Conversation Course 1 (taught in Finnish)(course)
+- Where can I find [Jatkokoulutusseminaari](course)
+- [Seminaari](course) place
+- [Työn ja hyvinvoinnin maisteriohjelman tutkielmaseminaari (jatkava)](course) where
+- [Tekoäly ja vakuutustoiminta] (course) location
+- Locate [Kirjallinen viestintä I / Schriftliche Kommunikation I](course)
+- Where is [Journalismin perusteet, luennot](course) located
+- The location of [Graduseminaari, jatkava (Niemi)](course) class
+- I can't find [Liiketoimintaosaamisen kokonaisdynamiikka ja sen ohjaaminen - VIBU-yritysstimulaatio](course)
+- I'm trying to find [Organizational Behavior (Independent study, Spring 2019)](course)
+- I want to know the location of [Julkisen talousjohtamisen informaatio](course)
+- I want to know where [Medioitu vuorovaikutus](course) is
+- I want to know the classroom for [Research on Media, Culture and Education](course)
+- I want to know how to find [Kandidaattiseminaari (Mustakallio)](course)- Where is [Johtamisen ja organisaatioiden perusteet](course)
+- Where is course [Informaatio- ja mediajärjestelmien historiaa ja nykypäivää (keväällä 2019 perusopinnot aloittaville) - verkkokurssi](course)
+- Where is class [Tekniikan käännösviestinnän seminaari englanti-suomi](course)
+- Where is lecture [Sanaston tuntemus/Ordkunskap](course)
+- Where is the classroom [Fonetiikan ja yleisen kielitieteen perusteet - Fonetiikka](course)
+- Where can I find [Tieteellinen kirjoittaminen / Wissenschaftliches Schreiben](course)
+- How to get to [Makrotalousteoria I](course)
+- Where [Tietokäytännöt](course)
+- Location [Keskiajan paleografia ja diplomatiikka (PERUTTU)](course)
+- Find [Ajankohtaisia kansanterveyskysymyksiä](course)
+- How to find [Political Institutions and Processes (book exam/essay)]
+- How can I find [Radiokääntäminen (saksa)](course)
+- Which classroom is [Makrotalousteoria II](course)
+- What is the classroom for [Valinnainen jakso: Johdatus tiedeviestintään](course)
+- Which room is [Tutkimusprosessin hallinta - Läsnäoloon perustuva oppimispäiväkirja](course)
+- I'd like to find [Julkisten palvelujen johtaminen(course)
+- Where can I find [Kiina I](course)
+- [Johdatus tieteenfilosofiaan](course) place
+- [Retoriikka ja argumentaatioanalyysi/Retorik och argumentationsanalys](course) where
+- [World society: National policies, global governance and transnational sociology] (course) location
+- Locate [Introduction to Entrepreneurship](course)
+- Where is [Kasvatus, koulutus ja yhteiskunta, verkko-opetus](course) located
+- The location of [International Society (book exam/essay)](course) class
+- I can't find [Feministiset politiikat ja asiantuntijuus](course)
+- I'm trying to find [Kandidaattiseminaari](course)
+- I want to know the location of [Johdatus kunta- ja aluejohtamiseen](course)
+- I want to know where [Julkisen talousjohtamisen klassikkoteokset (kirjallinen tentti)](course) is
+- I want to know the classroom for [Kirjallisuustieteen syysseminaari: Ihmesaduista adaptaatioihin. Näkökulmia sadun ja fantasian tutkimukseen](course)
+- I want to know how to find [Poliittinen viestintä: Eduskuntavaalit 2019](course)- Where is [Orientation - Orientation to studying in the Degree Programme](course)
+- Where is course [Kasvatus, koulutus ja yhteiskunta, verkko-opetus](course)
+- Where is class [Kehitys, kasvatus ja elämänkulku, monimuoto-opetus](course)
+- Where is lecture [Study Skills - Basics of Information Literacy](course)
+- Where is the classroom [Työhyvinvointi (itsenäinen suoritustapa)](course)
+- Where can I find [Longitudinal and Finite Nonlinear Mixture Modelling and Associated Experimental Design Strategies (independent study and exams) 5 ECTS](course)
+- How to get to [Äänen häiriöt](course)
+- Where [Ruotsin kielen valmentava kurssi](course)
+- Location [Lapset kehittyvinä ja sosiaalisina toimijoina varhaiskasvatuksessa / Harjoitukset - 1.vsk](course)
+- Find [Erikoisalojen käännösviestinnän seminaari ruotsi-suomi](course)
+- How to find [Hands-on genetics]
+- How can I find [Ruotsin kielen kirjallinen ja suullinen viestintä / avoin yliopisto-opetus](course)
+- Which classroom is [Johdon laskentatoimen perusteet](course)
+- What is the classroom for [Teksti, keskustelu ja vuorovaikutus](course)
+- Which room is [Yhdyskuntakehittämisen ajankohtaisia kysymyksiä](course)
+- I'd like to find [Making sense of globalization - Theorizing beyond the nation-state - Lectures + essay(course)
+- Where can I find [Mediatutkimuksen valinn. jakso: Työseminaari: Euroopan hullu vuosi 1968 ja sen perintö](course)
+- [Yksilö, yhteiskunta ja kulttuuri - Monikulttuurisuus koulussa - 2. vsk](course) place
+- [Environmental History and Cultural Ecology of Russia (VENS20)](course) where
+- [Introduction to Finnish History] (course) location
+- Locate [Johdatus visuaaliseen kulttuuriin](course)
+- Where is [Health in disasters, conflicts and complex human emergencies](course) located
+- The location of [Managing Research Information](course) class
+- I can't find [Seminaari II](course)
+- I'm trying to find [Terveyden edistämisen perusteet (kirjatentti hoitotieteen opiskelijoille)](course)
+- I want to know the location of [Terveystiedon perusteet](course)
+- I want to know where [Usean muuttujan integraalilaskenta](course) is
+- I want to know the classroom for [Normit ja asiakirjoittaminen - Tieteellinen kirjoittaminen](course)
+- I want to know how to find [Visuaalisen journalismin perusteet, luennot](course)- Where is [Distributed Systems](course)
+- Where is course [Johdon laskentatoimen teoria -](course)
+- Where is class [Sosiaalioikeus - STYA1A2 Sosiaalioikeus II](course)
+- Where is lecture [Sosiaalityön harjoittelu](course)
+- Where is the classroom [Tutkijan puheviestintä](course)
+- Where can I find [Ympäristöpolitiikan vaikutuskeinot](course)
+- How to get to [Kielen ja vuorovaikutuksen tutkimuksen teorioita ja sovellutuksia](course)
+- Where [Kielioppi II (suomenkieliset opiskelijat)](course)
+- Location [Keskustelun- ja diskurssianalyysi / Gesprächs- und Diskursanalyse](course)
+- Find [Mediadiskurssi](course)
+- How to find [Aluetalous ja kaupunkitalous]
+- How can I find [Yksilö, yhteiskunta ja kulttuuri - Monikulttuurisuus koulussa - 2. vsk](course)
+- Which classroom is [Feministinen teoria ja metodologia](course)
+- What is the classroom for [Venäjä III](course)
+- Which room is [Pratiques de l'oral et de l'écrit / Ranskan kielen tuottaminen](course)
+- I'd like to find [Learning from Multiple Sources(course)
+- Where can I find [Tutkijan puheviestintä](course)
+- [Cost-Benefit and Cost-Effectiveness Analysis for Social Planning](course) place
+- [Tieteellinen kirjoittaminen](course) where
+- [Eurooppalainen, euraasialainen ja globaali energiapolitiikka (kirjatentti/essee)] (course) location
+- Locate [Academic Writing](course)
+- Where is [Nuorisotyön ja nuorisotutkimuksen maisteriohjelman lähijakso 7.-8.11.2018](course) located
+- The location of [Musiikin tiedolliset valmiudet ja niiden soveltaminen - Harmonia ja improvisointi koskettimilla](course) class
+- I can't find [Puheviestintä ja hyvinvointi](course)
+- I'm trying to find [Varhaiskasvatuksen kehittyvä asiantuntijuus - Työssäoppiminen 3.vsk](course)
+- I want to know the location of [Kieli käyttöön/Språket i bruk](course)
+- I want to know where [Ruotsin kielen kirjallinen ja suullinen viestintä (JKK: HK & YTK / EDU / LUO / COMS: HuK, LuK & YTK / SOC)](course) is
+- I want to know the classroom for [Oikeudellisen tutkimuksen perusteet](course)
+- I want to know how to find [Statistical Analysis with Missing Data (advanced)](course)- Where is [Aineopintojen valinnainen jakso: Organisaatioviestintä](course)
+- Where is course [Vierailuluentoja johtamisesta](course)
+- Where is class [Monikulttuurisuus ja koulutuspolitiikka - Seminaari](course)
+- Where is lecture [Basics II: Intermediate Czech II](course)
+- Where is the classroom [Kandidaattiseminaari ja tutkielma (markkinointi) - kevät 2019](course)
+- Where can I find [Visuaalisen journalismin erityisalueet](course)
+- How to get to [Quantitative Research Methods and Comparative Research Design (Global Society students)](course)
+- Where [Omaan tieteenalaan ja tutkimusaiheeseen liittyvät opinnot teatteritaiteen tohtorin tutkinnossa](course)
+- Location [Johdatus espanjalaiseen kulttuuriin](course)
+- Find [Poverty in the world: Hunger, inequalities and action](course)
+- How to find [Missä mennään Mead? -seminaari]
+- How can I find [Liikuntatuutorina toimiminen - Liikuntatuutoriperehdytys](course)
+- Which classroom is [Yhteiskunnan tutkimuksen ajankohtaisia kysymyksiä - Luennot](course)
+- What is the classroom for [Toiminta, tulkinta ja tieto (verkkokurssi)](course)
+- Which room is [Cost-Benefit and Cost-Effectiveness Analysis for Social Planning](course)
+- I'd like to find [Modernisoituva yhteiskunta(course)
+- Where can I find [Struggles on Education](course)
+- [Opetus, ohjaus, oppiminen, verkko-opetus](course) place
+- [Implementation and Evaluation of Public Policies](course) where
+- [Johdatus oikeusjärjestykseen (verkkokurssi)] (course) location
+- Locate [Yrityksen oikeudellinen riskienhallinta](course)
+- Where is [Lesen, Verstehen, Schreiben](course) located
+- The location of [Espanja III](course) class
+- I can't find [Perehdyttäminen tietotekniikan alkeisiin](course)
+- I'm trying to find [Toiminta, tulkinta ja tieto](course)
+- I want to know the location of [Lähtötasokoe / Schwellentest](course)
+- I want to know where [Kansainvälisen politiikan erikoistuvat menetelmäopinnot (kirjatentti/essee)](course) is
+- I want to know the classroom for [Erot, jaot ja niiden rakentuminen, kirjatentti, Pori](course)
+- I want to know how to find [Sanaston tuntemus/Ordkunskap](course)- Where is [Nuorisotyön ja nuorisotutkimuksen maisteriohjelman lähijakso 14.-15.3.2019](course)
+- Where is course [Sosiaalioikeus](course)
+- Where is class [Puheviestintä tieteenä](course)
+- Where is lecture [Tietotekniikkataidot (kevät)](course)
+- Where is the classroom [Matemaattiset aineet - Johdatus lukukäsitteeseen ja toimintamateriaalit - 1. vsk  ja erillisen opinto-oikeuden POM-opintoihin saaneet opiskelijat (luennot)](course)
+- Where can I find [Finnish Elementary Course 1 (taught in 1. period)](course)
+- How to get to [Tieteenfilosofia](course)
+- Where [Ainedidaktiikka I](course)
+- Location [Tulevaisuuden hyvinvointipalvelut: ratkaisuna robotiikka?](course)
+- Find [Harjoittelu ja työelämävalmiudet](course)
+- How to find [Ohjaus yliopistossa]
+- How can I find [Valinnainen jakso: Tiedeviestinnän projekti](course)
+- Which classroom is [Yhteiskunnan mittaaminen (verkkokurssi)](course)
+- What is the classroom for [Opetus, ohjaus, oppiminen, monimuoto-opeus](course)
+- Which room is [EU ja Länsi-Balkan: ehdollistettua demokratiaa ja valtionrakennusta](course)
+- I'd like to find [Median ja politiikan välinen suhde(course)
+- Where can I find [Latinankielinen kirjallisuus I: klassinen latina](course)
+- [Sota-ajan säännösteltyä kulttuuria](course) place
+- [Ruotsin kielen kirjallinen ja suullinen viestintä](course) where
+- [Molekyylibiologia] (course) location
+- Locate [Kunnallisoikeuden syventävä jakso](course)
+- Where is [Eurooppa-vero-oikeus](course) located
+- The location of [Parties and Elections (book exam/essay)](course) class
+- I can't find [Tiedonhaun perusteet](course)
+- I'm trying to find [Sustainable business practices (Independent study)](course)
+- I want to know the location of [Sosiaalitieteiden kvalitatiiviset menetelmät - Luennot ja harjoitukset](course)
+- I want to know where [Musiikin perusteet / Luennot - 1.vsk ryhmät 1-5](course) is
+- I want to know the classroom for [Behavioral Finance](course)
+- I want to know how to find [Tutkijaseminaari](course)- Where is [Systemaattinen tiedonhaku hoitotieteessä, Seinäjoki](course)
+- Where is course [Language, Communication and Culture](course)
+- Where is class [Historiankirjoituksen historia](course)
+- Where is lecture [Orientoivat opinnot ja HOPS (pohjoismaiset kielet)](course)
+- Where is the classroom [Suullinen viestintä I/Muntlig kommunikation I](course)
+- Where can I find [Perhe ja tunteet](course)
+- How to get to [Kansainvälisen politiikan johdantokurssi (kirjatentti)](course)
+- Where [Näkökulmia kääntämiseen - Kääntäminen viestinnällisenä asiantuntijatehtävänä / Perspektiven auf Übersetzen](course)
+- Location [Testimenetelmien perusteet ja ammattietiikka](course)
+- Find [Johdon laskentatoimen jatkokurssi](course)
+- How to find [Ruotsin kielen kirjallinen ja suullinen viestintä (JKK: HK & YTK / EDU / LUO / COMS: HuK, LuK & YTK / SOC)]
+- How can I find [Rauhan- ja konfliktintutkimus (kirjatentti/essee)](course)
+- Which classroom is [Budgeting and capital budgeting (online course)](course)
+- What is the classroom for [Ihmisoikeudet ja kansainvälinen yhteisö (kirjatentti/essee)](course)
+- Which room is [Kuva-  ja mediakulttuurit - Kuvakulttuurit - 1. vsk ja erillisen opinto-oikeuden POM-opintoihin saaneet opiskelijat (luennot)](course)
+- I'd like to find [Orientoivat opinnot - Tiedonhankintataidot I (TIE)(course)
+- Where can I find [Sosiaalipsykologia](course)
+- [Eriytyvä syventävä tutkimusmenetelmäkurssi A: Kehittävän työntutkimuksen menetelmät](course) place
+- [Matemaattiset aineet - Koulugeometria - 2 vsk](course) where
+- [Johdatus länsimaiseen kirjallisuushistoriaan - luennot] (course) location
+- Locate [Academic writing and theory](course)
+- Where is [Organizational Behavior (Independent study, Spring 2019)](course) located
+- The location of [Kiina II](course) class
+- I can't find [Digital Image Processing - Self-studying](course)
+- I'm trying to find [Suunnittelu ja kehittäminen hoitotyön johtamisessa](course)
+- I want to know the location of [Neuropsykologinen kuntoutus](course)
+- I want to know where [Nordic Model: Nordic Welfare Societies](course) is
+- I want to know the classroom for [Oppimisen ja opiskelun taidot](course)
+- I want to know how to find [Lasten arviointi](course)- Where is [Laskentatoimen perusteet](course)
+- Where is course [Tiede, tutkimus, kirjoittaminen](course)
+- Where is class [The Coeliac Disease Journal Club](course)
+- Where is lecture [Käsityö - Käsityö -1. vsk ja erillisen opinto-oikeuden POM-opintoihin saaneet opiskelijat (luennot)](course)
+- Where is the classroom [Ammattimainen tekstintarkistus](course)
+- Where can I find [Asiantuntijan puheviestintä ja vuorovaikutus (INTENSIIVIKURSSI 17.8.-29.8.18)](course)
+- How to get to [Theories of Crime and Deviance](course)
+- Where [Pro gradu -tutkielma ja -seminaari, tammikuussa 2018 aloittaneet ryhmät](course)
+- Location [Geometria - Geometria](course)
+- Find [Tekninen työ -](course)
+- How to find [SOS6.2.3 Työelämän vuorovaikutus]
+- How can I find [Pitkä harjoittelu](course)
+- Which classroom is [Behavioraalinen ja psykologinen taloustiede](course)
+- What is the classroom for [Asioimistulkkaus venäjä-suomi-venäjä](course)
+- Which room is [Kansanterveystieteen käsitteitä ja teoreettisia kysymyksiä](course)
+- I'd like to find [Yhtiöoikeuden syventävä opintojakso(course)
+- Where can I find [Rahoituksen perusteet](course)
+- [Muu valinnainen kurssi](course) place
+- [Tulkin oikeustieto I](course) where
+- [Intercultural Communication] (course) location
+- Locate [Käsitteellinen mallintaminen I](course)
+- Where is [Maailmanpolitiikan tutkimus (kirjatentti/essee)](course) located
+- The location of [Courses in Computer Science in TUT](course) class
+- I can't find [Kulttuuripsykologian perusteet](course)
+- I'm trying to find [Master´s Thesis and Seminar - for the group that started in 2017](course)
+- I want to know the location of [Asiantuntijan puheviestintä ja vuorovaikutus / AHOT (näyttökoe)](course)
+- I want to know where [Tutkimusasetelman menetelmällinen rakentuminen tohtoriopinnoissa - Dialogipajat](course) is
+- I want to know the classroom for [Tietokäytännöt (keväällä 2018 perusopinnot aloittaneille) - verkkokurssi](course)
+- I want to know how to find [Fonetiikan teoriaa - Fonetiikan jatkokurssi](course)- Where is [Politiikan tutkimuksen kandidaatintutkielma ja -seminaari](course)
+- Where is course [Muu valinnainen kurssi](course)
+- Where is class [Matemaattiset aineet - Johdatus lukukäsitteeseen ja toimintamateriaalit - 1. vsk  ja erillisen opinto-oikeuden POM-opintoihin saaneet opiskelijat (harjoitukset)](course)
+- Where is lecture [Sosiaalisen median ja vuorovaikutteisen median perusteet](course)
+- Where is the classroom [Journalistinen kieli - Tekstinhuolto](course)
+- Where can I find [Filosofian työpaja](course)
+- How to get to [Ulkopolitiikka ja diplomatia (kirjatentti/essee)](course)
+- Where [Psykiatria ja mielenterveys](course)
+- Location [Romanian kielen jatkokurssi I / Advanced Course 1 in Romanian](course)
+- Find [Matematiikkakasvatus / Luennot - 2.vsk + 1.vsk ryhmät 6 ja 7](course)
+- How to find [Kandidaattiseminaari ja -tutkielma (julkisoikeus), syksy]
+- How can I find [Käsityö - Käsityö -1. vsk ja erillisen opinto-oikeuden POM-opintoihin saaneet opiskelijat (luennot)](course)
+- Which classroom is [Usean muuttujan differentiaalilaskenta](course)
+- What is the classroom for [Applied and Effective Project Management, Leadership and Communication - (Tampere Summer School)](course)
+- Which room is [Introduction to Academic English / RPL (näyttökoe)](course)
+- I'd like to find [Introduction to Corporate Social Responsibility(course)
+- Where can I find [Study Skills - Basics of Information Literacy](course)
+- [Saksa IV](course) place
+- [Kaupunkien maankäytön pelikenttä](course) where
+- [Varhaiskasvatuksen ja esiopetuksen pedagogiikka - Työssäoppiminen 2.vsk (ryhmä 4)] (course) location
+- Locate [The Cancer Biology Journal Club](course)
+- Where is [Eurooppalainen, euraasialainen ja globaali energiapolitiikka (kirjatentti/essee)](course) located
+- The location of [Sosiaalipsykologinen ajattelu II](course) class
+- I can't find [Sosiaalityön peruskurssi (verkkokurssi)](course)
+- I'm trying to find [Fundamentals of Human-Technology Interaction (Tampere Summer School 2018)](course)
+- I want to know the location of [Ruotsin kielen kirjallinen ja suullinen viestintä / avoin yliopisto-opetus](course)
+- I want to know where [Kasvatushistoria - kirjatentti (slk ja klk)](course) is
+- I want to know the classroom for [Media, Race and Society](course)
+- I want to know how to find [Kansainvälisen politiikan erikoistuvat menetelmäopinnot (kirjatentti/essee)](course)- Where is [Näkökulmia kääntämiseen - Tekstin ymmärtäminen](course)
+- Where is course [Käyttöliittymien perusteet](course)
+- Where is class [Graduseminaari / Kekäläinen (jatkuu keväältä 2018)](course)
+- Where is lecture [Yhteiskunnallinen laskentatoimi](course)
+- Where is the classroom [Finnish Education System - Seminar](course)
+- Where can I find [Statistical Analysis with Missing Data (advanced)](course)
+- How to get to [Variety in Present-day English](course)
+- Where [Creative Writing in English](course)
+- Location [Structure of English II - Phonology and Pronunciation II](course)
+- Find [Hoivan ehdot, talouden rajat: johdatus vaivan politiikkaan](course)
+- How to find [Visuaalisen kulttuurin teoria - lukupiiri ja essee]
+- How can I find [Ruotsin kielen kirjallinen ja suullinen viestintä / AHOT (näyttökoe)](course)
+- Which classroom is [Tutkiva ja kehittävä opettaja](course)
+- What is the classroom for [Understanding and Managing a Business as a Dynamic Whole - VIBU Business Simulation Game](course)
+- Which room is [Tilinpäätös- ja verosuunnittelu](course)
+- I'd like to find [Finnish Elementary Course 1 (taught in 1. & 2. period)(course)
+- Where can I find [Kandidaattiseminaari ja -tutkielma (kunta- ja aluejohtaminen) - Seminaari Kevät 2019](course)
+- [Translating and Editing for Publication](course) place
+- [Tutkimusseminaari ja pro gradu -tutkielma](course) where
+- [Asiantuntijan puheviestintä ja vuorovaikutus, 3.-4. periodi / VIESTINTÄROHKEUDEN RYHMÄ] (course) location
+- Locate [Fonetiikan perusopintojen harjoitustyö](course)
+- Where is [Journalismin perusteet, luennot](course) located
+- The location of [Tutkimustyön perusteet - c) Tutkimusmenetelmien erityiskysymyksiä](course) class
+- I can't find [Sukupuolentutkimus](course)
+- I'm trying to find [Second Language Acquisition](course)
+- I want to know the location of [Sosiaalitieteiden kvantitatiiviset menetelmät - Luennot ja harjoitukset](course)
+- I want to know where [Äkilliset traumaattiset kriisit ja niiden käsittely](course) is
+- I want to know the classroom for [Nuorisotyö ja nuorten elämänkulku](course)
+- I want to know how to find [Introduction to Criminal Justice](course)- Where is [Kvantitatiiviset tutkimusmenetelmät (kirjatentti/essee)](course)
+- Where is course [Tutkimustyötä tukevat tohtoriopinnot (tilastotiede)](course)
+- Where is class [Simultaaninen konferenssitulkkaus](course)
+- Where is lecture [Research seminar for postgraduate studies](course)
+- Where is the classroom [Kiina I](course)
+- Where can I find [Käyttäjäkeskeinen kääntäminen](course)
+- How to get to [Nimistöntutkimus](course)
+- Where [Televisiojournalismi](course)
+- Location [Fonetiikan teoriaa - Fonetiikan jatkokurssi](course)
+- Find [Käsityö - Käsityö -1. vsk ja erillisen opinto-oikeuden POM-opintoihin saaneet opiskelijat (luennot)](course)
+- How to find [Specialised International Relations Research Methods (book exam/essay)]
+- How can I find [Korkeakoulut työyhteisöinä - Kehittämistehtävä](course)
+- Which classroom is [Kasvatus, tieto ja teoria - Luennot](course)
+- What is the classroom for [Julkiset rahoitusjärjestelmät](course)
+- Which room is [Päätöksenteko lastensuojelussa](course)
+- I'd like to find [Kvalitatiivinen tutkimus kasvatustieteissä - Verkkokurssi, yhteisopetus avoimen yo:n ja tutkinto-opiskelijoille(course)
+- Where can I find [Kvalitatiivinen tutkimus kasvatustieteissä - Harjoitukset, yleinen ryhmä](course)
+- [Writing for Research](course) place
+- [Pedagoginen harjoittelu / Varhaiskasvatus](course) where
+- [Julkisen talousjohtamisen tutkimusotteet] (course) location
+- Locate [Lääketieteellisen tutkimuksen etiikka](course)
+- Where is [Tieteellinen kirjoittaminen (SOC)](course) located
+- The location of [Kandidaattiseminaari ja kandidaatin tutkielma - Kandiseminaari](course) class
+- I can't find [Interacting Interculturally: Engaging in dialogue](course)
+- I'm trying to find [Structure of English II - Grammar II](course)
+- I want to know the location of [Finnish Advanced Course 1 (taught in Finnish)](course)
+- I want to know where [Matematiikkakasvatus / Harjoitukset - 2.vsk + 1.vsk ryhmät 6 ja 7](course) is
+- I want to know the classroom for [Oikeustulkkaus I/II (monikielinen)](course)
+- I want to know how to find [Research on Society and Organisations](course)- Where is [Digitaalinen historia](course)
+- Where is course [Kandidaattitutkielma ja seminaari (matematiikka) - LaTeX-opinnot](course)
+- Where is class [Varhaiskasvatuksen pedagogiikka ja opetussuunnitelmatyö / Luennot - 2.vsk + 1.vsk ryhmät 6 ja 7](course)
+- Where is lecture [Tieteellinen kommunikaatio ja bibliometriikka](course)
+- Where is the classroom [Seminaari, kandidaatintutkielma ja kypsyysnäyte - Seminaari (kääntäminen ja tulkkaus)](course)
+- Where can I find [Feministinen tietäminen](course)
+- How to get to [Antiikintutkimuksen lähteet ja menetelmät](course)
+- Where [Omaan tieteenalaan ja tutkimusaiheeseen liittyvät opinnot teatteritaiteen tohtorin tutkinnossa](course)
+- Location [Eduskuntavaalikurssi 2019 ja valinnainen tutkimusprojekti](course)
+- Find [Tutkimustyötä tukevat tohtoriopinnot (tilastotiede)](course)
+- How to find [Terveys politiikassa, taloudessa ja järjestelmissä]
+- How can I find [Preparatory Course in Reading and Writing for Academic Purposes (online)](course)
+- Which classroom is [Simultaanitulkkaus I venäjä-suomi-venäjä](course)
+- What is the classroom for [Rasismi ja antirasismi](course)
+- Which room is [Translators' Cultural Competencies](course)
+- I'd like to find [Johdatus sosiaaliantropologiaan -seminaari(course)
+- Where can I find [Biokemian menetelmät](course)
+- [Ekonometrian jatkokurssi](course) place
+- [Asiantuntijan puheviestintä ja vuorovaikutus, 1.-2. periodi / VIESTINTÄROHKEUDEN RYHMÄ](course) where
+- [Verkkomedian suunnittelu - verkkokurssi] (course) location
+- Locate [Terveystieteiden laadulliset tutkimusmenetelmät (hoitotieteen opiskelijat), Seinäjoki](course)
+- Where is [Business Writing](course) located
+- The location of [Pelit ja pelillisyys (keväällä 2018 perusopinnot aloittaneille) - verkkokurssi](course) class
+- I can't find [Tietojenkäsittelytieteiden opintojakso TTY:ltä](course)
+- I'm trying to find [Regression analysis](course)
+- I want to know the location of [Ranska III](course)
+- I want to know where [Politiikan tutkimuksen kandidaatintutkielma ja -seminaari](course) is
+- I want to know the classroom for [Information Visualization](course)
+- I want to know how to find [Tutkimusasetelman menetelmällinen rakentuminen tohtoriopinnoissa - Dialogipajat](course)- Where is [Filosofian historia](course)
+- Where is course [Media and Cultural Industries](course)
+- Where is class [ROMA MEDIAEVALIS - kansainvälinen keskiajan historian Rooma -kurssi -](course)
+- Where is lecture [Introduction to research methods in public administration](course)
+- Where is the classroom [Henkilöverotus](course)
+- Where can I find [Internationalisation in Education - (Tampere Summer School 2018)](course)
+- How to get to [Proseminaari (ryhmä 2)](course)
+- Where [Liiketoimintamallit](course)
+- Location [Managing e-commerce; Consumers and Community Perspective](course)
+- Find [Visuaalisen journalismin erityisalueet](course)
+- How to find [Fonetiikan perusopintojen harjoitustyö]
+- How can I find [Tiimi toimii - puheviestinnän syventävä kurssi (3. periodi)](course)
+- Which classroom is [Kandidaatintutkielmaseminaari - Seminaari](course)
+- What is the classroom for [Internet ja vuorovaikutteinen media](course)
+- Which room is [Kontrastiivisen fonetiikan perusteet -](course)
+- I'd like to find [Second Language Acquisition(course)
+- Where can I find [Yritysverotuksen syventävä opintojakso](course)
+- [Kuntien ja alueiden kansainväliset hallintasuhteet](course) place
+- [Vertaisohjaus tietojenkäsittelytieteissä](course) where
+- [Yhteisöllinen kehittämistehtävä] (course) location
+- Locate [Dialogue: Constructive Talk at Work (Tampere Summer School 2018)](course)
+- Where is [Makrotalousteorian jatkokurssi I](course) located
+- The location of [Ihmisoikeudet ja kansainvälinen yhteisö (kirjatentti/essee)](course) class
+- I can't find [Tekstitaidot](course)
+- I'm trying to find [Topical Issues in Governance, Management and Administration](course)
+- I want to know the location of [Opetus, ohjaus, oppiminen, monimuoto-opetus](course)
+- I want to know where [Hallintotieteen teoriat ja käsitteet](course) is
+- I want to know the classroom for [Kohti matematiikan opettajuutta 1(TTY)](course)
+- I want to know how to find [Visuaalisen kulttuurin teoria - luennot ja pienryhmätyöskentely](course)- Where is [Rahoitusekonometria](course)
+- Where is course [Journalismin perusteet, harjoitukset](course)
+- Where is class [Analyysi B](course)
+- Where is lecture [Introduction to Big Data Processing](course)
+- Where is the classroom [Kansainvälisen politiikan teoria ja metateoria (kirjatentti)](course)
+- Where can I find [Johtajuuden nykysuuntia](course)
+- How to get to [Toimittajan tieto- ja viestintätekniikkataidot](course)
+- Where [Matemaattiset aineet - Fysiikka ja kemia - 2. vsk](course)
+- Location [Kiina III](course)
+- Find [Research on Teaching and Learning - Seminar](course)
+- How to find [Tiedonhaun kieliteknologia]
+- How can I find [Yksilö, yhteiskunta ja kulttuuri - historian ja yhteiskuntaopin harjoitusryhmät - 2. vsk](course)
+- Which classroom is [Äärellisten mallien teorian seminaari (Finite model theory seminar)](course)
+- What is the classroom for [Current Trends in Leadership](course)
+- Which room is [Tutkimushaastattelu: taito, tyylit ja kohderyhmät](course)
+- I'd like to find [Tieteellinen kirjoittaminen / SOC (historia & filosofia)(course)
+- Where can I find [Tilastollisen päättelyn perusteet, iltaryhmä](course)
+- [Opetus, ohjaus, oppiminen - Varhaiskasvatuksen opiskelijoille luennot (1 op) verkkotallenteena](course) place
+- [Julkisoikeuden syventävä tutkimusjakso](course) where
+- [Moniammatilliset johtamisopinnot] (course) location
+- Locate [Puheviestinnän tutkimuskurssi](course)
+- Where is [Foundations of English Business Communication (RPL) / näyttökoe](course) located
+- The location of [Johdatus hoitotieteelliseen tutkimukseen](course) class
+- I can't find [PhD by publication: writing integrative chapter](course)
+- I'm trying to find [Kvantitatiivinen tutkimus kasvatustieteissä - Harjoitukset, varhaiskasvatus](course)
+- I want to know the location of [Puhe ja ääni tieteellisen tutkimuksen kohteena](course)
+- I want to know where [Systemaattinen tiedonhaku hoitotieteessä](course) is
+- I want to know the classroom for [Käsiteanalyysi ja filosofiset tutkimusmenetelmät (kirjatentti/essee)](course)
+- I want to know how to find [Kliinisen tutkijan peruskurssi](course)- Where is [ROMA MEDIAEVALIS - kansainvälinen keskiajan historian Rooma -kurssi -](course)
+- Where is course [Erot, jaot ja niiden rakentuminen, kirjatentti, Seinäjoki](course)
+- Where is class [Ympäristön ja alueiden poliittisuus (avoin yliopisto-opetus), monimuoto-opetus](course)
+- Where is lecture [Liikunta - Liikuntapedagogiikka perusopetuksessa A - 2. vsk](course)
+- Where is the classroom [Asiantuntijan puheviestintä ja vuorovaikutus (4. periodi)](course)
+- Where can I find [Fonetiikan perusopintojen harjoitustyö](course)
+- How to get to [Kehittävä asiantuntijatyö organisaatioissa](course)
+- Where [Suullinen viestintä II/Muntlig kommunikation II](course)
+- Location [Nordic Parliaments (POMLFCS1)](course)
+- Find [Communication Skills in English - Speaking Practice](course)
+- How to find [Yksilö, yhteiskunta ja kulttuuri - evankelisluterilaiset uskonnon ja elämänkatsomustiedon harjoitusryhmät - 2. vsk]
+- How can I find [Tutkiva opiskelu (keväällä 2019 perusopinnot aloittaville) - verkkokurssi](course)
+- Which classroom is [Päätöksenteko lastensuojelussa](course)
+- What is the classroom for [Luentateatteri](course)
+- Which room is [KEB-61430 Laaja kemia 3](course)
+- I'd like to find [Eduskuntavaalikurssi 2019 ja valinnainen tutkimusprojekti(course)
+- Where can I find [Tutkimusseminaari ja pro gradu -tutkielma](course)
+- [SPSS:n perusteet, kevät](course) place
+- [Kasvatustieteen metodologiset lähtökohdat, kirjatentti, Pori](course) where
+- [Seminaari II] (course) location
+- Locate [Käännösviestintä suomi-ruotsi/Översättning finska-svenska](course)
+- Where is [Soveltava projekti - projekti](course) located
+- The location of [Perspectives in Educational Research](course) class
+- I can't find [Kääntäminen äidinkieleen](course)
+- I'm trying to find [Perintö-, lahja- ja varainsiirtoverotus](course)
+- I want to know the location of [Multidisciplinary Games and Internet Research](course)
+- I want to know where [Pedagoginen harjoittelu/Elinikäinen oppiminen ja kasvatus, aikuiskoulutuksen opettajan pedagogiset opinnot - Pedagoginen seminaari ja harjoittelu](course) is
+- I want to know the classroom for [Cell Technology Laboratory Course](course)
+- I want to know how to find [Sosiaalityön historia ja tutkimus (kirjatentti)](course)- Where is [Toiminta, tulkinta ja tieto](course)
+- Where is course [Yksilö, yhteiskunta ja kulttuuri - Historia, yhteiskuntaoppi ja katsomusopetus - 2. vsk (luennot)](course)
+- Where is class [Tekstianalyysi / Textanalyse](course)
+- Where is lecture [Yhteiskunnan mittaaminen](course)
+- Where is the classroom [Moniulotteinen markkinointi (avoin yliopisto-opetus), monimuoto-opetus](course)
+- Where can I find [Gradu-kvantimetodit](course)
+- How to get to [Kandidaattiseminaari ja tutkielma (laskentatoimi) - Kandidaattiseminaari, kevät 2018](course)
+- Where [Makrotalousteoria II](course)
+- Location [Laatu, arviointi ja kehittäminen korkeakouluissa - Harjoitustyö](course)
+- Find [Työ- ja virkamiesoikeus](course)
+- How to find [EU External Relations: Security, Economy and Values (book exam/essay)]
+- How can I find [Kvalitatiivinen tutkimus kasvatustieteissä - Verkkokurssi, yhteisopetus avoimen yo:n ja tutkinto-opiskelijoille](course)
+- Which classroom is [Master's Thesis Seminar / Internet and Game Studies](course)
+- What is the classroom for [Kirjallisuus ja kulttuuri/Litteratur och kultur](course)
+- Which room is [Kasvatus tieteellisen tutkimuksen kohteena - verkko-opetus, I-periodi](course)
+- I'd like to find [Johdatus tietojenkäsittelytieteisiin(course)
+- Where can I find [Pro gradu -seminaari ja -tutkielma (alkaa kevät 2019)](course)
+- [Tieteellinen kirjoittaminen / SOC (logopedia)](course) place
+- [SOS6.2.3 Työelämän vuorovaikutus](course) where
+- [Tieteellisen kirjoittamisen seminaari kvantitatiivista tutkimusta tekeville] (course) location
+- Locate [Julkiset rahoitusjärjestelmät](course)
+- Where is [Tietokäytännöt (syksyllä 2018 perusopinnot aloittaville) - verkkokurssi](course) located
+- The location of [Finnish Survival Course](course) class
+- I can't find [Risk Management and Supervision of Financial Institutions](course)
+- I'm trying to find [Tutkielmapiiri](course)
+- I want to know the location of [Kvalitatiivinen tutkimus kasvatustieteissä - Harjoitukset, luokanop. ryhmä](course)
+- I want to know where [Tekstianalyysi / Textanalyse](course) is
+- I want to know the classroom for [Case study: Examining leadership challenges](course)
+- I want to know how to find [Asiantuntijan puheviestintä ja vuorovaikutus opetus- ja kasvatustyössä (2. periodi)](course)

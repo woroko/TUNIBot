@@ -1,0 +1,1021 @@
+- When does [Kandidaatin tutkielma ja seminaari (Kansanterveystieteen opiskelijoille)](course) start
+- When does [Kirjallisuudentutkimuksen menetelmät - Menetelmät ja sovellukset](course) start
+- When does [Filosofian historia](course) start
+- When does [Kirjallinen viestintä II / Schriftliche Kommunikation II](course) begin
+- When does [Saksa I](course) begin
+- When will [Introduction to Academic English (online / JKK, EDU, LUO, COMS & SOC)](course) begin
+- When will [Europe in transition](course) begin
+- When will [Kirjoitusviestintä / COMS](course) begin
+- When will [Musiikin perusteet / Harjoitukset - 1.vsk](course) begin
+- When does [Sosiaaliturvan ajankohtaisia kysymyksiä](course) begin
+- When will [Social Scientific Perspectives on Consumption (online course)](course) start
+- When will [Saksa III](course) start
+- When will [Arvonlisäverotus](course) start
+- When will [Embryology](course) start
+- When is [Kasvatustieteen metodologiset lähtökohdat - Luennot ja kirjatentti TAI kirjatentti](course)
+- [Terveyden edistämisen interventiot](course) when
+- When [Suomen kielen ja sen tutkimuksen historia][course]
+- [Kunnallisoikeus](course) start
+- [Matematiikkakasvatus / Harjoitukset - 2.vsk + 1.vsk ryhmät 6 ja 7](course) start date
+- [Cultural Transitions](course) starting date
+- [Sosiaalityön harjoittelu](course) begins
+- Tell me the start date of [Multi-level Governance and Europeanisation (book exam/essay)](course)
+- What day will [Käännösten suomi(course) start
+- When do I have [Teoria perhehoitotieteessä](course)
+- When do we have [Antropologian osa-alueet](course)
+- The start date of [Johdon laskentatoimen perusteet](course)
+- Start date for [Embryology](course)
+- Start of [Liike- ja työsopimukset](course)
+- I want to know when [Verkostoitunut maailma](course) starts
+- I want to know when will [Moniammatilliset oppimisyhteisöt - Luennot](course) start
+- I want to know the start date of [Software Project Management, Software Project Management (Spring term)](course)
+- I want to know when [Lesen, Verstehen, Schreiben](course) begin
+- Tell me the start date of [Pohjoismaisten kielten lähtötasokoe](course)
+- Tell me when [Kehitys, kasvatus ja elämänkulku, monimuoto-opetus](course) begins
+- What day will [Advanced International Relations Research Methods (book exam/essay)](course) start- When does [Rauha, turvallisuus ja kansainväliset instituutiot (kirjatentti/essee)](course) start
+- When does [Maisteriopintojen esittely -  SDE](course) start
+- When does [Kandidaatintutkielma - Seminaari ja tutkielma](course) start
+- When does [Professional Writing (online course)](course) begin
+- When does [Monimuuttujamenetelmien perusteet](course) begin
+- When will [Introduction to Academic English (diverse learners)](course) begin
+- When will [Opetus, ohjaus, oppiminen - Varhaiskasvatuksen opiskelijoille luennot (1 op) verkkotallenteena](course) begin
+- When will [Erot, jaot ja niiden rakentuminen - Luennot ja lukupiiri (klk) TAI kirjatentti (slk ja klk)](course) begin
+- When will [Julkisen talousjohtamisen informaatio](course) begin
+- When does [Orientaatio tutkielman tekemiseen](course) begin
+- When will [Doctoral Studies](course) start
+- When will [Literary Theory and Methodology](course) start
+- When will [Hoitot. tiedon hyödyntäminen johtamisessa ja opettamisessa: syventävä projektityö (kurssi jatkuu keväältä 2018)](course) start
+- When will [Special Issues in Design Research](course) start
+- When is [Kuva-  ja mediakulttuurit - Mediakulttuurit- I vsk ja  erillisen opinto-oikeuden POM-opintoihin saaneet opiskelijat (luennot)](course)
+- [History of English](course) when
+- When [Henkilöstöjohtaminen][course]
+- [Graduseminaari / Kekäläinen (jatkuu keväältä 2018)](course) start
+- [Research on Society and Organisations](course) start date
+- [Tietojärjestelmän suunnittelun perusteet - Näyttökoe, syksy 2018](course) starting date
+- [Master´s Thesis and Seminar - for the group that started in 2017](course) begins
+- Tell me the start date of [Kasvatuksen historialliset ja filosofiset lähtökohdat - Luennot ja kirjallisuus](course)
+- What day will [Feministiset politiikat ja asiantuntijuus(course) start
+- When do I have [Business Models](course)
+- When do we have [Kuvataidekasvatus / Harjoitukset - 2.vsk](course)
+- The start date of [Opetus, ohjaus, oppiminen, monimuoto-opeus](course)
+- Start date for [Nuorten ja aikuisten mielenterveyden arviointi](course)
+- Start of [Kilpailuoikeus](course)
+- I want to know when [Tutkijan työpaja](course) starts
+- I want to know when will [Microfinance and development](course) start
+- I want to know the start date of [Kansainvälisen politiikan yleiset syventävät menetelmäopinnot](course)
+- I want to know when [Sosiaalipolitiikka (lähi- ja monimuotokurssi)](course) begin
+- Tell me the start date of [Scientific Writing - Module A - Writing Clinic](course)
+- Tell me when [Research seminar for postgraduate studies](course) begins
+- What day will [Asiantuntijan ja esimiehen työelämätaidot](course) start- When does [Ruotsin kielen kirjallinen ja suullinen viestintä (myös TTY:n biotekniikan opiskelijoille)](course) start
+- When does [Moniammatillisuus, yhteisö ja vuorovaikutus / Harjoitukset - 3.vsk + 2.vsk ryhmä 4](course) start
+- When does [Kandidaattiseminaari ja tutkielma (markkinointi) - kevät 2019](course) start
+- When does [Nationalismi ja poliittiset ideologiat](course) begin
+- When does [Puolueet ja vaalit (kirjatentti/essee)](course) begin
+- When will [Business Writing](course) begin
+- When will [Kestävän kehityksen käytäntöjä](course) begin
+- When will [Ranska II](course) begin
+- When will [Kehitys, kasvatus ja elämänkulku, monimuoto-opetus](course) begin
+- When does [Rahatalous](course) begin
+- When will [Valtio-opin teoriat (kirjatentti/essee)](course) start
+- When will [Inklusiivinen koulu - Luennot, seminaarit, kenttätehtävä ja raportointi](course) start
+- When will [Making sense of globalization - Theorizing beyond the nation-state - seminar](course) start
+- When will [Advanced course in Czech language](course) start
+- When is [Kandidaattiseminaari ja tutkielma (laskentatoimi) - Kandidaattiseminaari, syksy 2018](course)
+- [Pedagoginen johtaminen - Luennot ja ryhmätyöskentely](course) when
+- When [Academic Presentations][course]
+- [Valtiosääntöoikeuden syventävä jakso](course) start
+- [Väitöskirja (tutkijaseminaarit)](course) start date
+- [Kasvatus tieteellisen tutkimuksen kohteena, avoin yo, lähi- ja monimuotototeutus](course) starting date
+- [Itsenäinen projekti: Opintopassi](course) begins
+- Tell me the start date of [Tieteellinen kommunikaatio ja bibliometriikka](course)
+- What day will [Opintojen ohjattu suunnittelu(course) start
+- When do I have [Todennäköisyyslaskenta](course)
+- When do we have [Yrityksen johtamisen perusteet (avoin yliopisto-opetus), monimuoto-opetus](course)
+- The start date of [Academic Presentations](course)
+- Start date for [Civil Society and Political Participation (book exam/essay)](course)
+- Start of [Riskienhallinta](course)
+- I want to know when [Lähtötasokoe](course) starts
+- I want to know when will [Espanja IV](course) start
+- I want to know the start date of [Nuorisotyön ja nuorisotutkimuksen maisteriohjelman lähijakso 14.-15.2.2019](course)
+- I want to know when [Government and Society: Inequality](course) begin
+- Tell me the start date of [Nuorisotyön ja nuorisotutkimuksen maisteriohjelman lähijakso 3.-4.10.2018](course)
+- Tell me when [Näkökulmia kääntämiseen - Johdatus käännösprosessiin](course) begins
+- What day will [Development, Education and Lifecourse](course) start- When does [Kandidaattiseminaari ja tutkielma (taloustiede) - kevät 2019](course) start
+- When does [Henkilöstöjohtaminen](course) start
+- When does [Orientaatio yhteiskuntatutkimuksen opintoihin](course) start
+- When does [Deviance and Social Control](course) begin
+- When does [Critical theory and social ontology](course) begin
+- When will [Näkökulmia kääntämiseen - Käännös-, rakenne- ja sanastoharjoitukset I / Perspektiven auf Übersetzen](course) begin
+- When will [Comparative Education Policy](course) begin
+- When will [Orientation - Orientation to studying in the Software Development programme](course) begin
+- When will [Ympäristö ja hyvinvointi](course) begin
+- When does [Sosiaalityön peruskurssi (kirjatentti)](course) begin
+- When will [Tutkimustyön perusteet - d) Kandidaattiseminaari (syksyllä 2018 alkava)](course) start
+- When will [Tutkimustyön perusteet (syksy)](course) start
+- When will [Laadullinen tutkimus - menetelmät ja prosessi](course) start
+- When will [The Employment Protection in Russia](course) start
+- When is [Maisteriopintojen esittely -  SDE](course)
+- [Social Scientific Perspectives on Consumption (online course)](course) when
+- When [Matemaattiset aineet - Loogisesta ajattelusta automaatioon - 1 vsk  ja erillisen opinto-oikeuden POM-opintoihin saaneet opiskelijat][course]
+- [Maailmanpolitiikan tutkimus (kirjatentti/essee)](course) start
+- [Näkökulmia kääntämiseen - Tekstin ymmärtäminen](course) start date
+- [Äänne- ja muoto-oppi](course) starting date
+- [Methods in Human-Centered Design](course) begins
+- Tell me the start date of [Käsitteellinen mallintaminen I](course)
+- What day will [Mediakulttuurit / Luennot - 2.vsk + 1.vsk ryhmät 6 ja 7(course) start
+- When do I have [Johdatus filosofian historiaan](course)
+- When do we have [Imagining Persia/Iran: Orientalism, Revolution and Diaspora](course)
+- The start date of [Research Mobility for Doctoral Researchers](course)
+- Start date for [Pedagoginen kehittäminen ja johtajuus / Harjoitukset - 3.vsk + 2.vsk ryhmä 4](course)
+- Start of [Kuluttajakäyttäytyminen](course)
+- I want to know when [Parhaat filosofiset artikkelit](course) starts
+- I want to know when will [Experimental animal course](course) start
+- I want to know the start date of [Kehittyminen hoitotyön opettajaksi ja kouluttajaksi](course)
+- I want to know when [KEB-61430 Laaja kemia 3](course) begin
+- Tell me the start date of [Liike-elämän ruotsia I](course)
+- Tell me when [Introduction to Academic English (JKK, EDU, LUO, COMS & SOC)](course) begins
+- What day will [Tutkimusseminaari ja pro gradu -tutkielma - Tutkimusseminaari](course) start- When does [Sosiaalitieteiden kvantitatiiviset tutkimusmenetelmät (verkkokurssi)](course) start
+- When does [Agenda-Setting in Public Policy (POMLFCS1)](course) start
+- When does [EU Financial Management](course) start
+- When does [Asiantuntijan puheviestintä ja vuorovaikutus opetus- ja kasvatustyössä (3. periodi)](course) begin
+- When does [Puolueet ja vaalit (kirjatentti/essee)](course) begin
+- When will [Kvantitatiivinen tutkimus kasvatustieteissä - Verkkokurssi, varhaiskasvatuksen opiskelijat](course) begin
+- When will [Seminaari (Seppänen)](course) begin
+- When will [Nuorisotyön ja nuorisotutkimuksen maisteriohjelman lähijakso 4.-5.10.2018](course) begin
+- When will [Graduseminaari, alkava (Niemi)](course) begin
+- When does [Johdatus historiantutkimukseen - Johdatus historiantutkimukseen -luentokurssi](course) begin
+- When will [Pakolaisuus, tila ja hallinta](course) start
+- When will [Simultaanitulkkaus I saksa-suomi-saksa](course) start
+- When will [Opintojen ohjattu suunnittelu](course) start
+- When will [Master's Thesis Seminar in Human-Technology Interaction (Starting Spring term)](course) start
+- When is [Ethnographic Research](course)
+- [Journal club](course) when
+- When [Julkisoikeuden syventävä tutkimusjakso][course]
+- [Tieteenfilosofiaa kasvatustieteen näkökulmasta](course) start
+- [Klassinen länsimainen kertomakirjallisuus](course) start date
+- [Historian määrällisen tiedon esittäminen](course) starting date
+- [Varhaiskasvatuksen kehittyvä asiantuntijuus - Työssäoppiminen (2.vsk ryhmä 4)](course) begins
+- Tell me the start date of [Moniulotteinen markkinointi](course)
+- What day will [Tutkimustyön perusteet - d) Kandidaattiseminaari (keväällä 2019 alkava)(course) start
+- When do I have [Käännösviestintä I - Käännösviestintä I suomi-englanti](course)
+- When do we have [COURSE CANCELLED: Islamism](course)
+- The start date of [Asiantuntijuuden kehittymiseen orientoiva opintojakso - v. 2018 EDUn opiskelijoiksi hyväksyttyjen ryhmät](course)
+- Start date for [Tieteellisen artikkelin tehokas kirjoittaminen](course)
+- Start of [Terveys ja talous](course)
+- I want to know when [Yksilö, yhteiskunta ja kulttuuri - historian ja yhteiskuntaopin harjoitusryhmät - 2. vsk](course) starts
+- I want to know when will [Tutkielmaseminaari (kevätlukukaudelta 2018 jatkavat seminaarit)](course) start
+- I want to know the start date of [Government and Society: Inequality](course)
+- I want to know when [Poliittiset järjestelmät (kirjatentti/essee)](course) begin
+- Tell me the start date of [Kehittyminen hoitotyön opettajaksi ja kouluttajaksi](course)
+- Tell me when [Romanian kielen jatkokurssi II / Advanced Course 2 in Romanian -](course) begins
+- What day will [Bolognasta Erasmukseen: Keskiajan opiskelijoiden kulttuuriset ja sosiaaliset verkostot](course) start- When does [Managing e-commerce; Consumers and Community Perspective](course) start
+- When does [Julkisen talousjohtamisen vaihtuvasisältöinen opintojakso](course) start
+- When does [Valtio-opin teoriat (kirjatentti/essee)](course) start
+- When does [Tutkijan digi- ja medianäkyvyys](course) begin
+- When does [Asiantuntemus ja arjen ympäristöpolitiikka (esseesuoritusvaihtoehto) - oppimispaivakirja ja teemaessee](course) begin
+- When will [Littérature et société françaises/Ranskan kirjallisuus ja yhteiskunta](course) begin
+- When will [Ympäristöoikeus](course) begin
+- When will [Johdatus viestintään ja mediaan](course) begin
+- When will [Tietotekniikkataidot (syksy)](course) begin
+- When does [Muuttuvat oppimisympäristöt - Luennot ja opintopiiri](course) begin
+- When will [Kieli käyttöön/Språket i bruk](course) start
+- When will [Parametric and Non-Parametric Statistics](course) start
+- When will [Tiimi toimii - puheviestinnän syventävä kurssi (3. - 4. periodi)](course) start
+- When will [Theory and practice of peaceful change: The Baltic Sea Region](course) start
+- When is [Sosiaalityön harjoittelu + kehittämistyön harjoittelu - STYS2B2 Harjoitteluseminaari](course)
+- [Principles of Programming Graphical User Interfaces](course) when
+- When [Pro gradu -tutkielma ja seminaari][course]
+- [Introduction to Programming I (Tampere Summer School 2018)](course) start
+- [Poliittiset ongelmat ja niiden muuttuvat kontekstit](course) start date
+- [Filosofian työpaja](course) starting date
+- [Business Writing](course) begins
+- Tell me the start date of [Nuorisotyön ja nuorisotutkimuksen maisteriohjelman lähijakso 3.-4.10.2018](course)
+- What day will [Perusharjoittelu A - Ohjattu opetusharjoittelu(course) start
+- When do I have [Tietojärjestelmän suunnittelun perusteet - Näyttökoe, syksy 2018](course)
+- When do we have [Laskentatoimi ja talousjohtaminen](course)
+- The start date of [Understanding and Managing a Business as a Dynamic Whole - VIBU Business Simulation Game](course)
+- Start date for [Muu valinnainen kurssi](course)
+- Start of [Master´s Thesis and Seminar - for the group that started in 2017](course)
+- I want to know when [Teaching, Pedagogical Facilitating, Learning](course) starts
+- I want to know when will [Fonetiikan tutkimusmenetelmät - Menetelmäkurssi](course) start
+- I want to know the start date of [Käännösteknologian harjoituskurssi](course)
+- I want to know when [Kansainvälisen politiikan johdantokurssi (tutkinto-ohjelman opiskelijat)](course) begin
+- Tell me the start date of [Satututkimuksen lukupiiri](course)
+- Tell me when [European Integration and Disintegration (BOOK EXAM POLKVS32)](course) begins
+- What day will [Identity Conflicts in the Arab Worlds](course) start- When does [Nordic Model: Nordic Welfare Societies](course) start
+- When does [Monikulttuurisen sosiaalityön erityiskysymykset - Sosnet verkkokurssi](course) start
+- When does [Liberalismi ja demokratia](course) start
+- When does [Introduction to Academic English (JKK, EDU, LUO, COMS & SOC)](course) begin
+- When does [Tilastollisen päättelyn perusteet, iltaryhmä](course) begin
+- When will [Tekninen ihmisyys](course) begin
+- When will [Tekstin tekemisen perusteet](course) begin
+- When will [Johdatus filosofiaan](course) begin
+- When will [Introduction to Risk Management and Insurance (spring semester)](course) begin
+- When does [Tieteellinen kirjoittaminen / LUO & COMS](course) begin
+- When will [Yhteisöt ja yhteisösosiaalityön lähtökohdat - Sosnet verkkokurssi](course) start
+- When will [Terveystiedon sisällöt (sähköinen tentti)](course) start
+- When will [United States History, 1877-1945](course) start
+- When will [Molekyylibiologian työt](course) start
+- When is [Jatkokoulutusseminaari](course)
+- [Ranska II](course) when
+- When [Liikuntapedagogiikka varhaiskasvatuksessa / Luennot - 2.vsk][course]
+- [Kansainvälisen politiikan teoria ja metateoria - Luentokurssi](course) start
+- [Struggles on Education](course) start date
+- [Terveyden ja mielenterveyden psykologia I (avoin yliopisto)](course) starting date
+- [Individual project course](course) begins
+- Tell me the start date of [Eriytyvä syventävä tutkimusmenetelmäkurssi A: Research methods in education policy](course)
+- What day will [Re-Thinking Value Creation(course) start
+- When do I have [Tietojärjestelmän suunnittelun perusteet - Näyttökoe, syksy 2018](course)
+- When do we have [Political Systems (book exam/essay)](course)
+- The start date of [Welfare State Theories](course)
+- Start date for [SGN-41007 Pattern Recognition and Machine Learning](course)
+- Start of [Kuva-  ja mediakulttuurit - Mediakulttuurit - 1. vsk ja erillisen opinto-oikeuden POM-opintoihin saaneet opiskelijat  (ryhmätyöskentely)](course)
+- I want to know when [Tutkielmaseminaari - Seminaari](course) starts
+- I want to know when will [Julkisoikeuden perusteet (verkkototeutus)](course) start
+- I want to know the start date of [Johdon laskentatoimen jatkokurssi](course)
+- I want to know when [Terveyttä viestinnästä- viestintää terveydestä](course) begin
+- Tell me the start date of [Johdatus logiikkaan 2](course)
+- Tell me when [Sosiaalityön teoriahistoria](course) begins
+- What day will [PhD by publication: writing integrative chapter](course) start- When does [Ympäristöpolitiikan vaikutuskeinot](course) start
+- When does [Approaches and Tools for Conflict Analysis and Peace Mediation](course) start
+- When does [Tiimi toimii - puheviestinnän syventävä kurssi (2. periodi)](course) start
+- When does [Monikielisyys ja -kulttuurisuus](course) begin
+- When does [Käsityö - Käsityö -1. vsk ja erillisen opinto-oikeuden POM-opintoihin saaneet opiskelijat (luennot)](course) begin
+- When will [Fonetiikan ja yleisen kielitieteen perusteet - Yleinen kielitiede](course) begin
+- When will [Kvalitatiivinen tutkimus kasvatustieteissä - Harjoitukset, luokanopettajaryhmä](course) begin
+- When will [Laatu, arviointi ja kehittäminen korkeakouluissa - Harjoitustyö](course) begin
+- When will [Pelit ja pelillisyys (keväällä 2018 perusopinnot aloittaneille) - verkkokurssi](course) begin
+- When does [Semantiikka ja pragmatiikka / Semantik und Pragmatik](course) begin
+- When will [Kandidaattiseminaari (JATKAVA, Nevala)](course) start
+- When will [Tietoresurssien tuotanto ja kokoelmatyö](course) start
+- When will [Suomen kulttuuri ja yhteiskunta -lukupiiri](course) start
+- When will [Perintö-, lahja- ja varainsiirtoverotus](course) start
+- When is [Lokalisoinnin peruskurssi](course)
+- [Viestinnän ja median tutkimussuuntauksia](course) when
+- When [Managing Research Information][course]
+- [Graduseminaari / Kekäläinen](course) start
+- [Legal English](course) start date
+- [Ulko- ja turvallisuuspoliittinen päätöksentekoharjoitus](course) starting date
+- [Sustainable business practices (Lectures)](course) begins
+- Tell me the start date of [Kirjallinen viestintä I / Schriftliche Kommunikation I](course)
+- What day will [Scientific Writing - Module A - Writing Clinic(course) start
+- When do I have [Tuloksellisuuden arvioinnin teoria](course)
+- When do we have [Käännösviestintä venäjä-suomi](course)
+- The start date of [Tila, teknologia ja toiminta: Lukuseminaari: Julkinen toiminta teknoyhteiskunnassa](course)
+- Start date for [Media maailmassa - verkkokurssi](course)
+- Start of [Persoonallisuuspsykologia II](course)
+- I want to know when [Pohjoismaisten kielten lähtötasokoe](course) starts
+- I want to know when will [Software Project Management, Software Project Management (Fall term)](course) start
+- I want to know the start date of [Tekoäly ja vakuutustoiminta](course)
+- I want to know when [Kirjallisuuden- ja kulttuurintutkimuksen teoriat](course) begin
+- Tell me the start date of [Sosiaalipolitiikan teoreettinen ajattelu -lukuseminaari](course)
+- Tell me when [Introduction to International Relations (book exam)](course) begins
+- What day will [Tekstiklinikka tutkielman kirjoittajille](course) start- When does [Tyylioppi](course) start
+- When does [Tieteellisen kirjoittamisen seminaari kvantitatiivista tutkimusta tekeville](course) start
+- When does [Seminaari, kandidaatintutkielma ja kypsyysnäyte - Seminaari (kääntäminen ja tulkkaus)](course) start
+- When does [Dialogitulkkaus / Dialogdolmetschen](course) begin
+- When does [Matemaattiset aineet - Loogisesta ajattelusta automaatioon - 1 vsk  ja erillisen opinto-oikeuden POM-opintoihin saaneet opiskelijat](course) begin
+- When will [Mental Health Research: Using the Knowledge and Adding to it](course) begin
+- When will [Postcolonial Literature](course) begin
+- When will [Kandidaatintutkielmaseminaari - Muuntotyöryhmä, klk19](course) begin
+- When will [Courses in Computer Science in TUT](course) begin
+- When does [Fonetiikan ja yleisen kielitieteen perusteet - Fonetiikka](course) begin
+- When will [Valtio-opin maisteriseminaari](course) start
+- When will [Normit ja asiakirjoittaminen - Tieteellinen kirjoittaminen](course) start
+- When will [Learning About Language with Corpora](course) start
+- When will [English Word Formation](course) start
+- When is [KEB-62100 Orgaaninen kemia](course)
+- [Praktikum](course) when
+- When [Tutkielmaseminaari (keväällä 2019 alkavat seminaarit) - Seminaari][course]
+- [Readings in Entrepreneurship](course) start
+- [Venäjän kielen rakenne - Tekstin ymmärtäminen II](course) start date
+- [Johdatus filosofian historiaan](course) starting date
+- [Klinikkaharjoittelu](course) begins
+- Tell me the start date of [Laatu, arviointi ja kehittäminen korkeakouluissa - Harjoitustyö](course)
+- What day will [Moniammatillisuus, yhteisö ja vuorovaikutus / Luennot - 3.vsk + 2.vsk ryhmä 4(course) start
+- When do I have [Transcultural perspectives in developing media education](course)
+- When do we have [Kontrastiivisen fonetiikan perusteet -](course)
+- The start date of [New Wars and How to Study Them (POMLFCS3)](course)
+- Start date for [Master's Thesis Seminar in Human-Technology Interaction (Starting Fall term)](course)
+- Start of [Analyyttinen geometria (itseopiskelumateriaali ja opintopiiri)](course)
+- I want to know when [Implementation and Evaluation of Public Policies](course) starts
+- I want to know when will [Kielioppi- ja sanastoharjoitukset / Grammatik und Wortschatzübungen](course) start
+- I want to know the start date of [Aktuelle Texte aus Presse und Studium](course)
+- I want to know when [Eriytyvä syventävä tutkimusmenetelmäkurssi A: Diskurssianalyysi](course) begin
+- Tell me the start date of [Toiminnanohjausjärjestelmät (ERP)](course)
+- Tell me when [Yhteisöviestintä kunta- ja aluejohtamisessa](course) begins
+- What day will [Johdatus politiikan teoriaan (kirjatentti/essee)](course) start- When does [Kilpailuoikeus](course) start
+- When does [Aktuelle Texte aus Presse und Studium](course) start
+- When does [Syntaxe du français/ Ranskan syntaksi](course) start
+- When does [Sosiaalityön peruskurssi (luennot)](course) begin
+- When does [Pro gradu -seminaari ja -tutkielma (taloustiede) - Pro gradu -seminaari](course) begin
+- When will [Henkilöstöjohtaminen](course) begin
+- When will [Usean muuttujan differentiaalilaskenta](course) begin
+- When will [Yritysjuridiikan perusteet (avoin yliopisto-opetus)](course) begin
+- When will [Johdatus yhteiskuntahistoriaan](course) begin
+- When does [Orientaatio filosofian tutkinto-ohjelman opintoihin](course) begin
+- When will [Psykologiharjoittelu](course) start
+- When will [Kansainväliset vakuutusmarkkinat ja jälleenvakuutus](course) start
+- When will [Liikunta - Liikuntapedagogiikka perusopetuksessa A ensisijaisesti opinnot 1½ lukuvuodessa suorittavat POM-opintoihin opinto-oikeuden saaneet opiskelijat](course) start
+- When will [Kognitiivinen neurotiede I](course) start
+- When is [Kirjallinen viestintä I - Sanasto- ja rakenneharjoitukset](course)
+- [Eheyttävä musiikkikasvatus / Luennot - 2.vsk](course) when
+- When [Suullinen ja kirjallinen esitys/Expresión oral y redacción][course]
+- [Talouselämän käännösviestinnän seminaari suomi-saksa -](course) start
+- [Projektin suunnittelu ja johtaminen](course) start date
+- [Johdatus yhteiskuntafilosofiaan](course) starting date
+- [Practical Observation of Finnish School System for Incoming Exchange Students - Observation, written tasks, report](course) begins
+- Tell me the start date of [Hoitotieteen tohtorikoulutusseminaari](course)
+- What day will [Liikunta - Liikuntapedagogiikka perusopetuksessa A - 2. vsk(course) start
+- When do I have [Usean muuttujan integraalilaskenta](course)
+- When do we have [Käytännön opetus ja ohjaus](course)
+- The start date of [Julkisen hallinnon reformit ja muutos](course)
+- Start date for [Graduseminaari / Harviainen](course)
+- Start of [Behavioral Finance](course)
+- I want to know when [Laaja-alaistava harjoittelu - Opetus- ja koulutushallinnon luennot](course) starts
+- I want to know when will [Basics I: Basics of Czech language II](course) start
+- I want to know the start date of [Kaupunkien maankäytön pelikenttä](course)
+- I want to know when [Johdatus sosiaalitieteisiin (verkkokurssi)](course) begin
+- Tell me the start date of [Tilastollisen päättelyn perusteet, iltaryhmä](course)
+- Tell me when [Opetus, ohjaus, oppiminen - elokas ja avoimen lähiop.: pienryhmäopetus (2 op)  ja kirjallisuus (2 op)](course) begins
+- What day will [Toimittajan tieto- ja viestintätekniikkataidot](course) start- When does [Tieteellinen kirjoittaminen / avoin yliopisto-opetus](course) start
+- When does [Practical Observation and Reflection of ECEC - Observation, written tasks, report](course) start
+- When does [Nuorisotyön ja nuorisotutkimuksen maisteriohjelman lähijakso 11.-12.4.2019](course) start
+- When does [Epidemiologian perusteet](course) begin
+- When does [Kuoleman sosiaali- ja kulttuurihistoriaa antiikista uuden ajan alkuun](course) begin
+- When will [Sosiaalityön harjoittelu](course) begin
+- When will [Pro gradu -seminaari](course) begin
+- When will [Nykyajan filosofia](course) begin
+- When will [Poliittiset järjestelmät (kirjatentti/essee)](course) begin
+- When does [Diskurssianalyysi](course) begin
+- When will [Deutsch im Alltag und Studium](course) start
+- When will [Emotions and Sociality in Human-Technology Interaction](course) start
+- When will [Liikuntapedagogiikka varhaiskasvatuksessa / Luennot - 2.vsk](course) start
+- When will [Suullinen viestintä / Mündliche Kommunikation](course) start
+- When is [Johdatus erikoisalojen käännösviestintään](course)
+- [Pratiques de l'oral et de l'écrit / Ranskan kielen tuottaminen](course) when
+- When [Ympäristön ja alueiden poliittisuus][course]
+- [Statistics](course) start
+- [Seminaari, kandidaatintutkielma ja kypsyysnäyte - Seminaari (kääntäminen ja tulkkaus)](course) start date
+- [Terveys, tieto, asiantuntijuus](course) starting date
+- [Terveysteknologia](course) begins
+- Tell me the start date of [Political Systems Outside of Europe (book exam/essay)](course)
+- What day will [Graduseminaari, alkava (Niemi)(course) start
+- When do I have [Semantiikan harjoituskurssi](course)
+- When do we have [Tutkimuspraktikum](course)
+- The start date of [Latinan kielen alkeiskurssi](course)
+- Start date for [Tilastotieteen perusteet](course)
+- Start of [Conflict Resolution (book exam/essay)](course)
+- I want to know when [Planning, Managing and Completing Your Doctoral Thesis](course) starts
+- I want to know when will [Työhyvinvointi](course) start
+- I want to know the start date of [Epävarmuuden hallinta](course)
+- I want to know when [Eriytyvä syventävä tutkimusmenetelmäkurssi A: Kehittävän työntutkimuksen menetelmät](course) begin
+- Tell me the start date of [Ammattimainen tekstintarkistus](course)
+- Tell me when [Varhaiskasvatuksen kehittyvä asiantuntijuus - Työssäoppiminen (2.vsk ryhmä 4)](course) begins
+- What day will [Introduction to Public Administration Research, Reforms and Trends](course) start- When does [Antiikintutkimuksen lähteet ja menetelmät](course) start
+- When does [Yhteisöllinen oppiminen ja ohjaus - Seminaari](course) start
+- When does [Teeman "Sosiaalinen kognitio ja vuorovaikutus" johdantokurssi](course) start
+- When does [Johdatus visuaaliseen kulttuuriin](course) begin
+- When does [Writing Scientific Journal Articles](course) begin
+- When will [Seminaari (Nikunen)](course) begin
+- When will [Introduction to Web Publishing (Tampere Summer School 2018)](course) begin
+- When will [Johdatus analyysiin](course) begin
+- When will [Media and Globalization - Seminar](course) begin
+- When does [Orientoivat opinnot - Alkuorientaatio](course) begin
+- When will [Kommunikationstraining I](course) start
+- When will [EI toteutusta 2018-19 Advanced immunology](course) start
+- When will [Espanjan kielioppi II/Gramática española II](course) start
+- When will [Orientoivat opinnot - Tiedonhankintataidot I (TIE)](course) start
+- When is [Käännös suomi-espanja I/Traducción finés-español I](course)
+- [Preparatory Course in Communicative Skills](course) when
+- When [Talouselämän käännösviestinnän seminaari suomi-saksa -][course]
+- [Romanit etnisenä vähemmistönä Euroopassa - Sosnet verkkokurssi](course) start
+- [Kunnallisoikeus](course) start date
+- [Inklusiivinen pedagogiikka ja oppimisen tukeminen](course) starting date
+- [Historiankirjoituksen historia](course) begins
+- Tell me the start date of [Luontokirjoittamisen klassikot](course)
+- What day will [Tendances de la littérature française moderne/Ranskalaisen nykykirjallisuuden suuntauksia(course) start
+- When do I have [Järjestöjen rooli sosiaalipolitiikassa ja vapaaehtoistyö](course)
+- When do we have [Ranska III](course)
+- The start date of [Eheyttävä temaattinen loppuprojekti - projekti/käytännön työ ja portfolio](course)
+- Start date for [Speakers Series](course)
+- Start of [Terveyden ja mielenterveyden psykologia I (avoin yliopisto)](course)
+- I want to know when [Hoitot. tiedon hyödyntäminen johtamisessa ja opettamisessa: syventävä projektityö (kurssi jatkuu syksyllä 2019)](course) starts
+- I want to know when will [Johdatus kunta- ja aluejohtamiseen (avoin yliopisto-opetus), monimuoto-opetus](course) start
+- I want to know the start date of [Käännös suomi-espanja I/Traducción finés-español I](course)
+- I want to know when [Terveyttä viestinnästä- viestintää terveydestä](course) begin
+- Tell me the start date of [Johdanto tietokäytäntöjen tutkimukseen](course)
+- Tell me when [Lasten monipaikkainen asuminen](course) begins
+- What day will [Informaatio- ja mediajärjestelmien historiaa ja nykypäivää (syksyllä 2018 perusopinnot aloittaville) - verkkokurssi](course) start- When does [Suullinen ja kirjallinen esitys/Expresión oral y redacción](course) start
+- When does [Cell Technology Laboratory Course](course) start
+- When does [Kuntien ja alueiden kansainväliset hallintasuhteet](course) start
+- When does [Literature and Change after 1900 (British Literature)](course) begin
+- When does [Johdatus kirjallisuuden poetiikkaan](course) begin
+- When will [Yhteiskunnallinen muutos](course) begin
+- When will [Yhteiskunnan mittaaminen](course) begin
+- When will [Tieteellinen kirjoittaminen / avoin yliopisto-opetus](course) begin
+- When will [Nuorten ryhmät ja ryhmän ohjaus, harjoitukset](course) begin
+- When does [Sidosryhmäteoria ja -johtaminen](course) begin
+- When will [Persoonallisuuspsykologia II](course) start
+- When will [Luentateatteri](course) start
+- When will [Espanja II](course) start
+- When will [Asiantuntijan puheviestintä ja vuorovaikutus / AHOT (näyttökoe)](course) start
+- When is [Organisaatiokäyttäytyminen](course)
+- [Sosiaalityön peruskurssi (kirjatentti)](course) when
+- When [Pro gradu - seminaari 2018 (jatkava)  (vaihe I)][course]
+- [Terveyden edistämisen interventiot, Seinäjoki](course) start
+- [Sosiologia](course) start date
+- [Johdatus vuorovaikutteiseen teknologiaan](course) starting date
+- [Rakennebiologia](course) begins
+- Tell me the start date of [Viestinnän ja median tutkimussuuntauksia](course)
+- What day will [Tietojärjestelmätieteen jatkokoulutusseminaari - Seminaari(course) start
+- When do I have [Työelämän tekstitaidot](course)
+- When do we have [Structure of English II - Phonology and Pronunciation II](course)
+- The start date of [Persoonallisuuspsykologia I](course)
+- Start date for [Tutkimus ja teoria](course)
+- Start of [Kognitiivinen neurotiede I](course)
+- I want to know when [Orientoivat opinnot ja HOPS](course) starts
+- I want to know when will [Puhetekniikan ja äänenkäytön perusteet](course) start
+- I want to know the start date of [Immunologian perusteet](course)
+- I want to know when [Biologia ja ympäristötieto - Biologian kenttäkurssi (1-4 ryhmät, Arboretum ja Pyynikinharju)](course) begin
+- Tell me the start date of [Julkistalouden jatkokurssi](course)
+- Tell me when [Terveyden ja mielenterveyden psykologia I (avoin yliopisto)](course) begins
+- What day will [Organisational Change Dynamics and Management](course) start- When does [Praktikum](course) start
+- When does [Digitaalinen historia](course) start
+- When does [Johdatus tietojenkäsittelytieteisiin](course) start
+- When does [Espanjan historia ja kirjallisuus - Historia y literatura de España](course) begin
+- When does [Kielioppi II/Språkets strukturer II](course) begin
+- When will [Yritysetiikka (verkkokurssi)](course) begin
+- When will [Tietojärjestelmän suunnittelun perusteet - Näyttökoe, syksy 2018](course) begin
+- When will [Johdatus kunta- ja aluejohtamiseen (avoin yliopisto-opetus), monimuoto-opetus](course) begin
+- When will [Tutkielmaseminaari](course) begin
+- When does [Liiketoimintaosaamisen kokonaisdynamiikka ja sen ohjaaminen - VIBU-yritysstimulaatio](course) begin
+- When will [Kirjallinen ja suullinen viestintä II: suullinen viestintä](course) start
+- When will [Graduseminaari / Kekäläinen](course) start
+- When will [Tutkimusprosessin hallinta tohtoriopinnoissa](course) start
+- When will [Biodiversity Offsetting Game](course) start
+- When is [Viron peruskurssi](course)
+- [Työelämän tekstitaidot](course) when
+- When [Sustainable business practices (Lectures)][course]
+- [Uuden ajan alun murroksia](course) start
+- [Tekninen kirjoittaminen (suomi)](course) start date
+- [Teksti, keskustelu ja vuorovaikutus](course) starting date
+- [Oppimispelien käyttö ja evaluaatio](course) begins
+- Tell me the start date of [Kielen variaatio](course)
+- What day will [Kansainväliset vakuutusmarkkinat ja jälleenvakuutus(course) start
+- When do I have [Biological data analysis with R](course)
+- When do we have [Vuorovaikutuksen perusteet - verkkokurssina II](course)
+- The start date of [Knowledge, business and work in a digital society](course)
+- Start date for [Poliittinen kommunikointi ja retoriikka (kirjatentti/essee)](course)
+- Start of [Kiina I](course)
+- I want to know when [Kirjallinen ja suullinen viestintä II: suullinen viestintä](course) starts
+- I want to know when will [Professional Writing (online course)](course) start
+- I want to know the start date of [Yhteisöviestintä kunta- ja aluejohtamisessa](course)
+- I want to know when [Monikielisyys ja -kulttuurisuus](course) begin
+- Tell me the start date of [Työhyvinvoinnin johtaminen (itsenäinen suoritustapa, kesäopinnot)](course)
+- Tell me when [Seminaari I, kandidaatintutkielma ja kypsyysnäyte](course) begins
+- What day will [Saksa II](course) start- When does [KEB-62100 Orgaaninen kemia](course) start
+- When does [Kirjallisuus ja tunteet](course) start
+- When does [Maailmanpolitiikan tutkimus (kirjatentti/essee)](course) start
+- When does [Monikielinen käännöstyöpaja](course) begin
+- When does [Introduction to Academic English (online / JKK, EDU, LUO, COMS & SOC)](course) begin
+- When will [Korkeakoulut työyhteisöinä - Kehittämistehtävä](course) begin
+- When will [Tutkimustyön perusteet - d) Kandidaattiseminaari (syksyllä 2018 alkava)](course) begin
+- When will [Neurocomputing](course) begin
+- When will [Antiikin ja keskiajan ryhmä](course) begin
+- When does [Retoriikka ja argumentaatioanalyysi/Retorik och argumentationsanalys](course) begin
+- When will [Verkkojulkaisemisen perusteet - kevät 2019](course) start
+- When will [Journalismin tulevaisuus, harjoittelun kielikritiikki](course) start
+- When will [Kandidaatintutkielmaseminaari - Seminaari](course) start
+- When will [Julkisorganisaation talouden suunnittelu ja päätöksenteko](course) start
+- When is [Laatu, arviointi ja kehittäminen korkeakouluissa - Harjoitustyö](course)
+- [Implementation and Evaluation of Public Policies](course) when
+- When [Opimme lisää venäjän kielen suullisia taitoja][course]
+- [Aluetalous ja kaupunkitalous](course) start
+- [Eastern European Model: Lithuanian System of Work and Social Security](course) start date
+- [Projektinhallinnan perusteet](course) starting date
+- [Ympäristöoikeus](course) begins
+- Tell me the start date of [Kuvataide - 2. vsk ja opinnot 1½ lukuvuodessa suorittavat  1.vsk ja POM-opintoihin opinto-oikeuden saaneet opiskelijat](course)
+- What day will [Tulkin työkalupakki(course) start
+- When do I have [Tutkimusprosessin hallinta tohtoriopinnoissa](course)
+- When do we have [Tissue biology](course)
+- The start date of [Tekstiklinikka tutkielman kirjoittajille](course)
+- Start date for [Science and Biotechnology Journal Club](course)
+- Start of [Johdatus kielitieteeseen / Initiation à la linguistique](course)
+- I want to know when [Biokemian menetelmät](course) starts
+- I want to know when will [Finnish Reading Comprehension and Conversation Course 2 (taught in Finnish)](course) start
+- I want to know the start date of [Kvantitatiivinen tutkimus kasvatustieteissä - Harjoitukset, luokanop. opiskelijat](course)
+- I want to know when [Linguistics I: Introduction to Basic Concepts](course) begin
+- Tell me the start date of [Käsityö - Projektiosio - 2.vsk ja opinnot 1½ lukuvuodessa suorittavat 1.vsk ja POM-opintoihin opinto-oikeuden saaneet opiskelijat](course)
+- Tell me when [Kaunokirjallisen kääntämisen peruskurssi](course) begins
+- What day will [Asiantuntijan puheviestintä ja vuorovaikutus (2. periodi) / KTM-tutkinto](course) start- When does [European, Eurasian and Global Energy Policies](course) start
+- When does [Talous - politiikka - kulttuuri -lukupiiri](course) start
+- When does [Juridisk svenska](course) start
+- When does [Romanit etnisenä vähemmistönä Euroopassa - Sosnet verkkokurssi](course) begin
+- When does [Perehdyttäminen tietotekniikan alkeisiin (kevät)](course) begin
+- When will [Feministinen teoria ja metodologia](course) begin
+- When will [Kansainvälisen politiikan teoria ja menetelmät (kirjatentti)](course) begin
+- When will [Practical Programming in Python](course) begin
+- When will [Kirjasto- ja tietopalvelujen suunnittelu ja arviointi](course) begin
+- When does [Cultural Transitions](course) begin
+- When will [Bachelor's Thesis Seminar - seminar in English](course) start
+- When will [Kandidaatintutkielma ja seminaari, lukuvuosi 2018-2019](course) start
+- When will [Johdatus Euroopan unioniin](course) start
+- When will [Gender in Society](course) start
+- When is [Puhelääketiede](course)
+- [Digital Media Landscape and Media Policies](course) when
+- When [Sosiaaliantropologian teoreettinen ajattelu][course]
+- [Johdatus sosiaaliantropologiaan -seminaari](course) start
+- [Käännös suomi-espanja I/Traducción finés-español I](course) start date
+- [Lähtötasokoe - Kirjallinen tentti](course) starting date
+- [Varhaiskasvatuksen ja esiopetuksen pedagogiikka - Työssäoppiminen 1.vsk:n monimuotoryhmien opiskelijoille](course) begins
+- Tell me the start date of [Laskentatoimen teoria ja IFRS I](course)
+- What day will [Tiimi toimii - puheviestinnän syventävä kurssi (4. periodi)(course) start
+- When do I have [Graduseminaari, alkava (Kaarninen)](course)
+- When do we have [Syntaksi](course)
+- The start date of [Sosiaalitieteiden teoria I - SOS5b luennot](course)
+- Start date for [Kieli ja kielentäminen - 2 vsk (pienryhmät)](course)
+- Start of [Kvalitatiiviset menetelmät](course)
+- I want to know when [Introduction to Web Publishing (Tampere Summer School 2018)](course) starts
+- I want to know when will [Valinnainen jakso: Podcastit ja äänimedian ajankohtaisjournalismi](course) start
+- I want to know the start date of [Kandidaatin tutkielma ja seminaari, (hoitotieteen opiskelijoille), Seinäjoki](course)
+- I want to know when [Ympäristöoikeus](course) begin
+- Tell me the start date of [Introduction to Academic English (JKK, EDU, LUO, COMS & SOC)](course)
+- Tell me when [Tulkkauksen teoria](course) begins
+- What day will [Informaatio- ja mediajärjestelmien historiaa ja nykypäivää](course) start- When does [Pro gradu -seminaari ja -tutkielma](course) start
+- When does [Kommunikationstraining II](course) start
+- When does [Kasvatus tieteellisen tutkimuksen kohteena - verkko-opetus, II-periodi](course) start
+- When does [OASIS Key Master 2018-2019](course) begin
+- When does [Visuaalisen kulttuurin teoria - luennot ja pienryhmätyöskentely](course) begin
+- When will [Pro gradu -tutkielma ja -seminaari, syksyllä 2018 aloittavat ryhmät](course) begin
+- When will [Orientoivat opinnot - Orientoivat opinnot](course) begin
+- When will [Bachelor's Thesis Seminar - seminar in English](course) begin
+- When will [Simultaaninen konferenssitulkkaus](course) begin
+- When does [Tekstitaidot](course) begin
+- When will [Arctic Fantasies](course) start
+- When will [Introduction to Academic English (diverse learners)](course) start
+- When will [Recommender Systems](course) start
+- When will [Työmarkkinat, työvoiman käyttö ja työllisyysturva](course) start
+- When is [Tieteellinen kirjoittaminen (3. vuosikurssin opiskelijoille)](course)
+- [Ethics of Technology](course) when
+- When [Kansainvälistymistä ja verkostoitumista tukevat opinnot][course]
+- [Phylogenetics](course) start
+- [Kasvatus tieteellisen tutkimuksen kohteena - avoin yo, lähi- ja monimuotototeutus](course) start date
+- [European Union Law](course) starting date
+- [Mediakasvatus, osallisuus ja aktiivinen kansalaisuus, kirjatentti](course) begins
+- Tell me the start date of [Current Trends in Leadership](course)
+- What day will [Digital Media Landscape and Media Policies(course) start
+- When do I have [Ruotsin kielen kirjallinen ja suullinen viestintä](course)
+- When do we have [Johdatus kääntäjän suomen opintoihin](course)
+- The start date of [Finnish Education System - Seminar](course)
+- Start date for [Markkina- ja immateriaalioikeus](course)
+- Start of [Finnish Advanced Course 1 (taught in Finnish)](course)
+- I want to know when [Orientoiva tutkielmaseminaari](course) starts
+- I want to know when will [Vero-oikeuden perusteet](course) start
+- I want to know the start date of [Asiakastyön menetelmät, luennot](course)
+- I want to know when [Verkkojulkaisemisen perusteet - kevät 2019](course) begin
+- Tell me the start date of [Työhyvinvointi](course)
+- Tell me when [Kasvatuksen historialliset ja filosofiset lähtökohdat, monimuoto-opetus](course) begins
+- What day will [Kontrastiivisen fonetiikan perusteet -](course) start- When does [Activity Theory and Formative Interventions in Educational Research](course) start
+- When does [Opetussuunnitelmateoria - Luennot, seminaari ja lukupiiri (slk) TAI kirjatentti (slk ja klk)](course) start
+- When does [Työ- ja virkamiesoikeus](course) start
+- When does [Terveys, tieto, asiantuntijuus](course) begin
+- When does [Ainedidaktinen tutkimus ja tutkiva opettajuus](course) begin
+- When will [Mediatutkimuksen valinn. jakso: Työseminaari: Euroopan hullu vuosi 1968 ja sen perintö](course) begin
+- When will [Kielioppi II (suomenkieliset opiskelijat)](course) begin
+- When will [Kansainvälisen politiikan erikoistuvat menetelmäopinnot (kirjatentti/essee)](course) begin
+- When will [Sciences du langage/Kielitiede](course) begin
+- When does [Kielen käyttö I](course) begin
+- When will [Tutkimushaastattelu: taito, tyylit ja kohderyhmät](course) start
+- When will [Contemporary Peace and Conflict Studies](course) start
+- When will [Johdatus yhteiskuntahistoriaan](course) start
+- When will [Kokeellinen, kokeileva ja kokemuksellinen sosiaalipsykologia](course) start
+- When is [Analyysi B](course)
+- [Kasvatustieteiden perusopinnot lukuvuonna 2018-2019 - yhteinen johdantoluento](course) when
+- When [Erilaisuuden kohtaaminen ja inklusiivinen varhaiskasvatus - Kirjatentti (vaihtoehtoinen suoritustapa)][course]
+- [Seminaari](course) start
+- [Graduseminaari / Harviainen](course) start date
+- [Radiokääntäminen (venäjä)](course) starting date
+- [Valtio-opin maisteriseminaari](course) begins
+- Tell me the start date of [Musiikin tiedolliset valmiudet ja niiden soveltaminen - Harmonia ja improvisointi koskettimilla](course)
+- What day will [Basics II: Intermediate Czech II(course) start
+- When do I have [Hoitotieteen tohtorikoulutusseminaari](course)
+- When do we have [BMT-61227 Medical Biomaterials](course)
+- The start date of [Seminaari (Ridell)](course)
+- Start date for [Tutkielmaseminaari (keväällä 2019 alkavat seminaarit) - Seminaari](course)
+- Start of [Tiedonhankintataidot (hoitotiede)](course)
+- I want to know when [Ainedidaktiikka I](course) starts
+- I want to know when will [Sociolinguistics](course) start
+- I want to know the start date of [Sosiaalityön tutkimuksen metodologisia suunnistuksia](course)
+- I want to know when [Yritysetiikka (verkkokurssi)](course) begin
+- Tell me the start date of [Tilastomenetelmien perusteet](course)
+- Tell me when [Kiina II](course) begins
+- What day will [Terveys ja yhteiskuntapolitiikka](course) start- When does [Ruututekstikääntämisen peruskurssi](course) start
+- When does [Yritysverkoston juridinen hallinta](course) start
+- When does [Viron peruskurssi](course) start
+- When does [Pääoma-lukuseminaari](course) begin
+- When does [Riskienhallinta- ja vakuutuscaset](course) begin
+- When will [Radio Project](course) begin
+- When will [Recommender Systems](course) begin
+- When will [Terveystiedon didaktiikan perusteet](course) begin
+- When will [Ruotsin kielen valmentava kurssi](course) begin
+- When does [Kielellinen merkitys, käyttö ja konteksti](course) begin
+- When will [Sukupuoli, perhe ja yhteiskunta](course) start
+- When will [Suunnittelu ja kehittäminen hoitotyön johtamisessa](course) start
+- When will [Innovation Project (2018-I)](course) start
+- When will [Tila, teknologia ja toiminta](course) start
+- When is [Ekonometrian jatkokurssi](course)
+- [EU ja Länsi-Balkan: ehdollistettua demokratiaa ja valtionrakennusta](course) when
+- When [Tieteellinen kirjoittaminen / LUO & COMS][course]
+- [Johdatus tilastotieteeseen](course) start
+- [Scientific Writing - Module B - Thesis Writing (online)](course) start date
+- [Venäjä II](course) starting date
+- [Presentation Skills](course) begins
+- Tell me the start date of [Kvantitatiivinen tutkimus kasvatustieteissä - Harjoitukset, yleinen](course)
+- What day will [Master's Thesis Seminar and Master's Thesis (2nd year students)(course) start
+- When do I have [Vastuullisen liiketoiminnan case-kurssi](course)
+- When do we have [Kvantitatiivinen tutkimus kasvatustieteissä - Harjoitukset, luokanop.](course)
+- The start date of [Kirjallisuustieteen syysseminaari: Ihmesaduista adaptaatioihin. Näkökulmia sadun ja fantasian tutkimukseen](course)
+- Start date for [Terveystaloustieteen tohtorikoulutussemiaari](course)
+- Start of [Business Translation Seminar Finnish - English](course)
+- I want to know when [Äidinkieli ja kirjallisuus - Lukeminen ja kirjoittaminen - 1. vsk (luennot)](course) starts
+- I want to know when will [Tietokantojen perusteet - Näyttökoe, syksy 2018](course) start
+- I want to know the start date of [Kvantitatiiviset tutkimusmenetelmät (kirjatentti/essee)](course)
+- I want to know when [Aikuiskasvatus ja työelämä, kirjatentti, Pori](course) begin
+- Tell me the start date of [Johdatus viestinnän tutkimukseen ja analyysiin](course)
+- Tell me when [Ekoterveys, luonto ja ihminen](course) begins
+- What day will [Welfare State Theories](course) start- When does [Politiikan tutkimuksen kandidaatintutkielma ja -seminaari](course) start
+- When does [Imagining Persia/Iran: Orientalism, Revolution and Diaspora](course) start
+- When does [Musiikki - Musiikin teoria alakoulussa - 1. vsk ja  erillisen opinto-oikeuden POM-opintoihin saaneet opiskelijat](course) start
+- When does [Pro gradu -tutkielma ja -seminaari](course) begin
+- When does [Erilaisuuden kohtaaminen ja inklusiivinen varhaiskasvatus - Kirjatentti (vaihtoehtoinen suoritustapa)](course) begin
+- When will [Valtiosääntöoikeuden syventävä jakso](course) begin
+- When will [Teeman "Sosiaalinen kognitio ja vuorovaikutus" johdantokurssi](course) begin
+- When will [Democratic Decision-Making (BOOK EXAM)](course) begin
+- When will [Internship or work placement](course) begin
+- When does [Responsible Business and Social Accounting (Lectures)](course) begin
+- When will [Kandidaatintutkielma ja seminaari - Seminaari](course) start
+- When will [Introduction to Cultural Psychology](course) start
+- When will [Muuttuvat oppimisympäristöt - Luennot ja opintopiiri](course) start
+- When will [Contemporary Peace and Conflict Studies](course) start
+- When is [Johdatus kääntäjän suomen opintoihin](course)
+- [Inklusiivinen varhaiskasvatus / Luennot - 3.vsk + 2.vsk ryhmä 4](course) when
+- When [Johdatus hoitotieteelliseen tutkimukseen, kirjatentti, Seinäjoki][course]
+- [Venäjän historia, kirjallisuus ja kulttuuri](course) start
+- [Nuorisotyön toimintaympäristöt, työmuodot ja menetelmät](course) start date
+- [Julkisen talousjohtamisen tutkimusotteet](course) starting date
+- [Tilastollisten tutkimusmenetelmien soveltaminen hoitotieteessä](course) begins
+- Tell me the start date of [Media and the Arctic (POMLFCS3)](course)
+- What day will [Tutkielmaseminaari (keväällä 2019 alkavat seminaarit) - Seminaari(course) start
+- When do I have [Käännösviestintä I - Käännösviestintä I suomi-englanti](course)
+- When do we have [Sijoitustoiminta](course)
+- The start date of [Introduction to International Relations (book exam)](course)
+- Start date for [Julkissektorin instituutioiden talous (monimuoto-opetus)](course)
+- Start of [Multidisciplinary Games and Internet Research](course)
+- I want to know when [Tutustuminen psykologin työhön](course) starts
+- I want to know when will [Käännösviestintä ruotsi-suomi/Översättning svenska-finska](course) start
+- I want to know the start date of [Tekninen työ -](course)
+- I want to know when [Orientaatio yhteiskuntatutkimuksen opintoihin](course) begin
+- Tell me the start date of [Visuaalisen journalismin perusteet, harjoitukset](course)
+- Tell me when [Keskiajan paleografia ja diplomatiikka (PERUTTU)](course) begins
+- What day will [Seminar, Bachelor's Thesis and Maturity Test - Seminar](course) start- When does [Verkkojulkaiseminen](course) start
+- When does [Asiantuntijan puheviestintä ja vuorovaikutus, 3.-4. periodi / VIESTINTÄROHKEUDEN RYHMÄ](course) start
+- When does [Yhteiskunnan mittaaminen](course) start
+- When does [Käännösviestintä suomi-venäjä](course) begin
+- When does [Peace, Human Rights and Democracy in the Korean Peninsula and East Asia (Tampere Summer School 2018)](course) begin
+- When will [Tiimi toimii - puheviestinnän syventävä kurssi (4. periodi)](course) begin
+- When will [Asioimistulkkaus venäjä-suomi-venäjä](course) begin
+- When will [Romanian kielen jatkokurssi I / Advanced Course 1 in Romanian](course) begin
+- When will [Tutkiva opiskelu (syksyllä 2018 perusopinnot aloittaville) - verkkokurssi](course) begin
+- When does [Biologia ja ympäristötieto - Biologian ja maantieteen perusteet- 1.vsk ja erillisen opinto-oikeuden POM-opintoihin saaneet opiskelijat (luennot)](course) begin
+- When will [Lähtötasokoe / Schwellentest](course) start
+- When will [Kandidaattiseminaari ja tutkielma (taloustiede) - syksy 2018](course) start
+- When will [Harjoittelu / Elinikäinen oppiminen ja kasvatus, Essee työkokemuksen pohjalta, slk18](course) start
+- When will [The Cancer Biology Journal Club](course) start
+- When is [Lausekielinen ohjelmointi I - Näyttökoe, syksy 2018](course)
+- [Academic Presentations](course) when
+- When [Laskentatoimen teoria ja IFRS I][course]
+- [Käännösviestintä I - Käännösviestintä I englanti-suomi](course) start
+- [Kansanterveystieteen käsitteitä ja teoreettisia kysymyksiä](course) start date
+- [Study Skills - Basics of Information Literacy](course) starting date
+- [Introduction to Political Theory (book exam/essay)](course) begins
+- Tell me the start date of [Theories of Welfare States and Comparative Social Policy: An introduction](course)
+- What day will [Opimme lisää venäjän kielen suullisia taitoja(course) start
+- When do I have [Vähittäiskaupan konseptit](course)
+- When do we have [Kielioppi II](course)
+- The start date of [Tilastotieteen johdantokurssi, syksy](course)
+- Start date for [Longitudinal and Finite Nonlinear Mixture Modelling and Associated Experimental Design Strategies (independent work and exams)](course)
+- Start of [Introduction to Web Publishing (Tampere Summer School 2018)](course)
+- I want to know when [Kirjallinen viestintä I/Skriftlig kommunikation I](course) starts
+- I want to know when will [Kuva-  ja mediakulttuurit - Kuvakulttuurit  1 vsk ja erillisen opinto-oikeuden POM-opintoihin saaneet opiskelijat (ryhmätyöskentely/taidemuseot harjoitusryhmät)](course) start
+- I want to know the start date of [Orientoivat opinnot ja HOPS (pohjoismaiset kielet)](course)
+- I want to know when [Valinnainen jakso: Radioprojekti (kevät)](course) begin
+- Tell me the start date of [Työ- ja organisaatiopsykologia I](course)
+- Tell me when [Euroopan unionin finanssihallinto-oikeus - Luennot ja tentti.](course) begins
+- What day will [Markkinointioikeuden oikeustaloustiede](course) start- When does [Lukeminen ja kirjoittaminen oppimisen haasteena (seminaarit 1-4 ryhmät)](course) start
+- When does [Orientaatio historian tutkinto-ohjelman opintoihin](course) start
+- When does [Käännösviestintä I - Käännösviestintä I englanti-suomi](course) start
+- When does [Vertaisohjaus tietojenkäsittelytieteissä (kevät)](course) begin
+- When does [Tuutorivastaavana toimiminen](course) begin
+- When will [Historiankirjoituksen historia](course) begin
+- When will [Molekyylibiologian työt](course) begin
+- When will [Tilastotieteen johdantokurssi, kevät](course) begin
+- When will [Terveys ja yhteiskuntapolitiikka](course) begin
+- When does [Korkeakoulut ja korkeakoulutus tutkimuksen kohteena - Kirjallinen tentti](course) begin
+- When will [Suullinen viestintä II/Muntlig kommunikation II](course) start
+- When will [Taloustieteen matematiikka I](course) start
+- When will [Kandidaatintutkielma - Seminaari ja tutkielma](course) start
+- When will [SPSS:n perusteet, kevät](course) start
+- When is [Talouselämän käännösviestinnän seminaari venäjä-suomi](course)
+- [A seminar on theoretical social research: Schmitt, Arendt, and The Political](course) when
+- When [Ajankohtaisia kansanterveyskysymyksiä][course]
+- [Neurologia](course) start
+- [Ylirajaiset ilmiöt historiassa: näkökulmia tutkimukseen ja tulkintaan](course) start date
+- [Suullinen viestintä II/Muntlig kommunikation II](course) starting date
+- [Lapsuuden antropologia ja transnationaali lapsuus](course) begins
+- Tell me the start date of [Erot, jaot ja niiden rakentuminen, kirjatentti](course)
+- What day will [Jatkokoulutusseminaari(course) start
+- When do I have [Johdatus historiantutkimukseen - Johdatus historiantutkimukseen -luentokurssi](course)
+- When do we have [Tieteellinen kirjoittaminen / SOC (historia & filosofia)](course)
+- The start date of [Liikuntatuutorina toimiminen - Liikuntatuutoriperehdytys](course)
+- Start date for [Littérature française I /Ranskan kirjallisuus I](course)
+- Start of [Äänen häiriöt](course)
+- I want to know when [Ruotsin kielen kirjallinen ja suullinen viestintä](course) starts
+- I want to know when will [Graduseminaari, jatkava (Markkola)](course) start
+- I want to know the start date of [Organisaatiokäyttäytyminen (itsenäinen suoritustapa, kevät 2019)](course)
+- I want to know when [Moniulotteinen markkinointi](course) begin
+- Tell me the start date of [Tekstiklinikka tutkielman kirjoittajille](course)
+- Tell me when [Tutkielmaseminaari - Seminaari](course) begins
+- What day will [Dimensionality Reduction and Visualization](course) start- When does [Talous - politiikka - kulttuuri -lukupiiri](course) start
+- When does [Poliittiset aatteet ja ideologiat](course) start
+- When does [Teknologiakasvatus - Käsityökasvatuksen pedagogiikka ja työsuojelu](course) start
+- When does [Ruotsin kielen kirjallinen ja suullinen viestintä](course) begin
+- When does [Käsityö - Käsityö 1. vsk ja erillisen opinto-oikeuden POM-opintoihin saaneet opiskelijat (pienryhmäopetus)](course) begin
+- When will [Teknologiakasvatus - Käsityökasvatuksen pedagogiikka ja työsuojelu](course) begin
+- When will [Lapset kehittyvinä ja sosiaalisina toimijoina varhaiskasvatuksessa / Luennot - 1.vsk](course) begin
+- When will [Äidinkieli ja kirjallisuus - Lasten- ja nuortenkirjallisuus  -1. vsk ensijaisesi opinnot 1½ lukuvuodessa suorittavat 1.vsk lo-opiskelijat ja kaikkki erillisen opinto-oikeuden POM-opintoihin saaneet opiskelijat](course) begin
+- When will [Organisation Theory and Analysis](course) begin
+- When does [Sustainable business practices (Lectures)](course) begin
+- When will [Viestintä ammatillisissa ja läheisissä vuorovaikutussuhteissa](course) start
+- When will [Longitudinal and Finite Nonlinear Mixture Modelling and Associated Experimental Design Strategies (independent study and exams) 5 ECTS](course) start
+- When will [Lesen, Verstehen, Schreiben](course) start
+- When will [Taiteen historia, filosofia ja kulttuurit: Populaarit esitysmuodot (avoin yliopisto)](course) start
+- When is [Viestinnän ja median tutkimuksen metodologia, harjoitukset vaihtoehtoisissa työpajoissa](course)
+- [Eriytyvä syventävä tutkimusmenetelmäkurssi A: Laadullisen aineiston analyysi](course) when
+- When [Sanaston tuntemus/Ordkunskap][course]
+- [Hallinto-oikeuden harjoituskurssi](course) start
+- [Tutkimustyön perusteet - b) Tutkimusmenetelmät](course) start date
+- [Kandidaatintutkielma](course) starting date
+- [Lapset kehittyvinä ja sosiaalisina toimijoina varhaiskasvatuksessa / Harjoitukset - 1.vsk](course) begins
+- Tell me the start date of [Eettinen johtajuus](course)
+- What day will [Markkinoinnin teoria(course) start
+- When do I have [Government and Society: Inequality](course)
+- When do we have [Intercultural Communication](course)
+- The start date of [Vanhuus ja gerontologinen sosiaalityö](course)
+- Start date for [PlayLab! Game Journalism Project](course)
+- Start of [Julkisen toiminnan tuloksellisuuden arviointi](course)
+- I want to know when [Julkisen hallinnon reformit ja muutos](course) starts
+- I want to know when will [Terveyden edistämisen interventiot, Seinäjoki](course) start
+- I want to know the start date of [Muutosjohtaminen sosiaalityössä - Sosnet verkkokurssi](course)
+- I want to know when [Kasvatuksen historialliset ja filosofiset lähtökohdat, monimuoto-opetus](course) begin
+- Tell me the start date of [Research on Public Management and Organizations](course)
+- Tell me when [Tuutorivastaavana toimiminen](course) begins
+- What day will [Maailmanpolitiikan tutkimus (kirjatentti/essee)](course) start- When does [Epävarmuuden hallinta](course) start
+- When does [Musiikki - Musiikkikasvatuksen perusteet 1- 1. vsk ja  erillisen opinto-oikeuden POM-opintoihin saaneet opiskelijat](course) start
+- When does [Rakenteinen dokumentaatio ja DITA](course) start
+- When does [Käytännön opetus ja ohjaus](course) begin
+- When does [Research seminar for postgraduate studies](course) begin
+- When will [Liikuntapedagogiikan perusteet / Harjoitukset - 1.vsk](course) begin
+- When will [Laadullisen aineiston analysointi](course) begin
+- When will [Tutkijan digi- ja medianäkyvyys](course) begin
+- When will [Kerronnan monet muodot (luentokurssi korvaa kirjatentin)](course) begin
+- When does [Quantitative Research Methods and Comparative Research Design (only COSOPO students)](course) begin
+- When will [Environmental History and Cultural Ecology of Russia (VENS20)](course) start
+- When will [Contemporary Political Theory (book exam/essay)](course) start
+- When will [Uutisjournalismi](course) start
+- When will [Immunologian perusteet](course) start
+- When is [Visuaalisen kulttuurin teoria - lukupiiri ja essee](course)
+- [Seminaari II](course) when
+- When [Asevelvollisuus Suomessa ja kansainvälisesti][course]
+- [Perspectives in Educational Research](course) start
+- [Eriytyvä syventävä tutkimusmenetelmäkurssi A: Kehittävän työntutkimuksen menetelmät](course) start date
+- [Structure of English I - Grammar I](course) starting date
+- [Tieteellinen kirjoittaminen / avoin yliopisto-opetus](course) begins
+- Tell me the start date of [Terveys ja talous](course)
+- What day will [Arjen latinaa ja kulttuurihistoriaa(course) start
+- When do I have [Tieteellinen kirjoittaminen (2. vuosikurssin opiskelijoille)](course)
+- When do we have [Kerronnan monet muodot (luentokurssi korvaa kirjatentin)](course)
+- The start date of [Espanjan kielen kirjallinen ja suullinen taito](course)
+- Start date for [Graduvauhditus](course)
+- Start of [Ohjaus yliopistossa](course)
+- I want to know when [Korkeakoulut ja korkeakoulutus tutkimuksen kohteena - Kirjallinen tentti](course) starts
+- I want to know when will [Tutkijan digi- ja medianäkyvyys](course) start
+- I want to know the start date of [Liike-elämän ruotsia I](course)
+- I want to know when [Seminaari II/Seminarium II](course) begin
+- Tell me the start date of [Toimittajan tieto- ja viestintätekniikkataidot](course)
+- Tell me when [Tekstiklinikka tutkielman kirjoittajille](course) begins
+- What day will [Psykologian tutkimusmenetelmät II: kokeellinen ja korrelatiivinen tutkimus](course) start- When does [Sosiaalityön toimintaympäristöt](course) start
+- When does [Filosofian tutkija- ja tohtorikoulutusseminaari](course) start
+- When does [Yhteiskunnan tutkimuksen ajankohtaisia kysymyksiä - Luennot](course) start
+- When does [Valinnainen jakso: Toimitustyön johtaminen/ JOVVJS1 Visuaalisen työn johtaminen](course) begin
+- When does [Ruotsin kielen kirjallinen ja suullinen viestintä](course) begin
+- When will [Quantitative Research Methods and Comparative Research Design (Global Society students)](course) begin
+- When will [Vastuullisen liiketoiminnan case-kurssi](course) begin
+- When will [Fördjupad kurs i skriftlig och muntlig affärskommunikation](course) begin
+- When will [Journalistinen kieli - Kielenhuolto, lauseoppi](course) begin
+- When does [Yritysverotuksen syventävä opintojakso](course) begin
+- When will [Yksilö, yhteiskunta ja kulttuuri - historian ja yhteiskuntaopin harjoitusryhmät - 2. vsk](course) start
+- When will [Seminaari (Nikunen)](course) start
+- When will [Yhteiskunnallinen laskentatoimi](course) start
+- When will [Kokeellinen tiedonhaku](course) start
+- When is [Varhaiskasvatuksen ja esiopetuksen pedagogiikka - Työssäoppiminen 2.vsk (ryhmä 4)](course)
+- [Kandidaattiseminaari (JATKAVA, Vuolanto)](course) when
+- When [Tutkiva ja kehittävä opettaja][course]
+- [Kandidaattiseminaari ja -tutkielma (julkinen talousjohtaminen), kevät](course) start
+- [Maisteriopintojen esittely -  SDE](course) start date
+- [Latinankielinen kirjallisuus I: klassinen latina](course) starting date
+- [Eheyttävä musiikkikasvatus - Musiikkiteknologia](course) begins
+- Tell me the start date of [Sosiaalityön toimintaympäristöt (kirjatentti)](course)
+- What day will [Fundamentals of Finance (Tampere Summer School)(course) start
+- When do I have [Pro gradu -seminaari ja -tutkielma (2018-2019)](course)
+- When do we have [Hoitot. tiedon hyödyntäminen johtamisessa ja opettamisessa: syventävä projektityö (kurssi jatkuu keväältä 2018)](course)
+- The start date of [Mental Health Research: Using the Knowledge and Adding to it](course)
+- Start date for [Kliininen neuropsykologia II](course)
+- Start of [Symbols that move us - popular culture/deep culture](course)
+- I want to know when [Practical Observation of Finnish School System for Incoming Exchange Students - Observation, written tasks, report](course) starts
+- I want to know when will [Medioitu vuorovaikutus](course) start
+- I want to know the start date of [Yritysjuridiikan case-kurssi](course)
+- I want to know when [Oman äänen analyysi ja harjoittaminen](course) begin
+- Tell me the start date of [Tietokantojen perusteet - Näyttökoe, syksy 2018](course)
+- Tell me when [Käännösviestintä venäjä-suomi](course) begins
+- What day will [Thesis seminar and Master's Thesis](course) start- When does [Terve ja turvallinen kouluyhteisö](course) start
+- When does [Johdatus vuorovaikutteiseen teknologiaan](course) start
+- When does [Työmarkkinat, työvoiman käyttö ja työllisyysturva](course) start
+- When does [Peace Research Design](course) begin
+- When does [Civil Society and Political Participation (book exam/essay)](course) begin
+- When will [Kehitys, kasvatus ja elämänkulku, verkko-opetus](course) begin
+- When will [Vanhat ja uudet klassikot (kirjatentti/essee)](course) begin
+- When will [Aikuisten mielenterveysinterventiot](course) begin
+- When will [Visuaalisen journalismin erityisalueet](course) begin
+- When does [Finnish Education System - Seminar](course) begin
+- When will [Laaja-alaistava harjoittelu - Ohjattu opetusharjoittelu](course) start
+- When will [Writing Scientific Journal Articles](course) start
+- When will [Addiktiot, yksilö ja yhteiskunta](course) start
+- When will [Orientation Course - General Orientation Course for International Students](course) start
+- When is [Demola-projektityö I](course)
+- [Seminaarit 1. lukukausi/2. lukukausi](course) when
+- When [Nuorisotyön ja nuorisotutkimuksen maisteriohjelman lähijakso 10.-11.1.2019][course]
+- [Johdatus logiikkaan 2](course) start
+- [Orientoivat opinnot - Tiedonhankintataidot](course) start date
+- [Finnish Elementary Course 2 (taught in 4. period)](course) starting date
+- [Terveys, tieto, asiantuntijuus](course) begins
+- Tell me the start date of [Introduction to Web Publishing - Spring 2019](course)
+- What day will [History, Culture and Literature: Culture and Literature(course) start
+- When do I have [Peace Research Design](course)
+- When do we have [Tragedy of the Commons? Problems and Solutions](course)
+- The start date of [Sosiaalioikeus - STYA1A1 Sosiaalioikeus I](course)
+- Start date for [Sosiaalioikeus - STYA1A1 Sosiaalioikeus I](course)
+- Start of [EU ja Länsi-Balkan: ehdollistettua demokratiaa ja valtionrakennusta](course)
+- I want to know when [Mediated Learning Experinces in Multicultural Settings](course) starts
+- I want to know when will [Romanian kielen jatkokurssi II / Advanced Course 2 in Romanian -](course) start
+- I want to know the start date of [The Liberal Welfare State](course)
+- I want to know when [Maisteriopintojen esittely -  SDE](course) begin
+- Tell me the start date of [Julkisoikeuden perusteet (verkkototeutus)](course)
+- Tell me when [Tissue biology](course) begins
+- What day will [Pratiques de l'écrit: méthodes et techniques d'expression écrite/Kirjoitusharjoituksia: kirjallisen esityksen metodit ja tekniikka](course) start- When does [Puhelääketiede](course) start
+- When does [Managing Research Information](course) start
+- When does [Tutkielmaseminaari - Seminaari](course) start
+- When does [Tutkimusseminaari ja pro gradu -tutkielma](course) begin
+- When does [Makrotalousteoria II](course) begin
+- When will [Introduction to leadership and management](course) begin
+- When will [Teknologiat ja materiaalisuus terveyskysymyksissä](course) begin
+- When will [Orientation - Orientation to studying in the Degree Programme](course) begin
+- When will [Vuorovaikutuksen perusteet - verkkokurssina I](course) begin
+- When does [Literature and Society in Early Modern Britain](course) begin
+- When will [Kielitaito ja kielitaidon arviointi](course) start
+- When will [Dialogue: Constructive Talk at Work (Tampere Summer School 2018)](course) start
+- When will [Euroopan unioni (kirjatentti/essee)](course) start
+- When will [Kandidaatin tutkielma ja seminaari (Kansanterveystieteen opiskelijoille)](course) start
+- When is [Comparative Education Policy](course)
+- [Orientation - Introduction to Academic Culture and Degree Studies](course) when
+- When [Environment and Well-Being][course]
+- [Johtamisen ja organisaatioiden perusteet](course) start
+- [Orientoivat opinnot - Tiedonhankintataidot I](course) start date
+- [Opetus, ohjaus, oppiminen, monimuoto-opetus](course) starting date
+- [Kansainvälisen politiikan yleiset syventävät menetelmäopinnot (kirjatentti/essee)](course) begins
+- Tell me the start date of [Lähtötasokoe / Schwellentest](course)
+- What day will [Venäjä III(course) start
+- When do I have [Grammaire/Kielioppi](course)
+- When do we have [Orientoivat opinnot - Orientoivat opinnot](course)
+- The start date of [Suomi ja maailman kielet](course)
+- Start date for [Feministisen ajattelun klassikot (verkkokurssi)](course)
+- Start of [Kansainvälisen historian tutkijaseminaari](course)
+- I want to know when [Rahoitusoikeus](course) starts
+- I want to know when will [Teoria- ja metodiopinnot teatteritaiteen tohtorin tutkinnossa](course) start
+- I want to know the start date of [Liikunnan projekti (5 op)](course)
+- I want to know when [Terveysviestintä](course) begin
+- Tell me the start date of [Conflicts over the Use of Natural Resources and the Environment](course)
+- Tell me when [Kehittävä asiantuntijatyö organisaatioissa](course) begins
+- What day will [Kliinisen neuropsykologian perusteet](course) start- When does [Näkökulmia kääntämiseen - Johdatus käännösprosessiin](course) start
+- When does [Ruotsin kielen kirjallinen ja suullinen viestintä / AHOT (näyttökoe)](course) start
+- When does [Johtaminen ja organisaatiot I (kirjallisuus)](course) start
+- When does [Ruotsin kielen kirjallinen ja suullinen viestintä / avoin yliopisto-opetus](course) begin
+- When does [Literature and Urban Space](course) begin
+- When will [Venäjän kielen rakenne - Syntaksi](course) begin
+- When will [Romanian kielen jatkokurssi I / Advanced Course 1 in Romanian](course) begin
+- When will [Uuden ajan alun ryhmä](course) begin
+- When will [Teeman "Sosiaalinen kognitio ja vuorovaikutus" johdantokurssi](course) begin
+- When does [Yhteiskunnan tutkimuksen ajankohtaisia kysymyksiä - Luennot](course) begin
+- When will [Orientoivat opinnot ja HOPS (kirjallisuustiede)](course) start
+- When will [Orientoivat opinnot - Tiedonhankintataidot I (TIE)](course) start
+- When will [Vakuutustiede ja vakuutustutkimus](course) start
+- When will [Creative Writing in English](course) start
+- When is [International Dynamics and Policy Transfer in Education](course)
+- [Kandidaatintutkielma, seminaari](course) when
+- When [Legal English][course]
+- [Kasvatus tieteellisen tutkimuksen kohteena, verkko-opetus, II-periodi](course) start
+- [Asiantuntijuus ja tietopalvelujen kehittäminen](course) start date
+- [Suomen historian tutkijaseminaari](course) starting date
+- [Ranska II](course) begins
+- Tell me the start date of [Käännösviestintä ruotsi-suomi/Översättning svenska-finska](course)
+- What day will [Language and Identity(course) start
+- When do I have [Radio Project](course)
+- When do we have [Knowledge Discovery](course)
+- The start date of [Kandidaattiseminaari ja -tutkielma (hallintotiede), kevät -](course)
+- Start date for [Web-tutkimus](course)
+- Start of [Varhaiskasvatuksen ja esiopetuksen pedagogiikka - Työssäoppiminen 2.vsk (ryhmä 4)](course)
+- I want to know when [Sosiaalityön peruskurssi (kirjatentti)](course) starts
+- I want to know when will [Äkilliset traumaattiset kriisit ja niiden käsittely](course) start
+- I want to know the start date of [Työhyvinvointi](course)
+- I want to know when [Developing a Proposal for Community-Based Qualitative Research](course) begin
+- Tell me the start date of [Aineopintojen valinnainen jakso: Metso Talk - suoran lähetyksen ja yleisötilaisuuden tuottaminen](course)
+- Tell me when [Approaches and Tools for Conflict Analysis and Peace Mediation](course) begins
+- What day will [Murder and Representation](course) start- When does [Kuluttajakäyttäytyminen](course) start
+- When does [European, Eurasian and Global Energy Policy (book exam/essay)](course) start
+- When does [Shakespeare: Past and Present](course) start
+- When does [Talousviestintä / Wirtschaftskommunikation](course) begin
+- When does [Latinankielinen kirjallisuus II: keski- ja uuden ajan latina](course) begin
+- When will [Media and Cultural Industries](course) begin
+- When will [Talous ja yhteiskunta](course) begin
+- When will [Radio Project](course) begin
+- When will [Seminaari (Ridell)](course) begin
+- When does [Eurooppa-vero-oikeus](course) begin
+- When will [Mediakasvatus, osallisuus ja aktiivinen kansalaisuus, kirjatentti, Pori](course) start
+- When will [Strateginen brändijohtaminen](course) start
+- When will [Asiantuntijan ja esimiehen työelämätaidot](course) start
+- When will [Sosiaalitieteiden kvantitatiiviset tutkimusmenetelmät (verkkokurssi)](course) start
+- When is [Tieteellinen kirjoittaminen / LUO & COMS](course)
+- [Yhteisö, terveys ja sairaus](course) when
+- When [Reportaasi][course]
+- [Representations and Identities](course) start
+- [Kansainvälisen politiikan johdantokurssi (tutkinto-ohjelman opiskelijat)](course) start date
+- [Tuutorina toimiminen](course) starting date
+- [Terveyden ja mielenterveyden psykologia II](course) begins
+- Tell me the start date of [Tutkimustyötä tukevat tohtoriopinnot (tilastotiede)](course)
+- What day will [Gypsies in Hungary (intensive course)(course) start
+- When do I have [Asiantuntijan puheviestintä ja vuorovaikutus / AHOT (näyttökoe)](course)
+- When do we have [Contemporary Political Theory (book exam/essay)](course)
+- The start date of [Juridisk svenska (vain KTM:ksi klklla 2019 valmistuville)](course)
+- Start date for [Economic renewal of cities and regions](course)
+- Start of [Lasten arviointi](course)
+- I want to know when [Basic Studies in Education -courses, introductory meetings, reading circles and book exams](course) starts
+- I want to know when will [Julkisorganisaation talouden suunnittelu ja päätöksenteko](course) start
+- I want to know the start date of [Hoitotieteen tohtorikoulutusseminaari](course)
+- I want to know when [Julkissektorin instituutioiden talous (monimuoto-opetus)](course) begin
+- Tell me the start date of [Ruotsin kielen kirjallinen ja suullinen viestintä (JKK: HK & YTK / EDU / LUO / COMS: HuK, LuK & YTK / SOC)](course)
+- Tell me when [Monikulttuurisen sosiaalityön erityiskysymykset - Sosnet verkkokurssi](course) begins
+- What day will [Internet ja vuorovaikutteinen media](course) start- When does [Tieteellinen kirjoittaminen](course) start
+- When does [Information Visualization](course) start
+- When does [Kvalitatiivinen tutkimus kasvatustieteissä - Verkkokurssi, varhaiskasvatuksen opiskelijat](course) start
+- When does [Making sense of globalization - Theorizing beyond the nation-state - seminar](course) begin
+- When does [Teknologiakasvatus - Käsityökasvatuksen pedagogiikka ja työsuojelu](course) begin
+- When will [Valtio-opin maisteriseminaari](course) begin
+- When will [Variety in Present-day English](course) begin
+- When will [Merkitys](course) begin
+- When will [Nuorisokasvatuksen ja nuorisotyön teoreettisia suuntauksia (verkkokurssi)](course) begin
+- When does [Ruotsin kielen kirjallinen ja suullinen viestintä](course) begin
+- When will [BMT-70100 Kudosteknologian perusteet](course) start
+- When will [Yritysverkoston juridinen hallinta](course) start
+- When will [Käytännön opetus ja ohjaus - STYA3B2 Käytännön opetus ja ohjaus](course) start
+- When will [Theory and practice of peaceful change: The Baltic Sea Region](course) start
+- When is [Johdatus historiantutkimukseen - Johdatus historiantutkimukseen -luentokurssi (avoin yo)](course)
+- [Valinnainen jakso: Radioprojekti (kevät)](course) when
+- When [Tuutorina toimiminen][course]
+- [Ryhmät ja ryhmien väliset suhteet](course) start
+- [Finlaysonin kielimaailmat](course) start date
+- [Second Language Acquisition](course) starting date
+- [Journalistinen kieli - Tekstinhuolto](course) begins
+- Tell me the start date of [Monikielinen käännöstyöpaja](course)
+- What day will [Oppimisyhteisöt ja vuorovaikutus, kirjatentti, Pori(course) start
+- When do I have [Kielen opettaminen / Fremdsprachenlehren](course)
+- When do we have [Nuorisotyön harjoittelu](course)
+- The start date of [Inklusiivinen pedagogiikka ja oppimisen tukeminen](course)
+- Start date for [Kielioppi II (venäjänkieliset opiskelijat)](course)
+- Start of [SGN-41007 Pattern Recognition and Machine Learning](course)
+- I want to know when [Psykologian tutkimusmenetelmät I (avoin yliopisto)](course) starts
+- I want to know when will [Yksilö, yhteiskunta ja kulttuuri - Monikulttuurisuus koulussa - 2. vsk](course) start
+- I want to know the start date of [Opetus, ohjaus, oppiminen - Varhaiskasvatus: Pienryhmäopetus ja orientaatioharjoittelu (2 op)  ja kirjallisuus (2 op)](course)
+- I want to know when [Orientaatio psykologiaan](course) begin
+- Tell me the start date of [Käännösviestintä suomi-ruotsi/Översättning finska-svenska](course)
+- Tell me when [Lapset kehittyvinä ja sosiaalisina toimijoina varhaiskasvatuksessa / Harjoitukset - 1.vsk](course) begins
+- What day will [Puheviestinnän tutkimuskurssi](course) start

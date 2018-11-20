@@ -1,0 +1,871 @@
+- Schedule [Literary Theory and Methodology](course)
+- [Peace and Conflict Research (book exam/essay)](course) schedule
+- [Foundations of English Business Communication (RPL) / näyttökoe](course) weekly schedule
+- [Venäjä I](course) weekly
+- What is the schedule for [Introduction to Entrepreneurship](course)
+- What is the schedule [Kirjallisuudentutkimuksen menetelmät - Menetelmät ja käsitteet](course)
+- When are classes for [Kehitys, kasvatus ja elämänkulku - Luennot EDUn opiskelijoille (2 op) TAI muille opiskelijoille luennot (2 op) ja kirjallisuus (3 op)](course)
+- Classes [Seminar, Bachelor's Thesis and Maturity Test - Seminar](course)
+- When are classes [Filosofinen argumentaatio, tulkinta ja kirjoittaminen](course)
+- Teaching times [Algebra 2](course)
+- Teaching hours [Introduction to Academic English (online / JKK, EDU, LUO, COMS & SOC)](course)
+- Teaching [Informaatio- ja mediajärjestelmien historiaa ja nykypäivää](course)
+- [v](course) teaching
+- Week [Suullinen ja kirjallinen taito - Ääntämisharjoitukset ja tekstinymmärtäminen/Expresión oral y escrita - Pronunciación y Comprensión de textos](course)
+- Lectures [Kvantitatiiviset tutkimusmenetelmät (kirjatentti/essee)](course)
+- When are lectures [Kvantitatiivinen tutkimus kasvatustieteissä - Harjoitukset, yleinen](course)
+- Hours weekly [Asiantuntijan puheviestintä ja vuorovaikutus (2. periodi) / KTM-tutkinto](course)
+- When are the classes [Scottish Literature](course) weekly
+- [Visuaalisen kulttuurin teoria - luennot ja pienryhmätyöskentely](course) teaching times
+- When are [Translators' Cultural Competencies](course) teaching times
+- What are [MA Thesis Seminar](course) teaching times
+- When are lectures [Performance management in public organizations](course)
+- The schedule for [Työpaja (matematiikan perustaitotesti)](course)
+- What are the teaching times for [Tieteellinen kommunikaatio ja bibliometriikka](course)
+- [Latinankielinen kirjallisuus II: keski- ja uuden ajan latina](course) times
+- [Musisointi - 1.vsk](course) hours
+- I want to know when [Suomen historian tutkijaseminaari](course) teaching times are
+- I want to know teaching times of [Eriytyvä syventävä tutkimusmenetelmäkurssi A: Kehittävän työntutkimuksen menetelmät](course)
+- I want to know the schedule of [Thesis seminar and Master's Thesis](course)
+- I want to know when the lectures in course [Orientoivat opinnot - Tiedonhankintataidot I (MTT)](course) are- Schedule [Suomen kielen rakenne S2-näkökulmasta](course)
+- [Vakuutuslaitosten sijoitustoiminta](course) schedule
+- [Ympäristöhallinnan muutos (esseesuoritusvaihtoehto)](course) weekly schedule
+- [Syntaksi](course) weekly
+- What is the schedule for [User Experience: Design and Evaluation (TUT/IHTE)](course)
+- What is the schedule [Psychology of Pervasive Computing (TUT/IHTE)](course)
+- When are classes for [Economics and the Business Environment](course)
+- Classes [Longitudinal and Finite Nonlinear Mixture Modelling and Associated Experimental Design Strategies (independent study and exams) 5 ECTS](course)
+- When are classes [Asioimistulkkaus venäjä-suomi-venäjä](course)
+- Teaching times [Kvantitatiivinen tutkimus kasvatustieteissä - Harjoitukset, yhteisopetusta avoimen yo:n kanssa](course)
+- Teaching hours [Comparative Education - book exam](course)
+- Teaching [Epidemiology Journal Club](course)
+- [v](course) teaching
+- Week [Basics of Management and Organizations](course)
+- Lectures [Introduction to Academic English (online / JKK, EDU, LUO, COMS & SOC)](course)
+- When are lectures [Graduseminaari / Kekäläinen (jatkuu keväältä 2018)](course)
+- Hours weekly [World society: National policies, global governance and transnational sociology](course)
+- When are the classes [Tutkimusprosessin hallinta tohtoriopinnoissa](course) weekly
+- [Vähittäiskaupan konseptit](course) teaching times
+- When are [Parties, Elections and Political Participation (book exam/essay)](course) teaching times
+- What are [Varhaiskasvatuksen ja esiopetuksen pedagogiikka - Työssäoppiminen 2.vsk (ryhmä 4)](course) teaching times
+- When are lectures [Identity and Lifecourse - Lectures, reading groups and essay](course)
+- The schedule for [Terveyden edistämisen perusteet (kirjatentti hoitotieteen opiskelijoille)](course)
+- What are the teaching times for [Oppimisyhteisöt ja vuorovaikutus, kirjatentti, Pori](course)
+- [Kirjallisuustieteen syysseminaari: Ihmesaduista adaptaatioihin. Näkökulmia sadun ja fantasian tutkimukseen](course) times
+- [Ulkopolitiikka ja diplomatia (kirjatentti/essee)](course) hours
+- I want to know when [Scientific Writing - Module A - Writing Clinic](course) teaching times are
+- I want to know teaching times of [Kirjallinen viestintä I / Schriftliche Kommunikation I](course)
+- I want to know the schedule of [Management and organizations I (literature)](course)
+- I want to know when the lectures in course [Tilinpäätöksen tulkinta julkisessa hallinnossa](course) are- Schedule [Introduction to Academic English (online / JKK, EDU, LUO, COMS & SOC)](course)
+- [Visuaalisen kulttuurin syventymiskohde - Seminaari](course) schedule
+- [Verkkomedian suunnittelu (keväällä 2018 opintokokonaisuuden aloittaneille) - verkkokurssi](course) weekly schedule
+- [Teknologiakasvatus - Teknologia](course) weekly
+- What is the schedule for [Tutkijaseminaari](course)
+- What is the schedule [Introduction to Science and Research (spring)](course)
+- When are classes for [Käännös suomi-espanja I/Traducción finés-español I](course)
+- Classes [Yhdyskuntakehittämisen ajankohtaisia kysymyksiä](course)
+- When are classes [Uuden ajan alun (1500-1800) tutkimuksen lähteet ja menetelmät](course)
+- Teaching times [Nuorisotyön ja nuorisotutkimuksen maisteriohjelman lähijakso 12.-13.12.2018](course)
+- Teaching hours [Fonetiikan tilastomenetelmät](course)
+- Teaching [Terveys, arki ja toimijuus, luennot](course)
+- [v](course) teaching
+- Week [Tilastotieteen johdantokurssi, syksy](course)
+- Lectures [Dialogitulkkaus](course)
+- When are lectures [Kuluttajakäyttäytyminen](course)
+- Hours weekly [Language, Communication and Culture](course)
+- When are the classes [Tuutorina toimiminen](course) weekly
+- [Äkilliset traumaattiset kriisit ja niiden käsittely](course) teaching times
+- When are [C. Wright Millsin sosiologia - Luentoseminaari](course) teaching times
+- What are [Introduction to Academic English (diverse learners)](course) teaching times
+- When are lectures [Cultural Conversations](course)
+- The schedule for [Logiikka](course)
+- What are the teaching times for [Johdatus filosofiaan](course)
+- [Nordic Model: Nordic Welfare Societies](course) times
+- [Introduction to Academic English (JKK, EDU, LUO, COMS & SOC)](course) hours
+- I want to know when [Fonetiikan teoriaa - Fonetiikan jatkokurssi](course) teaching times are
+- I want to know teaching times of [Tieteellinen kirjoittaminen (SOC)](course)
+- I want to know the schedule of [Graduseminaari (Junkkari)](course)
+- I want to know when the lectures in course [Varhaiskasvatuksen kehittyvä asiantuntijuus - Työssäoppiminen (2.vsk ryhmä 4)](course) are- Schedule [Mediakasvatus, osallisuus ja aktiivinen kansalaisuus, kirjatentti](course)
+- [Talousviestintä / Wirtschaftskommunikation](course) schedule
+- [Yritysjuridiikan case-kurssi](course) weekly schedule
+- [Ympäristökasvatus / Harjoitukset - 2.vsk + 1.vsk ryhmät 6 ja 7](course) weekly
+- What is the schedule for [Current Approaches in Games and Internet Research](course)
+- What is the schedule [Vuorovaikutusprosessit työelämän tilanteissa (monimuoto-opetus)](course)
+- When are classes for [Kielen käyttö I](course)
+- Classes [Seminaari (Seppänen)](course)
+- When are classes [Korkeakoulut työyhteisöinä - Kehittämistehtävä](course)
+- Teaching times [Pratiques de l'oral et de l'écrit / Ranskan kielen tuottaminen](course)
+- Teaching hours [Tutkimusetiikka](course)
+- Teaching [Kirjallinen viestintä I/Skriftlig kommunikation I](course)
+- [v](course) teaching
+- Week [Identity and Lifecourse - Lectures, reading groups and essay](course)
+- Lectures [Political Institutions and Processes (book exam/essay)](course)
+- When are lectures [Keskiajan paleografia ja diplomatiikka (PERUTTU)](course)
+- Hours weekly [Human-Centered Product Development (TUT/IHTE)](course)
+- When are the classes [Valtio-opin johdantokurssi](course) weekly
+- [The Theory and Method of International Relations (seminar) (book exam)](course) teaching times
+- When are [Omaan tieteenalaan ja tutkimusaiheeseen liittyvät opinnot](course) teaching times
+- What are [Tieteellinen kirjoittaminen](course) teaching times
+- When are lectures [Semantiikan harjoituskurssi](course)
+- The schedule for [Käsityömuotoilu - projekti/käytännön työ ja protfolio](course)
+- What are the teaching times for [Ilmoittautuminen pro gradu -seminaariin, tammikuussa 2019 alkavat ryhmät](course)
+- [Radio Project](course) times
+- [Maailmanloppu nyt. Ja ennen.](course) hours
+- I want to know when [Kandidaattiseminaari ja tutkielma (vakuutus ja riskienhallinta), kevät 2019](course) teaching times are
+- I want to know teaching times of [Matrices for Statistics and Computational Methods](course)
+- I want to know the schedule of [Kvalitatiivinen tutkimus kasvatustieteissä - Verkkokurssi, yhteisopetus avoimen yo:n ja tutkinto-opiskelijoille](course)
+- I want to know when the lectures in course [Liiketoimintaosaamisen kokonaisdynamiikka ja sen ohjaaminen - VIBU-yritysstimulaatio](course) are- Schedule [Kandidaattiseminaari](course)
+- [Kansainvälisen politiikan johdantokurssi (kaikki opiskelijat)](course) schedule
+- [Romanian kielen alkeet / Basic Course in Romanian](course) weekly schedule
+- [Filosofinen argumentaatio, tulkinta ja kirjoittaminen](course) weekly
+- What is the schedule for [Musiikki - Musiikkikasvatuksen perusteet 2 - 1. vsk  ja erillisen opinto-oikeuden POM-opintoihin saaneet opiskelijat](course)
+- What is the schedule [Osallisuudet, oikeudet ja vastuut palvelujärjestelmäkohtaamisissa](course)
+- When are classes for [Bioinformatics](course)
+- Classes [Jatko-opintoja](course)
+- When are classes [Sosiaalitieteiden kvalitatiiviset menetelmät - Luennot ja harjoitukset](course)
+- Teaching times [Valinnainen jakso: Tiedeviestinnän käytänteet](course)
+- Teaching hours [Perusharjoittelu](course)
+- Teaching [English Word Formation](course)
+- [v](course) teaching
+- Week [Julkisorganisaation talouden suunnittelu ja päätöksenteko](course)
+- Lectures [Praktikum](course)
+- When are lectures [Ympäristökasvatus / Luennot - 2.vsk + 1.vsk ryhmät 6 ja 7](course)
+- Hours weekly [Kandidaatintutkielma ja seminaari, syksy 2018](course)
+- When are the classes [Lapset kehittyvinä ja sosiaalisina toimijoina varhaiskasvatuksessa / Harjoitukset - 1.vsk](course) weekly
+- [Kasvatus tieteellisen tutkimuksen kohteena, verkko-opetus, II-periodi](course) teaching times
+- When are [Identities in Peace and Conflict](course) teaching times
+- What are [Ajankohtaiset ilmiöt hallintotieteissä - Itsenäinen työskentely](course) teaching times
+- When are lectures [Toisen vuoden opiskelijoiden info-tilaisuus](course)
+- The schedule for [Sopimusoikeus](course)
+- What are the teaching times for [Espanja II](course)
+- [Vanhempien aikojen tutkijaseminaari](course) times
+- [Työn ja hyvinvoinnin maisteriohjelman tutkielmaseminaari (jatkava)](course) hours
+- I want to know when [Eriytyvä syventävä tutkimusmenetelmäkurssi A: Eläytymismenetelmä - yhdistetty Jari Eskolan graduryhmään](course) teaching times are
+- I want to know teaching times of [Rasismi ja antirasismi](course)
+- I want to know the schedule of [EU ja Länsi-Balkan: ehdollistettua demokratiaa ja valtionrakennusta](course)
+- I want to know when the lectures in course [Terveyden ja mielenterveyden psykologia II](course) are- Schedule [Venäjän historia, kirjallisuus ja kulttuuri](course)
+- [Statistical Analysis with Missing Data (intermediate)](course) schedule
+- [History of English](course) weekly schedule
+- [Journalismin tulevaisuus, luennot](course) weekly
+- What is the schedule for [Kehitys, kasvatus ja elämänkulku - Luennot EDUn opiskelijoille (2 op) TAI muille opiskelijoille luennot (2 op) ja kirjallisuus (3 op)](course)
+- What is the schedule [Lukuteoria ja algebra opettajille -](course)
+- When are classes for [Kansalaistoiminta ja kasvatus](course)
+- Classes [Sosiaaliantropologian teoreettinen ajattelu](course)
+- When are classes [Terveystaloustieteen tohtorikoulutussemiaari](course)
+- Teaching times [Perhehoitotieteellisen tiedon syventäminen -](course)
+- Teaching hours [Diskutera som specialist](course)
+- Teaching [Rahoitusekonometria](course)
+- [v](course) teaching
+- Week [Sarjakuva ja kuvakirja kääntäjän kädessä / Suomentamisseminaari](course)
+- Lectures [Finnish Elementary Course 1 (taught in 1. period)](course)
+- When are lectures [Tutkielmaseminaari](course)
+- Hours weekly [Budgeting and capital budgeting (online course)](course)
+- When are the classes [Kasvatushistoria - kirjatentti (slk ja klk)](course) weekly
+- [Statistical Modeling 1](course) teaching times
+- When are [Multi-level Governance and Europeanisation (book exam/essay)](course) teaching times
+- What are [Fonetiikan tilastomenetelmät](course) teaching times
+- When are lectures [Tietokäytännöt (keväällä 2018 perusopinnot aloittaneille) - verkkokurssi](course)
+- The schedule for [Opetus, ohjaus, oppiminen, monimuoto-opetus](course)
+- What are the teaching times for [Kandidaatintutkielma ja seminaari - Seminaari](course)
+- [Harjoittelu ja työelämävalmiudet](course) times
+- [Yleistetyt lineaariset mallit 1](course) hours
+- I want to know when [Kulttuurien kohtaaminen](course) teaching times are
+- I want to know teaching times of [European Public Law](course)
+- I want to know the schedule of [Ympäristöhallinnan muutos](course)
+- I want to know when the lectures in course [Scientific Writing - Module B - Thesis Writing (online)](course) are- Schedule [Luentateatteri](course)
+- [Dramaturgia: Musikaalin dramaturgia](course) schedule
+- [Kandidaatintutkielma ja seminaari, syksy 2018](course) weekly schedule
+- [Dialogitulkkaus](course) weekly
+- What is the schedule for [Lapsuuden, nuoruuden ja perheen tutkimuskeskus PERLAn tutkimusseminaari](course)
+- What is the schedule [Ruotsin kielen kirjallinen ja suullinen viestintä / intensiivikurssi](course)
+- When are classes for [Monimutkaisia itsestäänselvyyksiä-näkökulmia arjen ja henkilökohtaisen elämän tutkimukseen](course)
+- Classes [Pohjoismaisten kielten lähtötasokoe](course)
+- When are classes [Seminar, Bachelor's Thesis and Maturity Test - Seminar](course)
+- Teaching times [Ruotsin kielen kirjallinen ja suullinen viestintä / avoin yliopisto-opetus](course)
+- Teaching hours [Ruotsin kielen kirjallinen ja suullinen viestintä / Monenlaisten oppijoiden ryhmä](course)
+- Teaching [Lapset kehittyvinä ja sosiaalisina toimijoina varhaiskasvatuksessa / Luennot - 1.vsk](course)
+- [v](course) teaching
+- Week [Matemaattiset aineet - Koulugeometria - 2 vsk](course)
+- Lectures [Usean muuttujan differentiaalilaskenta](course)
+- When are lectures [Dialogitulkkaus](course)
+- Hours weekly [Johdon laskentatoimi ja inhimillinen käyttäytyminen](course)
+- When are the classes [Basics of Marketing and Sales -](course) weekly
+- [Molekyylibiologia](course) teaching times
+- When are [Journalistinen kieli - Tekstinhuolto](course) teaching times
+- What are [Advanced Project Studies](course) teaching times
+- When are lectures [Environment and Well-Being](course)
+- The schedule for [Comparative European Politics and the Finnish Political System (book exam/essay)](course)
+- What are the teaching times for [Kvalitatiivinen tutkimus kasvatustieteissä - Harjoitukset, Ryhmä, yhteinen varhaiskasv. ja luokanop. ryhmä](course)
+- [Terve ja turvallinen kouluyhteisö](course) times
+- [Turvallisuuspalvelujen suunnittelu ja palvelumuotoilu (service design)](course) hours
+- I want to know when [Case study: Examining leadership challenges](course) teaching times are
+- I want to know teaching times of [Kielen opettaminen / Fremdsprachenlehren](course)
+- I want to know the schedule of [Tutkimusprosessin hallinta - Läsnäoloon perustuva oppimispäiväkirja](course)
+- I want to know when the lectures in course [Kunta- ja aluejohtamisen vaihtuvasisältöinen erikoiskurssi](course) are- Schedule [Tiedonhankintataidot - Tiedonhankintataidot IV - Viitteiden hallinta (hoitotieteen opiskelijoille)](course)
+- [Global Humanitarianism and its Critics (POMLFCS3)](course) schedule
+- [Jatkokoulutusseminaari](course) weekly schedule
+- [Translating and Editing for Publication](course) weekly
+- What is the schedule for [Filosofian työpaja](course)
+- What is the schedule [Nuorisotyön ja nuorisotutkimuksen maisteriohjelman lähijakso 12.-13.12.2018](course)
+- When are classes for [Sosiaalityö terveydenhuollossa](course)
+- Classes [Johdatus etiikkaan](course)
+- When are classes [Korkeakoulut työyhteisöinä - Kehittämistehtävä](course)
+- Teaching times [Johdatus viestintään ja mediaan](course)
+- Teaching hours [Matemaattiset aineet - Fysiikka ja kemia - 2. vsk](course)
+- Teaching [Mediakasvatus, osallisuus ja aktiivinen kansalaisuus, kirjatentti, Pori](course)
+- [v](course) teaching
+- Week [Internship or work placement](course)
+- Lectures [Johdatus visuaaliseen kulttuuriin](course)
+- When are lectures [Kognitiivinen neurotiede II](course)
+- Hours weekly [Methods of Variationist Linguistics](course)
+- When are the classes [Johdatus historiantutkimukseen (verkkokurssi)](course) weekly
+- [Vieraan kielen taito, perustaso](course) teaching times
+- When are [Terveystieteiden laadulliset tutkimusmenetelmät](course) teaching times
+- What are [Kansainvälisen politiikan teoria ja menetelmät (luentokurssi)](course) teaching times
+- When are lectures [European Public Law](course)
+- The schedule for [Organisation Theory and Analysis](course)
+- What are the teaching times for [Kirjallinen ja suullinen viestintä II: suullinen viestintä](course)
+- [Introduction to leadership and management](course) times
+- [Lasten ja nuorten neuropsykologien kuntoutus](course) hours
+- I want to know when [SGN-53007 Computational Diagnostics](course) teaching times are
+- I want to know teaching times of [Sanaston tuntemus/Ordkunskap](course)
+- I want to know the schedule of [Theatre, Society, and Politics 1660-1760](course)
+- I want to know when the lectures in course [Ruotsin kielen kirjallinen ja suullinen viestintä](course) are- Schedule [Recommender Systems](course)
+- [Arvonlisäverotuksen syventävä opintojakso](course) schedule
+- [Developing and implementing European Public Sector Accounting modules](course) weekly schedule
+- [Johdatus hoitotieteeseen](course) weekly
+- What is the schedule for [Hoivan ehdot, talouden rajat: johdatus vaivan politiikkaan](course)
+- What is the schedule [Tutkimuspraktikum](course)
+- When are classes for [Kirjallisuuden teoria - Kirjallisuuden teorian suuntia](course)
+- Classes [Visiting Lectures - Lectures](course)
+- When are classes [Education, Work and Culture](course)
+- Teaching times [Seminaari (Nikunen) jatkuu keväältä](course)
+- Teaching hours [Varhaisiän musiikkikasvatus / Harjoitukset - 2.vsk](course)
+- Teaching [Espanjan lähihistoria ja kirjallisuus/Historia y literatura contemporáneas de España](course)
+- [v](course) teaching
+- Week [Suullinen viestintä II/Muntlig kommunikation II](course)
+- Lectures [EI toteutusta 2018-19 Advanced immunology](course)
+- When are lectures [Hoitot. tiedon hyödyntäminen johtamisessa ja opettamisessa: syventävä projektityö (kurssi jatkuu syksyllä 2019)](course)
+- Hours weekly [Väitöskirja (tutkijaseminaarit)](course)
+- When are the classes [Analyysi A](course) weekly
+- [Opetussuunnitelmateoria, kirjatentti, Pori](course) teaching times
+- When are [Euroopan maiden ja Suomen poliittiset järjestelmät (kirjatentti/essee)](course) teaching times
+- What are [Ruotsin kielen kirjallinen ja suullinen viestintä](course) teaching times
+- When are lectures [Kandidaattiseminaari ja tutkielma (laskentatoimi) - Kandidaattiseminaari, kevät 2018](course)
+- The schedule for [Tieteenfilosofia](course)
+- What are the teaching times for [Kirjallisuuden analyysi/Analiz hudozhestvennoj literatury](course)
+- [Liike-elämän ruotsia I](course) times
+- [Medioitu vuorovaikutus](course) hours
+- I want to know when [Behavioraalinen ja psykologinen taloustiede](course) teaching times are
+- I want to know teaching times of [Kansainvälisen politiikan teoria ja menetelmät (luentokurssi)](course)
+- I want to know the schedule of [Opetus, ohjaus, oppiminen, monimuoto-opeus](course)
+- I want to know when the lectures in course [Speakers Series](course) are- Schedule [Taitoseminaari](course)
+- [Parhaat filosofiset artikkelit](course) schedule
+- [Kandidaatintutkielmaseminaari - Seminaari](course) weekly schedule
+- [Viestinnän etiikka - verkkokurssi](course) weekly
+- What is the schedule for [Syntax](course)
+- What is the schedule [Government and Society: Inequality](course)
+- When are classes for [Tiedonhankintataidot - Tiedonhankintataidot IV - Viitteiden hallinta (hoitotieteen opiskelijoille)](course)
+- Classes [Laskentatoimen perusteet (avoin yliopisto-opetus), monimuoto-opetus](course)
+- When are classes [Nuorisotyön toimintaympäristöt, työmuodot ja menetelmät](course)
+- Teaching times [Euroopan maiden ja Suomen poliittiset järjestelmät (kirjatentti/essee)](course)
+- Teaching hours [Uutiskuvaus ja Henkilökuvaus](course)
+- Teaching [Orientoivat opinnot ja HOPS (suomen kieli)](course)
+- [v](course) teaching
+- Week [International Dynamics and Policy Transfer in Education](course)
+- Lectures [Basics of Project Management](course)
+- When are lectures [Environmental History and Cultural Ecology of Russia (VENS20)](course)
+- Hours weekly [Pelit ja pelillisyys (keväällä 2018 perusopinnot aloittaneille) - verkkokurssi](course)
+- When are the classes [Kokemuksen historia: tavoitteet ja menetelmät](course) weekly
+- [Media maailmassa - verkkokurssi](course) teaching times
+- When are [Tutkimusprosessin hallinta tohtoriopinnoissa](course) teaching times
+- What are [International Trade and Finance (Tampere Summer School) - luennot ja tentti](course) teaching times
+- When are lectures [Näkökulmia kääntämiseen - Johdatus käännösprosessiin](course)
+- The schedule for [Lähisuhdeväkivalta ja sen ammatillinen kohtaaminen - Sosnet verkkokurssi](course)
+- What are the teaching times for [Kandidaattiseminaari (Vahtikari)](course)
+- [Vuorovaikutussuhteiden konsultointi](course) times
+- [Current and Future Challenges of World Politics and Economy (POMLFCS3)](course) hours
+- I want to know when [Tutkimusetiikka](course) teaching times are
+- I want to know teaching times of [Espanja IV](course)
+- I want to know the schedule of [Hesdoc Annual Meeting](course)
+- I want to know when the lectures in course [Rauha, turvallisuus ja kansainväliset instituutiot (kirjatentti/essee)](course) are- Schedule [Oppimisyhteisöt ja vuorovaikutus - Luennot ja seminaari (klk) TAI luennot ja kirjallisuus (klk) TAI kirjallisuus (slk ja klk)](course)
+- [Oppimisyhteisöt ja vuorovaikutus, kirjatentti](course) schedule
+- [Oikeustulkkaus I/II (monikielinen)](course) weekly schedule
+- [Pro gradu -seminaari ja -tutkielma (2018-2019)](course) weekly
+- What is the schedule for [Näkökulmia kääntämiseen - Johdatus käännösprosessiin](course)
+- What is the schedule [Kiina III](course)
+- When are classes for [Maisteriopintojen esittely - CBDA](course)
+- Classes [Linguistics II: Meaning and Discourse](course)
+- When are classes [Kvantitatiivinen tutkimus kasvatustieteissä - Harjoitukset, yhteinen avoimen ja tutkinto-op. ryhmä](course)
+- Teaching times [Puhesuomi ja esiintyminen](course)
+- Teaching hours [Testimenetelmien perusteet ja ammattietiikka](course)
+- Teaching [Työoikeuden syventävä opintojakso](course)
+- [v](course) teaching
+- Week [Microfinance and development](course)
+- Lectures [Tilinpäätösanalyysi](course)
+- When are lectures [Johdatus kunta- ja aluejohtamiseen](course)
+- Hours weekly [Asiantuntijuuden kehittymiseen orientoiva opintojakso - opintosuuntakohtaiset ryhmät jatkaville maisteriopiskelijoille (KASSO-opintosuunnan ryhmä)](course)
+- When are the classes [Media and the Arctic](course) weekly
+- [Kv-tuutorina toimiminen](course) teaching times
+- When are [Data Structures](course) teaching times
+- What are [Orientoivat opinnot - Orientoivat opinnot](course) teaching times
+- When are lectures [Graduseminaari / Harviainen](course)
+- The schedule for [Terveyden edistäminen kansanterveystieteilijöille](course)
+- What are the teaching times for [Structure of English I - Phonology and Pronunciation I](course)
+- [Orientoivat opinnot Pori](course) times
+- [World society: National policies, global governance and transnational sociology](course) hours
+- I want to know when [Terveystiedon sisällöt (sähköinen tentti)](course) teaching times are
+- I want to know teaching times of [Suomi ja maailman kielet](course)
+- I want to know the schedule of [Sosiaalityön peruskurssi (luennot)](course)
+- I want to know when the lectures in course [Vertaisohjaus tietojenkäsittelytieteissä (kevät)](course) are- Schedule [Työelämäviestinnän tutkimus- tai kehityshanke](course)
+- [Omaan tieteenalaan ja tutkimusaiheeseen liittyvät opinnot](course) schedule
+- [Kielisuihkutustoiminta osana varhaista kielikasvatusta](course) weekly schedule
+- [Professional Writing (online course)](course) weekly
+- What is the schedule for [Romanian kielen alkeet / Basic Course in Romanian](course)
+- What is the schedule [Yhteisöviestintä kunta- ja aluejohtamisessa](course)
+- When are classes for [Sosiaalinen maailma](course)
+- Classes [Kvalitatiivinen tutkimus kasvatustieteissä - Harjoitukset, yleinen ja varhaiskasv. opiskelijoiden ryhmiä](course)
+- When are classes [Fonetiikan perusopintojen harjoitustyö](course)
+- Teaching times [Intercultural Communication](course)
+- Teaching hours [Advanced Functional Programming](course)
+- Teaching [Advanced English Business Communication](course)
+- [v](course) teaching
+- Week [Graduvauhditus](course)
+- Lectures [Venäjän kielen rakenne - Tekstin ymmärtäminen II](course)
+- When are lectures [Business, Society and Nature (Independent study) Spring 2019](course)
+- Hours weekly [Pro gradu -seminaari ja -tutkielma](course)
+- When are the classes [Psykiatria](course) weekly
+- [Kulttuurinen monimuotoisuus koulutuksessa ja työelämässä, kirjatentti, Seinäjoki](course) teaching times
+- When are [Kandidaatintutkielmaseminaari - Seminaari, tammikuussa 2018 alkanut ryhmä, yhteisopetusta avoimen yo:n kanssa](course) teaching times
+- What are [Theory and practice of peaceful change: The Baltic Sea Region](course) teaching times
+- When are lectures [Kääntäjän ja tulkin työelämätaidot](course)
+- The schedule for [Gerontologian tohtorikoulutusseminaari](course)
+- What are the teaching times for [Moniulotteinen markkinointi](course)
+- [Conflict Resolution (book exam/essay)](course) times
+- [Kiina II](course) hours
+- I want to know when [Tutkimusseminaari ja pro gradu -tutkielma](course) teaching times are
+- I want to know teaching times of [Työhyvinvointi (itsenäinen suoritustapa)](course)
+- I want to know the schedule of [Nuorisotyön ja nuorisotutkimuksen maisteriohjelman lähijakso 7.-8.11.2018](course)
+- I want to know when the lectures in course [Seminaari](course) are- Schedule [Study Skills - Basics of Information Literacy](course)
+- [Tutkimustyön perusteet - d) Kandidaattiseminaari (keväällä 2019 alkava)](course) schedule
+- [Semantiikka ja pragmatiikka / Sémantique et pragmatique](course) weekly schedule
+- [Terveystieteiden laadulliset tutkimusmenetelmät (hoitotieteen opiskelijat), Seinäjoki](course) weekly
+- What is the schedule for [Opintojen ohjattu suunnittelu](course)
+- What is the schedule [Työelämän korttipakka](course)
+- When are classes for [Johdatus Euroopan unioniin](course)
+- Classes [Postgraduate seminar in Interactive Technology (Turunen)](course)
+- When are classes [Development, Education and Lifecourse](course)
+- Teaching times [Musiikin perusteet / Harjoitukset - 1.vsk](course)
+- Teaching hours [Science and Biotechnology Journal Club](course)
+- Teaching [Debating for Academic Purposes](course)
+- [v](course) teaching
+- Week [Kasvatuksen historialliset ja filosofiset lähtökohdat - Luennot ja kirjallisuus](course)
+- Lectures [Tieteellinen kirjoittaminen (SOC)](course)
+- When are lectures [Kasvatustieteen metodologiset lähtökohdat - Luennot ja kirjatentti TAI kirjatentti](course)
+- Hours weekly [Varhaismoderni yhteiskunta](course)
+- When are the classes [Sote ja sosiaalipolitiikka](course) weekly
+- [Muuttuvat oppimisympäristöt - Luennot ja opintopiiri](course) teaching times
+- When are [Opetussuunnitelmateoria, kirjatentti, Pori](course) teaching times
+- What are [Liike-elämän ruotsia I / näyttökoe (AHOT)](course) teaching times
+- When are lectures [Pelit ja pelillisyys (syksyllä 2017 perusopinnot aloittaneille) - verkkokurssi](course)
+- The schedule for [Luottamustehtävissä toimiminen - Luottamustehtäväraportti](course)
+- What are the teaching times for [Tutkimusseminaari ja pro gradu -tutkielma](course)
+- [Kielioppiharjoitukset](course) times
+- [Kielen käyttö I](course) hours
+- I want to know when [EU:n ulkosuhteiden erityiskysymykset: turvallisuus, talous ja arvot (kirjatentti/essee)](course) teaching times are
+- I want to know teaching times of [Sosiaalityön peruskurssi (luennot)](course)
+- I want to know the schedule of [Cultural Diversity in Education and at Work -  (autumn)](course)
+- I want to know when the lectures in course [Tutkimustyön perusteet (syksy)](course) are- Schedule [Johdatus Euroopan unioniin](course)
+- [Interview as a means of data generation](course) schedule
+- [Organisaatioiden tiedonhallinta](course) weekly schedule
+- [Kirjasto- ja tietopalvelujen suunnittelu ja arviointi](course) weekly
+- What is the schedule for [Statistical Analysis with Missing Data (advanced)](course)
+- What is the schedule [Leikki kulttuurisena, kehityksellisenä ja pedagogisena ilmiönä / Harjoitukset - 1.vsk](course)
+- When are classes for [Nuorisotyön ja nuorisotutkimuksen maisteriohjelman lähijakso 10.5.2019](course)
+- Classes [Professional Writing (online course)](course)
+- When are classes [Bioinformatics](course)
+- Teaching times [Parties and Elections (book exam/essay)](course)
+- Teaching hours [Venäjän kielen valmentava kurssi](course)
+- Teaching [Tiedon rajat](course)
+- [v](course) teaching
+- Week [Paikallisen hallinnan teoriat - Lukupiiri](course)
+- Lectures [Äidinkieli ja kirjallisuus - Lasten- ja nuortenkirjallisuus  -1. vsk ensijaisesi opinnot 1½ lukuvuodessa suorittavat 1.vsk lo-opiskelijat ja kaikkki erillisen opinto-oikeuden POM-opintoihin saaneet opiskelijat](course)
+- When are lectures [Maailmanloppu nyt. Ja ennen.](course)
+- Hours weekly [Basic Studies in Education -courses,  introductory meetings, reading circles and book exams](course)
+- When are the classes [Kvantitatiivinen tutkimus kasvatustieteissä - Harjoitukset, yleinen](course) weekly
+- [Kandidaattiseminaari ja tutkielma (laskentatoimi) - Kandidaattiseminaari, kevät 2018](course) teaching times
+- When are [Pohjoismaiden yhteiskuntaolot ja kulttuurit](course) teaching times
+- What are [Kandidaatintutkielmaseminaari - Muuntotyöryhmä, slk18](course) teaching times
+- When are lectures [Erikoiskurssi](course)
+- The schedule for [EU ja Länsi-Balkan: ehdollistettua demokratiaa ja valtionrakennusta](course)
+- What are the teaching times for [Human Rights and International Society (book exam/essay)](course)
+- [Kommunikationstraining I](course) times
+- [Structure of English II - Phonology and Pronunciation II](course) hours
+- I want to know when [Työelämäviestinnän tutkimus- tai kehityshanke](course) teaching times are
+- I want to know teaching times of [Psykiatria](course)
+- I want to know the schedule of [Tutkielmaseminaari (keväällä 2019 alkavat seminaarit) - Seminaari](course)
+- I want to know when the lectures in course [Kielitieto ja -taito - Kielioppi II  / Sprachwissen und Sprachfertigkeiten: Grammatik II](course) are- Schedule [Political Systems Outside of Europe (book exam/essay)](course)
+- [Communication orale/Suullinen viestintä](course) schedule
+- [Johdatus yhteiskuntahistoriaan](course) weekly schedule
+- [Terveystieteiden laadulliset tutkimusmenetelmät (hoitotieteen opiskelijat), Seinäjoki](course) weekly
+- What is the schedule for [Legal English](course)
+- What is the schedule [Introduction to Game Research (Tampere Summer School 2018)](course)
+- When are classes for [Markkinoinnin ja myynnin perusteet](course)
+- Classes [Nuorisotyö ja nuorten elämänkulku](course)
+- When are classes [Tietojärjestelmän suunnittelun perusteet - Näyttökoe, syksy 2018](course)
+- Teaching times [Usean muuttujan differentiaalilaskenta](course)
+- Teaching hours [Harjoittelu / Elinikäinen oppiminen ja kasvatus, Essee työkokemuksen pohjalta, klk19](course)
+- Teaching [Nordic Model: Nordic Welfare Societies](course)
+- [v](course) teaching
+- Week [Julkisoikeuden perusteet (verkkototeutus)](course)
+- Lectures [Johtamisen ja julkisen politiikan tutkimus ja ajankohtaiset kysymykset](course)
+- When are lectures [Translators' Cultural Competencies](course)
+- Hours weekly [Special Issues in Games and Internet Cultures](course)
+- When are the classes [Laskentatoimen teoria ja IFRS II](course) weekly
+- [Nuorisotyön ja nuorisotutkimuksen maisteriohjelman lähijakso 3.-4.10.2018](course) teaching times
+- When are [Re-Thinking Value Creation](course) teaching times
+- What are [Kirjallisuudentutkimuksen menetelmät - Menetelmät ja käsitteet](course) teaching times
+- When are lectures [Matemaattiset aineet - Loogisesta ajattelusta automaatioon - 1 vsk  ja erillisen opinto-oikeuden POM-opintoihin saaneet opiskelijat](course)
+- The schedule for [Biotechnical product development](course)
+- What are the teaching times for [Äidinkieli ja kirjallisuus - Lukeminen ja kirjoittaminen - 1. vsk (luennot)](course)
+- [Johdatus hallintotieteeseen (avoin yliopisto-opetus), monimuoto-opetus](course) times
+- [Cell Technology Laboratory Course](course) hours
+- I want to know when [Fundamentals of Finance (Tampere Summer School)](course) teaching times are
+- I want to know teaching times of [Suullinen viestintä II/Muntlig kommunikation II](course)
+- I want to know the schedule of [Organizational Behavior (Independent study, Spring 2019)](course)
+- I want to know when the lectures in course [Public Financial Management and Evolving Administrative Structures](course) are- Schedule [Orientation Day for International Doctoral Researchers](course)
+- [Hesdoc Annual Meeting](course) schedule
+- [Business Writing](course) weekly schedule
+- [Poliittisen sosiologian käsitteet ja tutkimukset](course) weekly
+- What is the schedule for [NEDIS tohtorikoulutusseminaari (Lasten ja nuorten terveyden edistämisen tutkimus)](course)
+- What is the schedule [Kandidaattiseminaari (Vuolanto)](course)
+- When are classes for [Talous ja yhteiskunta](course)
+- Classes [Ruotsin kielen valmentava kurssi](course)
+- When are classes [Algorithmic Problem Solving](course)
+- Teaching times [Venäjä IV](course)
+- Teaching hours [Fonetiikan teoriaa - Fonetiikan jatkokurssi](course)
+- Teaching [Eriytyvä syventävä tutkimusmenetelmäkurssi A: Laadullisen aineiston analyysi](course)
+- [v](course) teaching
+- Week [Usean muuttujan integraalilaskenta](course)
+- Lectures [Global contexts of violence. Gender related violence in the landscape of global vulnerabilities (web course)](course)
+- When are lectures [Kirjallinen ja suullinen viestintä III/Pis'mennaja i razgovornaja praktika](course)
+- Hours weekly [Studying abroad / Osallistuminen opiskelijavaihtoon](course)
+- When are the classes [Lähtötasokoe](course) weekly
+- [Eheyttävä musiikkikasvatus / Harjoitukset - 2.vsk](course) teaching times
+- When are [Eriytyvä syventävä tutkimusmenetelmäkurssi B: Metodologinen essee](course) teaching times
+- What are [Ruotsin kielen kirjallinen ja suullinen viestintä / avoin yliopisto-opetus](course) teaching times
+- When are lectures [Politics and governance in education - Lectures in English](course)
+- The schedule for [Parametric and Non-Parametric Statistics](course)
+- What are the teaching times for [Kielen käyttö I](course)
+- [Nuorten ja aikuisten mielenterveyden arviointi](course) times
+- [Viestinnän ja median tutkimus](course) hours
+- I want to know when [Romanian kielen jatkokurssi I / Advanced Course 1 in Romanian](course) teaching times are
+- I want to know teaching times of [Kielitaito ja kielitaidon arviointi](course)
+- I want to know the schedule of [Tutkimustyötä tukevat tohtoriopinnot - Postgraduate Studies in Interactive Technology](course)
+- I want to know when the lectures in course [Suullinen viestintä I/Muntlig kommunikation I](course) are- Schedule [Esiintyminen](course)
+- [Liikekirjanpito ja tilinpäätös (avoin yliopisto-opetus)](course) schedule
+- [Kansainvälisen politiikan menetelmäseminaari](course) weekly schedule
+- [Pakolaisuus, tila ja hallinta](course) weekly
+- What is the schedule for [Tieteenfilosofiaa kasvatustieteen näkökulmasta](course)
+- What is the schedule [Peace, Security and International Institutions (book exam/essay)](course)
+- When are classes for [Kielen variaatio](course)
+- Classes [Kirjallisuuden analyysi/Analiz hudozhestvennoj literatury](course)
+- When are classes [Väestön terveys](course)
+- Teaching times [Agenda-Setting in Public Policy (POMLFCS1)](course)
+- Teaching hours [Kielioppi I / Grammatik I](course)
+- Teaching [Kandidaatintutkielma - Seminaari ja tutkielma](course)
+- [v](course) teaching
+- Week [Orientoivat opinnot - Alkuorientaatio](course)
+- Lectures [Lokalisoinnin peruskurssi](course)
+- When are lectures [Institutions, Innovation and Economic Renewal (NORDIG)](course)
+- Hours weekly [Mediated Learning Experinces in Multicultural Settings](course)
+- When are the classes [Radiokääntäminen (venäjä)](course) weekly
+- [Teeman "Sosiaalinen kognitio ja vuorovaikutus" johdantokurssi](course) teaching times
+- When are [Tekninen kirjoittaminen (englanti)](course) teaching times
+- What are [Visuaalisen kulttuurin syventymiskohde - Seminaari](course) teaching times
+- When are lectures [Yksilö, yhteiskunta ja kulttuuri - Monikulttuurisuus koulussa - 2. vsk](course)
+- The schedule for [Moniammatilliset johtamisopinnot](course)
+- What are the teaching times for [Väitöskirja (tutkijaseminaarit)](course)
+- [International tutoring / Kv-tuutorina toimiminen](course) times
+- [Kandidaatintutkielmaseminaari - Tammikuussa 2019 alkava seminaari](course) hours
+- I want to know when [Finnish Elementary Course 3](course) teaching times are
+- I want to know teaching times of [Johdatus logiikkaan 1](course)
+- I want to know the schedule of [Tutkimustyön perusteet (syksy)](course)
+- I want to know when the lectures in course [KEB-61430 Laaja kemia 3](course) are- Schedule [Kvantitatiivinen tutkimus kasvatustieteissä - Harjoitukset, varhaiskasv. ryhmä, luokanop. ja varhaiskasv. yhteinen ryhmä](course)
+- [Advanced European Integration Studies (book exam/essay)](course) schedule
+- [Tutkielmaseminaari](course) weekly schedule
+- [Dialogitulkkaus / Dialogdolmetschen](course) weekly
+- What is the schedule for [Reportaasi](course)
+- What is the schedule [Käännösviestintä suomi - saksa / Translation Finnisch-Deutsch](course)
+- When are classes for [Ranska eilen, tänään ja huomenna](course)
+- Classes [Tila, teknologia ja toiminta - essee](course)
+- When are classes [Global Ghallenges to the Future of Welfare State (Tampere Summer School 2018)](course)
+- Teaching times [Työelämäviestinnän tutkimus- tai kehityshanke](course)
+- Teaching hours [Developing and implementing European Public Sector Accounting modules](course)
+- Teaching [Kansainvälisen politiikan teoria ja metateoria (kirjatentti)](course)
+- [v](course) teaching
+- Week [Work and Health](course)
+- Lectures [Julkisen talousjohtamisen näkökulmia](course)
+- When are lectures [Media and the Arctic (POMLFCS3)](course)
+- Hours weekly [Ainedidaktiikka I](course)
+- When are the classes [Tutkielmaseminaari - Tutkielmaseminaari](course) weekly
+- [Business Writing](course) teaching times
+- When are [Käyttöliittymien perusteet](course) teaching times
+- What are [Addiktiot, yksilö ja yhteiskunta](course) teaching times
+- When are lectures [Asiantuntijuus ja tietopalvelujen kehittäminen](course)
+- The schedule for [Kansainvälisen politiikan yleiset syventävät menetelmäopinnot (kirjatentti/essee)](course)
+- What are the teaching times for [Euroopan maiden ja Suomen poliittiset järjestelmät (kirjatentti/essee)](course)
+- [Viestinnän ja median tutkimuksen metodologia, harjoitukset vaihtoehtoisissa työpajoissa](course) times
+- [Palvelut ja hyvinvointivaltion murros](course) hours
+- I want to know when [Kansainvälisen politiikan menetelmäseminaari](course) teaching times are
+- I want to know teaching times of [Ruotsin kielen kirjallinen ja suullinen viestintä / AHOT (näyttökoe)](course)
+- I want to know the schedule of [Kehitys, kasvatus ja elämänkulku, monimuoto-opetus](course)
+- I want to know when the lectures in course [Journalistinen kieli - Kielenhuolto, lauseoppi](course) are- Schedule [Usean muuttujan differentiaalilaskenta](course)
+- [Suomen turvallisuuspolitiikan historia ja tulevaisuus -luentosarja](course) schedule
+- [Pro gradu -tutkielma ja -seminaari, syksyllä 2018 aloittavat ryhmät](course) weekly schedule
+- [Käytännön opetus ja ohjaus](course) weekly
+- What is the schedule for [Master's Seminar and Thesis](course)
+- What is the schedule [Tutkimuksen perusteet ja etiikka](course)
+- When are classes for [Lausekielinen ohjelmointi I - Näyttökoe, syksy 2018](course)
+- Classes [Advanced Microscopy](course)
+- When are classes [Varhaiskasvatuksen pedagogiikka ja opetussuunnitelmatyö / Luennot - 2.vsk + 1.vsk ryhmät 6 ja 7](course)
+- Teaching times [Psychology of Pervasive Computing (TUT/IHTE)](course)
+- Teaching hours [Poliittiset ongelmat ja niiden muuttuvat kontekstit](course)
+- Teaching [Business, Society and Nature (Independent study) Autumn 2018](course)
+- [v](course) teaching
+- Week [Oppimisyhteisöt ja vuorovaikutus, kirjatentti, Pori](course)
+- Lectures [Työoikeuden syventävä opintojakso](course)
+- When are lectures [Erot, jaot ja niiden rakentuminen - Luennot ja lukupiiri (klk) TAI kirjatentti (slk ja klk)](course)
+- Hours weekly [Sosiaalitieteiden kvalitatiiviset menetelmät - Luennot ja harjoitukset](course)
+- When are the classes [Kandidaattiseminaari ja -tutkielma (ympäristöpolitiikka ja aluetiede), syksy](course) weekly
+- [Uuden ajan alun (1500-1800) tutkimuksen lähteet ja menetelmät](course) teaching times
+- When are [Logiikka](course) teaching times
+- What are [Orientaatio sosiaalityön opintoihin](course) teaching times
+- When are lectures [Poliittinen filosofia (kirjatentti/essee)](course)
+- The schedule for [Graduseminaari, jatkava (Krötzl)](course)
+- What are the teaching times for [Yksilön työhyvinvointi (itsenäinen suoritustapa)](course)
+- [Sosiaalisten riskien hallinta](course) times
+- [Fonetiikan teoriaa - Fonetiikan jatkokurssi](course) hours
+- I want to know when [Health in disasters, conflicts and complex human emergencies](course) teaching times are
+- I want to know teaching times of [Writing Research Grant Proposals](course)
+- I want to know the schedule of [Mediated Learning Experinces in Multicultural Settings](course)
+- I want to know when the lectures in course [Rauha, turvallisuus ja kansainväliset instituutiot (kirjatentti/essee)](course) are- Schedule [Rauha, turvallisuus ja kansainväliset instituutiot (kirjatentti/essee)](course)
+- [Kvalitatiiviset menetelmät](course) schedule
+- [Johdatus logopediaan](course) weekly schedule
+- [Kuva-  ja mediakulttuurit - Kuvakulttuurit  1 vsk ja erillisen opinto-oikeuden POM-opintoihin saaneet opiskelijat (ryhmätyöskentely/taidemuseot harjoitusryhmät)](course) weekly
+- What is the schedule for [Valinnainen jakso: Dokumentaarisen nyky-Suomi-sarjan konseptikehitys ja verkkosuunnittelu](course)
+- What is the schedule [Tutkimustyötä tukevat tohtoriopinnot - Postgraduate Studies in Interactive Technology](course)
+- When are classes for [Poliittiset aatteet ja ideologiat](course)
+- Classes [Suullinen viestintä II/Muntlig kommunikation II](course)
+- When are classes [Practical Observation and Reflection of ECEC - Observation, written tasks, report](course)
+- Teaching times [Johdatus Suomen kirjallisuushistoriaan - luennot](course)
+- Teaching hours [Lähtötasokoe](course)
+- Teaching [Tieteellinen kirjoittaminen / LUO & COMS](course)
+- [v](course) teaching
+- Week [Tiedonhankintataidot - Tiedonhankintataidot III -  Systemaattinen tiedonhankinta (kansanterveystieteen opiskelijoille)](course)
+- Lectures [Gypsies in Hungary (intensive course)](course)
+- When are lectures [Psykologiharjoittelu](course)
+- Hours weekly [Kognitiiviseen käyttäytymisterapiaan pohjautuvat interventiot](course)
+- When are the classes [Kansainväliset suhteet ja ilmaston muutoksen hallinta](course) weekly
+- [Markkinoinnin teoria](course) teaching times
+- When are [Visuaalisen kulttuurin syventymiskohde - Seminaari](course) teaching times
+- What are [Harjoittelu](course) teaching times
+- When are lectures [Johdatus matematiikkaan ja tilastotieteeseen](course)
+- The schedule for [Tutkimusprosessin hallinta - Läsnäoloon perustuva oppimispäiväkirja](course)
+- What are the teaching times for [Aikuiskasvatus ja työelämä, kirjatentti, Pori](course)
+- [Globaali, lokaali ja yhteisöllisyys sosiaalityössä (kirjatentti)](course) times
+- [Käyttöliittymien perusteet](course) hours
+- I want to know when [Kasvatuksen historialliset ja filosofiset lähtökohdat, verkko-opetus](course) teaching times are
+- I want to know teaching times of [Sisäinen valvonta ja sisäinen tarkastus](course)
+- I want to know the schedule of [Economics and the Business Environment](course)
+- I want to know when the lectures in course [Tieteellinen seminaarisarja](course) are- Schedule [Kvalitatiiviset tutkimusmenetelmät (kirjatentti/essee)](course)
+- [Markkinoinnin kannattavuus ja taloudellisuus](course) schedule
+- [Matemaattiset aineet - Fysiikka ja kemia - 2. vsk](course) weekly schedule
+- [Capstone - Talousjohdon tehtävät ja osaamisalueet](course) weekly
+- What is the schedule for [Ruotsin kielen kirjallinen ja suullinen viestintä / AHOT (näyttökoe)](course)
+- What is the schedule [Seminaari, kandidaatintutkielma ja kypsyysnäyte - Seminaari (kääntäminen ja tulkkaus)](course)
+- When are classes for [Fundamentals of Finance (Tampere Summer School)](course)
+- Classes [Erot, jaot ja niiden rakentuminen - Luennot ja lukupiiri (klk) TAI kirjatentti (slk ja klk)](course)
+- When are classes [Johdatus Suomen kirjallisuushistoriaan - luennot](course)
+- Teaching times [Diskurssianalyysi](course)
+- Teaching hours [BMT-70100 Kudosteknologian perusteet](course)
+- Teaching [Kandidaattiseminaari (Vuolanto)](course)
+- [v](course) teaching
+- Week [Tietokantojen perusteet (Hervannan kampus)](course)
+- Lectures [Translation and Academic Writing - Introduction to Academic Writing](course)
+- When are lectures [Johdatus kääntäjän suomen opintoihin](course)
+- Hours weekly [Korkeakoulutus ja kansainvälistyminen](course)
+- When are the classes [Matkakirjallisuus kulttuurihistorian lähteenä -verkkokurssi](course) weekly
+- [Nuorten ja aikuisten mielenterveyden arviointi](course) teaching times
+- When are [Laaja-alaistava harjoittelu - Ohjattu opetusharjoittelu](course) teaching times
+- What are [Opetus, ohjaus, oppiminen - elokas ja avoimen lähiop.: pienryhmäopetus (2 op)  ja kirjallisuus (2 op)](course) teaching times
+- When are lectures [Terveyden ja mielenterveyden psykologia II](course)
+- The schedule for [Kielitieto ja -taito - Fraseologia  / Sprachwissen und Sprachfertigkeiten: Phraseologie](course)
+- What are the teaching times for [Parhaat filosofiset artikkelit](course)
+- [Graduseminaari, alkava (Kaarninen)](course) times
+- [Käännösviestintä saksa - suomi  / Transalation Deutsch-Finnisch](course) hours
+- I want to know when [Luottamustehtävissä toimiminen - Luottamustehtäväraportti](course) teaching times are
+- I want to know teaching times of [Monikieliset tekstikorpukset (verkkokurssi)](course)
+- I want to know the schedule of [Espanjan kielen kirjallinen ja suullinen taito](course)
+- I want to know when the lectures in course [Varhaismoderni yhteiskunta](course) are- Schedule [Tieto- ja asiakirjahallinto](course)
+- [Strateginen brändijohtaminen](course) schedule
+- [Introduction to Risk Management and Insurance (spring semester)](course) weekly schedule
+- [Johdatus yrittäjyyteen](course) weekly
+- What is the schedule for [Lasten monipaikkainen asuminen](course)
+- What is the schedule [Analyysi A](course)
+- When are classes for [Kirjallinen viestintä II/Skriftlig kommunikation II](course)
+- Classes [Tekstianalyysi - Luennot](course)
+- When are classes [Yrityksen johtamisen perusteet (avoin yliopisto-opetus), monimuoto-opetus](course)
+- Teaching times [Nuorisotyön ja nuorisotutkimuksen maisteriohjelman lähijakso 29.-30.8.2018](course)
+- Teaching hours [Kielen- ja tekstinhuolto](course)
+- Teaching [Puheen ja äänen harjoitusmenetelmät](course)
+- [v](course) teaching
+- Week [Laadullinen tutkimus - menetelmät ja prosessi](course)
+- Lectures [Vero-oikeuden case-kurssi](course)
+- When are lectures [Vuorovaikutusprosessit työelämän tilanteissa (monimuoto-opetus)](course)
+- Hours weekly [Musisointi - 1.vsk](course)
+- When are the classes [Ruotsin kielen kirjallinen ja suullinen viestintä](course) weekly
+- [Fenomenologia](course) teaching times
+- When are [Poliittiset aatteet ja ideologiat](course) teaching times
+- What are [Terveyden ja mielenterveyden psykologia II](course) teaching times
+- When are lectures [Kohti matematiikan opettajuutta 1(TTY)](course)
+- The schedule for [Kvantitatiivinen tutkimus kasvatustieteissä - Harjoitukset, yleinen ja luokanopettajaopiskelijat](course)
+- What are the teaching times for [Gypsies in Hungary (intensive course)](course)
+- [Basics II: Intermediate Czech II](course) times
+- [Gender in Society](course) hours
+- I want to know when [Johdatus verkostoanalyysiin](course) teaching times are
+- I want to know teaching times of [Economic renewal of cities and regions](course)
+- I want to know the schedule of [Julkisen hallinnon reformit ja muutos](course)
+- I want to know when the lectures in course [Normit ja asiakirjoittaminen - Kääntäjän kielen- ja tekstinhuolto](course) are- Schedule [Johdatus matematiikkaan ja tilastotieteeseen](course)
+- [Academic Presentations](course) schedule
+- [Vero-oikeuden case-kurssi](course) weekly schedule
+- [Sosiaalityön tutkimuksen metodologisia suunnistuksia](course) weekly
+- What is the schedule for [Opettajasuunnan seminaari](course)
+- What is the schedule [Political Ideologies (book exam)](course)
+- When are classes for [Approaches and Tools for Conflict Analysis and Peace Mediation](course)
+- Classes [Keskustelun- ja diskurssianalyysi / Gesprächs- und Diskursanalyse](course)
+- When are classes [Simultaanitulkkaus I saksa-suomi-saksa](course)
+- Teaching times [Syventävä projekti, syksyllä 2018 alkava](course)
+- Teaching hours [Romanian kielen alkeet / Basic Course in Romanian](course)
+- Teaching [Latinankielinen kirjallisuus II: keski- ja uuden ajan latina](course)
+- [v](course) teaching
+- Week [Rakenneyhtälömallinnus kasvatustieteellisessä tutkimuksessa](course)
+- Lectures [Kansainvälisen historian tutkijaseminaari](course)
+- When are lectures [Media and the Arctic](course)
+- Hours weekly [Politiikan tutkimuksen kandidaatintutkielma ja -seminaari](course)
+- When are the classes [Seminaari (Heinonen)](course) weekly
+- [Introduction to Academic English (Open University Course)](course) teaching times
+- When are [Käytännön opetus ja ohjaus](course) teaching times
+- What are [Comparative Education Policy](course) teaching times
+- When are lectures [Tilastollisen päättelyn perusteet, iltaryhmä](course)
+- The schedule for [Ruotsin kielen kirjallinen ja suullinen viestintä](course)
+- What are the teaching times for [Dialogitulkkaus](course)
+- [Työn taloustiede](course) times
+- [Johdatus seminaarityöskentelyyn](course) hours
+- I want to know when [Dialogitulkkaus](course) teaching times are
+- I want to know teaching times of [Yhteiskunnan mittaaminen (verkkokurssi)](course)
+- I want to know the schedule of [Testimenetelmien perusteet ja ammattietiikka](course)
+- I want to know when the lectures in course [Sosiaalioikeus](course) are- Schedule [Orientation - Orientation to studying in the Computational Big Data Analytics programme](course)
+- [Tutkimusetiikka](course) schedule
+- [Tasa-arvon ja yhdenvertaisuuden edistäminen työnä (verkkokurssi)](course) weekly schedule
+- [Hoitotyön johtamisen harjoittelu](course) weekly
+- What is the schedule for [Introduction to Bayesian Analysis 2](course)
+- What is the schedule [Viestinnän ja median tutkimus](course)
+- When are classes for [Political Ideologies (book exam)](course)
+- Classes [Terveystaloustieteen tohtorikoulutussemiaari](course)
+- When are classes [Väittelijän puheviestintä](course)
+- Teaching times [Innovation Project (Spring term 2018-IV)](course)
+- Teaching hours [Introduction to Risk Management and Insurance (spring semester)](course)
+- Teaching [Käsityö - Käsityö -1. vsk ja erillisen opinto-oikeuden POM-opintoihin saaneet opiskelijat (luennot)](course)
+- [v](course) teaching
+- Week [Tutkimuspraktikum](course)
+- Lectures [Psykologiset interventiot](course)
+- When are lectures [Macroprudential Policy and Financial Stability](course)
+- Hours weekly [Metafysiikka](course)
+- When are the classes [Geometria - Geometria](course) weekly
+- [Introduction to Academic English (Open University Course)](course) teaching times
+- When are [Research on Teaching and Learning - Seminar](course) teaching times
+- What are [Tieto- ja asiakirjahallinto](course) teaching times
+- When are lectures [YK-päivä](course)
+- The schedule for [Tutkielmaseminaari - Seminaari](course)
+- What are the teaching times for [Bioinformatics tools (spring 2019)](course)
+- [Juridisk svenska (vain KTM:ksi klklla 2019 valmistuville)](course) times
+- [Terveys, tieto, asiantuntijuus](course) hours
+- I want to know when [Radiojournalismi](course) teaching times are
+- I want to know teaching times of [Sanastotyö](course)
+- I want to know the schedule of [Kandidaatintutkielmaseminaari - Seminaari](course)
+- I want to know when the lectures in course [Opetussuunnitelmateoria - Luennot, seminaari ja lukupiiri (slk) TAI kirjatentti (slk ja klk)](course) are- Schedule [Johdatus sosiaaliantropologiaan, luennot (verkkokurssi)](course)
+- [Kirjallisuuden teoria - Kirjallisuustieteen klassikoita](course) schedule
+- [Terveystiedon sisällöt (sähköinen tentti)](course) weekly schedule
+- [Kielen kehitys / Harjoitukset - 2.vsk + 1.vsk ryhmät 6 ja 7](course) weekly
+- What is the schedule for [Visualization of Quantitative Data](course)
+- What is the schedule [Leadership for Sustainable Change (KATVAS39)](course)
+- When are classes for [Leadership for Sustainable Change (KATVAS39)](course)
+- Classes [Kääntäjän ja tulkin työelämätaidot](course)
+- When are classes [Kehitys, kasvatus ja elämänkulku, verkko-opetus](course)
+- Teaching times [Kandidaatintutkielma - Seminaari ja tutkielma](course)
+- Teaching hours [Game Project](course)
+- Teaching [Johdon laskentatoimen perusteet](course)
+- [v](course) teaching
+- Week [Orientoivat opinnot ja HOPS (venäjän kieli, kulttuuri ja kääntäminen)](course)
+- Lectures [Algebra 1A](course)
+- When are lectures [Tieteellinen kirjoittaminen (SOC)](course)
+- Hours weekly [Johdon laskentatoimi ja inhimillinen käyttäytyminen](course)
+- When are the classes [Aikuiskasvatus ja työelämä, kirjatentti, Pori](course) weekly
+- [Lapset ympäristönsä tutkijoina - Käsityö](course) teaching times
+- When are [Kerronnan monet muodot (luentokurssi korvaa kirjatentin)](course) teaching times
+- What are [Syntax](course) teaching times
+- When are lectures [Tutustuminen psykologin työhön](course)
+- The schedule for [Kohti matematiikan opettajuutta 2 (TTY)](course)
+- What are the teaching times for [Ranska II](course)
+- [Toimintatutkimus hyvinvointipalvelujen kehittämisessä](course) times
+- [Quantitative Research Methods and Comparative Research Design (Global Society students)](course) hours
+- I want to know when [Tekstin ymmärtäminen III](course) teaching times are
+- I want to know teaching times of [Speakers Series](course)
+- I want to know the schedule of [Cultural Conversations](course)
+- I want to know when the lectures in course [Linguistics I: Introduction to Basic Concepts](course) are- Schedule [Introduction to Big Data Processing](course)
+- [Professional Writing (online course)](course) schedule
+- [Psykiatria ja mielenterveys](course) weekly schedule
+- [Lasten arki suomalaisessa yhteiskunnassa / Luennot - 1.vsk](course) weekly
+- What is the schedule for [Quantitative Approach](course)
+- What is the schedule [Tutkielmapiiri](course)
+- When are classes for [Finnish Education System - Seminar](course)
+- Classes [Kasvatus, koulutus ja yhteiskunta, monimuoto-opetus](course)
+- When are classes [Tutkiva opiskelu](course)
+- Teaching times [Kognitiivinen neurotiede I (avoin yliopisto)](course)
+- Teaching hours [Medical English - Introduction to Scientific Writing (RPL) / näyttökoe](course)
+- Teaching [Kansainvälisen politiikan teoria ja metateoria - Luentokurssi](course)
+- [v](course) teaching
+- Week [Murder and Representation](course)
+- Lectures [Kansainvälinen talous](course)
+- When are lectures [Practical Introduction to Data Mining](course)
+- Hours weekly [Public Policy and Governance (book exam/essay)](course)
+- When are the classes [Tieteellinen kirjoittaminen](course) weekly
+- [Eriytyvä syventävä tutkimusmenetelmäkurssi A: Eläytymismenetelmä - yhdistetty Jari Eskolan graduryhmään](course) teaching times
+- When are [Ainedidaktiikka II](course) teaching times
+- What are [Tilastollisten tutkimusmenetelmien soveltaminen hoitotieteessä](course) teaching times
+- When are lectures [Johdatus kaunokirjalliseen kääntämiseen](course)
+- The schedule for [Opetus, ohjaus, oppiminen (toteutus aineenopettajan pedagogisia opintoja lukuvuonna 2018-2019 suorittaville)](course)
+- What are the teaching times for [Tieteellinen kirjoittaminen / LUO & COMS](course)
+- [Master's Thesis Seminar - Thesis seminar II](course) times
+- [Inklusiivinen varhaiskasvatus / Harjoitukset - 3.vsk](course) hours
+- I want to know when [Julkisoikeuden perusteet](course) teaching times are
+- I want to know teaching times of [Tutkimustyön perusteet (teemalla Verkostot ja somevaikuttaminen Twitterissä)](course)
+- I want to know the schedule of [Matematiikan gradustartti](course)
+- I want to know when the lectures in course [Tieteellisen kirjoittamisen seminaari kvantitatiivista tutkimusta tekeville](course) are- Schedule [Terveyden edistämisen interventiot, Seinäjoki](course)
+- [Seminar, Bachelor's Thesis and Maturity Test - Seminar](course) schedule
+- [Protein technology Laboratory Course A](course) weekly schedule
+- [Ruotsin kielen kirjallinen ja suullinen viestintä](course) weekly
+- What is the schedule for [Research in Practice](course)
+- What is the schedule [Teeman "Sosiaalinen kognitio ja vuorovaikutus" johdantokurssi](course)
+- When are classes for [Tieteellinen kirjoittaminen / avoin yliopisto-opetus](course)
+- Classes [Kieli ja kielentäminen -2. vsk (luennot)](course)
+- When are classes [Kulutuksen ja ostokäyttäytymisen teoria](course)
+- Teaching times [Korkeakoulutus ja kansainvälistyminen](course)
+- Teaching hours [Johdatus analyysiin](course)
+- Teaching [Yksilön työhyvinvointi](course)
+- [v](course) teaching
+- Week [Kvalitatiiviset tutkimusmenetelmät (kirjatentti/essee)](course)
+- Lectures [Valtiosääntöoikeuden syventävä jakso](course)
+- When are lectures [Terveystieteiden laadulliset tutkimusmenetelmät, kansanterveystieteen opiskelijoille](course)
+- Hours weekly [Syömis- ja nielemishäiriöt](course)
+- When are the classes [SPSS:n perusteet, syksy 1](course) weekly
+- [Business, Society and Nature (Independent study) Autumn 2018](course) teaching times
+- When are [Eriytyvä syventävä tutkimusmenetelmäkurssi A: Kirjoittaminen ja käsitteellistäminen tieteellisenä menetelmänä](course) teaching times
+- What are [The Transformation of Global Environmental Politics (Tampere Summer School 2018)](course) teaching times
+- When are lectures [Tiedonhankintataidot - Tiedonhankintataidot III -  Systemaattinen tiedonhankinta (hoitotieteen opiskelijoille)](course)
+- The schedule for [Global Terrorism: Political Violence in a Global Age](course)
+- What are the teaching times for [European Integration and Disintegration (BOOK EXAM POLKVS32)](course)
+- [Tieteellinen kirjoittaminen / avoin yliopisto-opetus](course) times
+- [Hoitot. tiedon hyödyntäminen johtamisessa ja opettamisessa: syventävä projektityö (kurssi jatkuu syksyllä 2019)](course) hours
+- I want to know when [Asiantuntijan puheviestintä ja vuorovaikutus opetus- ja kasvatustyössä (4. periodi)](course) teaching times are
+- I want to know teaching times of [Political Systems Outside of Europe (book exam/essay)](course)
+- I want to know the schedule of [Ohjelmointia teknisille viestijöille](course)
+- I want to know when the lectures in course [Tutkielmaseminaari](course) are- Schedule [Musiikin tiedolliset valmiudet ja niiden soveltaminen - Harmonia ja improvisointi koskettimilla](course)
+- [Lapset kehittyvinä ja sosiaalisina toimijoina varhaiskasvatuksessa / Luennot - 1.vsk](course) schedule
+- [Lapset kehittyvinä ja sosiaalisina toimijoina varhaiskasvatuksessa / Luennot - 1.vsk](course) weekly schedule
+- [Johdanto terveysviestintään](course) weekly
+- What is the schedule for [Kandidaattiseminaari](course)
+- What is the schedule [Vuorovaikutusprosessit työelämän tilanteissa (monimuoto-opetus)](course)
+- When are classes for [Professional Writing (online course)](course)
+- Classes [Terveystiedon sisällöt (sähköinen tentti)](course)
+- When are classes [Organisaatioiden tiedonhallinta](course)
+- Teaching times [Graduvauhditus](course)
+- Teaching hours [Monikielinen käännöstyöpaja](course)
+- Teaching [Opimme lisää venäjän kielen suullisia taitoja](course)
+- [v](course) teaching
+- Week [Software Project Management, Software Project Management (Spring term)](course)
+- Lectures [Kasvatus, koulutus ja yhteiskunta, monimuoto-opetus](course)
+- When are lectures [Kilpailuoikeus](course)
+- Hours weekly [Qualitative Approach](course)
+- When are the classes [Visuaalisen kulttuurin teoria - lukupiiri ja essee](course) weekly
+- [Writing for Research (online course)](course) teaching times
+- When are [Median ja politiikan välinen suhde](course) teaching times
+- What are [Hoitotiede tieteenä](course) teaching times
+- When are lectures [Advanced Microscopy](course)
+- The schedule for [Kansalaisvaikuttaminen (kirjatentti/essee)](course)
+- What are the teaching times for [Vapaaehtoistyö - Osallistuminen vapaaehtoistyöhön](course)
+- [Rasismi ja antirasismi](course) times
+- [Inclusiveness in Local Innovation Environments](course) hours
+- I want to know when [Tutkimustyön perusteet - d) Kandidaattiseminaari (syksyllä 2018 alkava)](course) teaching times are
+- I want to know teaching times of [Speakers Series](course)
+- I want to know the schedule of [Opetus, ohjaus, oppiminen - Varhaiskasvatuksen opiskelijoille luennot (1 op) verkkotallenteena](course)
+- I want to know when the lectures in course [Bioinformatics work course](course) are- Schedule [Kandidaattiseminaari ja -tutkielma (julkisoikeus), syksy](course)
+- [Tilastotieteen johdantokurssi, syksy](course) schedule
+- [Talousviestintä / Wirtschaftskommunikation](course) weekly schedule
+- [Hydrogel Journal Club](course) weekly
+- What is the schedule for [The European Union (book exam/essay)](course)
+- What is the schedule [Käytännön opetus ja ohjaus - STYA3B1 Taitoseminaari](course)
+- When are classes for [Principles of Programming Graphical User Interfaces](course)
+- Classes [Valinnainen jakso: Johdatus tiedeviestintään](course)
+- When are classes [Osallisuudet, oikeudet ja vastuut palvelujärjestelmäkohtaamisissa](course)
+- Teaching times [Aikuiskasvatus ja työelämä, kirjatentti slk tai klk](course)
+- Teaching hours [Kasvatus, koulutus ja yhteiskunta, verkko-opetus](course)
+- Teaching [Eheyttävä musiikkikasvatus / Harjoitukset - 2.vsk](course)
+- [v](course) teaching
+- Week [Tilastomenetelmien perusteet, iltaryhmä](course)
+- Lectures [Orientation - Orientation to studying in the Software Development programme](course)
+- When are lectures [Strategia ja yrittäjyys](course)
+- Hours weekly [Kognitiiviseen käyttäytymisterapiaan pohjautuvat interventiot](course)
+- When are the classes [Journalistinen kieli - Tekstinhuolto](course) weekly
+- [Seminar, Bachelor's Thesis and Maturity Test - Seminar](course) teaching times
+- When are [Tuutorina toimiminen](course) teaching times
+- What are [Kielellinen vaihtelu/Språklig variation](course) teaching times
+- When are lectures [Terve ja turvallinen kouluyhteisö](course)
+- The schedule for [International Business Law](course)
+- What are the teaching times for [Johdatus viestinnän tutkimukseen ja analyysiin - kirjatentti](course)
+- [Tieteellinen kirjoittaminen / Wissenschaftliches Schreiben](course) times
+- [Orientoivat opinnot ja HOPS](course) hours
+- I want to know when [International Work Experience](course) teaching times are
+- I want to know teaching times of [Human-Technology Interaction Project Work](course)
+- I want to know the schedule of [Fonetiikan ja yleisen kielitieteen perusteet - Fonetiikka](course)
+- I want to know when the lectures in course [Business Translation Seminar Finnish - English](course) are- Schedule [Vieraan kielen taito, perustaso](course)
+- [Erikoiskurssi](course) schedule
+- [Historian tutkimusprosessi ja historiantutkijan etiikka](course) weekly schedule
+- [Tutkimusprosessin hallinta - Läsnäoloon perustuva oppimispäiväkirja](course) weekly
+- What is the schedule for [Eriytyvä syventävä tutkimusmenetelmäkurssi A: Kyselyaineiston analysointi](course)
+- What is the schedule [Business Writing](course)
+- When are classes for [Introduction to Academic English (JKK, EDU, LUO, COMS & SOC)](course)
+- Classes [Sopimusoikeuden syventävä opintojakso](course)
+- When are classes [Kirjallinen viestintä I/Skriftlig kommunikation I](course)
+- Teaching times [Asiantuntijuuden kehittymiseen orientoiva opintojakso - opintosuuntakohtaiset ryhmät jatkaville maisteriopiskelijoille (KASSO-opintosuunnan ryhmä)](course)
+- Teaching hours [Terve ja turvallinen kouluyhteisö](course)
+- Teaching [Venäjän kielen rakenne - Morfologia](course)
+- [v](course) teaching
+- Week [Viestinnän ja median tutkimussuuntauksia](course)
+- Lectures [Kasvatushistoria, kirjatentti, Seinäjoki](course)
+- When are lectures [Liiketoimintaosaamisen kokonaisdynamiikka ja sen ohjaaminen - VIBU-yritysstimulaatio](course)
+- Hours weekly [Empiirinen projekti](course)
+- When are the classes [TUTU1 Tulevaisuusajattelu ja skenaariot](course) weekly
+- [Dramaturgia: Musikaalin dramaturgia](course) teaching times
+- When are [Informaatio- ja mediajärjestelmien historiaa ja nykypäivää (syksyllä 2018 perusopinnot aloittaville) - verkkokurssi](course) teaching times
+- What are [Liiketoimintaympäristön taloustiede](course) teaching times
+- When are lectures [Musiikki - Musiikin teoria alakoulussa - 1. vsk ja  erillisen opinto-oikeuden POM-opintoihin saaneet opiskelijat](course)
+- The schedule for [Research in Practice](course)
+- What are the teaching times for [Tieteellinen kirjoittaminen / SOC (historia & filosofia)](course)
+- [Kansainvälisen politiikan johdantokurssi (kirjatentti)](course) times
+- [Introduction to Academic English (JKK, EDU, LUO, COMS & SOC)](course) hours
+- I want to know when [Finnish Survival Course](course) teaching times are
+- I want to know teaching times of [Thesis seminar](course)
+- I want to know the schedule of [Fonetiikan tutkimusmenetelmät - Menetelmäkurssi](course)
+- I want to know when the lectures in course [Populaarikulttuuri ja -kirjallisuus](course) are

@@ -1,0 +1,1111 @@
+- What is the name of [Case study: Examining leadership challenges](course)
+- [Venäjän historia, kirjallisuus ja kulttuuri](course) name
+- [Romanit etnisenä vähemmistönä Euroopassa - Sosnet verkkokurssi](course) name is
+- [Proseminaari, kandidaatintutkielma ja kypsyysnäyte](course) name full
+- [Tragedy of the Commons? Problems and Solutions](course) complete name
+- [Ohjelmointia teknisille viestijöille](course) name actual
+- [Makrotalousteorian jatkokurssi II](course) whole name
+- What is name [Writing for Research (online course)](course)
+- The name of [Julkisen talousjohtamisen tietojärjestelmät](course)
+- Name [Comparative European Politics and the Finnish Political System (book exam/essay)](course)
+- What is the full name of [Tiivistämisen taito](course)
+- What is [Project Planning and Management](course) called
+- What is the course code [Kandidaatintutkielmaseminaari - Seminaari](course) called
+- What course is [Vapaaehtoistyössä toimiminen](course)
+- [Basics I: Basics of Czech language II](course) named
+- What's [Julkisten palvelujen johtaminen](course) named
+- Name of [Kokeellinen tiedonhaku](course)
+- Tell me the name of [Praktikum](course)
+- Say the name of [Kandidaatintutkielma](course)
+- The whole name of [Kielioppiharjoitukset](course)
+- [Orientoiva tutkielmaseminaari - Seminaari](course) full name
+- [Talouselämän käännösviestinnän seminaari venäjä-suomi](course) entire name
+- [Syventävä metodologia - Luennot](course) whole name
+- [Global Humanitarianism and its Critics (POMLFCS3)](course) meaning
+- What does [Puolueet, vaalit ja poliittinen vaikuttaminen (kirjatentti/essee)](course) mean
+- What means [Recommender Systems](course)
+- I want to know what [Aikuis- ja ammattikasvatuksen asiantuntijuus](course) means
+- I want to know what [Nuorten ja aikuisten mielenterveyden arviointi](course) actually means
+- What is the meaning of [Laaja-alaistava harjoittelu - Ohjattu opetusharjoittelu](course)
+- [Pro gradu -seminaari ja -tutkielma (hallintotiede) - Seminaari](course) meaning
+- True name of [Äidinkieli ja kirjallisuus - Lasten- ja nuortenkirjallisuus - 1. vsk](course)
+- Real name of [Kielitieteen historia ja tutkimussuunnat](course)
+- Which course is [Suomen kulttuuri ja yhteiskunta -lukupiiri](course)
+- What [TECHS3(course) means
+- I want to know what [Fonetiikan teoriaa - Fonetiikan jatkokurssi](course) stands for
+- I want to know the full name of course code [Radiojournalismi](course)
+- I want to know the whole name of [Johdatus filosofian historiaan](course)
+- I want to know the name of [Literature and Society in Early Modern Britain](course)- What is the name of [Tilastotieteen matriisilaskenta ja laskennalliset menetelmät](course)
+- [Tutkimusasetelman menetelmällinen rakentuminen tohtoriopinnoissa - Dialogipajat](course) name
+- [Projektiharjoittelu](course) name is
+- [Pro gradu -seminaari ja -tutkielma (hallintotiede) - Seminaari](course) name full
+- [Vakuutustoiminnan periaatteet ja johtaminen](course) complete name
+- [Liike-elämän ruotsia I](course) name actual
+- [Interview as a means of data generation](course) whole name
+- What is name [Practical Observation of Finnish School System for Incoming Exchange Students - Observation, written tasks, report](course)
+- The name of [Johdatus sosiaalitieteisiin](course)
+- Name [Contemporary Peace and Conflict Studies](course)
+- What is the full name of [Teaching, Pedagogical Facilitating, Learning](course)
+- What is [Kliinisen neuropsykologian perusteet](course) called
+- What is the course code [Advanced Functional Programming](course) called
+- What course is [Laskentatoimen teoria ja IFRS I](course)
+- [Konfliktinratkaisu (kirjatentti/essee)](course) named
+- What's [Pro gradu -tutkielma ja -seminaari, syksyllä 2018 aloittavat ryhmät](course) named
+- Name of [Liiketoimintaympäristön taloustiede](course)
+- Tell me the name of [Managing Research Information](course)
+- Say the name of [Tiimi toimii - puheviestinnän syventävä kurssi (2. periodi)](course)
+- The whole name of [Esimiestyö (kevät 2019)](course)
+- [Vapaaehtoistyö / Voluntary Work](course) full name
+- [Tutkielmakurssi (periodi I)](course) entire name
+- [Yhtiöoikeuden syventävä opintojakso](course) whole name
+- [Taitoseminaari](course) meaning
+- What does [Asiantuntemus ja arjen ympäristöpolitiikka](course) mean
+- What means [Communication Skills in English - Speaking Practice](course)
+- I want to know what [Systemaattinen tiedonhaku hoitotieteessä](course) means
+- I want to know what [Kvalitatiivinen tutkimus kasvatustieteissä - Verkkokurssi, yhteisopetus avoimen yo:n ja tutkinto-opiskelijoille](course) actually means
+- What is the meaning of [Seminaari (Ridell)](course)
+- [Kansanterveystieteen käsitteitä ja teoreettisia kysymyksiä](course) meaning
+- True name of [Kääntäjän ja tulkin työelämätaidot](course)
+- Real name of [Graduseminaari, jatkava (Markkola)](course)
+- Which course is [Writing Research Grant Proposals](course)
+- What [TECHS3(course) means
+- I want to know what [Normit ja asiakirjoittaminen - Kääntäjän kielen- ja tekstinhuolto](course) stands for
+- I want to know the full name of course code [Espanja IV](course)
+- I want to know the whole name of [Johdanto tietokäytäntöjen tutkimukseen](course)
+- I want to know the name of [Työn taloustiede](course)- What is the name of [Kvalitatiivinen tutkimus kasvatustieteissä - Verkkokurssi, yhteisopetus avoimen yo:n ja tutkinto-opiskelijoille](course)
+- [Introduction to R (Tampere Summer School 2018)](course) name
+- [Diskurssianalyysi](course) name is
+- [Political Systems (book exam/essay)](course) name full
+- [Leikki kulttuurisena, kehityksellisenä ja pedagogisena ilmiönä / Luennot - 1.vsk](course) complete name
+- [Tila, teknologia ja toiminta: Lukuseminaari: Julkinen toiminta teknoyhteiskunnassa](course) name actual
+- [Tila, teknologia ja toiminta - essee](course) whole name
+- What is name [Johdon laskentatoimen jatkokurssi](course)
+- The name of [Laskentatoimen teoria ja IFRS II](course)
+- Name [Graduvauhditus](course)
+- What is the full name of [Kääntämisen perusteet](course)
+- What is [Kvalitatiivinen tutkimus kasvatustieteissä - Harjoitukset, luokanop. ryhmä](course) called
+- What is the course code [Human Mobility in Peace and Conflict Research](course) called
+- What course is [Matemaattiset aineet - Fysiikka ja kemia - 2. vsk](course)
+- [Vahinkoriskien vakuuttaminen](course) named
+- What's [Kandidaattiseminaari (JATKAVA, Nevala)](course) named
+- Name of [Lukeminen ja kirjoittaminen oppimisen haasteena (seminaarit 1-4 ryhmät)](course)
+- Tell me the name of [Sosiaalipsykologia](course)
+- Say the name of [Poliittinen viestintä - verkkosuorituksena](course)
+- The whole name of [Fundamentals of Finance (Tampere Summer School)](course)
+- [Asiantuntijan puheviestintä ja vuorovaikutus sosiaali- ja terveysalalla (1. periodi)](course) full name
+- [Pohjoismaiden yhteiskuntaolot ja kulttuurit](course) entire name
+- [Harjoittelu / Elinikäinen oppiminen ja kasvatus - Arviointiseminaari vuonna 2018 harjoitteleville](course) whole name
+- [Puhe- ja nielemistoimintojen tutkimus ja kuntoutus](course) meaning
+- What does [Tutkimustyön perusteet - d) Kandidaattiseminaari (syksyllä 2018 alkava)](course) mean
+- What means [Seminaari (Seppänen)](course)
+- I want to know what [Literature and Change after 1900 (American Literature)](course) means
+- I want to know what [Kansainvälisen politiikan työseminaari - Luennot ja seminaari](course) actually means
+- What is the meaning of [Multi-level Modelling (MLM) - Concepts and Practice -](course)
+- [Kvantitatiivinen tutkimus kasvatustieteissä - Harjoitukset, luokanop.](course) meaning
+- True name of [Persoonallisuuspsykologia I (avoin yliopisto)](course)
+- Real name of [Orientoivat opinnot - Tiedonhankintataidot I (TIE)](course)
+- Which course is [Nuorisotyön ja nuorisotutkimuksen maisteriohjelman lähijakso 11.-12.4.2019](course)
+- What [TECHS3(course) means
+- I want to know what [Kvalitatiivinen tutkimus kasvatustieteissä - Harjoitukset, Ryhmä, yhteinen varhaiskasv. ja luokanop. ryhmä](course) stands for
+- I want to know the full name of course code [Kandidaattiseminaari (Mustakallio)](course)
+- I want to know the whole name of [Molekyylibiologia](course)
+- I want to know the name of [Visuaalisen journalismin perusteet, luennot](course)- What is the name of [Eheyttävä temaattinen loppuprojekti - projekti/käytännön työ ja portfolio](course)
+- [Kandidaattiseminaari ja tutkielma (vakuutus ja riskienhallinta), syksy 2018](course) name
+- [Introduction to International Relations (book exam)](course) name is
+- [Saksa III](course) name full
+- [Lastenkirjallisuus ja draama / Harjoitukset - 3.vsk + 1.vsk ryhmät 6 ja 7](course) complete name
+- [Microfinance and development](course) name actual
+- [Opetussuunnitelmateoria, kirjatentti](course) whole name
+- What is name [Moniammatilliset oppimisyhteisöt - Luennot](course)
+- The name of [Syventävä projekti, keväällä 2019 alkava](course)
+- Name [Ohjelmoinnin tekniikka C](course)
+- What is the full name of [Julkissektorin instituutioiden talous (monimuoto-opetus)](course)
+- What is [Algebra 1B](course) called
+- What is the course code [Venäjä I](course) called
+- What course is [Ruotsin kielen kirjallinen ja suullinen viestintä / Monenlaisten oppijoiden ryhmä](course)
+- [Introduction to leadership and management](course) named
+- What's [Ruotsin kielen kirjallinen ja suullinen viestintä](course) named
+- Name of [Sosiaalitieteiden kvantitatiiviset menetelmät - Luennot ja harjoitukset](course)
+- Tell me the name of [Terveystiedon perusteet](course)
+- Say the name of [Johdatus viestinnän tutkimukseen ja analyysiin - kirjatentti](course)
+- The whole name of [Ranska eilen, tänään ja huomenna](course)
+- [Eheyttävä musiikkikasvatus / Harjoitukset - 2.vsk](course) full name
+- [Ammattimainen tekstintarkistus](course) entire name
+- [Johdon laskentatoimi ja inhimillinen käyttäytyminen](course) whole name
+- [Journalism Start-Ups and Enterpreneurialism](course) meaning
+- What does [Julkisoikeuden perusteet (järjestäjä TAMK)](course) mean
+- What means [Johdatus kirjallisuuden poetiikkaan](course)
+- I want to know what [Käännösviestintä II englanti-suomi](course) means
+- I want to know what [Lausekielinen ohjelmointi I - Näyttökoe, kevät 2019](course) actually means
+- What is the meaning of [Syventävä projekti, keväällä 2019 alkava](course)
+- [Harjoittelu / Elinikäinen oppiminen ja kasvatus - HARJOITTELUTUKIOPTION HAKEMINEN: Seminaarit ja harjoittelu vuonna 2019 opintojakson suorittaville](course) meaning
+- True name of [Gerontologian tohtorikoulutusseminaari](course)
+- Real name of [Terveystiedon perusteet](course)
+- Which course is [Kansainvälisen politiikan erikoistuvat menetelmäopinnot (kirjatentti/essee)](course)
+- What [TECHS3(course) means
+- I want to know what [Ranska I](course) stands for
+- I want to know the full name of course code [Opetus, ohjaus, oppiminen - Luennot (1 op) EDUn opiskelijoille TAI luennot (1 op) ja kirjatentti (4 op) opintojakson valinnaisena suorittaville](course)
+- I want to know the whole name of [Varhaiskasvatuksen pedagogiikka ja opetussuunnitelmatyö / Luennot - 2.vsk + 1.vsk ryhmät 6 ja 7](course)
+- I want to know the name of [Asiakastyön menetelmät, luennot](course)- What is the name of [Kirjallinen viestintä I (venäjänkieliset opiskelijat)](course)
+- [Sosiaalinen kognitio](course) name
+- [Kansainvälisen politiikan yleiset syventävät menetelmäopinnot](course) name is
+- [Sustainable business practices (Lectures)](course) name full
+- [Tietotekniikkataidot (kevät)](course) complete name
+- [Kielen- ja tekstinhuolto](course) name actual
+- [Kandidaattiseminaari ja tutkielma (markkinointi) - kevät 2019](course) whole name
+- What is name [Business Ethics (Independent study)](course)
+- The name of [Tilastollisen päättelyn perusteet, iltaryhmä](course)
+- Name [Kandidaattiseminaari ja tutkielma (yrityksen johtaminen) - syksy 2018](course)
+- What is the full name of [Political Ideologies (book exam)](course)
+- What is [Orientoivat opinnot - Tiedonhankintataidot I](course) called
+- What is the course code [Kuva-  ja mediakulttuurit - Kuvakulttuurit - 1. vsk ja erillisen opinto-oikeuden POM-opintoihin saaneet opiskelijat (luennot)](course) called
+- What course is [Business Translation Seminar Finnish - English](course)
+- [Ruotsin kielen kirjallinen ja suullinen viestintä / Monenlaisten oppijoiden ryhmä](course) named
+- What's [Dramaturgia: Musikaalin dramaturgia](course) named
+- Name of [Monimuuttujamenetelmien perusteet](course)
+- Tell me the name of [Introduction to Pharmacology and Drug Modelling](course)
+- Say the name of [Tutkielmaseminaari (kevätlukukaudelta 2018 jatkavat seminaarit)](course)
+- The whole name of [Pelit ja pelillisyys (syksyllä 2017 perusopinnot aloittaneille) - verkkokurssi](course)
+- [Esimiestyö (kevät 2019)](course) full name
+- [Vuorovaikutuksen perusteet - verkkokurssina I](course) entire name
+- [Perhehoitotieteellisen tiedon syventäminen -](course) whole name
+- [Writing for Research (online course)](course) meaning
+- What does [Liikunta pedagogisena ilmiönä - A Liikunnan ainedidaktiikka (yhteiset seminaarit)](course) mean
+- What means [Introduction to Academic English (JKK, EDU, LUO, COMS & SOC)](course)
+- I want to know what [Pro gradu -seminaari ja -tutkielma (2018-2019)](course) means
+- I want to know what [Rahoitusoikeus](course) actually means
+- What is the meaning of [Continental Model: The Austrian System of Work and Social Security](course)
+- [Genetiikka](course) meaning
+- True name of [Terveystieteiden orientoivat tohtoriopinnot](course)
+- Real name of [Lasten arki suomalaisessa yhteiskunnassa / Harjoitukset - 1.vsk](course)
+- Which course is [Kvantitatiivinen tutkimus kasvatustieteissä - Harjoitukset, yhteinen avoimen ja tutkinto-op. ryhmä](course)
+- What [TECHS3(course) means
+- I want to know what [Lausekielinen ohjelmointi II](course) stands for
+- I want to know the full name of course code [Tiedonhankintataidot (hoitotiede), Seinäjoki](course)
+- I want to know the whole name of [Applied and Effective Project Management, Leadership and Communication - (Tampere Summer School)](course)
+- I want to know the name of [Kiina II](course)- What is the name of [Musiikin tiedolliset valmiudet ja niiden soveltaminen - Musiikkitieto](course)
+- [Käyttöliittymien perusteet](course) name
+- [Sosiaalioikeus](course) name is
+- [Vakuutuksen ja riskienhallinnan erikoistumisosa](course) name full
+- [Terveystiedon sisällöt (sähköinen tentti)](course) complete name
+- [Saksankielisten maiden kulttuurihistoria / Kulturgeschichte der deutschsprachigen Länder](course) name actual
+- [Tasa-arvon ja yhdenvertaisuuden edistäminen työnä (verkkokurssi)](course) whole name
+- What is name [Johdanto tietokäytäntöjen tutkimukseen](course)
+- The name of [Filosofian tutkija- ja tohtorikoulutusseminaari](course)
+- Name [Kääntämisen ja tulkkauksen teoria ja käytäntö - Tulkkausviestinnän perusteet](course)
+- What is the full name of [Kuva-  ja mediakulttuurit - Mediakulttuurit- I vsk ja  erillisen opinto-oikeuden POM-opintoihin saaneet opiskelijat (luennot)](course)
+- What is [Kansainvälisen politiikan teoria ja menetelmät (luentokurssi)](course) called
+- What is the course code [Olio-ohjelmoinnin perusteet](course) called
+- What course is [Perusharjoittelu A - Ohjattu opetusharjoittelu](course)
+- [Kasvatus tieteellisen tutkimuksen kohteena - verkko-opetus, IV-periodi](course) named
+- What's [Vapaaehtoistyö - Osallistuminen vapaaehtoistyöhön](course) named
+- Name of [Kehittyminen johtajaksi terveydenhuollossa](course)
+- Tell me the name of [Aktuelle Texte aus Presse und Studium](course)
+- Say the name of [Johdatus kunta- ja aluejohtamiseen](course)
+- The whole name of [Puheen ja äänen harjoitusmenetelmät](course)
+- [Tutkimustyön perusteet - d) Kandidaattiseminaari (keväällä 2018 alkava)](course) full name
+- [Dialogitulkkaus](course) entire name
+- [Kandidaattiseminaari ja tutkielma (yritysjuridiikka ja vero-oikeus)](course) whole name
+- [Cell Technology](course) meaning
+- What does [Tutkimustyön perusteet (syksy)](course) mean
+- What means [Vero-oikeuden perusteet](course)
+- I want to know what [Kvalitatiivinen tutkimus kasvatustieteissä - Verkkokurssi, varhaiskasvatuksen opiskelijat](course) means
+- I want to know what [Statistical Inference 1](course) actually means
+- What is the meaning of [New Wars and How to Study Them (POMLFCS3)](course)
+- [Matematiikan peruskäsitteitä](course) meaning
+- True name of [Johtaminen ja organisaatiot I (kirjallisuus)](course)
+- Real name of [Kandidaattiseminaari ja tutkielma (laskentatoimi) - Kandidaattiseminaari, syksy 2018](course)
+- Which course is [Kandidaattitutkielma ja seminaari (matematiikka) - seminaari](course)
+- What [TECHS3(course) means
+- I want to know what [Ajankohtaisia kansanterveyskysymyksiä](course) stands for
+- I want to know the full name of course code [Terveydenhuollon ja terveystutkimuksen etiikka](course)
+- I want to know the whole name of [Kandidaattiseminaari ja tutkielma (markkinointi) - syksy 2018](course)
+- I want to know the name of [Informaatio- ja mediajärjestelmien historiaa ja nykypäivää (keväällä 2019 perusopinnot aloittaville) - verkkokurssi](course)- What is the name of [Study Skills - Basics of Information Literacy](course)
+- [Kielikonsultointia käytännössä](course) name
+- [Tutkimustyötä tukevat tohtoriopinnot (tilastotiede)](course) name is
+- [Tutkimusetiikka](course) name full
+- [Human Rights Law](course) complete name
+- [Identity and Lifecourse - Lectures, reading groups and essay](course) name actual
+- [Rakenteinen dokumentaatio ja DITA](course) whole name
+- What is name [Soluviljely (2. vuosikurssin opiskelijoille)](course)
+- The name of [Cultural Conversations](course)
+- Name [Tutkijan puheviestintä](course)
+- What is the full name of [Yrityksen johtamisen perusteet](course)
+- What is [Seminaari, kandidaatintutkielma ja kypsyysnäyte](course) called
+- What is the course code [Poliittiset aatteet ja ideologiat](course) called
+- What course is [Studia generalia: Lastenkirja kääntäjän kädessä](course)
+- [Opetus, ohjaus, oppiminen - Luennot (1 op) EDUn opiskelijoille TAI luennot (1 op) ja kirjatentti (4 op) opintojakson valinnaisena suorittaville](course) named
+- What's [Liikuntapedagogiikka varhaiskasvatuksessa / Harjoitukset - 2.vsk](course) named
+- Name of [Tutkimuspraktikum -](course)
+- Tell me the name of [Kompleksianalyysi](course)
+- Say the name of [Methodology of Social and Comparative Research](course)
+- The whole name of [Julkisoikeuden perusteet (järjestäjä TAMK)](course)
+- [Tutkimustyötä tukevat tohtoriopinnot - Postgraduate Studies in Interactive Technology](course) full name
+- [Opetus, ohjaus, oppiminen - Luokanopettajaopiskelijat: Pienryhmäopetus ja siihen liittyvä harjoittelu (2 op) ja kirjallisuus (2 op)](course) entire name
+- [Musiikin perusteet / Luennot - 1.vsk ryhmät 1-5](course) whole name
+- [Lukeminen ja kirjoittaminen oppimisen haasteena - (luennot)](course) meaning
+- What does [Seminaari II/Seminarium II](course) mean
+- What means [Orientoivat opinnot - Tiedonhankintataidot](course)
+- I want to know what [Tilastollisen päättelyn perusteet](course) means
+- I want to know what [Eurooppa-vero-oikeus](course) actually means
+- What is the meaning of [Kääntämisen ja tulkkauksen teoria ja käytäntö - Tulkkausviestinnän perusteet](course)
+- [Kuvataiteen perusteet - 1.vsk](course) meaning
+- True name of [Biological data analysis with R](course)
+- Real name of [Study Skills - Basics of Information Literacy](course)
+- Which course is [Teaching, Pedagogical Facilitating, Learning](course)
+- What [TECHS3(course) means
+- I want to know what [Kommunikationstraining II](course) stands for
+- I want to know the full name of course code [Liikuntatuutorina toimiminen - Liikuntatuutoriperehdytys](course)
+- I want to know the whole name of [Tutkielmapiiri](course)
+- I want to know the name of [Usean muuttujan differentiaalilaskenta](course)- What is the name of [Perhehoitotieteellisen tiedon syventäminen -](course)
+- [Asiantuntijan puheviestintä ja vuorovaikutus (4. periodi)](course) name
+- [Käytännön opetus ja ohjaus - STYA3B1 Taitoseminaari](course) name is
+- [Kandidaattiseminaari (JATKAVA, Nevala)](course) name full
+- [Kick-start to Biomedical Technology](course) complete name
+- [Tietojärjestelmän suunnittelun perusteet](course) name actual
+- [Fonetiikan tilastomenetelmät](course) whole name
+- What is name [Politicization in Europe and the EU](course)
+- The name of [Terve ja turvallinen kouluyhteisö](course)
+- Name [Romanian kielen jatkokurssi II / Advanced Course 2 in Romanian -](course)
+- What is the full name of [Politiikan tutkimuksen kandidaatintutkielma ja -seminaari](course)
+- What is [Laaja-alaistava harjoittelu - Opetus- ja koulutushallinnon luennot](course) called
+- What is the course code [Stem Cells Laboratory Course](course) called
+- What course is [Terveystiedon asiantuntijuus (sähköinen tentti)](course)
+- [Journalism Start-Ups and Enterpreneurialism](course) named
+- What's [Uuden ajan alun ryhmä](course) named
+- Name of [Improving the quality and safety of health care through outcomes research](course)
+- Tell me the name of [Kasvatustieteen metodologiset lähtökohdat, kirjatentti, Seinäjoki](course)
+- Say the name of [Latinan kielen alkeiskurssi](course)
+- The whole name of [Tieteellinen kirjoittaminen](course)
+- [Liiketoiminnan analysoinnin ja kehittämisen case-kurssi](course) full name
+- [Ammattimainen tekstintarkistus](course) entire name
+- [Kvantitatiivinen tutkimus kasvatustieteissä - Harjoitukset, varhaiskasv. ryhmä, luokanop. ja varhaiskasv. yhteinen ryhmä](course) whole name
+- [Biologia ja ympäristötieto - Biologian kenttäkurssi - 2. vsk (1-2. ryhmät Hyytiälä)](course) meaning
+- What does [Tuutorivastaavana toimiminen](course) mean
+- What means [Advanced Course in Microeconomics I](course)
+- I want to know what [Ekonometria](course) means
+- I want to know what [Kuntien ja alueiden kansainväliset hallintasuhteet](course) actually means
+- What is the meaning of [Pelit ja pelillisyys](course)
+- [Tutkimustyötä tukevat tohtoriopinnot (tilastotiede)](course) meaning
+- True name of [Juridisk svenska (vain KTM:ksi klklla 2019 valmistuville)](course)
+- Real name of [Kandidaatin tutkielma ja seminaari (hoitotiede)](course)
+- Which course is [Simultaanitulkkaus I englanti-suomi-englanti](course)
+- What [TECHS3(course) means
+- I want to know what [Liikunnan projekti (5 op)](course) stands for
+- I want to know the full name of course code [Saksan kielen valmentava kurssi - Interkulturelles Training](course)
+- I want to know the whole name of [Kasvatuksen historialliset ja filosofiset lähtökohdat, monimuoto-opetus](course)
+- I want to know the name of [KEB-61420 Laaja kemia 2](course)- What is the name of [Ohjelmointia teknisille viestijöille](course)
+- [Cell Technology](course) name
+- [Perusharjoittelu](course) name is
+- [Terveys ja yhteiskuntapolitiikka](course) name full
+- [Practices of Strategic Leadership](course) complete name
+- [Innovation Project (Spring term 2018-IV)](course) name actual
+- [World society: National policies, global governance and transnational sociology](course) whole name
+- What is name [Tiedonhankintataidot - Tiedonhankintataidot III -  Systemaattinen tiedonhankinta (hoitotieteen opiskelijoille)](course)
+- The name of [Asiantuntijuuden kehittymiseen orientoiva opintojakso - v. 2018 EDUn opiskelijoiksi hyväksyttyjen ryhmät](course)
+- Name [Struggles on Education](course)
+- What is the full name of [Tekstianalyysi / Textanalyse](course)
+- What is [Studia generalia: Lastenkirja kääntäjän kädessä](course) called
+- What is the course code [Normit ja asiakirjoittaminen - Kääntäjän kielen- ja tekstinhuolto](course) called
+- What course is [Developing a Proposal for Community-Based Qualitative Research](course)
+- [Tutkimuspraktikum -](course) named
+- What's [Geometria](course) named
+- Name of [Johdatus tietojenkäsittelytieteisiin](course)
+- Tell me the name of [Pro gradu -tutkielma ja seminaari](course)
+- Say the name of [Asiantuntijuuden kehittymiseen orientoiva opintojakso - opintosuuntakohtaiset ryhmät jatkaville maisteriopiskelijoille (KASSY-, KASSO- ja KASSA-opintosuuntien ryhmiä)](course)
+- The whole name of [Lapset kehittyvinä ja sosiaalisina toimijoina varhaiskasvatuksessa / Luennot - 1.vsk](course)
+- [Gerontologian tohtorikoulutusseminaari](course) full name
+- [Pro gradu -tutkielma ja seminaari](course) entire name
+- [Romanian kielen jatkokurssi I / Advanced Course 1 in Romanian](course) whole name
+- [Kasvatus tieteellisen tutkimuksen kohteena - verkko-opetus, II-periodi](course) meaning
+- What does [Työoikeuden syventävä opintojakso](course) mean
+- What means [Tilinpäätös- ja verosuunnittelu](course)
+- I want to know what [Thesis seminar](course) means
+- I want to know what [Työ- ja organisaatiopsykologian interventiot](course) actually means
+- What is the meaning of [Kielioppi I / Grammatik I](course)
+- [Johtaminen ja organisaatiot I (kirjallisuus)](course) meaning
+- True name of [Struggles on Education](course)
+- Real name of [Sosiaalityön tutkimuksen metodologisia suunnistuksia](course)
+- Which course is [Erot, jaot ja niiden rakentuminen, kirjatentti](course)
+- What [TECHS3(course) means
+- I want to know what [Interview as a means of data generation](course) stands for
+- I want to know the full name of course code [Tiimi toimii - puheviestinnän syventävä kurssi (4. periodi)](course)
+- I want to know the whole name of [Liiketoimintaympäristön taloustiede](course)
+- I want to know the name of [Current theoretical questions of educational research](course)- What is the name of [Etnografinen tutkimusprosessi](course)
+- [Kansainvälisen politiikan johdantokurssi (kaikki opiskelijat)](course) name
+- [Asiantuntijan puheviestintä ja vuorovaikutus opetus- ja kasvatustyössä (4. periodi)](course) name is
+- [Romanian kielen jatkokurssi II / Advanced Course 2 in Romanian -](course) name full
+- [Kestävän kehityksen käytäntöjä](course) complete name
+- [Science and Biotechnology Journal Club](course) name actual
+- [Dialogitulkkaus](course) whole name
+- What is name [Kirjallisuuden teoria - Kirjallisuustieteen klassikoita](course)
+- The name of [Learning from Multiple Sources](course)
+- Name [Tieteellinen kirjoittaminen / SOC (historia & filosofia)](course)
+- What is the full name of [TUTU4 Tulevaisuudentutkimuksen tieteellinen perusta](course)
+- What is [Current Trends in Leadership](course) called
+- What is the course code [Projektin suunnittelu ja johtaminen](course) called
+- What course is [Tekoäly ja vakuutustoiminta](course)
+- [Legal English](course) named
+- What's [Luontokirjoittamisen klassikot](course) named
+- Name of [Methods of Variationist Linguistics](course)
+- Tell me the name of [Käytännön opetus ja ohjaus - STYA3B2 Käytännön opetus ja ohjaus](course)
+- Say the name of [Psykologian tutkimusmenetelmät I (avoin yliopisto)](course)
+- The whole name of [Mediatutkimuksen valinn. jakso: Työseminaari: Euroopan hullu vuosi 1968 ja sen perintö](course)
+- [Tuutorvastaavana toimiminen / Being a tutor in charge](course) full name
+- [Evaluation Research](course) entire name
+- [Inclusive Education](course) whole name
+- [Lesen, Verstehen, Schreiben](course) meaning
+- What does [Kasvatus, koulutus ja yhteiskunta, verkko-opetus](course) mean
+- What means [Tutkijan puheviestintä](course)
+- I want to know what [Viestintää tukevat keinot asiakas-työntekijä-suhteessa](course) means
+- I want to know what [Kirjallisuustieteen syysseminaari: Ihmesaduista adaptaatioihin. Näkökulmia sadun ja fantasian tutkimukseen](course) actually means
+- What is the meaning of [Asiantuntijan puheviestintä ja vuorovaikutus (1. periodi) / KTM-tutkinto](course)
+- [Matematiikkakasvatus / Harjoitukset - 2.vsk + 1.vsk ryhmät 6 ja 7](course) meaning
+- True name of [Software Engineering](course)
+- Real name of [The Transformation of Global Environmental Politics (Tampere Summer School 2018)](course)
+- Which course is [Tieteellinen kirjoittaminen / COMS (kirjallisuuden opiskelijoille)](course)
+- What [TECHS3(course) means
+- I want to know what [Liikekirjanpito ja tilinpäätös (avoin yliopisto-opetus)](course) stands for
+- I want to know the full name of course code [Vanhempien aikojen tutkijaseminaari](course)
+- I want to know the whole name of [Antiikin ja keskiajan ryhmä](course)
+- I want to know the name of [Understanding Legal Regulation of Business](course)- What is the name of [Psykologian tutkimusmenetelmät II: kokeellinen ja korrelatiivinen tutkimus](course)
+- [Lähtötasokoe - Kirjallinen tentti](course) name
+- [Liikunta - Liikuntapedagogiikka perusopetuksessa  B - 2. vsk  ja opinnot 1½ lukuvuodessa suorittavat 1.vsk ja POM-opintoihin opinto-oikeuden saaneet opiskelijat](course) name is
+- [Monikielinen käännöstyöpaja](course) name full
+- [Longitudinal and Finite Nonlinear Mixture Modelling and Associated Experimental Design Strategies (independent study and exams) 5 ECTS](course) complete name
+- [Tulevaisuuden hyvinvointipalvelut: ratkaisuna robotiikka?](course) name actual
+- [Kick-start to Biomedical Technology](course) whole name
+- What is name [Lain ja hallinnon tekstit ja niiden kääntäminen](course)
+- The name of [Deviance and Social Control](course)
+- Name [International Trade and Finance (Tampere Summer School) - luennot ja tentti](course)
+- What is the full name of [Kieli ja kielentäminen -2. vsk (luennot)](course)
+- What is [Embryology](course) called
+- What is the course code [Analyysi C](course) called
+- What course is [Julkisen talousjohtamisen tietojärjestelmät](course)
+- [Dramaturgia: Musikaalin dramaturgia](course) named
+- What's [Gender in Society](course) named
+- Name of [Ympäristö ja hyvinvointi](course)
+- Tell me the name of [Radio Project](course)
+- Say the name of [Yrityksen johtamisen perusteet](course)
+- The whole name of [Basics I: Basics of Czech language I](course)
+- [Tutkimushaastattelu: taito, tyylit ja kohderyhmät](course) full name
+- [Demola-projektityö I](course) entire name
+- [Media and Cultural Industries](course) whole name
+- [Palvelut ja hyvinvointivaltion murros](course) meaning
+- What does [Musiikin soveltava projekti - Yhteisöllinen musiikillinen projekti](course) mean
+- What means [Toisen vuoden opiskelijoiden info-tilaisuus](course)
+- I want to know what [Political Institutions and Processes (book exam/essay)](course) means
+- I want to know what [Finnish Education System - Seminar](course) actually means
+- What is the meaning of [Espanja I](course)
+- [Stem Cells Laboratory Course](course) meaning
+- True name of [Tekoälyn filosofia](course)
+- Real name of [Orientoivat opinnot - Tiedonhankintataidot I (TIE)](course)
+- Which course is [Sanaston tuntemus/Ordkunskap](course)
+- What [TECHS3(course) means
+- I want to know what [History, Culture and Literature: Culture and Literature](course) stands for
+- I want to know the full name of course code [Eheyttävä musiikkikasvatus - Soitinrakennus](course)
+- I want to know the whole name of [Viron peruskurssi](course)
+- I want to know the name of [Orientoivat opinnot, HOPS](course)- What is the name of [Semantiikka ja pragmatiikka / Sémantique et pragmatique](course)
+- [Tietojärjestelmän suunnittelun perusteet - Näyttökoe, syksy 2018](course) name
+- [Kansainvälisen politiikan erikoistuvat menetelmäopinnot (kirjatentti/essee)](course) name is
+- [Orientoivat opinnot - Alkuorientaatio](course) name full
+- [Kommunikationstraining II](course) complete name
+- [Oppimisyhteisöt ja vuorovaikutus, kirjatentti, Pori](course) name actual
+- [Ruotsin kielen kirjallinen ja suullinen viestintä (JKK: HK & YTK / EDU / LUO / COMS: HuK, LuK & YTK / SOC) verkkokurssi](course) whole name
+- What is name [Nuorisotyön ja nuorisotutkimuksen maisteriohjelman lähijakso 29.-30.8.2018](course)
+- The name of [Graduseminaari, alkava (Kaarninen)](course)
+- Name [Orientoivat opinnot - Tiedonhankintataidot I (MTT)](course)
+- What is the full name of [Old and New Classics of Political Theory (book exam/essay)](course)
+- What is [Graduvauhditus](course) called
+- What is the course code [Visual Peace Research](course) called
+- What course is [Latinalaisen Amerikan historia ja kirjallisuus - Historia y literatura de Latinoamérica](course)
+- [Äänen tutkimus ja kuntoutus](course) named
+- What's [POISTA TÄMÄ! Solun biokemia ja  molekyylibiologia](course) named
+- Name of [Johdatus matematiikkaan ja tilastotieteeseen](course)
+- Tell me the name of [Finnish Elementary Course 3](course)
+- Say the name of [Romanian kielen jatkokurssi II / Advanced Course 2 in Romanian -](course)
+- The whole name of [Liikuntapedagogiikan perusteet / Luennot - 1.vsk](course)
+- [Varhaiskasvatuksen kehittyvä asiantuntijuus - Työssäoppiminen 3.vsk](course) full name
+- [Epidemiologian perusteet](course) entire name
+- [Lasten arviointi](course) whole name
+- [WWW Programming](course) meaning
+- What does [Asiantuntemus ja arjen ympäristöpolitiikka (esseesuoritusvaihtoehto) - oppimispaivakirja ja teemaessee](course) mean
+- What means [Terveystiedon didaktiikan perusteet](course)
+- I want to know what [History, Culture and Literature: History](course) means
+- I want to know what [Kansainvälisen politiikan johdantokurssi (kirjatentti)](course) actually means
+- What is the meaning of [Teknologiakasvatus - Teknologia](course)
+- [Advanced International Relations Research Methods (book exam/essay)](course) meaning
+- True name of [Asiakirjatiedon organisointi- ja kuvailumenetelmät](course)
+- Real name of [Urban Inequalities](course)
+- Which course is [Näkökulmia kääntämiseen - Kääntäminen viestinnällisenä asiantuntijatehtävänä / Perspektiven auf Übersetzen](course)
+- What [TECHS3(course) means
+- I want to know what [Sosiaalitieteiden kvantitatiiviset tutkimusmenetelmät (verkkokurssi)](course) stands for
+- I want to know the full name of course code [Kielioppi II (venäjänkieliset opiskelijat)](course)
+- I want to know the whole name of [Sustainable business practices (Lectures)](course)
+- I want to know the name of [Tutkimustyötä tukevat tohtoriopinnot - Postgraduate Studies in Interactive Technology](course)- What is the name of [Seminaari](course)
+- [Ryhmät ja ryhmien väliset suhteet](course) name
+- [Poliittinen viestintä - verkkosuorituksena](course) name is
+- [Research Ethics](course) name full
+- [Structure of English I - Phonology and Pronunciation I](course) complete name
+- [Kirjallinen viestintä I (venäjänkieliset opiskelijat)](course) name actual
+- [Julkisoikeuden perusteet](course) whole name
+- What is name [Experimental animal course](course)
+- The name of [Valtio-opin teoriat (kirjatentti/essee)](course)
+- Name [Advanced International Relations Research Methods (book exam/essay)](course)
+- What is the full name of [Introduction to Bayesian Analysis 2](course)
+- What is [Matemaattiset aineet - Fysiikka ja kemia - 2. vsk](course) called
+- What is the course code [Asiantuntijan puheviestintä ja vuorovaikutus opetus- ja kasvatustyössä (4. periodi)](course) called
+- What course is [Tieteellinen kirjoittaminen](course)
+- [Development, Education and Lifecourse](course) named
+- What's [Terveys ja yhteiskuntapolitiikka](course) named
+- Name of [Master's Thesis Seminar (2nd year students)](course)
+- Tell me the name of [Poliittiset ongelmat ja niiden muuttuvat kontekstit (kirjatentti)](course)
+- Say the name of [Johdatus kirjallisuuden poetiikkaan](course)
+- The whole name of [Kandidaattiseminaari](course)
+- [Games and Internet in Society](course) full name
+- [Education in Developing Countries: Problems and Possible Solutions - Seminar](course) entire name
+- [Lähtötasokoe / Schwellentest](course) whole name
+- [Empiiristen tutkimusmenetelmien yleisesitykset (kirjatentti/essee)](course) meaning
+- What does [Research Methods in HTI](course) mean
+- What means [Cultural Conversations](course)
+- I want to know what [Julkisen talousjohtamisen tietojärjestelmät](course) means
+- I want to know what [Vertaisohjaus tietojenkäsittelytieteissä (kevät)](course) actually means
+- What is the meaning of [Tekstiklinikka tutkielman kirjoittajille](course)
+- [Tekstiklinikka tutkielman kirjoittajille](course) meaning
+- True name of [Lukeminen ja kirjoittaminen oppimisen haasteena - (luennot)](course)
+- Real name of [Tutkimusasetelman menetelmällinen rakentuminen tohtoriopinnoissa - Dialogipajat](course)
+- Which course is [Fundamentals of Human-Technology Interaction (Tampere Summer School 2018)](course)
+- What [TECHS3(course) means
+- I want to know what [Eriytyvä syventävä tutkimusmenetelmäkurssi A: Design-tutkimus](course) stands for
+- I want to know the full name of course code [Syntaxe du français/ Ranskan syntaksi](course)
+- I want to know the whole name of [A seminar on theoretical social research: Schmitt, Arendt, and The Political](course)
+- I want to know the name of [Hydrogel Journal Club](course)- What is the name of [Representations and Identities](course)
+- [Liike- ja työsopimukset](course) name
+- [Venäjä II](course) name is
+- [Asiantuntijuus ja tietopalvelujen kehittäminen](course) name full
+- [Institutions, Innovation and Economic Renewal](course) complete name
+- [Internship or work placement](course) name actual
+- [Kasvatustieteen metodologiset lähtökohdat, kirjatentti, Pori](course) whole name
+- What is name [Makrotalousteorian jatkokurssi II](course)
+- The name of [Foundations of English Business Communication](course)
+- Name [Introduction to computational biology](course)
+- What is the full name of [NEDIS tohtorikoulutusseminaari (Lasten ja nuorten terveyden edistämisen tutkimus)](course)
+- What is [Työhyvinvointi](course) called
+- What is the course code [POISTA TÄMÄ! Solun biologian perusteet](course) called
+- What course is [Julkissektorin instituutioiden talous (monimuoto-opetus)](course)
+- [Opetus, ohjaus, oppiminen - Luennot (1 op) EDUn opiskelijoille TAI luennot (1 op) ja kirjatentti (4 op) opintojakson valinnaisena suorittaville](course) named
+- What's [Yhteiskunnan mittaaminen](course) named
+- Name of [Statistical Inference 1](course)
+- Tell me the name of [Introduction to Formal Specification](course)
+- Say the name of [The Employment Protection in Russia](course)
+- The whole name of [Orientaatiopäivä väitöskirjatutkijoille](course)
+- [Methods in Text and Discourse Analysis](course) full name
+- [Työn taloustiede](course) entire name
+- [Environmental History and Cultural Ecology of Russia (VENS20)](course) whole name
+- [Kandidaattiseminaari ja tutkielma (taloustiede) - syksy 2018](course) meaning
+- What does [Oppimisyhteisöt ja vuorovaikutus, kirjatentti, Seinäjoki](course) mean
+- What means [Asiantuntemus ja arjen ympäristöpolitiikka](course)
+- I want to know what [Kielen kehitys / Harjoitukset - 2.vsk + 1.vsk ryhmät 6 ja 7](course) means
+- I want to know what [Comparative Education - book exam](course) actually means
+- What is the meaning of [Ranska II](course)
+- [Vahinkoriskien vakuuttaminen](course) meaning
+- True name of [Tieteellinen kirjoittaminen](course)
+- Real name of [Comparative Research in Social Policy](course)
+- Which course is [Varhaiskasvatuksen pedagogiikka ja opetussuunnitelmatyö / Luennot - 2.vsk + 1.vsk ryhmät 6 ja 7](course)
+- What [TECHS3(course) means
+- I want to know what [Introduction to Academic English (online / JKK, EDU, LUO, COMS & SOC)](course) stands for
+- I want to know the full name of course code [Dialogue: Constructive Talk at Work](course)
+- I want to know the whole name of [Rahoitusoikeus](course)
+- I want to know the name of [Tutkimustyötä tukevat tohtoriopinnot (tietojenkäsittelyoppi)](course)- What is the name of [Kielen opettaminen / Fremdsprachenlehren](course)
+- [Quantitative Research Methods and Comparative Research Design (only COSOPO students)](course) name
+- [Saksa I](course) name is
+- [Oppimispelien käyttö ja evaluaatio](course) name full
+- [Valinnainen jakso: Tiedeviestinnän projekti](course) complete name
+- [Asiantuntijan puheviestintä ja vuorovaikutus (3. periodi)](course) name actual
+- [Tilastomenetelmien perusteet, iltaryhmä](course) whole name
+- What is name [Terveystieteiden laadulliset tutkimusmenetelmät, hoitotieteen opiskelijoille](course)
+- The name of [Sukupuolentutkimus](course)
+- Name [Terveystiedon asiantuntijuus (sähköinen tentti)](course)
+- What is the full name of [Tiedonhankintataidot - Tiedonhankintataidot IV - Viitteiden hallinta (hoitotieteen opiskelijoille)](course)
+- What is [Introduction to Academic English (JKK, EDU, LUO, COMS & SOC) online](course) called
+- What is the course code [Tulkkauksen teoria](course) called
+- What course is [Gene Expression](course)
+- [Sisäinen valvonta ja sisäinen tarkastus](course) named
+- What's [BMT-61227 Medical Biomaterials](course) named
+- Name of [Institutions, Innovation and Economic Renewal (NORDIG)](course)
+- Tell me the name of [Variety in Present-day English](course)
+- Say the name of [Liikunta - Liikuntapedagogiikka perusopetuksessa A - 2. vsk](course)
+- The whole name of [Conflicts over the Use of Natural Resources and the Environment](course)
+- [Todennäköisyyslaskenta](course) full name
+- [Orientation - General Orientation Course for International Students](course) entire name
+- [Perintö-, lahja- ja varainsiirtoverotus](course) whole name
+- [Orientaatiopäivä väitöskirjatutkijoille](course) meaning
+- What does [EU External Relations: Security, Economy and Values (book exam/essay)](course) mean
+- What means [Personal Study Planning](course)
+- I want to know what [Tekoälyn filosofia](course) means
+- I want to know what [Rekisteritutkimukset](course) actually means
+- What is the meaning of [Tieteellinen kirjoittaminen](course)
+- [Tietotekniikkataidot (syksy)](course) meaning
+- True name of [Nuorisotyön harjoittelu](course)
+- Real name of [Advanced English Business Communication](course)
+- Which course is [Kulutuksen ja ostokäyttäytymisen teoria](course)
+- What [TECHS3(course) means
+- I want to know what [Advanced Project Studies](course) stands for
+- I want to know the full name of course code [Filosofian työpaja](course)
+- I want to know the whole name of [Romanian kielen jatkokurssi I / Advanced Course 1 in Romanian](course)
+- I want to know the name of [Euroopan integraation teoria ja ulkosuhteet (kirjatentti/essee)](course)- What is the name of [Poliittiset ongelmat ja niiden muuttuvat kontekstit (kirjatentti)](course)
+- [Orientoivat ja asiantuntijuuden kehittymistä tukevat opinnot - HOPS-työskentely](course) name
+- [Introduction to Academic English (JKK, EDU, LUO, COMS & SOC)](course) name is
+- [Foundations of English Business Communication (RPL) / näyttökoe](course) name full
+- [Creative Writing in English](course) complete name
+- [Kommunikationstraining I](course) name actual
+- [Tutkimustyön perusteet - b) Tutkimusmenetelmät](course) whole name
+- What is name [Lasten ja nuorten neuropsykologien kuntoutus](course)
+- The name of [Kandidaatin tutkielma ja seminaari (kurssi alkanut keväällä 2018 Hoitotieteen opiskelijoille)](course)
+- Name [Talous - politiikka - kulttuuri -lukupiiri](course)
+- What is the full name of [Environmental History and Cultural Ecology of Russia (VENS20)](course)
+- What is [Musiikin tiedolliset valmiudet ja niiden soveltaminen - Musiikkitieto](course) called
+- What is the course code [Eriytyvä syventävä tutkimusmenetelmäkurssi A: Kyselyaineiston analysointi](course) called
+- What course is [Liiketoimintaosaamisen kokonaisdynamiikka ja sen ohjaaminen - VIBU-yritysstimulaatio](course)
+- [Johdatus kääntäjän suomen opintoihin](course) named
+- What's [Kansainvälinen talous](course) named
+- Name of [Tekstitaidot](course)
+- Tell me the name of [Practical Observation and Reflection of ECEC - Observation, written tasks, report](course)
+- Say the name of [International Business Law](course)
+- The whole name of [Tuutorivastaavana toimiminen](course)
+- [Feministiset politiikat ja asiantuntijuus](course) full name
+- [Liiketoimintaosaamisen kokonaisdynamiikka ja sen ohjaaminen - VIBU-yritysstimulaatio](course) entire name
+- [Foundations of Ecological Economics](course) whole name
+- [Basics I: Basics of Czech language I](course) meaning
+- What does [Orientoivat opinnot - Tiedonhankintataidot I (MTT)](course) mean
+- What means [Tragedy of the Commons? Problems and Solutions](course)
+- I want to know what [Ruotsin kielen kirjallinen ja suullinen viestintä](course) means
+- I want to know what [Varhaismoderni yhteiskunta](course) actually means
+- What is the meaning of [Terveystieteiden laadulliset tutkimusmenetelmät](course)
+- [Todennäköisyyslaskenta](course) meaning
+- True name of [Kvantitatiivinen tutkimus kasvatustieteissä - Harjoitukset, luokanop.](course)
+- Real name of [SGN-53007 Computational Diagnostics](course)
+- Which course is [Aikuiskasvatus ja työelämä, kirjatentti, Pori](course)
+- What [TECHS3(course) means
+- I want to know what [Yhtiöoikeus](course) stands for
+- I want to know the full name of course code [Opetus, ohjaus, oppiminen, verkko-opetus](course)
+- I want to know the whole name of [POISTA TÄMÄ! Solun biokemia ja  molekyylibiologia](course)
+- I want to know the name of [Systems biology methods](course)- What is the name of [Tutkimus ja teoria](course)
+- [Taloustieteen matematiikka I](course) name
+- [Johdatus tilastotieteeseen](course) name is
+- [Julkisen talousjohtamisen klassikkoteokset (kirjallinen tentti)](course) name full
+- [Ekoterveys, luonto ja ihminen](course) complete name
+- [Maisteriopintojen esittely -  SDE](course) name actual
+- [Tila, teknologia ja toiminta: Lukuseminaari: Julkinen toiminta teknoyhteiskunnassa](course) whole name
+- What is name [Radio Project](course)
+- The name of [Liiketoimintaosaamisen kokonaisdynamiikka ja sen ohjaaminen - VIBU-yritysstimulaatio](course)
+- Name [Foundations of English Business Communication](course)
+- What is the full name of [Sukukieli: norska](course)
+- What is [Käytännön opetus ja ohjaus - STYA3B1 Taitoseminaari](course) called
+- What is the course code [Poliittiset aatteet ja ideologiat (kirjatentti)](course) called
+- What course is [Kokemuksen historia: tavoitteet ja menetelmät](course)
+- [Introduction to Academic English (JKK, EDU, LUO, COMS & SOC) online](course) named
+- What's [Musiikin perusteet / Harjoitukset - 1.vsk](course) named
+- Name of [Toimintatutkimus hyvinvointipalvelujen kehittämisessä](course)
+- Tell me the name of [Internationalisation in Education - (Tampere Summer School 2018)](course)
+- Say the name of [Kasvatuksen ja koulutuksen järjestelmät](course)
+- The whole name of [Lokalisoinnin peruskurssi](course)
+- [Games and Internet in Society](course) full name
+- [Postcolonial Literature](course) entire name
+- [Johdatus yrittäjyyteen](course) whole name
+- [KV-tuutorina toimiminen](course) meaning
+- What does [Kandidaattiseminaari ja tutkielma (markkinointi) - kevät 2019](course) mean
+- What means [Ruotsin kielen kirjallinen ja suullinen viestintä / AHOT (näyttökoe)](course)
+- I want to know what [Ranskan yhteiskunta II/Société française II](course) means
+- I want to know what [Perhe ja tunteet](course) actually means
+- What is the meaning of [OASIS Key Master 2018-2019](course)
+- [Moniulotteinen markkinointi](course) meaning
+- True name of [Practical Programming in Python](course)
+- Real name of [Human-Centered Product Development (TUT/IHTE)](course)
+- Which course is [Perehdyttäminen tietotekniikan alkeisiin (kevät)](course)
+- What [TECHS3(course) means
+- I want to know what [Kvantitatiivinen tutkimus kasvatustieteissä - Harjoitukset, yhteinen avoimen ja tutkinto-op. ryhmä](course) stands for
+- I want to know the full name of course code [Vakuutustoiminnan periaatteet ja johtaminen](course)
+- I want to know the whole name of [Cancer Biology](course)
+- I want to know the name of [Tutkielmaseminaari - Seminaari](course)- What is the name of [Eheyttävä musiikkikasvatus / Harjoitukset - 2.vsk](course)
+- [Current and Future Challenges of World Politics and Economy (POMLFCS3)](course) name
+- [Lapset kehittyvinä ja sosiaalisina toimijoina varhaiskasvatuksessa / Luennot - 1.vsk](course) name is
+- [Talous ja yhteiskunta](course) name full
+- [User Experience in Robotics (TUT/IHTE)](course) complete name
+- [Tila, teknologia ja toiminta](course) name actual
+- [Kansainvälisen politiikan johdantokurssi (tutkinto-ohjelman opiskelijat)](course) whole name
+- What is name [Representations and Identities - kirjatentti/essee](course)
+- The name of [Tiedonhankintataidot - Tiedonhankintataidot IV - Viitteiden hallinta (hoitotieteen opiskelijoille)](course)
+- Name [Tekninen kirjoittaminen (suomi)](course)
+- What is the full name of [Markkina- ja immateriaalioikeus](course)
+- What is [Leikki kulttuurisena, kehityksellisenä ja pedagogisena ilmiönä / Luennot - 1.vsk](course) called
+- What is the course code [Kielen kehitys](course) called
+- What course is [Nordic Model: Nordic Welfare Societies](course)
+- [Perusharjoittelu B - Ohjattu opetusharjoittelu](course) named
+- What's [Orientation - Orientation to studying in the Software Development programme](course) named
+- Name of [Master's Thesis Seminar / Internet and Game Studies](course)
+- Tell me the name of [Paikallisen hallinnan teoriat - Lukupiiri](course)
+- Say the name of [Rakenteinen dokumentaatio ja DITA](course)
+- The whole name of [Pratiques de l'écrit: méthodes et techniques d'expression écrite/Kirjoitusharjoituksia: kirjallisen esityksen metodit ja tekniikka](course)
+- [Macroprudential Policy and Financial Stability](course) full name
+- [Opetus, ohjaus, oppiminen - Luokanopettajaopiskelijat: Pienryhmäopetus ja siihen liittyvä harjoittelu (2 op) ja kirjallisuus (2 op)](course) entire name
+- [Tutkielmaseminaari - Seminaari](course) whole name
+- [Studia generalia: Lastenkirja kääntäjän kädessä](course) meaning
+- What does [Literary Theory and Methodology](course) mean
+- What means [Filosofian työpaja](course)
+- I want to know what [Visuaalisen journalismin perusteet, luennot](course) means
+- I want to know what [Tieteellinen kirjoittaminen](course) actually means
+- What is the meaning of [Agenda-Setting in Public Policy (POMLFCS1)](course)
+- [BMT-61227 Medical Biomaterials](course) meaning
+- True name of [Biologia ja ympäristötieto - Biologian kenttäkurssi - 2. vsk (1-2. ryhmät Hyytiälä)](course)
+- Real name of [Cultural Diversity in Education and at Work -  (autumn)](course)
+- Which course is [Current and Future Challenges of World Politics and Economy (POMLFCS3)](course)
+- What [TECHS3(course) means
+- I want to know what [Kasvatus tieteellisen tutkimuksen kohteena - verkko-opetus, I-periodi](course) stands for
+- I want to know the full name of course code [Erot, jaot ja niiden rakentuminen, kirjatentti, Seinäjoki](course)
+- I want to know the whole name of [Budgeting and capital budgeting (online course)](course)
+- I want to know the name of [Talouselämän käännösviestinnän seminaari venäjä-suomi](course)- What is the name of [Kielen opettaminen / Fremdsprachenlehren](course)
+- [Työeläkejärjestelmät](course) name
+- [Management and organizations I (literature)](course) name is
+- [Tietokäytännöt (keväällä 2018 perusopinnot aloittaneille) - verkkokurssi](course) name full
+- [Sosiaalisen median yhteisöt: menetelmällisiä ratkaisuja määrällisestä laadulliseen](course) complete name
+- [Asiantuntijan puheviestintä ja vuorovaikutus sosiaali- ja terveysalalla (1. periodi)](course) name actual
+- [Yksilön työhyvinvointi](course) whole name
+- What is name [Asiakirjatiedon normivaatimukset](course)
+- The name of [Writing for Research](course)
+- Name [Kehitys, kasvatus ja elämänkulku - Pienryhmät 1 op ja kirjallisuus 2 op (EDUn tutkinto-opiskelijat, aineenop.opiskelijat, avoin yo/lähiopetus)](course)
+- What is the full name of [Orientoivat ja asiantuntijuuden kehittymistä tukevat opinnot - HOPS-työskentely](course)
+- What is [Studia generalia: Lastenkirja kääntäjän kädessä](course) called
+- What is the course code [Pedagoginen kehittäminen ja johtajuus / Harjoitukset - 3.vsk + 2.vsk ryhmä 4](course) called
+- What course is [SGN-53007 Computational Diagnostics](course)
+- [Writing Research Grant Proposals](course) named
+- What's [Ruotsin kielen kirjallinen ja suullinen viestintä](course) named
+- Name of [Ranska II](course)
+- Tell me the name of [Kansainvälisen oikeuden peruskurssi](course)
+- Say the name of [Suullinen viestintä I/Muntlig kommunikation I](course)
+- The whole name of [Nuorisotyön ja nuorisotutkimuksen maisteriohjelman lähijakso 10.-11.1.2019](course)
+- [Tendances de la littérature française moderne/Ranskalaisen nykykirjallisuuden suuntauksia](course) full name
+- [Tutkimusseminaari ja pro gradu -tutkielma - Tutkimusseminaari](course) entire name
+- [Master´s Thesis and Seminar - for the group that started in 2018](course) whole name
+- [Tiedonhankintataidot - Tiedonhankintataidot III -  Systemaattinen tiedonhankinta (hoitotieteen opiskelijoille)](course) meaning
+- What does [Fonetiikan perusopintojen harjoitustyö](course) mean
+- What means [Orientation and Study Planning](course)
+- I want to know what [Musiikin tiedolliset valmiudet ja niiden soveltaminen - Kuuntelukasvatus](course) means
+- I want to know what [Advanced Microscopy](course) actually means
+- What is the meaning of [Political Systems (book exam/essay)](course)
+- [Teaching, Pedagogical Facilitating, Learning](course) meaning
+- True name of [Introduction to Bayesian Analysis 2](course)
+- Real name of [Yritysjuridiikan case-kurssi](course)
+- Which course is [Valinnainen jakso: Audiovisuaalisen kerronnan teoria ja dramaturgia](course)
+- What [TECHS3(course) means
+- I want to know what [Finnish Elementary Course 2 (taught in 4. period)](course) stands for
+- I want to know the full name of course code [Antiikin ja keskiajan ryhmä](course)
+- I want to know the whole name of [Kauppatieteellisen tutkimuksen menetelmät (vakuutus ja riskienhallinta + laskentatoimi)](course)
+- I want to know the name of [Requirements Engineering](course)- What is the name of [Regression analysis](course)
+- [Näkökulmia kääntämiseen - Johdatus käännösprosessiin](course) name
+- [Johtamisen ja organisaatioiden perusteet](course) name is
+- [Näkökulmia kääntämiseen - Tekstin ymmärtäminen](course) name full
+- [Studia generalia: Lastenkirja kääntäjän kädessä](course) complete name
+- [Tiedonhaun perusteet](course) name actual
+- [Ethnographic Research](course) whole name
+- What is name [Ylirajallinen liikkuminen Itämerellä: Suomenlahden alueet kautta aikojen -verkkokurssi](course)
+- The name of [Journalismin tulevaisuus, luennot](course)
+- Name [Musiikin perusteet / Harjoitukset - 1.vsk](course)
+- What is the full name of [Näkökulmia kääntämiseen - Kääntäminen viestinnällisenä asiantuntijatehtävänä / Perspektiven auf Übersetzen](course)
+- What is [Maisteriopintojen opintosuuntiin johdattava kirjallisuus](course) called
+- What is the course code [Kandidaattiseminaari](course) called
+- What course is [Finnish Survival Course (Tampere Summer School 2018)](course)
+- [Tilastotieteen perusteet](course) named
+- What's [Valinnainen jakso: Tiedeviestinnän käytänteet](course) named
+- Name of [Kulutuksen ja ostokäyttäytymisen teoria](course)
+- Tell me the name of [Sosiaalityö terveydenhuollossa](course)
+- Say the name of [Hydrogel Journal Club](course)
+- The whole name of [Liikekirjanpito ja tilinpäätös](course)
+- [Kandidaattiseminaari](course) full name
+- [Espanja III](course) entire name
+- [Diskutera som specialist](course) whole name
+- [Finlaysonin kielimaailmat](course) meaning
+- What does [Kognitiivinen neurotiede I (avoin yliopisto)](course) mean
+- What means [Psykologian tutkimusmenetelmät II: kokeellinen ja korrelatiivinen tutkimus](course)
+- I want to know what [Maisteriopintojen esittely - HTI (in Finnish)](course) means
+- I want to know what [Valtiosääntöoikeuden syventävä jakso](course) actually means
+- What is the meaning of [Rakenneyhtälömallinnus kasvatustieteellisessä tutkimuksessa](course)
+- [Johdatus historiantutkimukseen (verkkokurssi)](course) meaning
+- True name of [KEB-61410 Laaja kemia 1](course)
+- Real name of [Kaupungistuva maailma: Kaupungit ja kaupunkilaisuus 1800-luvulta nykypäivään](course)
+- Which course is [Verkkojulkaiseminen](course)
+- What [TECHS3(course) means
+- I want to know what [Kuvataide - 2. vsk ja opinnot 1½ lukuvuodessa suorittavat  1.vsk ja POM-opintoihin opinto-oikeuden saaneet opiskelijat](course) stands for
+- I want to know the full name of course code [Politiikan tutkimuksen kandidaatintutkielma ja -seminaari](course)
+- I want to know the whole name of [Terveystiedon perusteet](course)
+- I want to know the name of [Julkisen talousjohtamisen näkökulmia](course)- What is the name of [Etnografinen tutkimusprosessi](course)
+- [Aluetalous ja kaupunkitalous](course) name
+- [Conflict Resolution (book exam/essay)](course) name is
+- [Transcultural perspectives in developing media education](course) name full
+- [Matemaattiset aineet - Koulugeometria - 2 vsk](course) complete name
+- [Understanding and Managing a Business as a Dynamic Whole - VIBU Business Simulation Game](course) name actual
+- [Ainedidaktiikka I](course) whole name
+- What is name [Orientoivat opinnot ja HOPS (kirjallisuustiede)](course)
+- The name of [Tekstianalyysi - Luennot](course)
+- Name [Antiikin ja keskiajan ryhmä](course)
+- What is the full name of [Theatre, Society, and Politics 1660-1760](course)
+- What is [EU Financial Management](course) called
+- What is the course code [PhD by publication: writing integrative chapter](course) called
+- What course is [Conflicts over the Use of Natural Resources and the Environment](course)
+- [Geometria](course) named
+- What's [Suunnittelu ja kehittäminen hoitotyön johtamisessa](course) named
+- Name of [Sosiaalioikeus I](course)
+- Tell me the name of [Graduvauhditus](course)
+- Say the name of [Medioitu vuorovaikutus](course)
+- The whole name of [Tutkimusseminaari ja pro gradu -tutkielma](course)
+- [Vakuutustoiminnan periaatteet ja johtaminen](course) full name
+- [Tissue biology](course) entire name
+- [Espanja I](course) whole name
+- [Kansallisen ja Euroopan tason vuorovaikutus (kirjatentti/essee)](course) meaning
+- What does [Ranska IV](course) mean
+- What means [Business Ethics (Independent study)](course)
+- I want to know what [Introduction to R (Tampere Summer School 2018)](course) means
+- I want to know what [Monikulttuurinen kirjallisuus Suomessa](course) actually means
+- What is the meaning of [Valtio-opin johdantokurssi (kirjatentti)](course)
+- [Vero-oikeuden perusteet](course) meaning
+- True name of [Shakespeare: Past and Present](course)
+- Real name of [Sosiaalityön vuorovaikutuksen tutkimus - Sosnet-verkkokurssi](course)
+- Which course is [Kasvatuksen historialliset ja filosofiset lähtökohdat - Luennot ja kirjallisuus](course)
+- What [TECHS3(course) means
+- I want to know what [Puhe- ja nielemistoimintojen tutkimus ja kuntoutus](course) stands for
+- I want to know the full name of course code [Pedagoginen harjoittelu/Elinikäinen oppiminen ja kasvatus, aikuiskoulutuksen opettajan pedagogiset opinnot - Pedagoginen seminaari ja harjoittelu](course)
+- I want to know the whole name of [Finnish Elementary Course 1 (taught in 1. & 2. period)](course)
+- I want to know the name of [Fonetiikan ja yleisen kielitieteen perusteet - Fonetiikka](course)- What is the name of [Käännösviestintä I - Käännösviestintä I englanti-suomi](course)
+- [Tutkimusseminaari ja pro gradu -tutkielma](course) name
+- [Matematiikan peruskäsitteitä](course) name is
+- [Tilintarkastus I](course) name full
+- [Sosiaalitieteiden kvalitatiiviset tutkimusmenetelmät (verkkokurssi)](course) complete name
+- [Tieteellinen kirjoittaminen / COMS (kirjallisuuden opiskelijoille)](course) name actual
+- [Mediatutkimuksen valinn. jakso: Ääni, teknologia ja kulttuuri](course) whole name
+- What is name [Kielitieto ja -taito - Käännös-, rakenne- ja sanastoharjoitukset II  Sprachwissen und Sprachfertigkeiten: Kontrastive Text- und Wortschatzübungen](course)
+- The name of [Oppimisyhteisöt ja vuorovaikutus, kirjatentti, Pori](course)
+- Name [Management Accounting and Human Behaviour](course)
+- What is the full name of [Tutkiva opiskelu](course)
+- What is [Rekisteritutkimukset](course) called
+- What is the course code [Konfliktinratkaisu (kirjatentti/essee)](course) called
+- What course is [Oppimisyhteisöt ja vuorovaikutus - Luennot ja seminaari (klk) TAI luennot ja kirjallisuus (klk) TAI kirjallisuus (slk ja klk)](course)
+- [Graduseminaari, jatkava (Niemi)](course) named
+- What's [Business Writing](course) named
+- Name of [Kuntien ja alueiden kansainväliset hallintasuhteet](course)
+- Tell me the name of [Johdatus kielitieteeseen / Initiation à la linguistique](course)
+- Say the name of [Kansainvälisen politiikan teoria ja metateoria (kirjatentti)](course)
+- The whole name of [Strategic Management Accounting and Control](course)
+- [Liiketoimintaosaamisen kokonaisdynamiikka ja sen ohjaaminen - VIBU-yritysstimulaatio](course) full name
+- [Median ja politiikan välinen suhde](course) entire name
+- [Matemaattiset aineet - Fysiikka ja kemia - 2. vsk](course) whole name
+- [Riskienhallinta- ja vakuutuscaset](course) meaning
+- What does [Liikekirjanpito ja tilinpäätös (avoin yliopisto-opetus)](course) mean
+- What means [Development, Education and Lifecourse](course)
+- I want to know what [Genetics and Pathogenesis of Common Killers](course) means
+- I want to know what [Venäjän kielen rakenne - Tekstin ymmärtäminen II](course) actually means
+- What is the meaning of [Emotions and Sociality in Human-Technology Interaction](course)
+- [Lesen, Verstehen, Schreiben](course) meaning
+- True name of [Työelämävalmiudet ja asiantuntijuus - valmennusseminaari ja palautekeskustelu](course)
+- Real name of [Tutkimusetiikka](course)
+- Which course is [Advanced Course in Microeconomics I](course)
+- What [TECHS3(course) means
+- I want to know what [Biostatistiikka ja tilastollinen tietojenkäsittely](course) stands for
+- I want to know the full name of course code [Seminaari I, kandidaatintutkielma ja kypsyysnäyte / Bachelor-Seminar, Bachelorarbeit und Klausur zum Thema der Arbeit](course)
+- I want to know the whole name of [Kandidaattitutkielma ja seminaari (matematiikka) - LaTeX-opinnot](course)
+- I want to know the name of [Games and Internet in Society](course)- What is the name of [Tekoäly ja vakuutustoiminta](course)
+- [Kvalitatiiviset menetelmät](course) name
+- [Nuorisotyön ja nuorisotutkimuksen maisteriohjelman lähijakso 3.-4.10.2018](course) name is
+- [Verkkopalvelujen informaatioarkkitehtuuri](course) name full
+- [Valinnainen jakso: Valokuva historian tekijänä - luennot](course) complete name
+- [Proseminaari](course) name actual
+- [Political Ideologies (book exam)](course) whole name
+- What is name [Orientoivat opinnot - Alkuorientaatio](course)
+- The name of [Bioinformatics tools (autumn 2018)](course)
+- Name [Sukupuolen ja ruumiillisuuden tutkimuksen nykykeskustelut](course)
+- What is the full name of [Lehti- ja verkkojournalismi](course)
+- What is [Äidinkieli ja kirjallisuus - Lasten- ja nuortenkirjallisuus  -1. vsk ensijaisesi opinnot 1½ lukuvuodessa suorittavat 1.vsk lo-opiskelijat ja kaikkki erillisen opinto-oikeuden POM-opintoihin saaneet opiskelijat](course) called
+- What is the course code [Viron peruskurssi](course) called
+- What course is [Vakuutuslaitosten sijoitustoiminta](course)
+- [Terveys, tieto, asiantuntijuus](course) named
+- What's [Medical English - Introduction to Scientific Writing (RPL) / näyttökoe](course) named
+- Name of [Vakuutuksen ja riskienhallinnan erikoistumisosa](course)
+- Tell me the name of [Kandidaattitutkielma ja seminaari (tilastotiede)](course)
+- Say the name of [Viron jatkokurssi](course)
+- The whole name of [Ulko- ja turvallisuuspoliittinen päätöksentekoharjoitus](course)
+- [Kirjallinen viestintä II/Skriftlig kommunikation II](course) full name
+- [Sote ja sosiaalipolitiikka](course) entire name
+- [Organisaatiokäyttäytyminen (itsenäinen suoritustapa, syksy 2018)](course) whole name
+- [Kasvatuksen historialliset ja filosofiset lähtökohdat, verkko-opetus](course) meaning
+- What does [Environmental History and Cultural Ecology of Russia (VENS20)](course) mean
+- What means [ATLAS.ti laadullisen analyysin tukena](course)
+- I want to know what [Espanjan kielioppi II/Gramática española II](course) means
+- I want to know what [Kuntien ja alueiden kansainväliset hallintasuhteet](course) actually means
+- What is the meaning of [Lasten oikeuspsykologia](course)
+- [Terveydenhuollon koulutuspolitiikka](course) meaning
+- True name of [Media maailmassa - verkkokurssi](course)
+- Real name of [Henkilöstöjohtaminen](course)
+- Which course is [Latinan jatkokurssi](course)
+- What [TECHS3(course) means
+- I want to know what [Kuvanprosessointi / Digital Image Processing](course) stands for
+- I want to know the full name of course code [Käännösten suomi](course)
+- I want to know the whole name of [Valinnainen jakso: Valokuva historian tekijänä - työpaja](course)
+- I want to know the name of [Terveyden edistämisen perusteet](course)- What is the name of [Taloustiede, talouspolitiikka ja ajankohtaiset taloudelliset ja yhteiskunnalliset ongelmat](course)
+- [Cultural Conversations](course) name
+- [Laaja-alaistava harjoittelu - Ohjattu opetusharjoittelu](course) name is
+- [Kandidaattiseminaari (Nenonen)](course) name full
+- [Pedagoginen johtaminen - Luennot ja ryhmätyöskentely](course) complete name
+- [Business, Society and Nature (Independent study) Autumn 2018](course) name actual
+- [Liikuntapedagogiikka varhaiskasvatuksessa / Harjoitukset - 2.vsk](course) whole name
+- What is name [Latinan kielen alkeiskurssi](course)
+- The name of [Distributed Systems](course)
+- Name [Management Accounting and Human Behaviour](course)
+- What is the full name of [Urban Inequalities](course)
+- What is [Julkistalouden jatkokurssi](course) called
+- What is the course code [Opetus, ohjaus, oppiminen (toteutus aineenopettajan pedagogisia opintoja lukuvuonna 2018-2019 suorittaville)](course) called
+- What course is [Harjoittelu / Elinikäinen oppiminen ja kasvatus, Essee työkokemuksen pohjalta, klk19](course)
+- [Kielen kehitys](course) named
+- What's [The Theory and Method of International Relations (seminar) (book exam)](course) named
+- Name of [Perusharjoittelu A - Ohjattu opetusharjoittelu](course)
+- Tell me the name of [Tulevaisuuden hyvinvointipalvelut: ratkaisuna robotiikka?](course)
+- Say the name of [Kasvatus, koulutus ja yhteiskunta, verkko-opetus](course)
+- The whole name of [Kansainvälisen politiikan teoria ja metateoria (kirjatentti)](course)
+- [Valtio-opin maisteriseminaari](course) full name
+- [Matematiikkakasvatus / Harjoitukset - 2.vsk + 1.vsk ryhmät 6 ja 7](course) entire name
+- [History, Culture and Literature: Culture and Literature](course) whole name
+- [Eheyttävä musiikkikasvatus - Musiikkiteknologia](course) meaning
+- What does [Kvalitatiivinen tutkimus kasvatustieteissä - Harjoitukset, yleinen ryhmä](course) mean
+- What means [Tekstianalyysi - Harjoitukset](course)
+- I want to know what [Valinnainen jakso: Työpaja: Tulevaisuuden kaupunki](course) means
+- I want to know what [Työyhteisöjen muutos ja kehittäminen](course) actually means
+- What is the meaning of [Poliittinen filosofia (kirjatentti/essee)](course)
+- [Developing and implementing European Public Sector Accounting modules](course) meaning
+- True name of [Työelämäviestinnän tutkimus- tai kehityshanke](course)
+- Real name of [Kielioppi II (suomenkieliset opiskelijat)](course)
+- Which course is [Monikieliset tekstikorpukset (verkkokurssi)](course)
+- What [TECHS3(course) means
+- I want to know what [Pro gradu -seminaari ja -tutkielma](course) stands for
+- I want to know the full name of course code [Laajentava harjoittelu](course)
+- I want to know the whole name of [Oikeus ja politiikka](course)
+- I want to know the name of [Managing Research Information](course)- What is the name of [Orientation - General Orientation Course for International Students](course)
+- [Lasten arki suomalaisessa yhteiskunnassa / Harjoitukset - 1.vsk](course) name
+- [Oppimisyhteisöt ja vuorovaikutus, kirjatentti](course) name is
+- [Asiakirjatiedon normivaatimukset](course) name full
+- [Human-Technology Interaction Project Work](course) complete name
+- [Sosiaaliantropologian teoreettinen ajattelu](course) name actual
+- [Tiedon organisointi ja informaatioarkkitehtuuri](course) whole name
+- What is name [Introduction to Cultural Psychology](course)
+- The name of [Jatkokoulutusseminaari](course)
+- Name [Journalism Start-Ups and Enterpreneurialism](course)
+- What is the full name of [Tutkimustyötä tukevat tohtoriopinnot - Doctoral Studies in Information Studies and Interactive Media](course)
+- What is [Saksankielinen nykykirjallisuus / Deutschsprachige Gegenwartsliteratur](course) called
+- What is the course code [Kuvataidekasvatus / Luennot - 2.vsk](course) called
+- What course is [Nuorisotyön toimintaympäristöt, työmuodot ja menetelmät](course)
+- [Puolueet ja vaalit (kirjatentti/essee)](course) named
+- What's [Knowledge Discovery](course) named
+- Name of [Yrityksen taloustieteellisen tutkimuksen perusteet](course)
+- Tell me the name of [Parametric and Non-Parametric Statistics](course)
+- Say the name of [Erot, jaot ja niiden rakentuminen, kirjatentti, Seinäjoki](course)
+- The whole name of [Innovation Project (Spring term 2018-III)](course)
+- [Tilastollisen tutkimuksen perusteet](course) full name
+- [Draama - 2 vsk opinnot ja  1½ lukuvuodessa suorittavat 1.vsk ja POM-opintoihin opinto-oikeuden saaneet opiskelijat (pienryhmäopetus)](course) entire name
+- [Vuorovaikutus ja tekstit S2-näkökulmasta](course) whole name
+- [Äänne- ja muoto-oppi](course) meaning
+- What does [Sosiaalityön harjoittelu + kehittämistyön harjoittelu - STYS2B2 Harjoitteluseminaari](course) mean
+- What means [Finnish Reading Comprehension and Conversation Course 2 (taught in Finnish)](course)
+- I want to know what [Johdatus yrittäjyyteen](course) means
+- I want to know what [Työelämävalmiudet ja asiantuntijuus - valmennusseminaari ja palautekeskustelu](course) actually means
+- What is the meaning of [Vero-oikeuden case-kurssi](course)
+- [Asiantuntijan puheviestintä ja vuorovaikutus opetus- ja kasvatustyössä (3. periodi)](course) meaning
+- True name of [Julkisen hallinnon reformit ja muutos](course)
+- Real name of [Introduction to Education in Finland - Lectures, observation, essay and learning diary](course)
+- Which course is [Orientation Course - General Orientation Course for International Students](course)
+- What [TECHS3(course) means
+- I want to know what [Kansainvälinen yhteisö (kirjatentti/essee)](course) stands for
+- I want to know the full name of course code [Kirjallinen viestintä II/Skriftlig kommunikation II](course)
+- I want to know the whole name of [Seminaari (Seppänen)](course)
+- I want to know the name of [Kuluttajakäyttäytyminen](course)- What is the name of [Kirjoitusviestintä / COMS](course)
+- [Kirjallisuus ja tunteet](course) name
+- [Nuorisotyön ja nuorisotutkimuksen maisteriohjelman lähijakso 4.-5.10.2018](course) name is
+- [Feministinen tietäminen](course) name full
+- [Johtamisen ja julkisen politiikan tutkimus ja ajankohtaiset kysymykset](course) complete name
+- [Kvalitatiivinen tutkimus kasvatustieteissä - Harjoitukset, yleinen ryhmä](course) name actual
+- [Oman äänen analyysi ja harjoittaminen](course) whole name
+- What is name [Historiateoria](course)
+- The name of [Median ja politiikan välinen suhde](course)
+- Name [Valinnainen jakso: Podcastit ja äänimedian ajankohtaisjournalismi](course)
+- What is the full name of [Opintopiiri](course)
+- What is [Qualitative Research Methods and Comparative Research Design](course) called
+- What is the course code [Asiakastyön teorioita ja menetelmiä - STYA3A2 Asiakastyön menetelmät, luennot](course) called
+- What course is [Julkisoikeuden syventävä tutkimusjakso](course)
+- [Tiivistämisen taito](course) named
+- What's [Intercultural Communication](course) named
+- Name of [Practical Observation of Finnish School System for Incoming Exchange Students - Observation, written tasks, report](course)
+- Tell me the name of [Monikielinen käännöstyöpaja](course)
+- Say the name of [Tekniikan käännösviestinnän seminaari englanti-suomi](course)
+- The whole name of [Johdatus yrittäjyyteen](course)
+- [Sosiaalityön harjoittelu](course) full name
+- [Kaupungistuva maailma: Kaupungit ja kaupunkilaisuus 1800-luvulta nykypäivään](course) entire name
+- [Tieteenfilosofiaa kasvatustieteen näkökulmasta](course) whole name
+- [Kvalitatiivinen tutkimus kasvatustieteissä - Harjoitukset, yleinen ja varhaiskasv. opiskelijoiden ryhmiä](course) meaning
+- What does [Institutions, Innovation and Economic Renewal](course) mean
+- What means [Varhaiskasvatuksen ja esiopetuksen pedagogiikka - Työssäoppiminen 1.vsk:n monimuotoryhmien opiskelijoille](course)
+- I want to know what [Current Issues in Speech Communication (Puheviestintä tieteenä jatkuu)](course) means
+- I want to know what [Oppimisyhteisöt ja vuorovaikutus - Luennot ja seminaari (klk) TAI luennot ja kirjallisuus (klk) TAI kirjallisuus (slk ja klk)](course) actually means
+- What is the meaning of [Vähittäiskaupan konseptit](course)
+- [Ranskan yhteiskunta I / Société française I](course) meaning
+- True name of [Aineopintojen valinnainen jakso: Organisaatioviestintä](course)
+- Real name of [Klassinen länsimainen kertomakirjallisuus](course)
+- Which course is [Puheviestinnän tutkimuskurssi](course)
+- What [TECHS3(course) means
+- I want to know what [Tutkimustyön perusteet - c) Tutkimusmenetelmien erityiskysymyksiä](course) stands for
+- I want to know the full name of course code [Työoikeuden syventävä opintojakso](course)
+- I want to know the whole name of [Introduction to Academic English (JKK, EDU, LUO, COMS & SOC)](course)
+- I want to know the name of [Laaja-alaistava harjoittelu - Ohjattu opetusharjoittelu](course)- What is the name of [Introduction to Political Science (book exam)](course)
+- [Tietokantojen perusteet](course) name
+- [Vähittäiskaupan konseptit](course) name is
+- [Johdatus hoitotieteelliseen tutkimukseen, kirjatentti](course) name full
+- [Writing for Research](course) complete name
+- [Game Theory/Advanced Course in Microeconomics](course) name actual
+- [Kiina III](course) whole name
+- What is name [Sosiaalitieteiden kvantitatiiviset menetelmät - Luennot ja harjoitukset](course)
+- The name of [Kandidaattiseminaari ja -tutkielma (julkinen talousjohtaminen), syksy](course)
+- Name [Preparatory Course in Communicative Skills](course)
+- What is the full name of [Kandidaatintutkielmaseminaari - Seminaari](course)
+- What is [Johdatus www-tekniikoihin](course) called
+- What is the course code [Makrotalousteoria I](course) called
+- What course is [Eheyttävä temaattinen loppuprojekti - projekti/käytännön työ ja portfolio](course)
+- [Management Accounting and Human Behaviour](course) named
+- What's [Personal Study Planning](course) named
+- Name of [Eriytyvä syventävä tutkimusmenetelmäkurssi A: Kehittävän työntutkimuksen menetelmät](course)
+- Tell me the name of [Tietokäytännöt (keväällä 2018 perusopinnot aloittaneille) - verkkokurssi](course)
+- Say the name of [Romanian kielen jatkokurssi II / Advanced Course II in Romanian](course)
+- The whole name of [Writing Research Grant Proposals](course)
+- [Suomen turvallisuuspolitiikan historia ja tulevaisuus -luentosarja](course) full name
+- [Advanced Course in Corporate Finance](course) entire name
+- [Tietokantaohjelmointi](course) whole name
+- [Liikekirjanpito ja tilinpäätös (avoin yliopisto-opetus)](course) meaning
+- What does [Graduseminaari / Henttonen](course) mean
+- What means [Tutkiva opiskelu](course)
+- I want to know what [Lainvalmistelu ja vaikutusten arviointi](course) means
+- I want to know what [Ranska III](course) actually means
+- What is the meaning of [Inclusiveness in Local Innovation Environments](course)
+- [Foundations of Ecological Economics](course) meaning
+- True name of [Finnish Survival Course](course)
+- Real name of [Systemaattinen tiedonhaku hoitotieteessä](course)
+- Which course is [Vuorovaikutussuhteiden konsultointi](course)
+- What [TECHS3(course) means
+- I want to know what [Yrityksen johtamisen perusteet](course) stands for
+- I want to know the full name of course code [Seminaari (Seppänen)](course)
+- I want to know the whole name of [Harjoittelu / Varhaiskasvatus](course)
+- I want to know the name of [Master's Seminar and Thesis](course)- What is the name of [Graduseminaari, alkava (Kaarninen)](course)
+- [The Transformation of Global Environmental Politics (Tampere Summer School 2018)](course) name
+- [Behavioral Finance](course) name is
+- [Klinikkaharjoittelu](course) name full
+- [Informaatio- ja mediajärjestelmien historiaa ja nykypäivää](course) complete name
+- [Saksan kielen valmentava kurssi - Interkulturelles Training](course) name actual
+- [Täydennysilmoittautuminen pro gradu -seminaariin, syksyllä 2018 alkavat ryhmät](course) whole name
+- What is name [Politiikan tutkimuksen kandidaatintutkielma ja -seminaari](course)
+- The name of [Special Issues in Games and Internet Cultures](course)
+- Name [Orientaatio maisteriopintoihin](course)
+- What is the full name of [Fonetiikan ja yleisen kielitieteen perusteet - Fonetiikka](course)
+- What is [Lastenkirjallisuus ja draama / Harjoitukset - 3.vsk + 1.vsk ryhmät 6 ja 7](course) called
+- What is the course code [Kvantitatiivinen tutkimus kasvatustieteissä - Harjoitukset, luokanop. opiskelijat](course) called
+- What course is [Visuaalisen kulttuurin teoria - luennot ja pienryhmätyöskentely](course)
+- [Terveystieteiden laadulliset tutkimusmenetelmät, kansanterveystieteen opiskelijoille](course) named
+- What's [Recommender Systems](course) named
+- Name of [Työ- ja virkamiesoikeus](course)
+- Tell me the name of [Suullinen ja kirjallinen taito - Ääntämisharjoitukset ja tekstinymmärtäminen/Expresión oral y escrita - Pronunciación y Comprensión de textos](course)
+- Say the name of [Fonetiikan ja yleisen kielitieteen perusteet - Fonetiikka](course)
+- The whole name of [Puheen ja äänen tutkimusharjoittelu - Projekti / käytännön työ](course)
+- [Julkisoikeuden perusteet (järjestäjä TAMK)](course) full name
+- [Eettinen johtajuus](course) entire name
+- [Kasvatuksen historialliset ja filosofiset lähtökohdat, monimuoto-opetus](course) whole name
+- [Conflicts over the Use of Natural Resources and the Environment](course) meaning
+- What does [Tilastotieteen johdantokurssi, iltaryhmä](course) mean
+- What means [Tekstin ymmärtäminen III](course)
+- I want to know what [Uuden ajan alun murroksia](course) means
+- I want to know what [Kielen- ja tekstinhuolto](course) actually means
+- What is the meaning of [Yhtiöoikeus](course)
+- [Gradu-kvantimetodit](course) meaning
+- True name of [Kokeellinen, kokeileva ja kokemuksellinen sosiaalipsykologia](course)
+- Real name of [Practical Observation of Finnish School System for Incoming Exchange Students - Observation, written tasks, report](course)
+- Which course is [Professional Writing (online course)](course)
+- What [TECHS3(course) means
+- I want to know what [Media, Information and Democracy](course) stands for
+- I want to know the full name of course code [Johdatus viestintään ja mediaan - verkkokurssi](course)
+- I want to know the whole name of [Kandidaattiseminaari ja -tutkielma (hallintotiede), syksy](course)
+- I want to know the name of [Euroopan unioni ja maailma](course)- What is the name of [Kulttuurinen monimuotoisuus koulutuksessa ja työelämässä, kirjatentti, Seinäjoki](course)
+- [Algebra 1B](course) name
+- [Historian tutkimusprosessi ja historiantutkijan etiikka](course) name is
+- [Current Trends in Leadership](course) name full
+- [Kirjallinen viestintä I - Kirjallinen tuottaminen](course) complete name
+- [Interaction Techniques](course) name actual
+- [Tuutorina toimiminen](course) whole name
+- What is name [Ydinaseet ja kansainvälinen politiikka](course)
+- The name of [Kuvataiteen perusteet - 1.vsk](course)
+- Name [Musiikin tiedolliset valmiudet ja niiden soveltaminen - Harmonia ja improvisointi koskettimilla](course)
+- What is the full name of [Tutkielmaseminaari](course)
+- What is [Käännös suomi-espanja I/Traducción finés-español I](course) called
+- What is the course code [Poverty in the world: Hunger, inequalities and action](course) called
+- What course is [Stem Cells](course)
+- [Kandidaattiseminaari ja tutkielma (markkinointi) - kevät 2019](course) named
+- What's [Eriytyvä syventävä tutkimusmenetelmäkurssi A: Eläytymismenetelmä - yhdistetty Jari Eskolan graduryhmään](course) named
+- Name of [Kielioppi I/Gramática española I](course)
+- Tell me the name of [Teoria- ja metodiopinnot](course)
+- Say the name of [Kielen ja vuorovaikutuksen tutkimuksen teorioita ja sovellutuksia](course)
+- The whole name of [Current Issues in Speech Communication (Puheviestintä tieteenä jatkuu)](course)
+- [Intercultural Communication](course) full name
+- [Diskurssianalyysi](course) entire name
+- [Fonetiikan perusopintojen harjoitustyö](course) whole name
+- [Teaching, Pedagogical Facilitating, Learning](course) meaning
+- What does [Euroopan unionin finanssihallinto-oikeus - Luennot ja tentti.](course) mean
+- What means [Sosiaalisten riskien hallinta](course)
+- I want to know what [Student supervision in computer sciences](course) means
+- I want to know what [Pro gradu -seminaari ja -tutkielma (hallintotiede) - Seminaari](course) actually means
+- What is the meaning of [Emotions and Sociality in Human-Technology Interaction](course)
+- [Current Approaches in Games and Internet Research](course) meaning
+- True name of [Espanja IV](course)
+- Real name of [Seminaari](course)
+- Which course is [Laadulliset tutkimusotteet](course)
+- What [TECHS3(course) means
+- I want to know what [Johdon laskentatoimen perusteet (avoin yliopisto-opetus)](course) stands for
+- I want to know the full name of course code [Osallisuudet, oikeudet ja vastuut palvelujärjestelmäkohtaamisissa](course)
+- I want to know the whole name of [Kirjoitusviestintä / COMS](course)
+- I want to know the name of [Kielitaito ja kielitaidon arviointi](course)- What is the name of [Opetuksen, oppimisen ja koulutuksen arviointi ja laatu - Seminaari](course)
+- [Terveyden edistämisen interventiot](course) name
+- [Introduction to Science and Research (spring)](course) name is
+- [English Word Formation](course) name full
+- [Kandidaattiseminaari (Vuolanto)](course) complete name
+- [Työmarkkinat, työvoiman käyttö ja työllisyysturva](course) name actual
+- [Erot, jaot ja niiden rakentuminen, kirjatentti, Pori](course) whole name
+- What is name [Sosiaalitieteiden kvantitatiiviset tutkimusmenetelmät (verkkokurssi)](course)
+- The name of [Automaatit I](course)
+- Name [Syventävä projekti, keväällä 2019 alkava](course)
+- What is the full name of [Pelit ja pelillisyys](course)
+- What is [Advanced European Integration Studies (book exam/essay)](course) called
+- What is the course code [Nuorten ryhmät ja ryhmän ohjaus, harjoitukset](course) called
+- What course is [Finnish Advanced-Level Vocabulary Course (taught in Finnish)](course)
+- [Kielioppi I/Språkets strukturer I](course) named
+- What's [Dialogue: Constructive Talk at Work](course) named
+- Name of [Orientoivat opinnot - HOPS1](course)
+- Tell me the name of [Nuorisotyön harjoittelu](course)
+- Say the name of [Kirjallinen viestintä I/Skriftlig kommunikation I](course)
+- The whole name of [Interaction Techniques](course)
+- [Terveyden edistäminen kansanterveystieteilijöille](course) full name
+- [Orientation](course) entire name
+- [Terveys, arki ja toimijuus](course) whole name
+- [The Liberal Welfare State](course) meaning
+- What does [Phylogenetics](course) mean
+- What means [The Study of World Politics (book exam/essay)](course)
+- I want to know what [Latinalaisen Amerikan historia ja kirjallisuus - Historia y literatura de Latinoamérica](course) means
+- I want to know what [Epidemiologian perusteet](course) actually means
+- What is the meaning of [Käytännön opetus ja ohjaus](course)
+- [Käännösviestintä I - Käännösviestintä I englanti-suomi](course) meaning
+- True name of [Persoonallisuuspsykologia I (avoin yliopisto)](course)
+- Real name of [Kuvan uudet muodot](course)
+- Which course is [Systems biology methods](course)
+- What [TECHS3(course) means
+- I want to know what [Tutkimustyön perusteet (teemalla Verkostot ja somevaikuttaminen Twitterissä)](course) stands for
+- I want to know the full name of course code [Kielioppi II](course)
+- I want to know the whole name of [Global Humanitarianism and its Critics (POMLFCS3)](course)
+- I want to know the name of [Fonetiikan ja yleisen kielitieteen perusteet - Yleinen kielitiede](course)

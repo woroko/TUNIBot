@@ -1,0 +1,35 @@
+- When does [*](course) start
+- When does [*](course) start
+- When does [*](course) start
+- When does [*](course) begin
+- When does [*](course) begin
+- When will [*](course) begin
+- When will [*](course) begin
+- When will [*](course) begin
+- When will [*](course) begin
+- When does [*](course) begin
+- When will [*](course) start
+- When will [*](course) start
+- When will [*](course) start
+- When will [*](course) start
+- When is [*](course)
+- [*](course) when
+- When [*][course]
+- [*](course) start
+- [*](course) start date
+- [*](course) starting date
+- [*](course) begins
+- Tell me the start date of [*](course)
+- What day will [*(course) start
+- When do I have [*](course)
+- When do we have [*](course)
+- The start date of [*](course)
+- Start date for [*](course)
+- Start of [*](course)
+- I want to know when [*](course) starts
+- I want to know when will [*](course) start
+- I want to know the start date of [*](course)
+- I want to know when [*](course) begin
+- Tell me the start date of [*](course)
+- Tell me when [*](course) begins
+- What day will [*](course) start

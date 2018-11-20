@@ -1,0 +1,931 @@
+- Exceptions [Study skills and personal study planning - Basics of Information Literacy](course)
+- Exception [Opetus, ohjaus, oppiminen, verkko-opetus](course)
+- What are the exceptions for [Kandidaatintutkielma - Seminaari ja tutkielma](course)
+- [Urban Ethnography: The Social, Political and Economic Dimensions of Marginalization](course) exceptions
+- [Radio Project](course) exception
+- Exceptions in teaching hours [Venäjän kulttuuri](course)
+- Exceptions in teaching times [Matrices for Statistics and Computational Methods](course)
+- Are there any exceptions in teaching [Human-Technology Interaction Project Work](course)
+- What exceptions are there in [Kansainvälisen politiikan menetelmäseminaari (kirjatentti)](course)
+- Lecture exceptions [Professional Writing (online course)](course)
+- Does [Introduction to Education in Finland - Lectures, observation, essay and learning diary](course) have exceptions in teaching hours
+- Were there exceptions in lectures [Graduvauhditus](course)
+- Teaching times exceptions for [Oman äänen analyysi ja harjoittaminen](course)
+- What were the exceptions of teaching in [Kansainvälisen politiikan johdantokurssi (kirjatentti)](course)
+- Does the schedule for [Kulttuurinen monimuotoisuus koulutuksessa ja työelämässä, kirjatentti, Seinäjoki](course) have any exceptions
+- When were the exceptions for [WWW Programming](course)
+- The exceptions in lessons for [Tieteellinen kirjoittaminen / COMS (kirjallisuuden opiskelijoille)](course)
+- Special teaching times for [Puolueet, vaalit ja poliittinen vaikuttaminen (kirjatentti/essee)](course)
+- Is there anything special I should know about the course schedule for [Leadership for Sustainable Change (KATVAS39)](course)
+- [Käännösviestintä II englanti-suomi](course) special lecture hours
+- Special schedule [Modern Risk Management](course)
+- Will there be lectures in holidays in [Yksilö, yhteiskunta ja kulttuuri - evankelisluterilaiset uskonnon ja elämänkatsomustiedon harjoitusryhmät - 2. vsk](course)
+- Holiday exceptions [Ruotsin kielen kirjallinen ja suullinen viestintä](course)
+- Course break teaching times [Käännösviestintä II englanti-suomi](course)
+- Do we have a lecture during holiday in [Teemaseminaari Kant Puhtaan järjen kritiikki](course)
+- Cancelled lectures [Software Project Management, Theory](course)
+- Will [Pro gradu -seminaari ja -tutkielma (hallintotiede) - Seminaari](course) lectures be cancelled during holiday
+- Will [Tekstienväliset suhteet: Syventävä tekstianalyysi](course) have a lecture every week
+- I want to know the exceptions in lessons for [Rakennebiologia](course)
+- I want to know special teaching times for [Advanced International Relations Research Methods (book exam/essay)](course)
+- I want to know does the schedule for [Kasvatus tieteellisen tutkimuksen kohteena - avoin yo, lähi- ja monimuotototeutus](course) have any exceptions
+- I want to know Teaching times exceptions for [Valtio-opin johdantokurssi (kirjatentti)](course)- Exceptions [Current Approaches in Games and Internet Research](course)
+- Exception [Asiantuntijan puheviestintä ja vuorovaikutus (4. periodi) / KTM-tutkinto](course)
+- What are the exceptions for [Monikulttuurisen sosiaalityön erityiskysymykset - Sosnet verkkokurssi](course)
+- [Cost-Benefit and Cost-Effectiveness Analysis for Social Planning](course) exceptions
+- [Johdatus kasvatuksen ja koulutuksen yhteiskunnalliseen ja kulttuuriseen tutkimukseen - Luennot ja luentopäiväkirja](course) exception
+- Exceptions in teaching hours [Terveys ja yhteiskuntapolitiikka](course)
+- Exceptions in teaching times [Organisaatioteoria](course)
+- Are there any exceptions in teaching [Feministinen teoria ja metodologia](course)
+- What exceptions are there in [Fighting Against Human Rights Violations](course)
+- Lecture exceptions [Gender in Society](course)
+- Does [Opetussuunnitelmateoria, kirjatentti](course) have exceptions in teaching hours
+- Were there exceptions in lectures [Kasvatus tieteellisen tutkimuksen kohteena - verkko-opetus, I-periodi](course)
+- Teaching times exceptions for [Venäjä I](course)
+- What were the exceptions of teaching in [Accounting Information Systems](course)
+- Does the schedule for [Lukuteoria ja algebra opettajille -](course) have any exceptions
+- When were the exceptions for [Political Communication and Rhetoric (book exam/essay)](course)
+- The exceptions in lessons for [Laadullisten tutkimusmenetelmien soveltaminen hoitotieteessä](course)
+- Special teaching times for [Puhelääketiede](course)
+- Is there anything special I should know about the course schedule for [Matemaattisen tilastotieteen perusteet](course)
+- [Talous ja yhteiskunta](course) special lecture hours
+- Special schedule [Venäjän kulttuuri](course)
+- Will there be lectures in holidays in [Johdanto riskienhallintaan ja vakuuttamiseen (avoin yliopisto-opetus), monimuoto-opetus](course)
+- Holiday exceptions [EI toteutusta 2018-19 Advanced immunology](course)
+- Course break teaching times [Vakuutustiede ja vakuutustutkimus](course)
+- Do we have a lecture during holiday in [Tietojärjestelmätieteen jatkokoulutusseminaari - Seminaari](course)
+- Cancelled lectures [Varhaismoderni yhteiskunta](course)
+- Will [Poliittinen kommunikaatio ja retoriikka (kirjatentti/essee)](course) lectures be cancelled during holiday
+- Will [Global Issues on Mental Health and Mental Health Services - Web course](course) have a lecture every week
+- I want to know the exceptions in lessons for [Näkökulmia kääntämiseen - Käännös-, rakenne- ja sanastoharjoitukset I / Perspektiven auf Übersetzen](course)
+- I want to know special teaching times for [Opetus, ohjaus, oppiminen, verkko-opetus](course)
+- I want to know does the schedule for [Introduction to International Criminal Justice System](course) have any exceptions
+- I want to know Teaching times exceptions for [Tieteellinen kirjoittaminen / COMS (kirjallisuuden opiskelijoille)](course)- Exceptions [Kulttuuripsykologian perusteet](course)
+- Exception [Tuutorina toimiminen](course)
+- What are the exceptions for [Fenomenologia](course)
+- [Johdatus etiikkaan](course) exceptions
+- [Fördjupad kurs i skriftlig och muntlig affärskommunikation](course) exception
+- Exceptions in teaching hours [Tieteellinen seminaarisarja](course)
+- Exceptions in teaching times [Johdatus kunta- ja aluejohtamiseen](course)
+- Are there any exceptions in teaching [Aikuisten puheen ja kielen häiriöt - A2a Aikuisten puheen ja kielen häiriöt](course)
+- What exceptions are there in [Lastenkirjallisuus ja draama / Harjoitukset - 3.vsk + 1.vsk ryhmät 6 ja 7](course)
+- Lecture exceptions [Kunnallisoikeuden syventävä jakso](course)
+- Does [Solut](course) have exceptions in teaching hours
+- Were there exceptions in lectures [Parhaat filosofiset artikkelit](course)
+- Teaching times exceptions for [Minustako asiantuntijamyynnin ammattilainen?](course)
+- What were the exceptions of teaching in [Kansainvälisen politiikan teoria ja metateoria (kirjatentti)](course)
+- Does the schedule for [YK-päivä](course) have any exceptions
+- When were the exceptions for [Lapset kehittyvinä ja sosiaalisina toimijoina varhaiskasvatuksessa / Luennot - 1.vsk](course)
+- The exceptions in lessons for [Työelämäviestinnän tutkimus- tai kehityshanke](course)
+- Special teaching times for [Pohjoismaisten kielten lähtötasokoe](course)
+- Is there anything special I should know about the course schedule for [Seminaari](course)
+- [Julkiset hankinnat](course) special lecture hours
+- Special schedule [Molekulaarinen solubiologia](course)
+- Will there be lectures in holidays in [Tieteellisen tiedonhankinnan perusteet (pohjoismaiset kielet) -](course)
+- Holiday exceptions [Vakuutuksen ja riskienhallinnan erikoistumisosa](course)
+- Course break teaching times [Journalistinen kieli - Kielenhuolto, oikeinkirjoitusoppi](course)
+- Do we have a lecture during holiday in [Kirjallinen viestintä I - Sanasto- ja rakenneharjoitukset](course)
+- Cancelled lectures [Seminaarit 1. lukukausi/2. lukukausi](course)
+- Will [Lapset ympäristönsä tutkijoina - Käsityö](course) lectures be cancelled during holiday
+- Will [Johtamisviestintä](course) have a lecture every week
+- I want to know the exceptions in lessons for [Käsiteanalyysi ja filosofiset tutkimusmenetelmät (kirjatentti/essee)](course)
+- I want to know special teaching times for [Knowledge, business and work in a digital society](course)
+- I want to know does the schedule for [Inclusive Education](course) have any exceptions
+- I want to know Teaching times exceptions for [Ranskan yhteiskunta I / Société française I](course)- Exceptions [Introduction to Criminal Justice](course)
+- Exception [The Theory and Method of International Relations (theory) (book exam)](course)
+- What are the exceptions for [Kuvataide - 2. vsk ja opinnot 1½ lukuvuodessa suorittavat  1.vsk ja POM-opintoihin opinto-oikeuden saaneet opiskelijat](course)
+- [Academic Writing](course) exceptions
+- [Kiina III](course) exception
+- Exceptions in teaching hours [Verkkojulkaisemisen perusteet (keväällä 2018 opintokokonaisuuden aloittaneille) - verkkokurssi](course)
+- Exceptions in teaching times [Data Structures](course)
+- Are there any exceptions in teaching [Kunta- ja aluejohtamisen vaihtuvasisältöinen erikoiskurssi](course)
+- What exceptions are there in [Empiirinen projekti](course)
+- Lecture exceptions [Erot, jaot ja niiden rakentuminen - Luennot ja lukupiiri (klk) TAI kirjatentti (slk ja klk)](course)
+- Does [Opetus, ohjaus, oppiminen, monimuoto-opeus](course) have exceptions in teaching hours
+- Were there exceptions in lectures [Asiantuntijuuden kehittymiseen orientoiva opintojakso - opintosuuntakohtaiset ryhmät jatkaville maisteriopiskelijoille (KASSY-, KASSO- ja KASSA-opintosuuntien ryhmiä)](course)
+- Teaching times exceptions for [Draama - 2.vsk ja   opinnot 1½ lukuvuodessa suorittavat 1.vsk ja POM-opintoihin opinto-oikeuden saaneet opiskelijat( luennot)](course)
+- What were the exceptions of teaching in [Media, Race and Society](course)
+- Does the schedule for [Internet ja vuorovaikutteinen media](course) have any exceptions
+- When were the exceptions for [Eastern European Model: Lithuanian System of Work and Social Security](course)
+- The exceptions in lessons for [Kielikonsultointia käytännössä](course)
+- Special teaching times for [Kandidaattiseminaari (Mustakallio)](course)
+- Is there anything special I should know about the course schedule for [Studies of expansive learning: Foundations, findings and challenges](course)
+- [Viestinnän ja median tutkimussuuntauksia](course) special lecture hours
+- Special schedule [Suullinen ja kirjallinen taito - Suulliset ja kirjalliset harjoitukset/Expresión oral y escrita - Conversación y redacción](course)
+- Will there be lectures in holidays in [Äidinkieli ja kirjallisuus - Lukeminen ja kirjoittaminen - 1. vsk (luennot)](course)
+- Holiday exceptions [Global Terrorism: Political Violence in a Global Age](course)
+- Course break teaching times [Lausekielinen ohjelmointi I - Näyttökoe, kevät 2019](course)
+- Do we have a lecture during holiday in [Tiimi toimii - puheviestinnän syventävä kurssi (3. - 4. periodi)](course)
+- Cancelled lectures [Macroprudential Policy and Financial Stability](course)
+- Will [Advanced English Business Communication (RPL) / näyttökoe](course) lectures be cancelled during holiday
+- Will [Introduction to Risk Management and Insurance (autumn semester)](course) have a lecture every week
+- I want to know the exceptions in lessons for [Valinnainen jakso: Tiedeviestinnän käytänteet](course)
+- I want to know special teaching times for [Monimuuttujamenetelmien perusteet](course)
+- I want to know does the schedule for [Comparative Education - book exam](course) have any exceptions
+- I want to know Teaching times exceptions for [Arjen latinaa ja kulttuurihistoriaa](course)- Exceptions [Sustainable business practices (Independent study)](course)
+- Exception [Kvalitatiivinen tutkimus kasvatustieteissä - Harjoitukset, luokanop. ryhmä](course)
+- What are the exceptions for [Basics of Project Management](course)
+- [Harjoittelu](course) exceptions
+- [Sosiaalihuollon hallinto ja johtaminen](course) exception
+- Exceptions in teaching hours [Kuva-  ja mediakulttuurit - Mediakulttuurit - 1. vsk ja erillisen opinto-oikeuden POM-opintoihin saaneet opiskelijat  (ryhmätyöskentely)](course)
+- Exceptions in teaching times [Statistical Analysis with Missing Data (advanced)](course)
+- Are there any exceptions in teaching [Seminaari I, kandidaatintutkielma ja kypsyysnäyte / Bachelor-Seminar, Bachelorarbeit und Klausur zum Thema der Arbeit](course)
+- What exceptions are there in [Yritysjuridiikan case-kurssi](course)
+- Lecture exceptions [Capstone - Talousjohdon tehtävät ja osaamisalueet](course)
+- Does [Parties and Elections (book exam/essay)](course) have exceptions in teaching hours
+- Were there exceptions in lectures [Mediakasvatus, osallisuus ja aktiivinen kansalaisuus, kirjatentti](course)
+- Teaching times exceptions for [Legal English](course)
+- What were the exceptions of teaching in [EU:n ulkosuhteiden erityiskysymykset: turvallisuus, talous ja arvot (kirjatentti/essee)](course)
+- Does the schedule for [Suomen historian tutkijaseminaari](course) have any exceptions
+- When were the exceptions for [Tila, teknologia ja toiminta - essee](course)
+- The exceptions in lessons for [Introduction to Social Circus Pedagogy - (Tampere Summer School 2018)](course)
+- Special teaching times for [Johdatus viestinnän tutkimukseen ja analyysiin](course)
+- Is there anything special I should know about the course schedule for [Terveydenhuollon koulutuspolitiikka](course)
+- [Reading Waste](course) special lecture hours
+- Special schedule [Opimme lisää venäjän kielen suullisia taitoja](course)
+- Will there be lectures in holidays in [Liike-elämän ruotsia I / näyttökoe (AHOT)](course)
+- Holiday exceptions [Johdatus taloushallintoon](course)
+- Course break teaching times [Johtaminen ja organisaatiot I (kirjallisuus)](course)
+- Do we have a lecture during holiday in [Tulkkauksen teoria](course)
+- Cancelled lectures [Luottamustehtävissä toimiminen - Luottamustehtäväraportti](course)
+- Will [Fonetiikan ja yleisen kielitieteen perusteet - Yleinen kielitiede](course) lectures be cancelled during holiday
+- Will [Lähtötasokoe / Schwellentest](course) have a lecture every week
+- I want to know the exceptions in lessons for [Journalistinen kieli - Kielenhuolto, lauseoppi](course)
+- I want to know special teaching times for [Protein technology Laboratory Course A](course)
+- I want to know does the schedule for [Tieto-oppi](course) have any exceptions
+- I want to know Teaching times exceptions for [Kaunokirjallisen kääntämisen peruskurssi](course)- Exceptions [Tekstianalyysi - Luennot](course)
+- Exception [Organisaatio, hallinto ja johtaminen - Harjoitustyö](course)
+- What are the exceptions for [Kielioppi- ja sanastoharjoitukset / Grammatik und Wortschatzübungen](course)
+- [Kasvatus, tieto ja teoria - Luennot](course) exceptions
+- [Verkkomedian suunnittelu](course) exception
+- Exceptions in teaching hours [Orientaatio tutkielman tekemiseen](course)
+- Exceptions in teaching times [Työelämän korttipakka](course)
+- Are there any exceptions in teaching [Fonetiikan ja yleisen kielitieteen perusteet - Fonetiikka](course)
+- What exceptions are there in [Työelämäntutkimusta monimuuttujamenetelmin](course)
+- Lecture exceptions [Audiovisuaalisen kääntämisen seminaari / Kuvailutulkkaus](course)
+- Does [Muu valinnainen kurssi](course) have exceptions in teaching hours
+- Were there exceptions in lectures [Projektinhallinnan perusteet](course)
+- Teaching times exceptions for [Research in Practice](course)
+- What were the exceptions of teaching in [Tekstin tekemisen perusteet](course)
+- Does the schedule for [Kulttuurinen monimuotoisuus koulutuksessa ja työelämässä, kirjatentti](course) have any exceptions
+- When were the exceptions for [Työhyvinvoinnin johtaminen (itsenäinen suoritustapa, kesäopinnot)](course)
+- The exceptions in lessons for [Äänne- ja muoto-oppi](course)
+- Special teaching times for [Kasvatus tieteellisen tutkimuksen kohteena, verkko-opetus, III-periodi](course)
+- Is there anything special I should know about the course schedule for [Uskontojen antropologiaa](course)
+- [Venäjä I](course) special lecture hours
+- Special schedule [Johdatus Suomen kirjallisuushistoriaan - luennot](course)
+- Will there be lectures in holidays in [Luontokirjoittamisen klassikot](course)
+- Holiday exceptions [Väkivallan uudet muodot, turvallisuuskäsityksen muutos (kirjatentti/essee)](course)
+- Course break teaching times [Puhesuomi ja esiintyminen](course)
+- Do we have a lecture during holiday in [Moniammatillisuus, yhteisö ja vuorovaikutus / Harjoitukset - 3.vsk + 2.vsk ryhmä 4](course)
+- Cancelled lectures [[CANCELLED] Editing Project](course)
+- Will [Pelit ja pelillisyys](course) lectures be cancelled during holiday
+- Will [Luontokirjoittamisen klassikot](course) have a lecture every week
+- I want to know the exceptions in lessons for [Verkkomedian suunnittelu](course)
+- I want to know special teaching times for [Kaupunkien maankäytön pelikenttä](course)
+- I want to know does the schedule for [Kaupungistuva maailma: Kaupungit ja kaupunkilaisuus 1800-luvulta nykypäivään](course) have any exceptions
+- I want to know Teaching times exceptions for [Esiintyminen](course)- Exceptions [Pro gradu -seminaari ja -tutkielma (julkisoikeus)](course)
+- Exception [Qualitative Research Methods and Comparative Research Design](course)
+- What are the exceptions for [Teaching, Pedagogical Facilitating, Learning](course)
+- [Tieto- ja asiakirjahallinto](course) exceptions
+- [Terve ja turvallinen kouluyhteisö](course) exception
+- Exceptions in teaching hours [Mediakasvatus, osallisuus ja aktiivinen kansalaisuus, kirjatentti](course)
+- Exceptions in teaching times [Tutkielmapiiri](course)
+- Are there any exceptions in teaching [Asiantuntijan puheviestintä ja vuorovaikutus / AHOT (näyttökoe)](course)
+- What exceptions are there in [Kandidaatintutkielma ja seminaari, syksy 2018](course)
+- Lecture exceptions [Tutkimusseminaari ja pro gradu -tutkielma](course)
+- Does [Struggles on Education](course) have exceptions in teaching hours
+- Were there exceptions in lectures [Vakuutustoiminnan periaatteet ja johtaminen](course)
+- Teaching times exceptions for [Erot, jaot ja niiden rakentuminen, kirjatentti, Seinäjoki](course)
+- What were the exceptions of teaching in [Tutkijan työpaja](course)
+- Does the schedule for [Kehitys, kasvatus ja elämänkulku - Pienryhmät 1 op ja kirjallisuus 2 op (EDUn tutkinto-opiskelijat, aineenop.opiskelijat, avoin yo/lähiopetus)](course) have any exceptions
+- When were the exceptions for [Tilinpäätös- ja verosuunnittelu](course)
+- The exceptions in lessons for [Introduction to Web Publishing (Tampere Summer School 2018)](course)
+- Special teaching times for [Johdatus sosiaalitieteisiin (verkkokurssi)](course)
+- Is there anything special I should know about the course schedule for [Theory and practice of peaceful change: The Baltic Sea Region](course)
+- [Orientoivat opinnot ja HOPS (kirjallisuustiede)](course) special lecture hours
+- Special schedule [Kvantitatiivinen tutkimus kasvatustieteissä - Harjoitukset, luokanop.](course)
+- Will there be lectures in holidays in [Budgeting and capital budgeting (online course)](course)
+- Holiday exceptions [Suomen kielen rakenne S2-näkökulmasta](course)
+- Course break teaching times [Monikulttuurisen sosiaalityön erityiskysymykset - Sosnet verkkokurssi](course)
+- Do we have a lecture during holiday in [Vakuutuslaitosten sijoitustoiminta](course)
+- Cancelled lectures [Basics of programming and algorithms for bioinformatics](course)
+- Will [Vauvasta vaariin. Ikä feministisessä tutkimuksessa](course) lectures be cancelled during holiday
+- Will [Musiikki - Musiikin teoria alakoulussa - 1. vsk ja  erillisen opinto-oikeuden POM-opintoihin saaneet opiskelijat](course) have a lecture every week
+- I want to know the exceptions in lessons for [Valinnainen jakso: TV-makasiinikurssi (kevään ryhmä)](course)
+- I want to know special teaching times for [KEB-62100 Orgaaninen kemia](course)
+- I want to know does the schedule for [Liikuntatuutorina toimiminen / Sports Tutoring](course) have any exceptions
+- I want to know Teaching times exceptions for [Taloustiede, talouspolitiikka ja ajankohtaiset taloudelliset ja yhteiskunnalliset ongelmat](course)- Exceptions [Kuvakulttuuri -](course)
+- Exception [Tulevaisuuden hyvinvointipalvelut: ratkaisuna robotiikka?](course)
+- What are the exceptions for [Yritysverotus](course)
+- [Praktikum](course) exceptions
+- [Johdatus etiikkaan](course) exception
+- Exceptions in teaching hours [Kasvatus, tieto ja teoria - Luennot](course)
+- Exceptions in teaching times [Fonetiikan ja yleisen kielitieteen perusteet - Fonetiikka](course)
+- Are there any exceptions in teaching [Pro gradu -seminaari ja -tutkielma](course)
+- What exceptions are there in [Ammattimainen tekstintarkistus](course)
+- Lecture exceptions [Kasvatuksen historialliset ja filosofiset lähtökohdat, monimuoto-opetus](course)
+- Does [Requirements Engineering](course) have exceptions in teaching hours
+- Were there exceptions in lectures [User Experience: Design and Evaluation (TUT/IHTE)](course)
+- Teaching times exceptions for [Kvantitatiivinen tutkimus kasvatustieteissä - Harjoitukset, yhteinen avoimen ja tutkinto-op. ryhmä](course)
+- What were the exceptions of teaching in [Liikunta - Liikuntapedagogiikan perusteet - 1 vsk ja  erillisen opinto-oikeuden POM-opintoihin saaneet opiskelijat](course)
+- Does the schedule for [Tilastollisen päättelyn perusteet](course) have any exceptions
+- When were the exceptions for [Knowledge, business and work in a digital society](course)
+- The exceptions in lessons for [Kirjallinen viestintä II/Skriftlig kommunikation II](course)
+- Special teaching times for [Sosiaalioikeus - STYA1A1 Sosiaalioikeus I](course)
+- Is there anything special I should know about the course schedule for [Mediakasvatus, osallisuus ja aktiivinen kansalaisuus, kirjatentti](course)
+- [Gender and wellbeing in the global South and North](course) special lecture hours
+- Special schedule [Kandidaatintutkielma, seminaari](course)
+- Will there be lectures in holidays in [Monikielinen käännöstyöpaja](course)
+- Holiday exceptions [Kvalitatiivinen tutkimus kasvatustieteissä - Näyttökoe](course)
+- Course break teaching times [Ajankohtaiset ilmiöt hallintotieteissä](course)
+- Do we have a lecture during holiday in [Yhteisöt ja yhteisösosiaalityön lähtökohdat - Sosnet verkkokurssi](course)
+- Cancelled lectures [Orientoivat opinnot ja HOPS (englannin kieli, kirjallisuus ja kääntäminen)](course)
+- Will [Luemme ja keskustelemme venäjäksi](course) lectures be cancelled during holiday
+- Will [Basic Studies in Education -courses,  introductory meetings, reading circles and book exams](course) have a lecture every week
+- I want to know the exceptions in lessons for [Tila, teknologia ja toiminta](course)
+- I want to know special teaching times for [Tietokäytännöt (keväällä 2018 perusopinnot aloittaneille) - verkkokurssi](course)
+- I want to know does the schedule for [Biostatistiikka ja tilastollinen tietojenkäsittely](course) have any exceptions
+- I want to know Teaching times exceptions for [Kandidaattiseminaari ja -tutkielma (ympäristöpolitiikka ja aluetiede), syksy](course)- Exceptions [Theatre, Society, and Politics 1660-1760](course)
+- Exception [Työhyvinvoinnin johtaminen (itsenäinen suoritustapa)](course)
+- What are the exceptions for [Latinan jatkokurssi](course)
+- [PhD by publication: writing integrative chapter](course) exceptions
+- [Kvalitatiivinen tutkimus kasvatustieteissä - Näyttökoe](course) exception
+- Exceptions in teaching hours [Venäjä III](course)
+- Exceptions in teaching times [Approaches and Tools for Conflict Analysis and Peace Mediation](course)
+- Are there any exceptions in teaching [Nuorisotutkimuksen ajankohtaisia kysymyksiä](course)
+- What exceptions are there in [Kehityspsykologia II](course)
+- Lecture exceptions [Kandidaatintutkielmaseminaari - Muuntotyöryhmä, slk18](course)
+- Does [Tieteellinen kirjoittaminen / SOC (logopedia)](course) have exceptions in teaching hours
+- Were there exceptions in lectures [Internet ja vuorovaikutteinen media](course)
+- Teaching times exceptions for [Laskentatoimen teoria ja IFRS II](course)
+- What were the exceptions of teaching in [Kunnallistalouden kirjanpito -](course)
+- Does the schedule for [Julkisen hallinnon reformit ja muutos](course) have any exceptions
+- When were the exceptions for [Palvelut ja hyvinvointivaltion murros](course)
+- The exceptions in lessons for [Professional Writing (online course)](course)
+- Special teaching times for [Tieteellinen kirjoittaminen (2. vuosikurssin opiskelijoille)](course)
+- Is there anything special I should know about the course schedule for [Sosiaalityön teoriahistoria](course)
+- [Nuorten ryhmät ja ryhmän ohjaus, harjoitukset](course) special lecture hours
+- Special schedule [Yksilö, yhteiskunta ja kulttuuri - Monikulttuurisuus koulussa - 2. vsk](course)
+- Will there be lectures in holidays in [Understanding and Managing a Business as a Dynamic Whole - VIBU Business Simulation Game](course)
+- Holiday exceptions [Yhteisöllinen oppiminen ja ohjaus - Seminaari](course)
+- Course break teaching times [Syntyvyys, hoiva, sukupolvi](course)
+- Do we have a lecture during holiday in [Pro gradu -tutkielma ja -seminaari](course)
+- Cancelled lectures [Pohjoismaisten kielten lähtötasokoe](course)
+- Will [Politics of Memory in Eastern Europe](course) lectures be cancelled during holiday
+- Will [Opetussuunnitelmateoria, kirjatentti, Seinäjoki](course) have a lecture every week
+- I want to know the exceptions in lessons for [Mielenterveys, yhteiskunta ja sukupuoli](course)
+- I want to know special teaching times for [Fonetiikan ja yleisen kielitieteen perusteet - Fonetiikka](course)
+- I want to know does the schedule for [Johdanto terveysviestintään](course) have any exceptions
+- I want to know Teaching times exceptions for [Kasvatus tieteellisen tutkimuksen kohteena, verkko-opetus, III-periodi](course)- Exceptions [Monikielisyys ja -kulttuurisuus](course)
+- Exception [Euroopan integraation teoria ja ulkosuhteet (kirjatentti/essee)](course)
+- What are the exceptions for [Lukuteoria ja algebra opettajille -](course)
+- [Sosiaalipolitiikan teoreettinen ajattelu -lukuseminaari](course) exceptions
+- [Kuva-  ja mediakulttuurit - Kuvakulttuurit - 1. vsk ja erillisen opinto-oikeuden POM-opintoihin saaneet opiskelijat (luennot)](course) exception
+- Exceptions in teaching hours [Ainedidaktiikka II](course)
+- Exceptions in teaching times [Lukeminen ja kirjoittaminen oppimisen haasteena (seminaarit 1-4 ryhmät)](course)
+- Are there any exceptions in teaching [Valinnainen jakso: Dokumentaarisen nyky-Suomi-sarjan konseptikehitys ja verkkosuunnittelu](course)
+- What exceptions are there in [Work and Health](course)
+- Lecture exceptions [Reading Waste](course)
+- Does [Klassinen länsimainen kertomakirjallisuus](course) have exceptions in teaching hours
+- Were there exceptions in lectures [Ainedidaktinen tutkimus ja tutkiva opettajuus](course)
+- Teaching times exceptions for [Kuvan uudet muodot](course)
+- What were the exceptions of teaching in [Symbols that move us - popular culture/deep culture](course)
+- Does the schedule for [Medioitu vuorovaikutus](course) have any exceptions
+- When were the exceptions for [Kulttuurinen monimuotoisuus koulutuksessa ja työelämässä, kirjatentti, Pori](course)
+- The exceptions in lessons for [Social Scientific Perspectives on Consumption (online course)](course)
+- Special teaching times for [Asiantuntijan puheviestintä ja vuorovaikutus, 3.-4. periodi / VIESTINTÄROHKEUDEN RYHMÄ](course)
+- Is there anything special I should know about the course schedule for [Academic Writing](course)
+- [Pro gradu -tutkielma ja -seminaari, syksyllä 2018 aloittavat ryhmät](course) special lecture hours
+- Special schedule [Orientoivat opinnot ja HOPS (saksan kieli, kulttuuri ja kääntäminen)](course)
+- Will there be lectures in holidays in [EU Financial Management](course)
+- Holiday exceptions [Käännösteknologian harjoituskurssi](course)
+- Course break teaching times [Julkistalousoikeus](course)
+- Do we have a lecture during holiday in [Laskentatoimen teoria ja IFRS II](course)
+- Cancelled lectures [Journalistinen kieli - Kielenhuolto, lauseoppi](course)
+- Will [Research on Teaching and Learning - Seminar](course) lectures be cancelled during holiday
+- Will [Terveystiedon sisällöt (sähköinen tentti)](course) have a lecture every week
+- I want to know the exceptions in lessons for [Managing Research Information](course)
+- I want to know special teaching times for [Julkisoikeuden perusteet (järjestäjä TAMK)](course)
+- I want to know does the schedule for [Topical Issues in Governance, Management and Administration](course) have any exceptions
+- I want to know Teaching times exceptions for [Sidosryhmäteoria ja -johtaminen](course)- Exceptions [Viestinnän ja median tutkimussuuntauksia](course)
+- Exception [Introduction to Web Publishing (Tampere Summer School 2018)](course)
+- What are the exceptions for [Fonetiikan ja yleisen kielitieteen perusteet - Yleinen kielitiede](course)
+- [Introduction to Academic English (JKK, EDU, LUO, COMS & SOC)](course) exceptions
+- [Biologia ja ympäristötieto - Biologian ja maantieteen perusteet  ja erillisen opinto-oikeuden POM-opintoihin saaneet opiskelijat (pienryhmäopetus)](course) exception
+- Exceptions in teaching hours [Kielen kehitys / Harjoitukset - 2.vsk + 1.vsk ryhmät 6 ja 7](course)
+- Exceptions in teaching times [International Society (book exam/essay)](course)
+- Are there any exceptions in teaching [Pratiques de l'écrit: méthodes et techniques d'expression écrite/Kirjoitusharjoituksia: kirjallisen esityksen metodit ja tekniikka](course)
+- What exceptions are there in [Writing the Nation](course)
+- Lecture exceptions [Valinnainen jakso: Dokumenttikurssi](course)
+- Does [Keskustelunanalyysi (verkkokurssi), syksy 2018](course) have exceptions in teaching hours
+- Were there exceptions in lectures [Improving the quality and safety of health care through outcomes research](course)
+- Teaching times exceptions for [Visual Peace Research](course)
+- What were the exceptions of teaching in [Opetus, ohjaus, oppiminen, monimuoto-opetus](course)
+- Does the schedule for [Tutkiva harjoittelu](course) have any exceptions
+- When were the exceptions for [Kuinka suurenmoisia ihmiset ovat olleet - sopeutumaan pohjoisiin luonnonolosuhteisiin!](course)
+- The exceptions in lessons for [Kasvatusfilosofia: ihminen, luonto ja kulttuuri - Luennot](course)
+- Special teaching times for [Aluetalous ja kaupunkitalous](course)
+- Is there anything special I should know about the course schedule for [Communication orale/Suullinen viestintä](course)
+- [Suullinen viestintä II/Muntlig kommunikation II](course) special lecture hours
+- Special schedule [Terveyden ja mielenterveyden psykologia I](course)
+- Will there be lectures in holidays in [Kuvataiteen vaihtuvateemainen opintojakso/Elokuva mediakasvatuksen välineenä](course)
+- Holiday exceptions [Kansainvälisen politiikan teoria ja menetelmät (kirjatentti)](course)
+- Course break teaching times [Johdon laskentatoimen perusteet](course)
+- Do we have a lecture during holiday in [Kielioppi I / Grammatik I](course)
+- Cancelled lectures [Euroopan integraation teoria ja ulkosuhteet (kirjatentti/essee)](course)
+- Will [Filosofian työpaja](course) lectures be cancelled during holiday
+- Will [Kokeellinen, kokeileva ja kokemuksellinen sosiaalipsykologia](course) have a lecture every week
+- I want to know the exceptions in lessons for [Journalismin tulevaisuus, harjoittelun kielikritiikki](course)
+- I want to know special teaching times for [Health systems and health in developing Asia: India, China, and North Korea](course)
+- I want to know does the schedule for [Argumentaation ja tieteellisen päättelyn perusteet](course) have any exceptions
+- I want to know Teaching times exceptions for [Sosiaalioikeus I](course)- Exceptions [Johtajuuden nykysuuntia](course)
+- Exception [European, Eurasian and Global Energy Policy (book exam/essay)](course)
+- What are the exceptions for [Kansainvälisen historian tutkijaseminaari](course)
+- [Seminaarit 1. lukukausi/2. lukukausi](course) exceptions
+- [Writing Scientific Journal Articles](course) exception
+- Exceptions in teaching hours [Orientaatiopäivä väitöskirjatutkijoille](course)
+- Exceptions in teaching times [Kasvatuksen historialliset ja filosofiset lähtökohdat, verkko-opetus](course)
+- Are there any exceptions in teaching [Ruotsin kielen kirjallinen ja suullinen viestintä / avoin yliopisto-opetus](course)
+- What exceptions are there in [Työ- ja organisaatiopsykologia II](course)
+- Lecture exceptions [Käsiteanalyysi ja filosofiset tutkimusmenetelmät (kirjatentti/essee)](course)
+- Does [Olio-ohjelmoinnin perusteet](course) have exceptions in teaching hours
+- Were there exceptions in lectures [Kandidaattiseminaari ja tutkielma (laskentatoimi) - Kandidaattiseminaari, kevät 2018](course)
+- Teaching times exceptions for [Johdatus etiikkaan](course)
+- What were the exceptions of teaching in [Practical Programming in Python](course)
+- Does the schedule for [Linguistics I: Introduction to Basic Concepts](course) have any exceptions
+- When were the exceptions for [Multi-level Governance and Europeanisation (book exam/essay)](course)
+- The exceptions in lessons for [Nimistöntutkimus](course)
+- Special teaching times for [Dramaturgia: Musikaalin dramaturgia](course)
+- Is there anything special I should know about the course schedule for [Dialogue: Constructive Talk at Work](course)
+- [Latinankielinen kirjallisuus II: keski- ja uuden ajan latina](course) special lecture hours
+- Special schedule [Institutions, Innovation and Economic Renewal (NORDIG)](course)
+- Will there be lectures in holidays in [Contemporary Political Theory (book exam/essay)](course)
+- Holiday exceptions [Pro gradu -tutkielma ja -seminaari, tammikuussa 2019 aloittavat ryhmät](course)
+- Course break teaching times [Cultural Conversations](course)
+- Do we have a lecture during holiday in [Tietokantaohjelmointi](course)
+- Cancelled lectures [Kansainvälisen politiikan johdantokurssi (tutkinto-ohjelman opiskelijat)](course)
+- Will [Tietokäytännöt](course) lectures be cancelled during holiday
+- Will [Suomen kulttuuri ja yhteiskunta -lukupiiri](course) have a lecture every week
+- I want to know the exceptions in lessons for [Latinan kielen alkeiskurssi](course)
+- I want to know special teaching times for [Kansainvälisen historian tutkijaseminaari](course)
+- I want to know does the schedule for [Pro gradu -seminaari ja -tutkielma](course) have any exceptions
+- I want to know Teaching times exceptions for [Latinankielinen kirjallisuus I: klassinen latina](course)- Exceptions [Poliittinen kommunikointi ja retoriikka (kirjatentti/essee)](course)
+- Exception [Writing for Research (online course)](course)
+- What are the exceptions for [Kirjallisuuden analyysi/Analiz hudozhestvennoj literatury](course)
+- [Kerronnan monet muodot - kirjatentti ja essee](course) exceptions
+- [Leikki kulttuurisena, kehityksellisenä ja pedagogisena ilmiönä / Harjoitukset - 1.vsk](course) exception
+- Exceptions in teaching hours [Pro gradu -seminaari ja -tutkielma](course)
+- Exceptions in teaching times [MED Research Day](course)
+- Are there any exceptions in teaching [Strategia ja yrittäjyys](course)
+- What exceptions are there in [Tietokäytännöt (keväällä 2018 perusopinnot aloittaneille) - verkkokurssi](course)
+- Lecture exceptions [Tutkimustyön perusteet - d) Kandidaattiseminaari (keväällä 2018 alkava)](course)
+- Does [KEB-61410 Laaja kemia 1](course) have exceptions in teaching hours
+- Were there exceptions in lectures [Kvalitatiiviset tutkimusmenetelmät (kirjatentti/essee)](course)
+- Teaching times exceptions for [Terveyden edistämisen interventiot, Seinäjoki](course)
+- What were the exceptions of teaching in [Asiantuntijan puheviestintä ja vuorovaikutus sosiaali- ja terveysalalla (1. periodi)](course)
+- Does the schedule for [Johdatus kunta- ja aluejohtamiseen (avoin yliopisto-opetus), monimuoto-opetus](course) have any exceptions
+- When were the exceptions for [Yhteisöviestintä kunta- ja aluejohtamisessa](course)
+- The exceptions in lessons for [Ympäristöhallinnan muutos](course)
+- Special teaching times for [Turvallisuuspalvelujen suunnittelu ja palvelumuotoilu (service design)](course)
+- Is there anything special I should know about the course schedule for [Ruotsin kielen valmentava kurssi](course)
+- [Orientoivat opinnot ja HOPS (suomen kieli)](course) special lecture hours
+- Special schedule [Näkökulmia kääntämiseen - Kääntäminen viestinnällisenä asiantuntijatehtävänä / Perspektiven auf Übersetzen](course)
+- Will there be lectures in holidays in [Social Scientific Perspectives on Consumption (online course)](course)
+- Holiday exceptions [Oikeudellisen tutkimuksen perusteet](course)
+- Course break teaching times [Käännösviestintä suomi-venäjä](course)
+- Do we have a lecture during holiday in [Kommunikationstraining I](course)
+- Cancelled lectures [Lasten oikeuspsykologia](course)
+- Will [Tutkielmaseminaari (keväällä 2019 alkavat seminaarit) - Seminaari](course) lectures be cancelled during holiday
+- Will [Kehitys, kasvatus ja elämänkulku, verkko-opetus](course) have a lecture every week
+- I want to know the exceptions in lessons for [TUTU2 Tulevaisuudentutkimuksen menetelmät](course)
+- I want to know special teaching times for [Matemaattiset ohjelmistot (luentokurssi)](course)
+- I want to know does the schedule for [Finnish Elementary Course 1 (taught in 3. period)](course) have any exceptions
+- I want to know Teaching times exceptions for [Digital Media Landscape and Media Policies](course)- Exceptions [Re-Thinking Value Creation](course)
+- Exception [TUTU2 Tulevaisuudentutkimuksen menetelmät](course)
+- What are the exceptions for [Asiantuntijan puheviestintä ja vuorovaikutus / AHOT (näyttökoe)](course)
+- [Poliittinen kommunikointi ja retoriikka (kirjatentti/essee)](course) exceptions
+- [Kandidaatintutkielmaseminaari - Seminaari, II-periodissa alkava nopeasti etenevä ryhmä](course) exception
+- Exceptions in teaching hours [Juridisk svenska (vain KTM:ksi klklla 2019 valmistuville)](course)
+- Exceptions in teaching times [Scientific Writing - Module B - Thesis Writing (online)](course)
+- Are there any exceptions in teaching [Matkakirjallisuus kulttuurihistorian lähteenä -verkkokurssi](course)
+- What exceptions are there in [Yhteiskunnallinen muutos](course)
+- Lecture exceptions [Korkeakoulujen rahoitus ja talous - Harjoitustyö](course)
+- Does [Radiokääntäminen (venäjä)](course) have exceptions in teaching hours
+- Were there exceptions in lectures [Valinnainen jakso: Toimitustyön johtaminen/ JOVVJS1 Visuaalisen työn johtaminen](course)
+- Teaching times exceptions for [Tilinpäätös- ja verosuunnittelu](course)
+- What were the exceptions of teaching in [Psykologiharjoittelu](course)
+- Does the schedule for [Research Methods in HTI](course) have any exceptions
+- When were the exceptions for [Hesdoc Annual Meeting](course)
+- The exceptions in lessons for [Tieteellinen kirjoittaminen](course)
+- Special teaching times for [Espanja I](course)
+- Is there anything special I should know about the course schedule for [Kasvatus, koulutus ja yhteiskunta, verkko-opetus](course)
+- [Harjoittelu / Elinikäinen oppiminen ja kasvatus - Arviointiseminaari vuonna 2018 harjoitteleville](course) special lecture hours
+- Special schedule [Tieteenfilosofiaa kasvatustieteen näkökulmasta](course)
+- Will there be lectures in holidays in [Vaihtuvasisältöiset erikoiskurssit (kirjallinen tentti suoritusvaihtoehto) -](course)
+- Holiday exceptions [Foundations of English Business Communication (RPL) / näyttökoe](course)
+- Course break teaching times [Käsitekerho/ Mediatutkimuksen valinn. jakso](course)
+- Do we have a lecture during holiday in [Pro gradu -seminaari ja -tutkielma (julkisoikeus)](course)
+- Cancelled lectures [Romanticism and Its Legacy](course)
+- Will [Käyttöliittymien perusteet](course) lectures be cancelled during holiday
+- Will [Opetussuunnitelmateoria - Luennot, seminaari ja lukupiiri (slk) TAI kirjatentti (slk ja klk)](course) have a lecture every week
+- I want to know the exceptions in lessons for [Finnish Elementary Course 2 (taught in 4. period)](course)
+- I want to know special teaching times for [Introduction to Formal Specification](course)
+- I want to know does the schedule for [Tutkimustyön perusteet - d) Kandidaattiseminaari (keväällä 2019 alkava)](course) have any exceptions
+- I want to know Teaching times exceptions for [Introduction to Corporate Social Responsibility](course)- Exceptions [New Wars and How to Study Them (POMLFCS3)](course)
+- Exception [Äärellisten mallien teorian seminaari (Finite model theory seminar)](course)
+- What are the exceptions for [Asiakassuhde ja haastattelu](course)
+- [Pelit ja pelillisyys (syksyllä 2017 perusopinnot aloittaneille) - verkkokurssi](course) exceptions
+- [Tiimi toimii - puheviestinnän syventävä kurssi (4. periodi)](course) exception
+- Exceptions in teaching hours [Sidosryhmäteoria ja -johtaminen](course)
+- Exceptions in teaching times [Proseminaari, kandidaatintutkielma ja kypsyysnäyte](course)
+- Are there any exceptions in teaching [Osallisuudet, oikeudet ja vastuut palvelujärjestelmäkohtaamisissa](course)
+- What exceptions are there in [Uutisjournalismi](course)
+- Lecture exceptions [Terve ja sairas ihminen](course)
+- Does [Seminaari, kandidaatintutkielma ja kypsyysnäyte - Seminaari (kääntäminen ja tulkkaus)](course) have exceptions in teaching hours
+- Were there exceptions in lectures [Managing Research Information](course)
+- Teaching times exceptions for [Journalistinen kieli - Tekstinhuolto](course)
+- What were the exceptions of teaching in [Book Exam in Human-Technology Interaction](course)
+- Does the schedule for [Kasvatus, tieto ja teoria - Luennot](course) have any exceptions
+- When were the exceptions for [Gradu-kvantimetodit](course)
+- The exceptions in lessons for [Johdatus filosofiaan](course)
+- Special teaching times for [Käännösviestintä ranska-suomi I /  Traduction français-finnois I](course)
+- Is there anything special I should know about the course schedule for [Ruotsin kielen kirjallinen ja suullinen viestintä / avoin yliopisto-opetus](course)
+- [Tutkimuspraktikum](course) special lecture hours
+- Special schedule [Johdatus yhteiskuntafilosofiaan](course)
+- Will there be lectures in holidays in [Kandidaatin tutkielma ja seminaari (Kansanterveystieteen opiskelijoille)](course)
+- Holiday exceptions [Kliininen neuropsykologia II](course)
+- Course break teaching times [Dialogue: Constructive Talk at Work](course)
+- Do we have a lecture during holiday in [Current and Future Challenges of World Politics and Economy (POMLFCS3)](course)
+- Cancelled lectures [Kasvatus, koulutus ja yhteiskunta - Luennot ja kirjallisuus](course)
+- Will [MED Research Day](course) lectures be cancelled during holiday
+- Will [Terve ja turvallinen kouluyhteisö](course) have a lecture every week
+- I want to know the exceptions in lessons for [Nykyajan filosofia](course)
+- I want to know special teaching times for [Kandidaattiseminaari (Mustakallio)](course)
+- I want to know does the schedule for [Työpaja (matematiikan perustaitotesti)](course) have any exceptions
+- I want to know Teaching times exceptions for [Saksa IV](course)- Exceptions [Johdatus hoitotieteeseen](course)
+- Exception [Kiina III](course)
+- What are the exceptions for [Practices of Strategic Leadership](course)
+- [Kasvatustieteen metodologiset lähtökohdat, kirjatentti, Seinäjoki](course) exceptions
+- [Julkisen talousjohtamisen informaatio](course) exception
+- Exceptions in teaching hours [Mental Health Research: Using the Knowledge and Adding to it](course)
+- Exceptions in teaching times [Johdanto riskienhallintaan ja vakuuttamiseen](course)
+- Are there any exceptions in teaching [Riskienhallinta](course)
+- What exceptions are there in [Kauppatieteellisen tutkimuksen menetelmät (markkinointi ja yrityksen johtaminen)](course)
+- Lecture exceptions [English Word Formation](course)
+- Does [Saksa II](course) have exceptions in teaching hours
+- Were there exceptions in lectures [Tieteellinen kirjoittaminen / Wissenschaftliches Schreiben](course)
+- Teaching times exceptions for [Pro gradu -seminaari ja -tutkielma](course)
+- What were the exceptions of teaching in [Venäjä IV](course)
+- Does the schedule for [Kandidaatintutkielma ja seminaari - Seminaari](course) have any exceptions
+- When were the exceptions for [Johdatus etiikkaan](course)
+- The exceptions in lessons for [Kirjallisuuden opettaminen](course)
+- Special teaching times for [Historian määrällisen tiedon esittäminen](course)
+- Is there anything special I should know about the course schedule for [Johtamisen ja julkisen politiikan tutkimus ja ajankohtaiset kysymykset](course)
+- [Human-Centered Product Development (TUT/IHTE)](course) special lecture hours
+- Special schedule [Case study: Examining leadership challenges](course)
+- Will there be lectures in holidays in [Research seminar for postgraduate studies](course)
+- Holiday exceptions [Parties, Elections and Political Participation (book exam/essay)](course)
+- Course break teaching times [Eläimet työssä](course)
+- Do we have a lecture during holiday in [Uuden ajan alun ryhmä](course)
+- Cancelled lectures [Perusharjoittelu](course)
+- Will [Johdatus Suomen kirjallisuushistoriaan - harjoitukset](course) lectures be cancelled during holiday
+- Will [Suomen kielen rakenne S2-näkökulmasta](course) have a lecture every week
+- I want to know the exceptions in lessons for [Oikeus ja politiikka](course)
+- I want to know special teaching times for [Tutkiva opiskelu (syksyllä 2018 perusopinnot aloittaville) - verkkokurssi](course)
+- I want to know does the schedule for [Ylirajallinen liikkuminen Itämerellä: Suomenlahden alueet kautta aikojen -verkkokurssi](course) have any exceptions
+- I want to know Teaching times exceptions for [KV-tuutorina toimiminen](course)- Exceptions [Strategic Management Accounting and Control](course)
+- Exception [Ruotsin kielen valmentava kurssi](course)
+- What are the exceptions for [Popular Music and Politics](course)
+- [BMT-70100 Kudosteknologian perusteet](course) exceptions
+- [Eastern European Model: Lithuanian System of Work and Social Security](course) exception
+- Exceptions in teaching hours [KnowUp - Yrittäjyys ja liiketoiminnan kehittäminen](course)
+- Exceptions in teaching times [Yhtiöoikeus](course)
+- Are there any exceptions in teaching [Media and Globalization - Seminar](course)
+- What exceptions are there in [Kompleksianalyysi](course)
+- Lecture exceptions [Academic Presentations](course)
+- Does [Graduseminaari / Henttonen](course) have exceptions in teaching hours
+- Were there exceptions in lectures [Kandidaattitutkielma ja seminaari (tilastotiede)](course)
+- Teaching times exceptions for [Pro gradu -tutkielma ja -seminaari, tammikuussa 2018 aloittaneet ryhmät](course)
+- What were the exceptions of teaching in [Kvantitatiiviset tutkimusmenetelmät (kirjatentti/essee)](course)
+- Does the schedule for [Global Humanitarianism and its Critics (POMLFCS3)](course) have any exceptions
+- When were the exceptions for [Ruututekstikääntämisen peruskurssi](course)
+- The exceptions in lessons for [Microfinance and development](course)
+- Special teaching times for [Governing Hybrid Organizations](course)
+- Is there anything special I should know about the course schedule for [Työelämän tekstitaidot](course)
+- [Tuutorivastaavana toimiminen](course) special lecture hours
+- Special schedule [Bioinformatics tools (autumn 2018)](course)
+- Will there be lectures in holidays in [Software Project Management, Theory](course)
+- Holiday exceptions [Interacting Interculturally: Engaging in dialogue](course)
+- Course break teaching times [Euroopan unioni (kirjatentti/essee)](course)
+- Do we have a lecture during holiday in [Finlaysonin kielimaailmat](course)
+- Cancelled lectures [Maisteriopintojen esittely - HTI (in Finnish)](course)
+- Will [Journalistinen kieli - Kielenhuolto, oikeinkirjoitusoppi](course) lectures be cancelled during holiday
+- Will [Lapsuuden antropologia ja transnationaali lapsuus](course) have a lecture every week
+- I want to know the exceptions in lessons for [Opetus, ohjaus, oppiminen, verkko-opetus](course)
+- I want to know special teaching times for [Tutkimustyön perusteet - c) Tutkimusmenetelmien erityiskysymyksiä](course)
+- I want to know does the schedule for [Luova kaupunkikehittäminen](course) have any exceptions
+- I want to know Teaching times exceptions for [Kuvataidekasvatus / Harjoitukset - 2.vsk](course)- Exceptions [Opetus, ohjaus, oppiminen - Luokanopettajaopiskelijat: Pienryhmäopetus ja siihen liittyvä harjoittelu (2 op) ja kirjallisuus (2 op)](course)
+- Exception [Ryhmät ja ryhmien väliset suhteet](course)
+- What are the exceptions for [Kansainvälisen politiikan johdantokurssi (kaikki opiskelijat)](course)
+- [Seminaari I/Seminarium I](course) exceptions
+- [Kandidaatintutkielmaseminaari - Seminaari](course) exception
+- Exceptions in teaching hours [Structure of English II - Phonology and Pronunciation II](course)
+- Exceptions in teaching times [Inklusiivinen koulu - Luennot, seminaarit, kenttätehtävä ja raportointi](course)
+- Are there any exceptions in teaching [Seminaari](course)
+- What exceptions are there in [Usability Evaluation Methods](course)
+- Lecture exceptions [Semantiikka ja pragmatiikka / Semantik und Pragmatik](course)
+- Does [Poverty in the world: Hunger, inequalities and action](course) have exceptions in teaching hours
+- Were there exceptions in lectures [COURSE CANCELLED: Islamism](course)
+- Teaching times exceptions for [Kasvatus tieteellisen tutkimuksen kohteena - verkko-opetus, IV-periodi](course)
+- What were the exceptions of teaching in [Tekstianalyysi / Textanalyse](course)
+- Does the schedule for [Makrotalousteorian jatkokurssi II](course) have any exceptions
+- When were the exceptions for [Automaatit I](course)
+- The exceptions in lessons for [Experimental Research in Human-Technology Interaction](course)
+- Special teaching times for [Tieteellinen kommunikaatio ja bibliometriikka](course)
+- Is there anything special I should know about the course schedule for [Lähtötasokoe](course)
+- [Inklusiivinen pedagogiikka ja oppimisen tukeminen](course) special lecture hours
+- Special schedule [Introduction to Entrepreneurship](course)
+- Will there be lectures in holidays in [Terve ja turvallinen kouluyhteisö](course)
+- Holiday exceptions [Yhtiöoikeus](course)
+- Course break teaching times [Tutkielmaseminaari (logopedia)](course)
+- Do we have a lecture during holiday in [Book Exam in Human-Technology Interaction](course)
+- Cancelled lectures [Kauppatieteellisen tutkimuksen menetelmät (vakuutus ja riskienhallinta + laskentatoimi)](course)
+- Will [The European Union's Transnational Policies (POMLFCS2)](course) lectures be cancelled during holiday
+- Will [Curriculum Studies - Lectures](course) have a lecture every week
+- I want to know the exceptions in lessons for [Finlaysonin kielimaailmat](course)
+- I want to know special teaching times for [Tietojenkäsittelyopin syventävä opintojakso TTY:ltä](course)
+- I want to know does the schedule for [Kehitys, kasvatus ja elämänkulku, monimuoto-opetus](course) have any exceptions
+- I want to know Teaching times exceptions for [Kääntämisen ja tulkkauksen teoria ja käytäntö - Tulkkausviestinnän perusteet](course)- Exceptions [Kasvatushistoria - kirjatentti (slk ja klk)](course)
+- Exception [Tiimi toimii - puheviestinnän syventävä kurssi (3. - 4. periodi)](course)
+- What are the exceptions for [Johdatus kaunokirjalliseen kääntämiseen](course)
+- [Eriytyvä syventävä tutkimusmenetelmäkurssi A: Etnografia](course) exceptions
+- [Eriytyvä syventävä tutkimusmenetelmäkurssi B: Metodologinen essee](course) exception
+- Exceptions in teaching hours [Kvantitatiivinen tutkimus kasvatustieteissä - Harjoitukset, yleinen](course)
+- Exceptions in teaching times [Lähtötasokoe](course)
+- Are there any exceptions in teaching [Service Marketing](course)
+- What exceptions are there in [Qualitative Approach](course)
+- Lecture exceptions [Orientoivat opinnot - HOPS1](course)
+- Does [Professional Writing (online course)](course) have exceptions in teaching hours
+- Were there exceptions in lectures [Psykiatria](course)
+- Teaching times exceptions for [Seminaari (Heinonen)](course)
+- What were the exceptions of teaching in [Sosiaaliturvan ajankohtaisia kysymyksiä](course)
+- Does the schedule for [Biological data analysis with R](course) have any exceptions
+- When were the exceptions for [Ääntämisharjoituksia](course)
+- The exceptions in lessons for [Vuorovaikutuksen perusteet - verkkokurssina II](course)
+- Special teaching times for [Kielen variaatio](course)
+- Is there anything special I should know about the course schedule for [Gender and wellbeing in the global South and North](course)
+- [Seminaari (Nikunen) jatkuu keväältä](course) special lecture hours
+- Special schedule [Työpaja (matematiikan perustaitotesti)](course)
+- Will there be lectures in holidays in [Kandidaattitutkielma ja seminaari (matematiikka) - LaTeX-opinnot](course)
+- Holiday exceptions [Asiantuntijan puheviestintä ja vuorovaikutus sosiaali- ja terveysalalla (4. periodi)](course)
+- Course break teaching times [Biomolekyylit](course)
+- Do we have a lecture during holiday in [Lapsuuden, nuoruuden ja perheen tutkimuskeskus PERLAn tutkimusseminaari](course)
+- Cancelled lectures [Orientoivat opinnot - Tiedonhankintataidot](course)
+- Will [Kvantitatiivinen tutkimus kasvatustieteissä - Harjoitukset, yhteisopetusta avoimen yo:n kanssa](course) lectures be cancelled during holiday
+- Will [Valtio-opin maisteriseminaari](course) have a lecture every week
+- I want to know the exceptions in lessons for [Antiikintutkimuksen lähteet ja menetelmät](course)
+- I want to know special teaching times for [Mediakulttuurit / Luennot - 2.vsk + 1.vsk ryhmät 6 ja 7](course)
+- I want to know does the schedule for [Pohjoismaiden yhteiskuntaolot ja kulttuurit](course) have any exceptions
+- I want to know Teaching times exceptions for [Terveyden edistämisen interventiot, Seinäjoki](course)- Exceptions [Terveystaloustieteen tohtorikoulutussemiaari](course)
+- Exception [Kielellinen vaihtelu/Språklig variation](course)
+- What are the exceptions for [Varhaismoderni yhteiskunta](course)
+- [Euroopan unionin finanssihallinto-oikeus - Luennot ja tentti.](course) exceptions
+- [Kansainvälisen politiikan yleiset syventävät menetelmäopinnot](course) exception
+- Exceptions in teaching hours [Sosiaalihuollon hallinto ja johtaminen](course)
+- Exceptions in teaching times [Saksankielinen kaunokirjallisuus valistusajasta toiseen maailmansotaan / Deutschsprachige Literatur von der Aufklärung bis zum Zweiten Weltkrieg](course)
+- Are there any exceptions in teaching [Tilintarkastus II](course)
+- What exceptions are there in [Olio-ohjelmoinnin perusteet](course)
+- Lecture exceptions [Sosiaalioikeus - STYA1A1 Sosiaalioikeus I](course)
+- Does [Lähtötasokoe - Kirjallinen tentti](course) have exceptions in teaching hours
+- Were there exceptions in lectures [Diskutera som specialist](course)
+- Teaching times exceptions for [Performance management in public organizations](course)
+- What were the exceptions of teaching in [Tekninen viestintä ja informaation suunnittelu](course)
+- Does the schedule for [Tieteellisen kirjoittamisen seminaari kvantitatiivista tutkimusta tekeville](course) have any exceptions
+- When were the exceptions for [Tiedonhankinnan perusteet](course)
+- The exceptions in lessons for [Kandidaattiseminaari ja -tutkielma (kunta- ja aluejohtaminen) - Seminaari Syksy 2018](course)
+- Special teaching times for [Sukupuolen ja ruumiillisuuden tutkimuksen nykykeskustelut](course)
+- Is there anything special I should know about the course schedule for [Johdatus yhteiskuntahistoriaan](course)
+- [Terveys, tieto, asiantuntijuus](course) special lecture hours
+- Special schedule [Laskentatoimen perusteet (avoin yliopisto-opetus), monimuoto-opetus](course)
+- Will there be lectures in holidays in [Tieteellisen kirjoittamisen seminaari kvantitatiivista tutkimusta tekeville](course)
+- Holiday exceptions [Perhehoitotieteellisen tiedon syventäminen -](course)
+- Course break teaching times [Vaikuttaminen ja argumentointi](course)
+- Do we have a lecture during holiday in [Kuva-  ja mediakulttuurit - Mediakulttuurit - 1. vsk ja erillisen opinto-oikeuden POM-opintoihin saaneet opiskelijat  (ryhmätyöskentely)](course)
+- Cancelled lectures [Orientoivat opinnot - Alkuorientaatio](course)
+- Will [SOS6.2.3 Työelämän vuorovaikutus](course) lectures be cancelled during holiday
+- Will [PhD by publication: writing integrative chapter](course) have a lecture every week
+- I want to know the exceptions in lessons for [Special Issues in Games and Internet Cultures](course)
+- I want to know special teaching times for [Terveystieteiden laadulliset tutkimusmenetelmät, kansanterveystieteen opiskelijoille](course)
+- I want to know does the schedule for [Solut](course) have any exceptions
+- I want to know Teaching times exceptions for [Kandidaatintutkielmaseminaari - Seminaari](course)- Exceptions [Työmarkkinat, työvoiman käyttö ja työllisyysturva](course)
+- Exception [Institutions, Innovation and Economic Renewal (NORDIG)](course)
+- What are the exceptions for [Lasten arki suomalaisessa yhteiskunnassa / Luennot - 1.vsk](course)
+- [Kognitiivinen neurotiede I](course) exceptions
+- [Valtio-opin maisteriseminaari](course) exception
+- Exceptions in teaching hours [Markkinoinnin ja myynnin perusteet](course)
+- Exceptions in teaching times [Johdatus matemaattiseen päättelyyn](course)
+- Are there any exceptions in teaching [Algebra 2](course)
+- What exceptions are there in [Usean muuttujan integraalilaskenta](course)
+- Lecture exceptions [Sosiaalioikeus](course)
+- Does [Asevelvollisuus Suomessa ja kansainvälisesti](course) have exceptions in teaching hours
+- Were there exceptions in lectures [Kandidaatintutkielmaseminaari - Muuntotyöryhmä, klk19](course)
+- Teaching times exceptions for [Kuvataiteen perusteet - 1.vsk](course)
+- What were the exceptions of teaching in [Study Skills and Personal Study Planning - Basics of Information Literacy](course)
+- Does the schedule for [Tilastollisten tutkimusmenetelmien soveltaminen hoitotieteessä](course) have any exceptions
+- When were the exceptions for [Sukupuoli, perhe ja yhteiskunta](course)
+- The exceptions in lessons for [Master's Thesis Seminar and Master's Thesis (2nd year students)](course)
+- Special teaching times for [Kvantitatiivinen tutkimus kasvatustieteissä - Näyttökoe](course)
+- Is there anything special I should know about the course schedule for [Pro gradu -tutkielma ja -seminaari, syksyllä 2018 aloittavat ryhmät](course)
+- [International tutoring / Kv-tuutorina toimiminen](course) special lecture hours
+- Special schedule [Muu valinnainen kurssi](course)
+- Will there be lectures in holidays in [Kehitys, kasvatus ja elämänkulku, monimuoto-opetus](course)
+- Holiday exceptions [Specialized Optional Research Methodology: Action research](course)
+- Course break teaching times [Liikunta pedagogisena ilmiönä - B Liikunnan vaihtevat ympäristöt](course)
+- Do we have a lecture during holiday in [Espanja II](course)
+- Cancelled lectures [Tutkiva opiskelu (keväällä 2019 perusopinnot aloittaville) - verkkokurssi](course)
+- Will [Introduction to Web Publishing - Autumn 2018](course) lectures be cancelled during holiday
+- Will [Kvantitatiivinen tutkimus kasvatustieteissä - Harjoitukset, varhaiskasvatus](course) have a lecture every week
+- I want to know the exceptions in lessons for [Lapset ympäristönsä tutkijoina - Ympäristökasvatus](course)
+- I want to know special teaching times for [Tieteellinen kirjoittaminen](course)
+- I want to know does the schedule for [Tieteenfilosofiaa kasvatustieteen näkökulmasta](course) have any exceptions
+- I want to know Teaching times exceptions for [Specialised International Relations Research Methods (book exam/essay)](course)- Exceptions [Psykologian tutkimusmenetelmät II: kokeellinen ja korrelatiivinen tutkimus](course)
+- Exception [Kirjoitusviestintä / COMS](course)
+- What are the exceptions for [Kaikille avoin tutkijaseminaari](course)
+- [Ainedidaktiikka I](course) exceptions
+- [Todennäköisyyslaskenta](course) exception
+- Exceptions in teaching hours [Terveysviestintä](course)
+- Exceptions in teaching times [Marketing Communications](course)
+- Are there any exceptions in teaching [Nuorisotyön ja nuorisotutkimuksen maisteriohjelman lähijakso 7.-8.11.2018](course)
+- What exceptions are there in [Comparative European Politics and the Finnish Political System (book exam/essay)](course)
+- Lecture exceptions [Asiantuntijan puheviestintä ja vuorovaikutus opetus- ja kasvatustyössä (4. periodi)](course)
+- Does [Philosophy of Science](course) have exceptions in teaching hours
+- Were there exceptions in lectures [Visuaalisen journalismin erityisalueet](course)
+- Teaching times exceptions for [Journalism Start-Ups and Enterpreneurialism](course)
+- What were the exceptions of teaching in [Asiantuntijan puheviestintä ja vuorovaikutus (1. periodi)](course)
+- Does the schedule for [Lapset ympäristönsä tutkijoina - Matematiikka](course) have any exceptions
+- When were the exceptions for [Governing Hybrid Organizations](course)
+- The exceptions in lessons for [Advanced English Business Communication](course)
+- Special teaching times for [Teaching, Pedagogical Facilitating, Learning](course)
+- Is there anything special I should know about the course schedule for [Ohjelmointia teknisille viestijöille](course)
+- [Project Work (Spring term 2018)](course) special lecture hours
+- Special schedule [Nuorisotyön ja nuorisotutkimuksen maisteriohjelman lähijakso 14.-15.3.2019](course)
+- Will there be lectures in holidays in [Inklusiivinen varhaiskasvatus / Harjoitukset - 3.vsk](course)
+- Holiday exceptions [African and Black Diaspora Studies Research Seminar](course)
+- Course break teaching times [Vanhuus ja gerontologinen sosiaalityö](course)
+- Do we have a lecture during holiday in [Poverty in the world: Hunger, inequalities and action](course)
+- Cancelled lectures [Mediakasvatus, osallisuus ja aktiivinen kansalaisuus - Luennot ja ryhmä-/verkkotyöskentely (klk) TAI kirjatentti (slk ja klk)](course)
+- Will [Moniammatilliset johtamisopinnot](course) lectures be cancelled during holiday
+- Will [Tuutorvastaavana toimiminen / Being a tutor in charge](course) have a lecture every week
+- I want to know the exceptions in lessons for [Filosofian työpaja](course)
+- I want to know special teaching times for [Rekisteritutkimukset](course)
+- I want to know does the schedule for [Study skills and personal study planning - Basics of Information Literacy](course) have any exceptions
+- I want to know Teaching times exceptions for [Kandidaatintutkielma - Seminaari ja tutkielma](course)- Exceptions [Project Work (Spring term 2018)](course)
+- Exception [Management and organizations I (literature)](course)
+- What are the exceptions for [Johdatus Suomen kirjallisuushistoriaan - harjoitukset](course)
+- [Kick-start to Biomedical Technology](course) exceptions
+- [Second Language Acquisition](course) exception
+- Exceptions in teaching hours [Media maailmassa - verkkokurssi](course)
+- Exceptions in teaching times [Game Project](course)
+- Are there any exceptions in teaching [Mediakasvatus, osallisuus ja aktiivinen kansalaisuus, kirjatentti](course)
+- What exceptions are there in [Euroopan unioni ja maailma](course)
+- Lecture exceptions [Varhaiskasvatuksen kehittyvä asiantuntijuus - Työssäoppiminen (2.vsk ryhmä 4)](course)
+- Does [Tieteellinen kirjoittaminen / COMS (puheviestinnän opiskelijoille)](course) have exceptions in teaching hours
+- Were there exceptions in lectures [Espanja IV](course)
+- Teaching times exceptions for [Yhdyskuntakehittämisen ajankohtaisia kysymyksiä](course)
+- What were the exceptions of teaching in [Ruotsin kielen kirjallinen ja suullinen viestintä (ensijaisesti EDU:n opiskelijoille), 4. periodi](course)
+- Does the schedule for [Finnish Survival Course](course) have any exceptions
+- When were the exceptions for [Psykiatria](course)
+- The exceptions in lessons for [Tieto-oppi](course)
+- Special teaching times for [Olio-ohjelmoinnin perusteet](course)
+- Is there anything special I should know about the course schedule for [Pro gradu -tutkielma ja -seminaari](course)
+- [Basics I: Basics of Czech language II](course) special lecture hours
+- Special schedule [Johdatus visuaaliseen kulttuuriin](course)
+- Will there be lectures in holidays in [Epidemiology Journal Club](course)
+- Holiday exceptions [Inclusiveness in Local Innovation Environments](course)
+- Course break teaching times [Kansainvälisen politiikan erikoistuvat menetelmäopinnot](course)
+- Do we have a lecture during holiday in [Tutkijan digi- ja medianäkyvyys](course)
+- Cancelled lectures [Legal English](course)
+- Will [Literature and Society in Early Modern Britain](course) lectures be cancelled during holiday
+- Will [Espanja III](course) have a lecture every week
+- I want to know the exceptions in lessons for [Espanjan kielioppi II/Gramática española II](course)
+- I want to know special teaching times for [Agenda-Setting in Public Policy (POMLFCS1)](course)
+- I want to know does the schedule for [Kulttuurien kohtaaminen](course) have any exceptions
+- I want to know Teaching times exceptions for [Orientation - Orientation to studying in the Software Development programme](course)- Exceptions [Järjestöjen rooli sosiaalipolitiikassa ja vapaaehtoistyö](course)
+- Exception [KEB-21101 Mikrobiologia](course)
+- What are the exceptions for [Bioinformatics tools (spring 2019)](course)
+- [Kvalitatiivinen tutkimus kasvatustieteissä - Näyttökoe](course) exceptions
+- [Introduction to Academic English (diverse learners)](course) exception
+- Exceptions in teaching hours [Finlaysonin kielimaailmat](course)
+- Exceptions in teaching times [Ympäristökasvatus / Luennot - 2.vsk + 1.vsk ryhmät 6 ja 7](course)
+- Are there any exceptions in teaching [Kaunokirjallisen kääntämisen peruskurssi](course)
+- What exceptions are there in [Kehityspsykologia I (avoin yliopisto)](course)
+- Lecture exceptions [Kandidaatin tutkielma ja seminaari (hoitotiede)](course)
+- Does [Suomen kielen rakenne S2-näkökulmasta](course) have exceptions in teaching hours
+- Were there exceptions in lectures [Valinnainen jakso: Audiovisuaalisen kerronnan teoria ja dramaturgia](course)
+- Teaching times exceptions for [Introduction to Science and Research (autumn)](course)
+- What were the exceptions of teaching in [Terveydenhuollon koulutuspolitiikka](course)
+- Does the schedule for [Courses in Computer Science in TUT](course) have any exceptions
+- When were the exceptions for [Käsityö - Projektiosio - 2.vsk ja opinnot 1½ lukuvuodessa suorittavat 1.vsk ja POM-opintoihin opinto-oikeuden saaneet opiskelijat](course)
+- The exceptions in lessons for [Asiantuntijan ja esimiehen työelämätaidot](course)
+- Special teaching times for [Kielioppi I/Språkets strukturer I](course)
+- Is there anything special I should know about the course schedule for [Kielen kehitys / Luennot- 2.vsk + 1.vsk ryhmät 6 ja 7](course)
+- [Arviointimenetelmät](course) special lecture hours
+- Special schedule [Johdatus tilastotieteeseen](course)
+- Will there be lectures in holidays in [Aikuiskasvatus ja työelämä, kirjatentti, Pori](course)
+- Holiday exceptions [Theatre, Society, and Politics 1660-1760](course)
+- Course break teaching times [Parametric and Non-Parametric Statistics](course)
+- Do we have a lecture during holiday in [Global Ghallenges to the Future of Welfare State (Tampere Summer School 2018)](course)
+- Cancelled lectures [Menetelmäklinikka](course)
+- Will [Sosiaalisen median yhteisöt: menetelmällisiä ratkaisuja määrällisestä laadulliseen](course) lectures be cancelled during holiday
+- Will [Orientation](course) have a lecture every week
+- I want to know the exceptions in lessons for [Henkilöstöjohtaminen](course)
+- I want to know special teaching times for [Politiikan tutkimuksen kandidaatintutkielma ja -seminaari](course)
+- I want to know does the schedule for [Musiikin tiedolliset valmiudet ja niiden soveltaminen - Kuuntelukasvatus](course) have any exceptions
+- I want to know Teaching times exceptions for [Strateginen johtaminen julkisyhteisöissä](course)- Exceptions [Äänen tutkimus ja kuntoutus](course)
+- Exception [Orientoivat opinnot ja HOPS (pohjoismaiset kielet)](course)
+- What are the exceptions for [Cultural Transitions](course)
+- [Lineaarialgebra 1B](course) exceptions
+- [Semantiikan harjoituskurssi](course) exception
+- Exceptions in teaching hours [Käsitteellinen mallintaminen I](course)
+- Exceptions in teaching times [Moniammatilliset johtamisopinnot](course)
+- Are there any exceptions in teaching [Asioimistulkkaus venäjä-suomi-venäjä](course)
+- What exceptions are there in [Käännösviestintä suomi - saksa / Translation Finnisch-Deutsch](course)
+- Lecture exceptions [Sosiaalityön vuorovaikutuksen tutkimus - Sosnet-verkkokurssi](course)
+- Does [Ruotsin kielen kirjallinen ja suullinen viestintä (ensijaisesti EDU:n opiskelijoille), 3. periodi](course) have exceptions in teaching hours
+- Were there exceptions in lectures [Tiede, tutkimus, kirjoittaminen (verkkokurssi)](course)
+- Teaching times exceptions for [Äkilliset traumaattiset kriisit ja niiden käsittely](course)
+- What were the exceptions of teaching in [Ruotsin kielen valmentava kurssi](course)
+- Does the schedule for [Multi-level Modelling (MLM) - Concepts and Practice -](course) have any exceptions
+- When were the exceptions for [Liikunta pedagogisena ilmiönä - A Liikunnan ainedidaktiikka (yhteiset seminaarit)](course)
+- The exceptions in lessons for [Lähtötasokoe](course)
+- Special teaching times for [Matemaattiset aineet - Johdatus lukukäsitteeseen ja toimintamateriaalit - 1. vsk  ja erillisen opinto-oikeuden POM-opintoihin saaneet opiskelijat (luennot)](course)
+- Is there anything special I should know about the course schedule for [Työelämän korttipakka](course)
+- [Lähihistorian ryhmä](course) special lecture hours
+- Special schedule [Orientaatio maisteriopintoihin](course)
+- Will there be lectures in holidays in [Lukeminen ja kirjoittaminen oppimisen haasteena - (luennot)](course)
+- Holiday exceptions [Introduction to Academic English (diverse learners)](course)
+- Course break teaching times [Information Visualization](course)
+- Do we have a lecture during holiday in [Johdatus visuaaliseen kulttuuriin](course)
+- Cancelled lectures [Seminaari (Nikunen) jatkuu keväältä](course)
+- Will [Sosiaalipolitiikan ideat ja käytännöt](course) lectures be cancelled during holiday
+- Will [Poliittinen kommunikaatio ja retoriikka (kirjatentti/essee)](course) have a lecture every week
+- I want to know the exceptions in lessons for [Globaali, lokaali ja yhteisöllisyys sosiaalityössä (kirjatentti)](course)
+- I want to know special teaching times for [Writing the Nation](course)
+- I want to know does the schedule for [Work and Health](course) have any exceptions
+- I want to know Teaching times exceptions for [Kerronnan monet muodot (luentokurssi korvaa kirjatentin)](course)- Exceptions [Tilastomenetelmien perusteet](course)
+- Exception [Verkkomedian suunnittelu - verkkokurssi](course)
+- What are the exceptions for [Pitkä harjoittelu](course)
+- [Tekniikan käännösviestinnän seminaari englanti-suomi](course) exceptions
+- [Liikekirjanpito ja tilinpäätös](course) exception
+- Exceptions in teaching hours [Responsible Business and Social Accounting (Online course)](course)
+- Exceptions in teaching times [Kulttuurien kohtaaminen](course)
+- Are there any exceptions in teaching [Tilastotieteen matriisilaskenta ja laskennalliset menetelmät](course)
+- What exceptions are there in [Työelämävalmiudet ja asiantuntijuus - valmennusseminaari ja palautekeskustelu](course)
+- Lecture exceptions [Kohti matematiikan opettajuutta 1(TTY)](course)
+- Does [Terveydenhuollon ja terveystutkimuksen etiikka, Seinäjoki](course) have exceptions in teaching hours
+- Were there exceptions in lectures [Lausekielinen ohjelmointi I](course)
+- Teaching times exceptions for [Inklusiivinen varhaiskasvatus / Harjoitukset - 3.vsk](course)
+- What were the exceptions of teaching in [Introduction to Web Publishing (Tampere Summer School 2018)](course)
+- Does the schedule for [Thesis seminar](course) have any exceptions
+- When were the exceptions for [Yritysjuridiikan perusteet (avoin yliopisto-opetus)](course)
+- The exceptions in lessons for [Keskustelun- ja diskurssianalyysi / Gesprächs- und Diskursanalyse](course)
+- Special teaching times for [Asiantuntijan puheviestintä ja vuorovaikutus (1. periodi)](course)
+- Is there anything special I should know about the course schedule for [Kirjallinen viestintä I - Sanasto- ja rakenneharjoitukset](course)
+- [Moniulotteinen markkinointi (avoin yliopisto-opetus), monimuoto-opetus](course) special lecture hours
+- Special schedule [Johdatus kunta- ja aluejohtamiseen (avoin yliopisto-opetus), monimuoto-opetus](course)
+- Will there be lectures in holidays in [Vierailuluentoja johtamisesta](course)
+- Holiday exceptions [Väitöskirja (tutkijaseminaarit)](course)
+- Course break teaching times [Making sense of globalization - Theorizing beyond the nation-state - seminar](course)
+- Do we have a lecture during holiday in [Orientaatio filosofian tutkinto-ohjelman opintoihin](course)
+- Cancelled lectures [Methods in Text and Discourse Analysis](course)
+- Will [Espanja IV](course) lectures be cancelled during holiday
+- Will [Viestintä ammatillisissa ja läheisissä vuorovaikutussuhteissa](course) have a lecture every week
+- I want to know the exceptions in lessons for [Hoitotiede tieteenä](course)
+- I want to know special teaching times for [Johdatus yritysjuridiikkaan](course)
+- I want to know does the schedule for [Kirjallisuustieteen tohtoriohjelman tutkijaseminaari](course) have any exceptions
+- I want to know Teaching times exceptions for [Kandidaatin tutkielma ja seminaari (syksy)](course)- Exceptions [Terveys, tieto, asiantuntijuus](course)
+- Exception [Kirjoitusviestintä / COMS](course)
+- What are the exceptions for [Pro gradu -tutkielma ja -seminaari, syksyllä 2018 aloittavat ryhmät](course)
+- [Luemme ja keskustelemme venäjäksi](course) exceptions
+- [Business Ethics (Lectures)](course) exception
+- Exceptions in teaching hours [Ranskan kielen suullinen harjoituskurssi](course)
+- Exceptions in teaching times [Moniammatillisuus, yhteisö ja vuorovaikutus / Luennot - 3.vsk + 2.vsk ryhmä 4](course)
+- Are there any exceptions in teaching [Current Issues in Speech Communication (Puheviestintä tieteenä jatkuu)](course)
+- What exceptions are there in [Orientoivat opinnot - Tiedonhankintataidot](course)
+- Lecture exceptions [Perehdyttäminen tietotekniikan alkeisiin (kevät)](course)
+- Does [Ilmoittautuminen pro gradu -seminaariin, tammikuussa 2019 alkavat ryhmät](course) have exceptions in teaching hours
+- Were there exceptions in lectures [Game Theory/Advanced Course in Microeconomics](course)
+- Teaching times exceptions for [Sote ja sosiaalipolitiikka](course)
+- What were the exceptions of teaching in [Valtio-opin maisteriseminaari](course)
+- Does the schedule for [Taloustieteen matematiikka I](course) have any exceptions
+- When were the exceptions for [Preparatory Course in Reading and Writing for Academic Purposes (online)](course)
+- The exceptions in lessons for [Graduseminaari (Junkkari)](course)
+- Special teaching times for [Terve ja turvallinen kouluyhteisö](course)
+- Is there anything special I should know about the course schedule for [Tutkimusprosessin hallinta tohtoriopinnoissa](course)
+- [Aikuiskasvatus ja työelämä, kirjatentti slk tai klk](course) special lecture hours
+- Special schedule [Kääntämisen ja tulkkauksen teoria ja käytäntö - Käännösteoria](course)
+- Will there be lectures in holidays in [Tekstiklinikka tutkielman kirjoittajille](course)
+- Holiday exceptions [Julkinen eurooppaoikeus - Eurooppalaisen ihmisoikeustutkimuksen syventava kurssi](course)
+- Course break teaching times [Työelämän korttipakka](course)
+- Do we have a lecture during holiday in [Euroopan integraation teoria ja ulkosuhteet (kirjatentti/essee)](course)
+- Cancelled lectures [Grammaire/Kielioppi](course)
+- Will [Yhteiskunnan mittaaminen (verkkokurssi)](course) lectures be cancelled during holiday
+- Will [Uuden ajan alun murroksia](course) have a lecture every week
+- I want to know the exceptions in lessons for [Eurooppa-vero-oikeus](course)
+- I want to know special teaching times for [Tutkijan puheviestintä](course)
+- I want to know does the schedule for [Kuva, sana ja ääni -multimodaalisuuskurssi](course) have any exceptions
+- I want to know Teaching times exceptions for [Johdatus viestintään ja mediaan](course)- Exceptions [Draama - 2.vsk ja   opinnot 1½ lukuvuodessa suorittavat 1.vsk ja POM-opintoihin opinto-oikeuden saaneet opiskelijat( luennot)](course)
+- Exception [Maisteriopintojen esittely - CBDA](course)
+- What are the exceptions for [Omaan tieteenalaan ja tutkimusaiheeseen liittyvät opinnot teatteritaiteen tohtorin tutkinnossa](course)
+- [Kandidaattiseminaari ja tutkielma (laskentatoimi) - Kandidaattiseminaari, kevät 2018](course) exceptions
+- [Opetus, ohjaus, oppiminen - Luennot (1 op) EDUn opiskelijoille TAI luennot (1 op) ja kirjatentti (4 op) opintojakson valinnaisena suorittaville](course) exception
+- Exceptions in teaching hours [Orientation and Study Planning](course)
+- Exceptions in teaching times [Introduction to Argumentation and Scientific Reasoning](course)
+- Are there any exceptions in teaching [Quantitative Approach](course)
+- What exceptions are there in [Tutkimustyön perusteet - b) Tutkimusmenetelmät](course)
+- Lecture exceptions [Internationalisation in Education - (Tampere Summer School 2018)](course)
+- Does [Theories of Welfare States and Comparative Social Policy: An introduction](course) have exceptions in teaching hours
+- Were there exceptions in lectures [Seminaari I, kandidaatintutkielma ja kypsyysnäyte - Seminaari I](course)
+- Teaching times exceptions for [Sosiaalityön toimintaympäristöt](course)
+- What were the exceptions of teaching in [Radiokääntäminen (venäjä)](course)
+- Does the schedule for [Johdatus viestintään ja mediaan - verkkokurssi](course) have any exceptions
+- When were the exceptions for [EU Financial Management](course)
+- The exceptions in lessons for [History of Education - book exam](course)
+- Special teaching times for [Terveys politiikassa, taloudessa ja järjestelmissä](course)
+- Is there anything special I should know about the course schedule for [Yhtiöoikeuden syventävä opintojakso](course)
+- [Asiantuntijan puheviestintä ja vuorovaikutus / AHOT (näyttökoe)](course) special lecture hours
+- Special schedule [Johdatus viestinnän tutkimukseen ja analyysiin - kirjatentti](course)
+- Will there be lectures in holidays in [Terveys, tieto, asiantuntijuus](course)
+- Holiday exceptions [Identity and Lifecourse - Lectures, reading groups and essay](course)
+- Course break teaching times [Orientoivat opinnot ja HOPS (englannin kieli, kirjallisuus ja kääntäminen)](course)
+- Do we have a lecture during holiday in [Varhaismoderni yhteiskunta](course)
+- Cancelled lectures [Asiantuntijan puheviestintä ja vuorovaikutus (1. periodi)](course)
+- Will [Johdatus tieteenfilosofiaan](course) lectures be cancelled during holiday
+- Will [Eriytyvä syventävä tutkimusmenetelmäkurssi A: Etnografia](course) have a lecture every week
+- I want to know the exceptions in lessons for [Kvantitatiivinen tutkimus kasvatustieteissä - Harjoitukset, yleinen](course)
+- I want to know special teaching times for [Seminaari (Ridell)](course)
+- I want to know does the schedule for [Äänen tutkimus ja kuntoutus](course) have any exceptions
+- I want to know Teaching times exceptions for [Sosiaalityön tutkimuksen metodologisia suunnistuksia](course)- Exceptions [Critical theory and social ontology](course)
+- Exception [Postgraduate seminar in Interactive Technology (Turunen)](course)
+- What are the exceptions for [Suomi ja maailman kielet](course)
+- [MED Research Day](course) exceptions
+- [Olio-ohjelmoinnin perusteet](course) exception
+- Exceptions in teaching hours [Tutkimusprosessin hallinta tohtoriopinnoissa](course)
+- Exceptions in teaching times [Writing for Research](course)
+- Are there any exceptions in teaching [Musiikin tiedolliset valmiudet ja niiden soveltaminen - Kuuntelukasvatus](course)
+- What exceptions are there in [Oppimisyhteisöt ja vuorovaikutus, kirjatentti, Pori](course)
+- Lecture exceptions [Science and Biotechnology Journal Club](course)
+- Does [Rahatalous](course) have exceptions in teaching hours
+- Were there exceptions in lectures [Käännösviestintä suomi - saksa / Translation Finnisch-Deutsch](course)
+- Teaching times exceptions for [Yhteiskunnallinen laskentatoimi](course)
+- What were the exceptions of teaching in [Verkkojulkaisemisen perusteet (keväällä 2018 opintokokonaisuuden aloittaneille) - verkkokurssi](course)
+- Does the schedule for [European Integration Theory and External Relations (book exam/essay)](course) have any exceptions
+- When were the exceptions for [Pro gradu -seminaari 2018-2019 (vaihe I)](course)
+- The exceptions in lessons for [Master's Thesis Seminar in Software Development](course)
+- Special teaching times for [Ruotsin kielen kirjallinen ja suullinen viestintä (ensijaisesti EDU:n opiskelijoille), 3. periodi](course)
+- Is there anything special I should know about the course schedule for [Theatre, Society, and Politics 1660-1760](course)
+- [Professional Writing (online course)](course) special lecture hours
+- Special schedule [Tekstilingvistiikka / Textlinguistik](course)
+- Will there be lectures in holidays in [Professional Writing (online course)](course)
+- Holiday exceptions [Monikulttuurinen kirjallisuus Suomessa](course)
+- Course break teaching times [Lain ja hallinnon käännösviestinnän seminaari ranska-suomi](course)
+- Do we have a lecture during holiday in [Kaunokirjallinen kääntäminen venäjä-suomi](course)
+- Cancelled lectures [Kehitys, kasvatus ja elämänkulku - Pienryhmät 1 op ja kirjallisuus 2 op (EDUn tutkinto-opiskelijat, aineenop.opiskelijat, avoin yo/lähiopetus)](course)
+- Will [Mental Health Research: Using the Knowledge and Adding to it](course) lectures be cancelled during holiday
+- Will [Julkisoikeuden tutkimuspraktikum](course) have a lecture every week
+- I want to know the exceptions in lessons for [Grammaire/Kielioppi](course)
+- I want to know special teaching times for [Representations and Identities](course)
+- I want to know does the schedule for [Ympäristökasvatus / Luennot - 2.vsk + 1.vsk ryhmät 6 ja 7](course) have any exceptions
+- I want to know Teaching times exceptions for [Kuva-  ja mediakulttuurit - Kuvakulttuurit  1 vsk ja erillisen opinto-oikeuden POM-opintoihin saaneet opiskelijat (ryhmätyöskentely/taidemuseot harjoitusryhmät)](course)- Exceptions [Valtio-opin maisteriseminaari](course)
+- Exception [Vanhat ja uudet klassikot (kirjatentti/essee)](course)
+- What are the exceptions for [Käännösviestintä II englanti-suomi](course)
+- [Tieteellinen kirjoittaminen / COMS (kirjallisuuden opiskelijoille)](course) exceptions
+- [Julkistalouden valvonta ja tarkastus](course) exception
+- Exceptions in teaching hours [Tutkijan puheviestintä](course)
+- Exceptions in teaching times [Managing Research Information](course)
+- Are there any exceptions in teaching [Kandidaatin tutkielma ja seminaari (kurssi alkaa keväällä 2019 Hoitotieteen opiskelijoille)](course)
+- What exceptions are there in [Lausekielinen ohjelmointi II](course)
+- Lecture exceptions [Harjoittelu ja työelämävalmiudet](course)
+- Does [Political Systems Outside of Europe (book exam/essay)](course) have exceptions in teaching hours
+- Were there exceptions in lectures [Journalistinen kieli - Tekstinhuolto](course)
+- Teaching times exceptions for [Tekniikan käännösviestinnän seminaari englanti-suomi](course)
+- What were the exceptions of teaching in [Management Accounting and Human Behaviour](course)
+- Does the schedule for [Korkeakoulut työyhteisöinä - Kehittämistehtävä](course) have any exceptions
+- When were the exceptions for [Seminaari](course)
+- The exceptions in lessons for [Vaikuttaminen ja argumentointi](course)
+- Special teaching times for [Shakespeare: Past and Present](course)
+- Is there anything special I should know about the course schedule for [Tekninen työ -](course)
+- [Introduction to Cultural Psychology](course) special lecture hours
+- Special schedule [Kuvataiteen vaihtuvateemainen opintojakso/Elokuva mediakasvatuksen välineenä](course)
+- Will there be lectures in holidays in [Welfare State Theories](course)
+- Holiday exceptions [Historian määrällisen tiedon esittäminen](course)
+- Course break teaching times [Johdatus viestinnän tutkimukseen ja analyysiin - verkkokurssi](course)
+- Do we have a lecture during holiday in [Oikeustulkkaus I/II (monikielinen)](course)
+- Cancelled lectures [Taloustiede, talouspolitiikka ja ajankohtaiset taloudelliset ja yhteiskunnalliset ongelmat](course)
+- Will [Tieteenfilosofiaa kasvatustieteen näkökulmasta](course) lectures be cancelled during holiday
+- Will [Yhtiöoikeuden syventävä opintojakso](course) have a lecture every week
+- I want to know the exceptions in lessons for [Äärellisten mallien teorian seminaari (Finite model theory seminar)](course)
+- I want to know special teaching times for [Strategia ja yrittäjyys](course)
+- I want to know does the schedule for [Eheyttävä musiikkikasvatus / Harjoitukset - 2.vsk](course) have any exceptions
+- I want to know Teaching times exceptions for [Kirjallinen viestintä I / Schriftliche Kommunikation I](course)

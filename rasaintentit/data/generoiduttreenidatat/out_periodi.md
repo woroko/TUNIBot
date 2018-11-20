@@ -1,0 +1,1231 @@
+- Period [KATTAP11](course)
+- Semester [POISTA TÄMÄ! Solun biologian perusteet](course)
+- Quarter [Kehitys, kasvatus ja elämänkulku - Luennot EDUn opiskelijoille (2 op) TAI muille opiskelijoille luennot (2 op) ja kirjallisuus (3 op)](course)
+- Academic term [Uuden ajan alun ryhmä](course)
+- [Klinikkaharjoittelu](course) semester
+- [Uuden ajan alun (1500-1800) tutkimuksen lähteet ja menetelmät](course) academic term
+- [Lausekielinen ohjelmointi I - Näyttökoe, kevät 2019](course) quarter
+- This semester [Hands-on genetics](course)
+- What period [Kasvatus, koulutus ja yhteiskunta, verkko-opetus](course)
+- What study period [Varhaiskasvatuksen ja esiopetuksen pedagogiikka - Työssäoppiminen 1.vsk:n monimuotoryhmien opiskelijoille](course)
+- What study period is [NEDIS tohtorikoulutusseminaari (Lasten ja nuorten terveyden edistämisen tutkimus)](course) in
+- What period will [Ranskan yhteiskunta II/Société française II](course) begin
+- [Media- ja informaatiolukutaito](course) period
+- Is [Terveyden ja mielenterveyden psykologia I](course) this period
+- Which period is [Taloustieteen perusteet, monimuoto-opetus](course)
+- Which period will [Asiakastyön teorioita ja menetelmiä - STYA3A2 Asiakastyön menetelmät, luennot](course) begin
+- What period will [Kauppatieteellisen tutkimuksen menetelmät (markkinointi ja yrityksen johtaminen)](course) begin
+- [Vaihtuvasisältöiset erikoiskurssit (kirjallinen tentti suoritusvaihtoehto) -](course) curriculum
+- When is [Yhteisöt ja yhteisösosiaalityön lähtökohdat - Sosnet verkkokurssi](course) in the curriulum
+- The period of [Representations and Identities](course)
+- Study period of [Lapsuuden antropologia ja transnationaali lapsuus](course)
+- Semester [Introduction to Argumentation and Scientific Reasoning](course)
+- Which semester will [Algebra 2](course) start
+- Which semester is [Kandidaatintutkielmaseminaari - Tammikuussa 2019 alkava seminaari](course)
+- Is [Johdatus hallintotieteeseen](course) this semester
+- What semester is [Espanjan historia ja kirjallisuus - Historia y literatura de España](course)
+- Academic term [Pro gradun viimeistelyseminaari (kirjallisuustiede)](course)
+- Which academic term will [Perhe ja tunteet](course) begin
+- Which academic term is [Finnish Education System - Seminar](course)
+- [Political Systems Outside of Europe (book exam/essay)](course) academic term
+- Which semester will [Terve ja turvallinen kouluyhteisö](course) begin
+- The period of [Learning difficulties and the challenges in schooling in multicultural settings: critical reflections on the role of teachers](course)
+- The semester of [Valtiosääntöoikeus](course)
+- The academic term of [Sciences du langage/Kielitiede](course)
+- The quarter of [Laskentatoimi ja talousjohtaminen](course)
+- Which quarter is [Macroprudential Policy and Financial Stability](course)
+- What is the quarter of [Ekoterveys, luonto ja ihminen](course)
+- Which quarter will [Media and Globalization - Seminar](course) begin
+- I want to know which semester will [Musiikki - Musiikkikasvatuksen perusteet 2 - 1. vsk  ja erillisen opinto-oikeuden POM-opintoihin saaneet opiskelijat](course) start
+- I want to know which semester is [Rauha, turvallisuus ja kansainväliset instituutiot (kirjatentti/essee)](course)
+- I want to know the study period of [Johdatus sosiaaliantropologiaan -seminaari](course)
+- I want to know the academic term for [Kandidaattiseminaari ja -tutkielma (julkisoikeus), kevät -](course)- Period [KATTAP11](course)
+- Semester [Johdatus filosofiaan](course)
+- Quarter [Psykologian tutkimusmenetelmät I](course)
+- Academic term [Government and Society: Inequality](course)
+- [Project Work (Fall term 2018)](course) semester
+- [Rahoituksen perusteet](course) academic term
+- [Kontrastiivisen fonetiikan perusteet -](course) quarter
+- This semester [Liikuntatuutorina toimiminen - Liikuntatuutoriperehdytys](course)
+- What period [Tietokantaohjelmointi](course)
+- What study period [Eriytyvä syventävä tutkimusmenetelmäkurssi A: Kehittävän työntutkimuksen menetelmät](course)
+- What study period is [Business Ethics (Independent study)](course) in
+- What period will [Inklusiivinen koulu - Luennot, seminaarit, kenttätehtävä ja raportointi](course) begin
+- [Kielen variaatio](course) period
+- Is [Mediakasvatus, osallisuus ja aktiivinen kansalaisuus, kirjatentti, Pori](course) this period
+- Which period is [Global contexts of violence. Gender related violence in the landscape of global vulnerabilities (web course)](course)
+- Which period will [Basics of Marketing and Sales -](course) begin
+- What period will [Ryhmäviestintä](course) begin
+- [Työeläkejärjestelmät](course) curriculum
+- When is [Lasten monipaikkainen asuminen](course) in the curriulum
+- The period of [Terve ja turvallinen kouluyhteisö](course)
+- Study period of [Grammaire/Kielioppi](course)
+- Semester [Lähtötasokoe](course)
+- Which semester will [Tieteellisen tiedonhankinnan perusteet (englannin kieli, kirjallisuus ja kääntäminen)](course) start
+- Which semester is [Intercultural Communication](course)
+- Is [Tieteellinen kirjoittaminen ja politiikan tutkimuksen aineistot](course) this semester
+- What semester is [New Forms of Violence, Change in Security Paradigm (book exam/essay)](course)
+- Academic term [Projektinhallinnan perusteet](course)
+- Which academic term will [Työeläkejärjestelmät](course) begin
+- Which academic term is [Orientoivat opinnot ja HOPS (venäjän kieli, kulttuuri ja kääntäminen)](course)
+- [Fonetiikan teoriaa - Fonetiikan jatkokurssi](course) academic term
+- Which semester will [Julkisoikeuden tutkimuspraktikum](course) begin
+- The period of [Persoonallisuuspsykologia II](course)
+- The semester of [Fundamentals of Human-Technology Interaction (Tampere Summer School 2018)](course)
+- The academic term of [Kehitys, kasvatus ja elämänkulku, verkko-opetus](course)
+- The quarter of [Romanian kielen jatkokurssi II / Advanced Course II in Romanian](course)
+- Which quarter is [Laajentava harjoittelu](course)
+- What is the quarter of [Analyysi B](course)
+- Which quarter will [Talous ja yhteiskunta](course) begin
+- I want to know which semester will [Fonetiikan tilastomenetelmät](course) start
+- I want to know which semester is [Teoria, ideologia & talouspolitiikka - Keynesiläisyydestä uusliberalismiin](course)
+- I want to know the study period of [Johdatus länsimaiseen kirjallisuushistoriaan - harjoitukset](course)
+- I want to know the academic term for [Euroopan unioni (kirjatentti/essee)](course)- Period [KATTAP11](course)
+- Semester [Software Project Management, Software Project Management (Spring term)](course)
+- Quarter [Tiimi toimii - puheviestinnän syventävä kurssi (3. periodi)](course)
+- Academic term [Monikieliset tekstikorpukset (verkkokurssi)](course)
+- [Valinnainen jakso: Dokumentaarisen nyky-Suomi-sarjan konseptikehitys ja verkkosuunnittelu](course) semester
+- [Yritysverotus](course) academic term
+- [Tieteellinen kirjoittaminen / SOC (historia & filosofia)](course) quarter
+- This semester [Yksilö, yhteiskunta ja kulttuuri - Monikulttuurisuus koulussa - 2. vsk](course)
+- What period [Research on Society and Organisations](course)
+- What study period [Menetelmäklinikka](course)
+- What study period is [Terve ja turvallinen kouluyhteisö](course) in
+- What period will [Distributed Systems](course) begin
+- [Sosiaalisen median ja vuorovaikutteisen median perusteet](course) period
+- Is [Asiakassuhde ja haastattelu](course) this period
+- Which period is [Opetus, ohjaus, oppiminen - Varhaiskasvatus: Pienryhmäopetus ja orientaatioharjoittelu (2 op)  ja kirjallisuus (2 op)](course)
+- Which period will [Arjen latinaa ja kulttuurihistoriaa](course) begin
+- What period will [Orientoivat opinnot - Alkuorientaatio](course) begin
+- [Taidehistoria ja näyttelypedagogiikka -](course) curriculum
+- When is [Viron kielen suullinen ja kirjallinen taito](course) in the curriulum
+- The period of [Maisteriopintojen opintosuuntiin johdattava kirjallisuus](course)
+- Study period of [Laskentatoimi ja talousjohtaminen](course)
+- Semester [Seminaari (Kunelius) jatkuu keväältä](course)
+- Which semester will [Laadulliset tutkimusotteet](course) start
+- Which semester is [Vakuutuslaitosten sijoitustoiminta](course)
+- Is [Legal English](course) this semester
+- What semester is [Readings in Entrepreneurship](course)
+- Academic term [Terve ja turvallinen kouluyhteisö](course)
+- Which academic term will [Semantiikka ja pragmatiikka / Sémantique et pragmatique](course) begin
+- Which academic term is [Readings in Strategy](course)
+- [Courses in Computer Science in TUT](course) academic term
+- Which semester will [Kandidaattiseminaari (JATKAVA, Katermaa)](course) begin
+- The period of [Käytännön opetus ja ohjaus](course)
+- The semester of [Kansainvälinen verotus](course)
+- The academic term of [European Integration and Disintegration (BOOK EXAM POLKVS32)](course)
+- The quarter of [Biologia ja ympäristötieto - Biologian kenttäkurssi (1-4 ryhmät, Arboretum ja Pyynikinharju)](course)
+- Which quarter is [Kansainvälisen oikeuden peruskurssi](course)
+- What is the quarter of [Venäjän historia, kirjallisuus ja kulttuuri](course)
+- Which quarter will [Kielioppi I/Språkets strukturer I](course) begin
+- I want to know which semester will [Master's Thesis Seminar in Software Development](course) start
+- I want to know which semester is [Recommender Systems](course)
+- I want to know the study period of [Nuorisotyön ja nuorisotutkimuksen maisteriohjelman lähijakso 29.-30.8.2018](course)
+- I want to know the academic term for [Games and Internet in Society](course)- Period [KATTAP11](course)
+- Semester [Journalistinen kieli - Tekstinhuolto](course)
+- Quarter [Interaction Techniques](course)
+- Academic term [Tietojärjestelmätieteen jatkokoulutusseminaari - Seminaari](course)
+- [Konsernitilinpäätös I](course) semester
+- [Ruotsin kielen kirjallinen ja suullinen viestintä](course) academic term
+- [Laskentatoimen perusteet (avoin yliopisto-opetus), monimuoto-opetus](course) quarter
+- This semester [Oikeustulkkaus I/II (monikielinen)](course)
+- What period [Basics of Management and Organizations](course)
+- What study period [Hoitot. tiedon hyödyntäminen johtamisessa ja opettamisessa: syventävä projektityö (kurssi jatkuu syksyllä 2019)](course)
+- What study period is [Osallistuminen opiskelijavaihtoon](course) in
+- What period will [Korkeakoulujen rahoitus ja talous - Harjoitustyö](course) begin
+- [Kandidaatin tutkielma ja seminaari (Kansanterveystieteen opiskelijoille)](course) period
+- Is [Kandidaatintutkielmaseminaari - Seminaari](course) this period
+- Which period is [Master's Thesis Seminar (2nd year students)](course)
+- Which period will [Kirjallisuudentutkijan työkalupakki tieteellisiin kertomuksiin](course) begin
+- What period will [Hallintotieteen teoriat ja käsitteet](course) begin
+- [Ainedidaktinen tutkimus ja tutkiva opettajuus](course) curriculum
+- When is [Politiikan tutkimuksen kandidaatintutkielma ja -seminaari](course) in the curriulum
+- The period of [Tutkimuspraktikum](course)
+- Study period of [Kohti matematiikan opettajuutta 2 (TTY)](course)
+- Semester [Orientation - General Orientation Course for International Students](course)
+- Which semester will [Tiedonhankinnan perusteet](course) start
+- Which semester is [Translation II Finnish-English](course)
+- Is [Tieteellisen artikkelin tehokas kirjoittaminen](course) this semester
+- What semester is [Master's Thesis Seminar (2nd year students)](course)
+- Academic term [Rahoitusoikeuden syventävä opintojakso - kirjatentti](course)
+- Which academic term will [Johdatus visuaaliseen kulttuuriin](course) begin
+- Which academic term is [Orientoivat opinnot - HOPS1](course)
+- [Suullinen viestintä / Mündliche Kommunikation](course) academic term
+- Which semester will [Asevelvollisuus Suomessa ja kansainvälisesti](course) begin
+- The period of [Espanjan kielen variaatio ajallisesti ja maantieteellisesti/Variación diacrónica y sincrónica del español](course)
+- The semester of [Global politics of gender](course)
+- The academic term of [Behavioral Finance](course)
+- The quarter of [Vähittäiskaupan konseptit](course)
+- Which quarter is [Tilinpäätösanalyysi](course)
+- What is the quarter of [Medioitu vuorovaikutus](course)
+- Which quarter will [Basics of Project Management](course) begin
+- I want to know which semester will [Sosiologia (verkkokurssi)](course) start
+- I want to know which semester is [Tutkimusseminaari ja pro gradu -tutkielma](course)
+- I want to know the study period of [Rahatalous](course)
+- I want to know the academic term for [Bioinformatics project](course)- Period [KATTAP11](course)
+- Semester [Parametric and Non-Parametric Statistics](course)
+- Quarter [Master's Seminar and Thesis](course)
+- Academic term [Ruotsin kielen kirjallinen ja suullinen viestintä / AHOT (näyttökoe)](course)
+- [Epidemiology Journal Club](course) semester
+- [Marketing Communications](course) academic term
+- [Kirjallinen viestintä I/Skriftlig kommunikation I](course) quarter
+- This semester [Yhteisöllinen oppiminen ja ohjaus - Seminaari](course)
+- What period [Liikuntatuutorina toimiminen - Liikuntatuutoriperehdytys](course)
+- What study period [Kick-start to Biomedical Technology](course)
+- What study period is [Pro gradu -seminaari ja -tutkielma](course) in
+- What period will [Writing the Nation](course) begin
+- [Julkaisun visuaalisuus: Taitto](course) period
+- Is [Julkisoikeuden syventävä tutkimusjakso](course) this period
+- Which period is [Terveystieteiden tilastolliset tutkimusmenetelmät](course)
+- Which period will [Mediakulttuurit / Harjoitukset - 2.vsk + 1.vsk ryhmät 6 ja 7](course) begin
+- What period will [Tiimi toimii - puheviestinnän syventävä kurssi (1.-2.periodi)](course) begin
+- [Kielen kehitys / Luennot- 2.vsk + 1.vsk ryhmät 6 ja 7](course) curriculum
+- When is [Understanding Legal Regulation of Business](course) in the curriulum
+- The period of [Julkisuuden tuottamisen käytännöt](course)
+- Study period of [Valinnainen jakso: Radioprojekti (kevät)](course)
+- Semester [Kielioppi I (suomenkieliset opiskelijat)](course)
+- Which semester will [Verkostoitunut maailma](course) start
+- Which semester is [Ruotsin kielen kirjallinen ja suullinen viestintä](course)
+- Is [Eriytyvä syventävä tutkimusmenetelmäkurssi A: Kirjoittaminen ja käsitteellistäminen tieteellisenä menetelmänä](course) this semester
+- What semester is [Musiikki - Musiikkikasvatuksen perusteet 1- 1. vsk ja  erillisen opinto-oikeuden POM-opintoihin saaneet opiskelijat](course)
+- Academic term [Tutkimusseminaari ja pro gradu -tutkielma](course)
+- Which academic term will [Espanja I](course) begin
+- Which academic term is [Johtaminen ja organisaatiot I (kirjallisuus)](course)
+- [Työmarkkinat, työvoiman käyttö ja työllisyysturva](course) academic term
+- Which semester will [Harjoittelu / Elinikäinen oppiminen ja kasvatus, Essee työkokemuksen pohjalta, slk18](course) begin
+- The period of [Vakuutustoiminnan periaatteet ja johtaminen](course)
+- The semester of [Tutkijan työpaja](course)
+- The academic term of [Erikoiskurssi](course)
+- The quarter of [Opetussuunnitelmateoria, kirjatentti](course)
+- Which quarter is [Eläimet työssä](course)
+- What is the quarter of [Stem Cells Laboratory Course](course)
+- Which quarter will [Äkilliset traumaattiset kriisit ja niiden käsittely](course) begin
+- I want to know which semester will [Tekninen ihmisyys](course) start
+- I want to know which semester is [Lain ja hallinnon käännösviestinnän seminaari ranska-suomi](course)
+- I want to know the study period of [Kvantitatiiviset tutkimusmenetelmät (kirjatentti/essee)](course)
+- I want to know the academic term for [Pohjoismaiden yhteiskuntaolot ja kulttuurit](course)- Period [KATTAP11](course)
+- Semester [Genetics and Pathogenesis of Common Killers](course)
+- Quarter [Lokalisoinnin peruskurssi](course)
+- Academic term [Sosiaalityön toimintaympäristöt](course)
+- [Visuaalisen kulttuurin syventymiskohde - Seminaari](course) semester
+- [Doctoral Studies](course) academic term
+- [Health systems and health in developing Asia: India, China, and North Korea](course) quarter
+- This semester [Pedagoginen johtaminen - Luennot ja ryhmätyöskentely](course)
+- What period [Fördjupad kurs i skriftlig och muntlig affärskommunikation](course)
+- What study period [Open Educational Resources - Lectures, seminars etc. in other universities or institutions](course)
+- What study period is [Nuorten ja aikuisten mielenterveyden arviointi](course) in
+- What period will [Kasvatus tieteellisen tutkimuksen kohteena - avoin yo, lähi- ja monimuotototeutus](course) begin
+- [Persoonallisuuspsykologia I](course) period
+- Is [Kvantitatiivinen tutkimus kasvatustieteissä - Harjoitukset, yleinen OPETUS PERUUTETTU](course) this period
+- Which period is [Poliittiset ongelmat ja niiden muuttuvat kontekstit](course)
+- Which period will [Terveystaloustieteen tohtorikoulutussemiaari](course) begin
+- What period will [Liikuntatuutorina toimiminen - Liikuntatuutoriperehdytys](course) begin
+- [Ryhmät ja ryhmien väliset suhteet](course) curriculum
+- When is [Paikallisen hallinnan teoriat - Lukupiiri](course) in the curriulum
+- The period of [Yrityksen taloustieteellisen tutkimuksen perusteet](course)
+- Study period of [Muu valinnainen kurssi](course)
+- Semester [Orientaatio yhteiskuntatutkimuksen opintoihin](course)
+- Which semester will [Latinan kielen alkeiskurssi](course) start
+- Which semester is [Simultaanitulkkaus I venäjä-suomi-venäjä](course)
+- Is [Työ- ja virkamiesoikeus](course) this semester
+- What semester is [Sosiaalityön arvot, etiikka ja vapaaehtoistyö](course)
+- Academic term [Matematiikkakasvatus / Luennot - 2.vsk + 1.vsk ryhmät 6 ja 7](course)
+- Which academic term will [Journalismin perusteet, luennot](course) begin
+- Which academic term is [Tiivistämisen taito](course)
+- [Liike- ja työsopimukset](course) academic term
+- Which semester will [Käännösviestintä suomi-ruotsi/Översättning finska-svenska](course) begin
+- The period of [Moniammatilliset johtamisopinnot](course)
+- The semester of [Rakenneyhtälömallinnus kasvatustieteellisessä tutkimuksessa](course)
+- The academic term of [Erot, jaot ja niiden rakentuminen, kirjatentti, Pori](course)
+- The quarter of [Valinnainen jakso: Valokuva historian tekijänä - työpaja](course)
+- Which quarter is [Vaikuttaminen ja argumentointi](course)
+- What is the quarter of [Managing e-commerce; Consumers and Community Perspective](course)
+- Which quarter will [Rauha, turvallisuus ja kansainväliset instituutiot (kirjatentti/essee)](course) begin
+- I want to know which semester will [Viestinnän etiikka - verkkokurssi](course) start
+- I want to know which semester is [Introduction to Web Publishing (Tampere Summer School 2018)](course)
+- I want to know the study period of [Liike-elämän ruotsia I](course)
+- I want to know the academic term for [Vertaisohjaus tietojenkäsittelytieteissä](course)- Period [KATTAP11](course)
+- Semester [Omaan tieteenalaan ja tutkimusaiheeseen liittyvät opinnot](course)
+- Quarter [Tekstiklinikka tutkielman kirjoittajille](course)
+- Academic term [Valinnainen jakso: Podcastit ja äänimedian ajankohtaisjournalismi](course)
+- [Kuvataiteen perusteet - 1.vsk](course) semester
+- [Tutkiva ja kehittävä opettaja](course) academic term
+- [Tilastotieteen matriisilaskenta ja laskennalliset menetelmät](course) quarter
+- This semester [Euroopan unioni (kirjatentti/essee)](course)
+- What period [Seminaari II / Seminar II](course)
+- What study period [Lokalisoinnin peruskurssi](course)
+- What study period is [Tilinpäätösanalyysi](course) in
+- What period will [Kandidaatintutkielma ja seminaari, kevät 2019](course) begin
+- [Environment and Well-Being](course) period
+- Is [Tragedy of the Commons? Problems and Solutions](course) this period
+- Which period is [Cultural Conversations](course)
+- Which period will [Historian määrällisen tiedon esittäminen](course) begin
+- What period will [Intercultural Communication](course) begin
+- [Käännös suomi-espanja I/Traducción finés-español I](course) curriculum
+- When is [Kestävän kehityksen johdantojakso](course) in the curriulum
+- The period of [Tieteellinen kirjoittaminen (SOC)](course)
+- Study period of [Aikuiskasvatus ja työelämä - Seminaari ja lukupiiri (II-III per.) TAI kirjatentti (slk ja klk)](course)
+- Semester [Nuorisotyön ja nuorisotutkimuksen maisteriohjelman lähijakso 10.-11.1.2019](course)
+- Which semester will [Puheviestinnän tutkimuskurssi](course) start
+- Which semester is [All You Wanted to Know about Elections - But Never Dared to Ask (POMLFCS1)](course)
+- Is [Liike-elämän ruotsia I / näyttökoe (AHOT)](course) this semester
+- What semester is [Persoonallisuuspsykologia II](course)
+- Academic term [Normit ja asiakirjoittaminen - Kääntäjän kielen- ja tekstinhuolto](course)
+- Which academic term will [Kielen variaatio](course) begin
+- Which academic term is [Literary Theory and Methodology](course)
+- [Perusharjoittelu A - Ohjattu opetusharjoittelu](course) academic term
+- Which semester will [Tieteellinen kirjoittaminen / Wissenschaftliches Schreiben](course) begin
+- The period of [Algorithmic Problem Solving](course)
+- The semester of [Internet ja vuorovaikutteinen media (syksyllä 2017 perusopinnot aloittaneille) - verkkokurssi](course)
+- The academic term of [Johdatus hallintotieteeseen](course)
+- The quarter of [Valtio-opin teoriat (kirjatentti/essee)](course)
+- Which quarter is [Kuntien ja alueiden kansainväliset hallintasuhteet](course)
+- What is the quarter of [Asiantuntemus ja arjen ympäristöpolitiikka (esseesuoritusvaihtoehto) - oppimispaivakirja ja teemaessee](course)
+- Which quarter will [Historian määrällisen tiedon esittäminen](course) begin
+- I want to know which semester will [Liikunta pedagogisena ilmiönä - A Liikunnan ainedidaktiikka (ryhmät)](course) start
+- I want to know which semester is [Hydrogel Journal Club](course)
+- I want to know the study period of [Introduction to Academic English (diverse learners)](course)
+- I want to know the academic term for [Julkisorganisaation talouden suunnittelu ja päätöksenteko](course)- Period [KATTAP11](course)
+- Semester [Parties, Elections and Political Participation (book exam/essay)](course)
+- Quarter [Ranska eilen, tänään ja huomenna](course)
+- Academic term [Ajankohtaiset ilmiöt hallintotieteissä](course)
+- [Verkkomedian suunnittelu](course) semester
+- [Vuorovaikutuksen perusteet - verkkokurssina I](course) academic term
+- [Kasvatus, koulutus ja yhteiskunta, verkko-opetus](course) quarter
+- This semester [Saksankielisten maiden kulttuurihistoria / Kulturgeschichte der deutschsprachigen Länder](course)
+- What period [Teknologiat ja materiaalisuus terveyskysymyksissä](course)
+- What study period [Biostatistiikka ja tilastollinen tietojenkäsittely](course)
+- What study period is [Tieteellisen artikkelin tehokas kirjoittaminen](course) in
+- What period will [Re-Thinking Value Creation](course) begin
+- [Johdatus taloushallintoon](course) period
+- Is [Comparative Education - Lectures in English (spring) or book exam in English (autumn and spring)](course) this period
+- Which period is [Sopimusoikeus](course)
+- Which period will [Vuorovaikutus ja tekstit S2-näkökulmasta](course) begin
+- What period will [Varhaiskasvatuksen ja esiopetuksen pedagogiikka - Työssäoppiminen 2.vsk (ryhmät 1-3)](course) begin
+- [Research seminar for postgraduate studies](course) curriculum
+- When is [Kielioppi II](course) in the curriulum
+- The period of [Tilastomenetelmien perusteet, iltaryhmä](course)
+- Study period of [Latinalaisen amerikan lähihistoria ja kirjallisuus/Historia y literature contemporáneas de Latinoamérica](course)
+- Semester [Orientation - General Orientation Course for International Students](course)
+- Which semester will [Kirjallisuustieteen tohtoriohjelman tutkijaseminaari](course) start
+- Which semester is [Tutkimusseminaari ja pro gradu -tutkielma](course)
+- Is [Kielitieteen historia ja tutkimussuunnat](course) this semester
+- What semester is [Kasvatus, koulutus ja yhteiskunta, monimuoto-opetus](course)
+- Academic term [Literature and Change after 1900 (American Literature)](course)
+- Which academic term will [Fonetiikan ja yleisen kielitieteen perusteet - Yleinen kielitiede](course) begin
+- Which academic term is [Ääntämisharjoituksia](course)
+- [Musiikin perusteet / Luennot - 1.vsk ryhmät 1-5](course) academic term
+- Which semester will [Tutkimustyön perusteet (kevät, optio ryhmälle)](course) begin
+- The period of [Tutkimusprosessin hallinta - Läsnäoloon perustuva oppimispäiväkirja](course)
+- The semester of [Tulkin oikeustieto I](course)
+- The academic term of [Vuorovaikutusprosessit työelämän tilanteissa (monimuoto-opetus)](course)
+- The quarter of [Näkökulmia kääntämiseen - Kääntäminen viestinnällisenä asiantuntijatehtävänä / Perspektiven auf Übersetzen](course)
+- Which quarter is [Finnish Advanced Course 2 (taught in Finnish)](course)
+- What is the quarter of [Identity Conflicts in the Arab Worlds](course)
+- Which quarter will [Poliittiset prosessit (kirjatentti/essee)](course) begin
+- I want to know which semester will [Varhaiskasvatuksen pedagogiikka ja opetussuunnitelmatyö / Harjoitukset - 2.vsk + 1.vsk ryhmät 6 ja 7](course) start
+- I want to know which semester is [Introduction to Big Data Processing](course)
+- I want to know the study period of [Johdatus oikeusjärjestykseen (verkkokurssi)](course)
+- I want to know the academic term for [Orientaatio sosiaalityön opintoihin](course)- Period [KATTAP11](course)
+- Semester [Visuaalisen kulttuurin teoria - lukupiiri ja essee](course)
+- Quarter [Dialogue: Constructive Talk at Work](course)
+- Academic term [Sosiaalioikeus I](course)
+- [Henkilöriskien vakuuttaminen](course) semester
+- [Global contexts of violence. Gender related violence in the landscape of global vulnerabilities (web course)](course) academic term
+- [Verkkomedian suunnittelu - verkkokurssi](course) quarter
+- This semester [Mathematics and statistics for bioinformatics](course)
+- What period [Communication écrite/Kirjallinen viestintä](course)
+- What study period [Tieteellinen kirjoittaminen / Wissenschaftliches Schreiben](course)
+- What study period is [Mediakasvatus, osallisuus ja aktiivinen kansalaisuus, kirjatentti, Pori](course) in
+- What period will [Orientation Day for International Doctoral Researchers](course) begin
+- [Seminaari I, kandidaatintutkielma ja kypsyysnäyte](course) period
+- Is [Poliittiset prosessit (kirjatentti/essee)](course) this period
+- Which period is [Venäjä III](course)
+- Which period will [Lasten oikeuspsykologia](course) begin
+- What period will [Venäjä IV](course) begin
+- [Immunologian perusteet](course) curriculum
+- When is [Postcolonial Literature](course) in the curriulum
+- The period of [Tieteellinen kirjoittaminen](course)
+- Study period of [European Public Law](course)
+- Semester [Tieteellisen tiedonhankinnan perusteet (englannin kieli, kirjallisuus ja kääntäminen)](course)
+- Which semester will [Economics and the Business Environment](course) start
+- Which semester is [Scientific Writing - Module A - Writing Clinic](course)
+- Is [Musiikki - Musiikkikasvatuksen perusteet 1- 1. vsk ja  erillisen opinto-oikeuden POM-opintoihin saaneet opiskelijat](course) this semester
+- What semester is [Sosiaalityö terveydenhuollossa](course)
+- Academic term [Aikuisten mielenterveysinterventiot](course)
+- Which academic term will [Äänne- ja muoto-oppi](course) begin
+- Which academic term is [Kielen käyttö I](course)
+- [Literary Theory and Methodology](course) academic term
+- Which semester will [Terveystiedon perusteet](course) begin
+- The period of [Seminaari II](course)
+- The semester of [Teoria perhehoitotieteessä](course)
+- The academic term of [Ainedidaktiikka I](course)
+- The quarter of [Networks in Service Business](course)
+- Which quarter is [Farmakologisen biologian perusteet](course)
+- What is the quarter of [Legal English](course)
+- Which quarter will [Oikeustulkkaus I/II (monikielinen)](course) begin
+- I want to know which semester will [Terveystieteiden orientoivat tohtoriopinnot](course) start
+- I want to know which semester is [Kaunokirjallinen kääntäminen venäjä-suomi](course)
+- I want to know the study period of [Tieteellinen kirjoittaminen](course)
+- I want to know the academic term for [Behavioraalinen ja psykologinen taloustiede](course)- Period [KATTAP11](course)
+- Semester [Fonetiikan teoriaa - Fonetiikan jatkokurssi](course)
+- Quarter [Julkiset rahoitusjärjestelmät](course)
+- Academic term [Orientaatio filosofian tutkinto-ohjelman opintoihin](course)
+- [Syventävä projekti, keväällä 2018 alkanut](course) semester
+- [Rakenneyhtälömallinnus kasvatustieteellisessä tutkimuksessa](course) academic term
+- [Eriytyvä syventävä tutkimusmenetelmäkurssi A: Research methods in education policy](course) quarter
+- This semester [Ekonometrian jatkokurssi](course)
+- What period [Orientoivat opinnot - Alkuorientaatio](course)
+- What study period [Cultural Conversations](course)
+- What study period is [Tieteellinen kommunikaatio ja bibliometriikka](course) in
+- What period will [Asiantuntijan puheviestintä ja vuorovaikutus sosiaali- ja terveysalalla (2. periodi)](course) begin
+- [Moniammatilliset oppimisyhteisöt - Seminaari](course) period
+- Is [Varhaiskasvatuksen kehittyvä asiantuntijuus - Työssäoppiminen (2.vsk ryhmä 4)](course) this period
+- Which period is [Poliittisen sosiologian käsitteet ja tutkimukset](course)
+- Which period will [The Theory and Method of International Relations (theory) (book exam)](course) begin
+- What period will [Cultural Conversations](course) begin
+- [Kielioppi I / Grammatik I](course) curriculum
+- When is [Työhyvinvointi (itsenäinen suoritustapa)](course) in the curriulum
+- The period of [Terveys, arki ja toimijuus, kirjatentti](course)
+- Study period of [Eriytyvä syventävä tutkimusmenetelmäkurssi A: Kirjoittaminen ja käsitteellistäminen tieteellisenä menetelmänä](course)
+- Semester [Hoitotieteen tohtorikoulutusseminaari](course)
+- Which semester will [Suurvalta kriiseissä: näkökulmia Venäjän historiaan 1700-luvulta 1900-luvulle](course) start
+- Which semester is [Gender in Society](course)
+- Is [Public Financial Management and Evolving Administrative Structures](course) this semester
+- What semester is [Cultural Transitions](course)
+- Academic term [Tietokäytännöt (keväällä 2018 perusopinnot aloittaneille) - verkkokurssi](course)
+- Which academic term will [Kehittyminen johtajaksi terveydenhuollossa](course) begin
+- Which academic term is [Tutkimustyön perusteet - d) Kandidaattiseminaari (keväällä 2019 alkava)](course)
+- [Mediakasvatus, osallisuus ja aktiivinen kansalaisuus, kirjatentti, Pori](course) academic term
+- Which semester will [Pratiques de l'écrit: méthodes et techniques d'expression écrite/Kirjoitusharjoituksia: kirjallisen esityksen metodit ja tekniikka](course) begin
+- The period of [Laaja-alaistava harjoittelu - Opetus- ja koulutushallinnon luennot](course)
+- The semester of [Kansainväliset vakuutusmarkkinat ja jälleenvakuutus](course)
+- The academic term of [Näkökulmia kääntämiseen - Käännös-, rakenne- ja sanastoharjoitukset I / Perspektiven auf Übersetzen](course)
+- The quarter of [Kvalitatiivinen tutkimus kasvatustieteissä - Harjoitukset, Ryhmä, yhteinen varhaiskasv. ja luokanop. ryhmä](course)
+- Which quarter is [Professional Writing (online course)](course)
+- What is the quarter of [Aktuelle Texte aus Presse und Studium](course)
+- Which quarter will [Nuorisotyön ja nuorisotutkimuksen maisteriohjelman lähijakso 9.11.2018](course) begin
+- I want to know which semester will [Terveys ja talous](course) start
+- I want to know which semester is [Oikeustieteellinen tutkimus](course)
+- I want to know the study period of [Kirjallinen viestintä I (venäjänkieliset opiskelijat)](course)
+- I want to know the academic term for [Tutkiva opiskelu (keväällä 2019 perusopinnot aloittaville) - verkkokurssi](course)- Period [KATTAP11](course)
+- Semester [Psykologian tutkimusmenetelmät II: kokeellinen ja korrelatiivinen tutkimus](course)
+- Quarter [Ruotsin kielen kirjallinen ja suullinen viestintä (JKK: HK & YTK / EDU / LUO / COMS: HuK, LuK & YTK / SOC)](course)
+- Academic term [KEB-61430 Laaja kemia 3](course)
+- [Tutkielmaseminaari (kevätlukukaudelta 2018 jatkavat seminaarit)](course) semester
+- [Introduction to Academic English (diverse learners)](course) academic term
+- [Asiantuntijan ja esimiehen työelämätaidot](course) quarter
+- This semester [Talous ja yhteiskunta](course)
+- What period [Populaarikulttuuri ja -kirjallisuus](course)
+- What study period [Tutkijan työpaja](course)
+- What study period is [The Theory and Method of International Relations (seminar) (book exam)](course) in
+- What period will [Julkisen talousjohtamisen tutkimusotteet](course) begin
+- [Distributed Systems](course) period
+- Is [Johtamisviestintä](course) this period
+- Which period is [Kandidaattitutkielma ja seminaari (matematiikka) - seminaari](course)
+- Which period will [Parties, Elections and Political Participation (book exam/essay)](course) begin
+- What period will [Radiojournalismi](course) begin
+- [Sukupuolentutkimus](course) curriculum
+- When is [Kvantitatiivinen tutkimus kasvatustieteissä - Harjoitukset, yhteisopetusta avoimen yo:n kanssa](course) in the curriulum
+- The period of [Kasvatus, koulutus ja yhteiskunta, monimuoto-opetus](course)
+- Study period of [Julkistalouden jatkokurssi](course)
+- Semester [Ruotsin kielen kirjallinen ja suullinen viestintä](course)
+- Which semester will [Orientoiva tutkielmaseminaari](course) start
+- Which semester is [Hoitotiede ja näytön ohjaama toiminta](course)
+- Is [Tieteellinen kirjoittaminen / SOC (historia & filosofia)](course) this semester
+- What semester is [Sosiaalioikeus](course)
+- Academic term [Maisteriopintojen esittely - CBDA](course)
+- Which academic term will [Konfliktinratkaisu (kirjatentti/essee)](course) begin
+- Which academic term is [Tiedonhankintataidot - Tiedonhankintataidot II - Tiedonhankinnan syventäminen](course)
+- [Kehittävä asiantuntijatyö organisaatioissa](course) academic term
+- Which semester will [Saksa IV](course) begin
+- The period of [Terveyden ja mielenterveyden psykologia I (avoin yliopisto)](course)
+- The semester of [Yritysetiikka (verkkokurssi)](course)
+- The academic term of [Julkisorganisaation talouden suunnittelu ja päätöksenteko](course)
+- The quarter of [Multidisciplinary Games and Internet Research](course)
+- Which quarter is [Journalistinen kieli - Tekstinhuolto](course)
+- What is the quarter of [Introduction to Corporate Social Responsibility](course)
+- Which quarter will [Software Engineering](course) begin
+- I want to know which semester will [Kandidaattiseminaari (JATKAVA, Vahtikari)](course) start
+- I want to know which semester is [Verotusmenettely ja oikeusturva verotuksessa](course)
+- I want to know the study period of [Introduction to Academic English / RPL (näyttökoe)](course)
+- I want to know the academic term for [Vapaaehtoistyö / Voluntary Work](course)- Period [KATTAP11](course)
+- Semester [Saksan kielen valmentava kurssi - Interkulturelles Training](course)
+- Quarter [Political Economy](course)
+- Academic term [Lineaarialgebra 1B](course)
+- [Pratiques de l'écrit: méthodes et techniques d'expression écrite/Kirjoitusharjoituksia: kirjallisen esityksen metodit ja tekniikka](course) semester
+- [Terveystiedon sisällöt (sähköinen tentti)](course) academic term
+- [Multidisciplinary Games and Internet Research](course) quarter
+- This semester [Pakolaisuus, tila ja hallinta](course)
+- What period [Lähtötasokoe](course)
+- What study period [Tutkimusprosessin hallinta tohtoriopinnoissa](course)
+- What study period is [Kandidaattiseminaari (Mustakallio)](course) in
+- What period will [Varhaiskasvatuksen kehittyvä asiantuntijuus - Työssäoppiminen (2.vsk ryhmä 4)](course) begin
+- [Sosiaalinen kognitio](course) period
+- Is [Talousviestintä / Wirtschaftskommunikation](course) this period
+- Which period is [Student Exchange - courses completed in foreign universities 2-8 ECTS](course)
+- Which period will [Organisation Theory and Analysis](course) begin
+- What period will [Tutkimus ja teoria](course) begin
+- [Syventävä projekti, keväällä 2018 alkanut](course) curriculum
+- When is [Tilinpäätös- ja verosuunnittelu](course) in the curriulum
+- The period of [Tekstin ymmärtäminen III](course)
+- Study period of [Orientoiva tutkielmaseminaari](course)
+- Semester [Poverty in the world: Hunger, inequalities and action](course)
+- Which semester will [Environmental History and Cultural Ecology of Russia (VENS20)](course) start
+- Which semester is [Opetus, ohjaus, oppiminen, monimuoto-opetus](course)
+- Is [Tulkin työkalupakki](course) this semester
+- What semester is [Mental Health Research: Using the Knowledge and Adding to it](course)
+- Academic term [Individual project course](course)
+- Which academic term will [Orientoivat opinnot ja HOPS (pohjoismaiset kielet)](course) begin
+- Which academic term is [Työyhteisöjen muutos ja kehittäminen](course)
+- [Pedagoginen harjoittelu / Varhaiskasvatus](course) academic term
+- Which semester will [Introduction to Bayesian Analysis 1](course) begin
+- The period of [Puheviestinnän tutkimuskurssi](course)
+- The semester of [Managing industrial e-business and B2B](course)
+- The academic term of [Media maailmassa - verkkokurssi](course)
+- The quarter of [Kirjallisuuden analyysi/Analiz hudozhestvennoj literatury](course)
+- Which quarter is [Toiminta, tulkinta ja tieto](course)
+- What is the quarter of [Hoitot. tiedon hyödyntäminen johtamisessa ja opettamisessa: syventävä projektityö (kurssi jatkuu keväältä 2018)](course)
+- Which quarter will [Konfliktinratkaisu (kirjatentti/essee)](course) begin
+- I want to know which semester will [Ympäristöpolitiikan vaikutuskeinot](course) start
+- I want to know which semester is [SOTEPO - Tohtorikoulutusseminaari (Sos.- ja terv.pol., tervh.tutk., terv.huollon joht.)](course)
+- I want to know the study period of [Taloustieteen matematiikan jatkokurssi](course)
+- I want to know the academic term for [Terveystiedon didaktiikan perusteet](course)- Period [KATTAP11](course)
+- Semester [Terveyden edistämisen perusteet](course)
+- Quarter [Making sense of globalization - Theorizing beyond the nation-state - seminar](course)
+- Academic term [Media Landscape in Russia: Regional Perspective](course)
+- [Valinnainen jakso: Valokuva historian tekijänä - työpaja](course) semester
+- [Julkisen talousjohtamisen näkökulmia](course) academic term
+- [KV-tuutorina toimiminen](course) quarter
+- This semester [Study Skills and Personal Study Planning - Basics of Information Literacy](course)
+- What period [Satututkimuksen lukupiiri](course)
+- What study period [Julkinen eurooppaoikeus - Eurooppalaisen ihmisoikeustutkimuksen syventava kurssi](course)
+- What study period is [Tulkin työkalupakki](course) in
+- What period will [Tutkimusprosessin hallinta tohtoriopinnoissa](course) begin
+- [Kognitiivinen neurotiede I (avoin yliopisto)](course) period
+- Is [Puheen ja äänen harjoitusmenetelmät](course) this period
+- Which period is [Media, Race and Society](course)
+- Which period will [Sosiaalisen median yhteisöt: menetelmällisiä ratkaisuja määrällisestä laadulliseen](course) begin
+- What period will [Orientaatio maisteriopintoihin](course) begin
+- [Matemaattiset aineet - Johdatus lukukäsitteeseen ja toimintamateriaalit - 1. vsk  ja erillisen opinto-oikeuden POM-opintoihin saaneet opiskelijat (luennot)](course) curriculum
+- When is [Ethnographic Research](course) in the curriulum
+- The period of [PhD by publication: writing integrative chapter](course)
+- Study period of [Tutkimusprosessin hallinta tohtoriopinnoissa](course)
+- Semester [Yhteiskunnan tutkimuksen ajankohtaisia kysymyksiä - Tiedonhankinnan perusteet](course)
+- Which semester will [Johdatus taloushallintoon](course) start
+- Which semester is [Monikielisyys ja -kulttuurisuus](course)
+- Is [Kandidaattiseminaari ja -tutkielma (julkinen talousjohtaminen), syksy](course) this semester
+- What semester is [Eriytyvä syventävä tutkimusmenetelmäkurssi B: Metodologinen essee](course)
+- Academic term [Kvalitatiivinen tutkimus kasvatustieteissä - Harjoitukset, luokanopettajaryhmä](course)
+- Which academic term will [Usean muuttujan integraalilaskenta](course) begin
+- Which academic term is [Konsernitilinpäätös I](course)
+- [Vanhat ja uudet klassikot (kirjatentti/essee)](course) academic term
+- Which semester will [Taloustiede, talouspolitiikka ja ajankohtaiset taloudelliset ja yhteiskunnalliset ongelmat](course) begin
+- The period of [Seminaari II](course)
+- The semester of [Seminaari II / Seminar II](course)
+- The academic term of [SOS6.2.3 Työelämän vuorovaikutus](course)
+- The quarter of [Human Rights Law](course)
+- Which quarter is [Seminaari (Nikunen) jatkuu keväältä](course)
+- What is the quarter of [Liikuntatuutorina toimiminen / Sports Tutoring](course)
+- Which quarter will [Kirjallisuuden opettaminen](course) begin
+- I want to know which semester will [Tietokäytännöt (syksyllä 2018 perusopinnot aloittaville) - verkkokurssi](course) start
+- I want to know which semester is [Johdatus viestinnän tutkimukseen ja analyysiin](course)
+- I want to know the study period of [Biotechnical product development](course)
+- I want to know the academic term for [Kansainvälinen talous](course)- Period [KATTAP11](course)
+- Semester [Maailmanloppu nyt. Ja ennen.](course)
+- Quarter [Tilastotieteen johdantokurssi, syksy](course)
+- Academic term [Ulko- ja turvallisuuspoliittinen päätöksentekoharjoitus](course)
+- [Study Skills and Personal Study Planning - Basics of Information Literacy](course) semester
+- [Kvantitatiivinen tutkimus kasvatustieteissä - Harjoitukset, yleinen ja luokanopettajaopiskelijat](course) academic term
+- [Aikuiskasvatus ja työelämä, kirjatentti slk tai klk](course) quarter
+- This semester [Tieteellinen kirjoittaminen ja politiikan tutkimuksen aineistot](course)
+- What period [Asiakassuhde ja haastattelu](course)
+- What study period [Kilpailuoikeuden syventävä opintojakso - kirjatentti](course)
+- What study period is [Finlaysonin kielimaailmat](course) in
+- What period will [ABC of Scientific Communication](course) begin
+- [Ääntämisharjoituksia](course) period
+- Is [Student supervision in computer sciences](course) this period
+- Which period is [Saksa IV](course)
+- Which period will [Longitudinal and Finite Nonlinear Mixture Modelling and Associated Experimental Design Strategies (independent work and exams)](course) begin
+- What period will [Sosiaalitieteiden teoria I - SOS5b luennot](course) begin
+- [Internet ja vuorovaikutteinen media](course) curriculum
+- When is [Luottamustehtävissä toimiminen - Luottamustehtäväraportti](course) in the curriulum
+- The period of [Syventävä metodologia - Luennot](course)
+- Study period of [Yhteisö, terveys ja sairaus](course)
+- Semester [Konsernitilinpäätös I](course)
+- Which semester will [Eheyttävä musiikkikasvatus / Harjoitukset - 2.vsk](course) start
+- Which semester is [Kirjallisuuden teoria - Kirjallisuustieteen klassikoita](course)
+- Is [Valtio-opin maisteriseminaari](course) this semester
+- What semester is [Research on Public Management and Organizations](course)
+- Academic term [Finnish Elementary Course 1 (taught in 3. period)](course)
+- Which academic term will [Structure of English II - Phonology and Pronunciation II](course) begin
+- Which academic term is [Terveystieteiden laadulliset tutkimusmenetelmät (hoitotieteen opiskelijat), Seinäjoki](course)
+- [African and Black Diaspora Studies Research Seminar](course) academic term
+- Which semester will [The Study of World Politics (book exam/essay)](course) begin
+- The period of [Kansanterveystieteen käsitteitä ja teoreettisia kysymyksiä](course)
+- The semester of [Tutkimustyötä tukevat tohtoriopinnot (tietojenkäsittelyoppi)](course)
+- The academic term of [Recommender Systems](course)
+- The quarter of [Analyysi A](course)
+- Which quarter is [European, Eurasian and Global Energy Policies](course)
+- What is the quarter of [Study Skills and Personal Study Planning - Basics of Information Literacy](course)
+- Which quarter will [Espanjan kielioppi II/Gramática española II](course) begin
+- I want to know which semester will [English Word Formation](course) start
+- I want to know which semester is [Kandidaattiseminaari ja kandidaatin tutkielma - Kandiseminaari](course)
+- I want to know the study period of [History of English](course)
+- I want to know the academic term for [Dialogitulkkaus](course)- Period [KATTAP11](course)
+- Semester [Visuaalisen journalismin perusteet, luennot](course)
+- Quarter [Asiantuntijan puheviestintä ja vuorovaikutus (INTENSIIVIKURSSI 17.8.-29.8.18)](course)
+- Academic term [Seminar, Bachelor's Thesis and Maturity Test - Seminar](course)
+- [Tiede ja teknologia -tutkimusseminaari](course) semester
+- [Kansainväliset vakuutusmarkkinat ja jälleenvakuutus](course) academic term
+- [Poliittiset ongelmat ja niiden muuttuvat kontekstit (kirjatentti)](course) quarter
+- This semester [Poliittiset aatteet ja ideologiat](course)
+- What period [Ranska II](course)
+- What study period [Second Language Acquisition](course)
+- What study period is [Lasten ja nuorten neuropsykologien kuntoutus](course) in
+- What period will [Varhaisiän musiikkikasvatus / Harjoitukset - 2.vsk](course) begin
+- [Scientific Writing - Module A - Writing Clinic](course) period
+- Is [Tutkimushaastattelu: taito, tyylit ja kohderyhmät](course) this period
+- Which period is [Kvantitatiivinen tutkimus kasvatustieteissä - Harjoitukset, yleinen](course)
+- Which period will [Johdatus kaunokirjalliseen kääntämiseen](course) begin
+- What period will [Saksankielinen nykykirjallisuus / Deutschsprachige Gegenwartsliteratur](course) begin
+- [Neurocomputing](course) curriculum
+- When is [Introduction to computational biology](course) in the curriulum
+- The period of [Asiantuntijan puheviestintä ja vuorovaikutus opetus- ja kasvatustyössä (3. periodi)](course)
+- Study period of [Poliittiset prosessit (kirjatentti/essee)](course)
+- Semester [Study Skills - Basics of Information Literacy](course)
+- Which semester will [Sopimusoikeus](course) start
+- Which semester is [Kasvatustieteiden perusopinnot lukuvuonna 2018-2019 - yhteinen johdantoluento](course)
+- Is [Monikieliset tekstikorpukset (verkkokurssi)](course) this semester
+- What semester is [Lasten oikeuspsykologia](course)
+- Academic term [Basics I: Basics of Czech language II](course)
+- Which academic term will [Tekninen kirjoittaminen (suomi)](course) begin
+- Which academic term is [Teaching, Pedagogical Facilitating, Learning](course)
+- [Tiedonhankintataidot - Tiedonhankintataidot IV - Viitteiden hallinta (hoitotieteen opiskelijoille)](course) academic term
+- Which semester will [Lasten monipaikkainen asuminen](course) begin
+- The period of [Toisen kielen oppiminen ja opetus](course)
+- The semester of [Erikoisalojen käännösviestinnän seminaari ruotsi-suomi](course)
+- The academic term of [Kandidaattiseminaari ja tutkielma (laskentatoimi) - Kandidaattiseminaari, kevät 2018](course)
+- The quarter of [Statistics Workshop](course)
+- Which quarter is [Merkitys](course)
+- What is the quarter of [Kansainvälinen yhteisö (kirjatentti/essee)](course)
+- Which quarter will [Laskentatoimen teoria ja IFRS II](course) begin
+- I want to know which semester will [Hallinto-oikeuden syventävä jakso](course) start
+- I want to know which semester is [Tutkimustyötä tukevat tohtoriopinnot (matematiikka)](course)
+- I want to know the study period of [Normit ja asiakirjoittaminen - Tieteellinen kirjoittaminen](course)
+- I want to know the academic term for [Tila, teknologia ja toiminta - essee](course)- Period [KATTAP11](course)
+- Semester [ABC of Scientific Communication](course)
+- Quarter [Tutkiva opiskelu (keväällä 2019 perusopinnot aloittaville) - verkkokurssi](course)
+- Academic term [Orientoivat opinnot - Orientoivat opinnot](course)
+- [Tilastollisen tutkimuksen perusteet](course) semester
+- [Ranska II](course) academic term
+- [Sustainable business practices (Independent study)](course) quarter
+- This semester [Ranskan kirjallisuus II / Littérature française II](course)
+- What period [Media and Globalization - Lectures + essay](course)
+- What study period [Pro gradu -tutkielma ja -seminaari, syksyllä 2018 aloittavat ryhmät](course)
+- What study period is [Eriytyvä syventävä tutkimusmenetelmäkurssi A: Diskurssianalyysi](course) in
+- What period will [Media maailmassa - verkkokurssi](course) begin
+- [Simultaanitulkkaus I saksa-suomi-saksa](course) period
+- Is [Terve ja sairas ihminen](course) this period
+- Which period is [Eriytyvä syventävä tutkimusmenetelmäkurssi A: Kehittävän työntutkimuksen menetelmät](course)
+- Which period will [Orientaatio filosofian tutkinto-ohjelman opintoihin](course) begin
+- What period will [Kirjallinen ja suullinen viestintä III/Pis'mennaja i razgovornaja praktika](course) begin
+- [Yhdyskuntakehittämisen ajankohtaisia kysymyksiä](course) curriculum
+- When is [Kielitieto ja -taito - Fraseologia  / Sprachwissen und Sprachfertigkeiten: Phraseologie](course) in the curriulum
+- The period of [Tutkimustyön perusteet - a) Tieteenfilosofia](course)
+- Study period of [Liiketoimintamallit](course)
+- Semester [Readings in Entrepreneurship](course)
+- Which semester will [Asiantuntijan puheviestintä ja vuorovaikutus (1. periodi)](course) start
+- Which semester is [Introduction to Academic English (JKK, EDU, LUO, COMS & SOC)](course)
+- Is [Tieteellinen kirjoittaminen / COMS (kirjallisuuden opiskelijoille)](course) this semester
+- What semester is [Sisäinen valvonta ja sisäinen tarkastus](course)
+- Academic term [Kandidaatintutkielmaseminaari - Seminaari](course)
+- Which academic term will [Työ- ja organisaatiopsykologia II](course) begin
+- Which academic term is [Liikuntatuutorina toimiminen / Sports Tutoring](course)
+- [Audiovisuaalisen kääntämisen seminaari / Kuvailutulkkaus](course) academic term
+- Which semester will [Hands-on genetics](course) begin
+- The period of [Työn uusi järjestys ja aikuiskasvatus - Seminaari](course)
+- The semester of [Johdatus yritysjuridiikkaan](course)
+- The academic term of [Tila, teknologia ja toiminta: Lukuseminaari: Julkinen toiminta teknoyhteiskunnassa](course)
+- The quarter of [Kasvatus, koulutus ja yhteiskunta - Luennot ja kirjallisuus](course)
+- Which quarter is [Viestinnän ja median tutkimuksen metodologia, harjoitukset vaihtoehtoisissa työpajoissa](course)
+- What is the quarter of [Tieteellinen kirjoittaminen / SOC (historia & filosofia)](course)
+- Which quarter will [Teoria- ja metodiopinnot](course) begin
+- I want to know which semester will [Political Ideologies (book exam)](course) start
+- I want to know which semester is [OASIS Key Master 2018-2019](course)
+- I want to know the study period of [Orientoivat opinnot ja HOPS](course)
+- I want to know the academic term for [Orientaatio yhteiskuntatutkimuksen opintoihin](course)- Period [KATTAP11](course)
+- Semester [Terveys ja talous](course)
+- Quarter [Filosofian tutkija- ja tohtorikoulutusseminaari](course)
+- Academic term [Markkinoinnin johtaminen ja organisointi](course)
+- [Kulttuurinen monimuotoisuus koulutuksessa ja työelämässä, kirjatentti, Pori](course) semester
+- [Kääntäjän ja tulkin työelämätaidot](course) academic term
+- [Tiedonhankintataidot 3op - Tiedonhankintataidot I - Tiedonhankinnan perusteet](course) quarter
+- This semester [Orientoivat ja asiantuntijuuden kehittymistä tukevat opinnot - HOPS-työskentely](course)
+- What period [Suomet vieraina suussa](course)
+- What study period [Kasvatus tieteellisen tutkimuksen kohteena, verkko-opetus, II-periodi](course)
+- What study period is [Aluetalous ja kaupunkitalous](course) in
+- What period will [Finnish Society and Culture (spring)](course) begin
+- [Talouselämän käännösviestinnän seminaari suomi-saksa -](course) period
+- Is [Eheyttävä musiikkikasvatus / Harjoitukset - 2.vsk](course) this period
+- Which period is [Genes and Genomes](course)
+- Which period will [Tiimi toimii - puheviestinnän syventävä kurssi (4. periodi)](course) begin
+- What period will [Kansainvälisen politiikan erikoistuvat menetelmäopinnot (kirjatentti/essee)](course) begin
+- [Kandidaattiseminaari (Aatsinki)](course) curriculum
+- When is [Palvelut ja hyvinvointivaltion murros](course) in the curriulum
+- The period of [Markkinoinnin ja myynnin perusteet](course)
+- Study period of [Harjoittelu / Elinikäinen oppiminen ja kasvatus - Arviointiseminaari vuonna 2018 harjoitteleville](course)
+- Semester [Verkkomedian suunnittelu - verkkokurssi](course)
+- Which semester will [Pro gradu -seminaari ja -tutkielma (julkisoikeus)](course) start
+- Which semester is [Orientation and Study Planning](course)
+- Is [Kvalitatiivinen tutkimus kasvatustieteissä - Harjoitukset, yleinen ryhmä](course) this semester
+- What semester is [Kandidaattiseminaari ja tutkielma (markkinointi) - kevät 2019](course)
+- Academic term [Making sense of globalization - Theorizing beyond the nation-state - seminar](course)
+- Which academic term will [Global Ghallenges to the Future of Welfare State (Tampere Summer School 2018)](course) begin
+- Which academic term is [Yliopistopedagogiikan perusteet](course)
+- [Keskiajan symboliikkaa -verkkokurssi](course) academic term
+- Which semester will [Terveyden edistäminen kansanterveystieteilijöille](course) begin
+- The period of [Writing for Research](course)
+- The semester of [Sosiaalipsykologinen ajattelu II](course)
+- The academic term of [Tutkielmaseminaari (kevätlukukaudelta 2018 jatkavat seminaarit)](course)
+- The quarter of [Perhe ja tunteet](course)
+- Which quarter is [Microfinance and development](course)
+- What is the quarter of [Tieteellinen kirjoittaminen](course)
+- Which quarter will [Ohjelmistotuotannon käytännöt](course) begin
+- I want to know which semester will [Tiimi toimii - puheviestinnän syventävä kurssi (3. - 4. periodi)](course) start
+- I want to know which semester is [Terveys ja talous](course)
+- I want to know the study period of [Lukuteoria ja algebra opettajille -](course)
+- I want to know the academic term for [Johdatus kasvatuksen ja koulutuksen yhteiskunnalliseen ja kulttuuriseen tutkimukseen - Luennot ja luentopäiväkirja](course)- Period [KATTAP11](course)
+- Semester [Tiedon organisointi ja informaatioarkkitehtuuri](course)
+- Quarter [Johdatus yhteiskuntafilosofiaan](course)
+- Academic term [The Cancer Biology Journal Club](course)
+- [Intermediate studies in Computer Science in TUT](course) semester
+- [Tieteellinen kirjoittaminen (2. vuosikurssin opiskelijoille)](course) academic term
+- [Kasvatus tieteellisen tutkimuksen kohteena - avoin yo, lähi- ja monimuotototeutus](course) quarter
+- This semester [Modernisoituva yhteiskunta](course)
+- What period [The Transformation of Global Environmental Politics (Tampere Summer School 2018)](course)
+- What study period [Eriytyvä syventävä tutkimusmenetelmäkurssi A: Kehittävän työntutkimuksen menetelmät](course)
+- What study period is [Dialogue: Constructive Talk at Work (Tampere Summer School 2018)](course) in
+- What period will [Language and Identity](course) begin
+- [Communication Skills in English - Speaking Practice](course) period
+- Is [Kandidaatin tutkielma ja seminaari (kurssi alkaa keväällä 2019 Hoitotieteen opiskelijoille)](course) this period
+- Which period is [Käännösviestintä ranska-suomi I /  Traduction français-finnois I](course)
+- Which period will [Arvonlisäverotus](course) begin
+- What period will [Foundations of English Business Communication](course) begin
+- [Matkakirjallisuus kulttuurihistorian lähteenä -verkkokurssi](course) curriculum
+- When is [Yksilö, yhteiskunta ja kulttuuri - Monikulttuurisuus koulussa - 2. vsk](course) in the curriulum
+- The period of [Global Terrorism: Political Violence in a Global Age](course)
+- Study period of [Terveysteknologia](course)
+- Semester [Draama - 2.vsk ja   opinnot 1½ lukuvuodessa suorittavat 1.vsk ja POM-opintoihin opinto-oikeuden saaneet opiskelijat( luennot)](course)
+- Which semester will [Kognitiivinen neurotiede II](course) start
+- Which semester is [Kasvatus tieteellisen tutkimuksen kohteena, verkko-opetus, III-periodi](course)
+- Is [Perusharjoittelu B - Ohjattu opetusharjoittelu](course) this semester
+- What semester is [Monimuuttujamenetelmien perusteet](course)
+- Academic term [Näkökulmia kääntämiseen - Tekstin ymmärtäminen](course)
+- Which academic term will [Normit ja asiakirjoittaminen - Kääntäjän kielen- ja tekstinhuolto](course) begin
+- Which academic term is [Introduction to Academic English / RPL (näyttökoe)](course)
+- [Markkinoinnin teoria](course) academic term
+- Which semester will [Vertaisohjaus tietojenkäsittelytieteissä](course) begin
+- The period of [Digitaalinen historia](course)
+- The semester of [Kokeellinen tiedonhaku](course)
+- The academic term of [Tutkiva ja kehittävä opettaja](course)
+- The quarter of [International Political Economy](course)
+- Which quarter is [Ranska III](course)
+- What is the quarter of [European Integration Theory and External Relations (book exam/essay)](course)
+- Which quarter will [Orientation to study in the Programme](course) begin
+- I want to know which semester will [Reportaasi](course) start
+- I want to know which semester is [Talouselämän ja tekniikan käännösviestinnän seminaari saksa-suomi](course)
+- I want to know the study period of [Proseminaari, kandidaatintutkielma ja kypsyysnäyte](course)
+- I want to know the academic term for [Johtamisen ja organisaatioiden perusteet](course)- Period [KATTAP11](course)
+- Semester [Verkkojulkaisemisen perusteet - syksy 2018](course)
+- Quarter [Finnish Elementary Course 3](course)
+- Academic term [Analyysi B](course)
+- [Organizational Behavior (Independent study, Spring 2019)](course) semester
+- [SOS6.2.3 Työelämän vuorovaikutus](course) academic term
+- [Musiikki - Musiikin teoria alakoulussa - 1. vsk ja  erillisen opinto-oikeuden POM-opintoihin saaneet opiskelijat](course) quarter
+- This semester [Johdatus länsimaiseen kirjallisuushistoriaan - harjoitukset](course)
+- What period [Orientoivat opinnot ja HOPS (englannin kieli, kirjallisuus ja kääntäminen)](course)
+- What study period [Nykyespanja ja espanja vieraana kielenä/Español actual y español lengua extranjera](course)
+- What study period is [Opetus, ohjaus, oppiminen (toteutus aineenopettajan pedagogisia opintoja lukuvuonna 2018-2019 suorittaville)](course) in
+- What period will [Liikuntapedagogiikan perusteet / Luennot - 1.vsk](course) begin
+- [Introduction to International Criminal Justice System](course) period
+- Is [Kandidaattiseminaari ja tutkielma (laskentatoimi) - Kandidaattiseminaari, syksy 2018](course) this period
+- Which period is [Makrotalousteorian jatkokurssi I](course)
+- Which period will [Kehitys, kasvatus ja elämänkulku - Pienryhmät 1 op ja kirjallisuus 2 op (EDUn tutkinto-opiskelijat, aineenop.opiskelijat, avoin yo/lähiopetus)](course) begin
+- What period will [Orientoivat opinnot - Alkuorientaatio](course) begin
+- [Foundations of English Business Communication (RPL) / näyttökoe](course) curriculum
+- When is [Puheen ja äänen tutkimusharjoittelu - Projekti / käytännön työ](course) in the curriulum
+- The period of [Tila, teknologia ja toiminta - essee](course)
+- Study period of [Journalismin perusteet, harjoitukset](course)
+- Semester [Äänen häiriöt](course)
+- Which semester will [Käännösten suomi](course) start
+- Which semester is [Writing for Research (online course)](course)
+- Is [Kieli käyttöön/Språket i bruk](course) this semester
+- What semester is [Introduction to Academic English (JKK, EDU, LUO, COMS & SOC)](course)
+- Academic term [Pedagoginen kehittäminen ja johtajuus / Harjoitukset - 3.vsk + 2.vsk ryhmä 4](course)
+- Which academic term will [Hoitotiede tieteenä](course) begin
+- Which academic term is [Algebra 1B](course)
+- [Kvantitatiivinen tutkimus kasvatustieteissä - Näyttökoe](course) academic term
+- Which semester will [Johdatus historiantutkimukseen (verkkokurssi)](course) begin
+- The period of [Äkilliset traumaattiset kriisit ja niiden käsittely](course)
+- The semester of [Master's Thesis Seminar / Internet and Game Studies](course)
+- The academic term of [Tuutorvastaavana toimiminen / Being a tutor in charge](course)
+- The quarter of [Rekisteritutkimukset](course)
+- Which quarter is [Kuvan uudet muodot](course)
+- What is the quarter of [Sisäinen valvonta ja sisäinen tarkastus](course)
+- Which quarter will [Political Communication and Rhetoric (book exam/essay)](course) begin
+- I want to know which semester will [Yhteisöviestintä kunta- ja aluejohtamisessa](course) start
+- I want to know which semester is [Asiantuntijan puheviestintä ja vuorovaikutus opetus- ja kasvatustyössä (3. periodi)](course)
+- I want to know the study period of [Foreign Policy and Diplomacy (book exam/essay)](course)
+- I want to know the academic term for [Asiantuntijuuden kehittymiseen orientoiva opintojakso - opintosuuntakohtaiset ryhmät jatkaville maisteriopiskelijoille (KASSY-, KASSO- ja KASSA-opintosuuntien ryhmiä)](course)- Period [KATTAP11](course)
+- Semester [Johdatus kunta- ja aluejohtamiseen](course)
+- Quarter [Nuorten ryhmät ja ryhmän ohjaus, harjoitukset](course)
+- Academic term [Kasvatus tieteellisen tutkimuksen kohteena, avoin yo, lähi- ja monimuotototeutus](course)
+- [Uskontojen antropologiaa](course) semester
+- [Talouselämän käännösviestinnän seminaari suomi-saksa -](course) academic term
+- [Molekyylibiologia](course) quarter
+- This semester [Kandidaatintutkielmaseminaari - Seminaari](course)
+- What period [Venäjä I](course)
+- What study period [Terve ja turvallinen kouluyhteisö](course)
+- What study period is [World society: National policies, global governance and transnational sociology](course) in
+- What period will [Kandidaattiseminaari ja -tutkielma (julkinen talousjohtaminen), kevät](course) begin
+- [History of English](course) period
+- Is [Ranska I](course) this period
+- Which period is [International Business Law](course)
+- Which period will [Journal club](course) begin
+- What period will [Tieteellisen tiedonhankinnan perusteet (venäjä) -](course) begin
+- [Johdatus Suomen kirjallisuushistoriaan - harjoitukset](course) curriculum
+- When is [Learning difficulties and the challenges in schooling in multicultural settings: critical reflections on the role of teachers](course) in the curriulum
+- The period of [Protein technology Laboratory Course A](course)
+- Study period of [Markkinointioikeuden oikeustaloustiede](course)
+- Semester [Seminaari I, kandidaatintutkielma ja kypsyysnäyte - Seminaari I](course)
+- Which semester will [Yhteiskunnan mittaaminen](course) start
+- Which semester is [Viestinnän ja median tutkimus](course)
+- Is [Kandidaatintutkielmaseminaari - Seminaari](course) this semester
+- What semester is [Asiantuntijuuden kehittymiseen orientoiva opintojakso - opintosuuntakohtaiset ryhmät jatkaville maisteriopiskelijoille (KASSY-, KASSO- ja KASSA-opintosuuntien ryhmiä)](course)
+- Academic term [Kliininen neuropsykologia II](course)
+- Which academic term will [Pedagoginen johtaminen - Luennot ja ryhmätyöskentely](course) begin
+- Which academic term is [Käännös suomi-espanja I/Traducción finés-español I](course)
+- [Valinnainen jakso: Audiovisuaalisen kerronnan teoria ja dramaturgia](course) academic term
+- Which semester will [Nuorisotyön ja nuorisotutkimuksen maisteriohjelman lähijakso 4.-5.10.2018](course) begin
+- The period of [Budgeting and capital budgeting (online course)](course)
+- The semester of [Kuva-  ja mediakulttuurit - Mediakulttuurit- I vsk ja  erillisen opinto-oikeuden POM-opintoihin saaneet opiskelijat (luennot)](course)
+- The academic term of [Kokeellinen, kokeileva ja kokemuksellinen sosiaalipsykologia](course)
+- The quarter of [Introduction to Big Data Processing](course)
+- Which quarter is [Johdatus etiikkaan](course)
+- What is the quarter of [Viestinnän ja median tutkimus](course)
+- Which quarter will [Theory and practice of peaceful change: The Baltic Sea Region](course) begin
+- I want to know which semester will [Osallistuminen opiskelijavaihtoon](course) start
+- I want to know which semester is [Kandidaatintutkielmaseminaari - Seminaari](course)
+- I want to know the study period of [Euroopan ulkopuoliset poliittiset järjestelmät (kirjatentti/essee)](course)
+- I want to know the academic term for [Tieteellisen tiedonhankinnan perusteet (venäjä) -](course)- Period [KATTAP11](course)
+- Semester [Valinnainen jakso: Dokumenttikurssi](course)
+- Quarter [Academic writing and theory](course)
+- Academic term [Dramaturgia: Musikaalin dramaturgia](course)
+- [Johdatus historiantutkimukseen (verkkokurssi)](course) semester
+- [Doctoral course on health policy](course) academic term
+- [Kansainvälistymistä ja verkostoitumista tukevat opinnot teatteritaiteen tohtorin tutkinnossa](course) quarter
+- This semester [Asiantuntijuuden kehittymiseen orientoiva opintojakso - v. 2018 EDUn opiskelijoiksi hyväksyttyjen ryhmät](course)
+- What period [Kognitiivinen neurotiede I (avoin yliopisto)](course)
+- What study period [Introduction to Academic English (online / JKK, EDU, LUO, COMS & SOC)](course)
+- What study period is [Johdatus hallintotieteeseen](course) in
+- What period will [World society: National policies, global governance and transnational sociology](course) begin
+- [Käännösviestintä II englanti-suomi](course) period
+- Is [Käsityö - Käsityö -1. vsk ja erillisen opinto-oikeuden POM-opintoihin saaneet opiskelijat (luennot)](course) this period
+- Which period is [Human Rights Law](course)
+- Which period will [World society: National policies, global governance and transnational sociology](course) begin
+- What period will [Syventävä ammatillinen asiantuntijuus - Johdanto kehittämistyöhön -luentoseminaari, Pori](course) begin
+- [Johdatus viestintään ja mediaan - verkkokurssi](course) curriculum
+- When is [Performance management in public organizations](course) in the curriulum
+- The period of [Kiina III](course)
+- Study period of [Opetussuunnitelmateoria, kirjatentti](course)
+- Semester [Project Work (Spring term 2018)](course)
+- Which semester will [Courses in Computer Science in TUT](course) start
+- Which semester is [Managing Research Information](course)
+- Is [Väestön terveys](course) this semester
+- What semester is [Muu valinnainen kurssi](course)
+- Academic term [Orientoivat opinnot - Tiedonhankintataidot I](course)
+- Which academic term will [Oppimisyhteisöt ja vuorovaikutus - Luennot ja seminaari (klk) TAI luennot ja kirjallisuus (klk) TAI kirjallisuus (slk ja klk)](course) begin
+- Which academic term is [Pedagoginen kehittäminen ja johtajuus / Harjoitukset - 3.vsk + 2.vsk ryhmä 4](course)
+- [Romanian kielen alkeet / Basic Course in Romanian](course) academic term
+- Which semester will [Käyttöliittymien perusteet](course) begin
+- The period of [Erikoisalojen käännösviestinnän seminaari ruotsi-suomi](course)
+- The semester of [Kasvatus tieteellisen tutkimuksen kohteena - verkko-opetus, II-periodi](course)
+- The academic term of [Dialogitulkkaus / Dialogdolmetschen](course)
+- The quarter of [Specialised International Relations Research Methods (book exam/essay)](course)
+- Which quarter is [Global Issues on Mental Health and Mental Health Services - Web course](course)
+- What is the quarter of [Kasvatus tieteellisen tutkimuksen kohteena - verkko-opetus, II-periodi](course)
+- Which quarter will [Tutkimustyön perusteet (kevät, optio ryhmälle)](course) begin
+- I want to know which semester will [Dialogue: Constructive Talk at Work](course) start
+- I want to know which semester is [Pro gradu -seminaari ja -tutkielma](course)
+- I want to know the study period of [Radiokääntäminen (saksa)](course)
+- I want to know the academic term for [Taloustiede, talouspolitiikka ja ajankohtaiset taloudelliset ja yhteiskunnalliset ongelmat](course)- Period [KATTAP11](course)
+- Semester [Johdatus sosiaaliantropologiaan -seminaari](course)
+- Quarter [Tiedon rajat](course)
+- Academic term [Opetusharjoittelu](course)
+- [Ruotsin kielen kirjallinen ja suullinen viestintä / Monenlaisten oppijoiden ryhmä](course) semester
+- [Laadullisen aineiston analysointi](course) academic term
+- [Liiketoimintaosaamisen kokonaisdynamiikka ja sen ohjaaminen - VIBU-yritysstimulaatio](course) quarter
+- This semester [Erikoisalojen käännösviestinnän seminaari ruotsi-suomi](course)
+- What period [Sosiaaliturvan ajankohtaisia kysymyksiä](course)
+- What study period [Asiantuntijuuden kehittymiseen orientoiva opintojakso - opintosuuntakohtaiset ryhmät jatkaville maisteriopiskelijoille (KASSY-, KASSO- ja KASSA-opintosuuntien ryhmiä)](course)
+- What study period is [Integraation teoria ja EU:n päätöksenteko (kirjatentti/essee)](course) in
+- What period will [Esiintyminen](course) begin
+- [Tutkimusprosessin hallinta tohtoriopinnoissa](course) period
+- Is [Kandidaatintutkielmaseminaari - Muuntotyöryhmä, klk19](course) this period
+- Which period is [Graduseminaari / Henttonen](course)
+- Which period will [Käsityö - Käsityö 1. vsk ja erillisen opinto-oikeuden POM-opintoihin saaneet opiskelijat (pienryhmäopetus)](course) begin
+- What period will [Terveyden edistämisen interventiot, Seinäjoki](course) begin
+- [Julkisen talousjohtamisen tietojärjestelmät](course) curriculum
+- When is [Tieteellinen kirjoittaminen / avoin yliopisto-opetus](course) in the curriulum
+- The period of [Orientoivat ja asiantuntijuuden kehittymistä tukevat opinnot - Kasvatustieteellinen luku- ja kirjoitustaito](course)
+- Study period of [Aineenvaihdunta](course)
+- Semester [Valinnainen jakso: Podcastit ja äänimedian ajankohtaisjournalismi](course)
+- Which semester will [Writing for Research (online course)](course) start
+- Which semester is [Kandidaatintutkielmaseminaari - Seminaari](course)
+- Is [Lasten ja nuorten neuropsykologien kuntoutus](course) this semester
+- What semester is [Talouselämän ja tekniikan käännösviestinnän seminaari saksa-suomi](course)
+- Academic term [Yhteiskunnan tutkimuksen ajankohtaisia kysymyksiä - Luennot](course)
+- Which academic term will [Global politics of gender](course) begin
+- Which academic term is [Saksa IV](course)
+- [Työ- ja virkamiesoikeus](course) academic term
+- Which semester will [Sosiaalipsykologinen ajattelu II](course) begin
+- The period of [Murder and Representation](course)
+- The semester of [Orientaatio yhteiskuntatutkimuksen opintoihin](course)
+- The academic term of [Liikunnan projekti (5 op)](course)
+- The quarter of [Introduction to Finnish History](course)
+- Which quarter is [Finnish Elementary Course 4](course)
+- What is the quarter of [Julkistalouden jatkokurssi](course)
+- Which quarter will [Algorithmic Problem Solving](course) begin
+- I want to know which semester will [Asiantuntijan puheviestintä ja vuorovaikutus (1. periodi)](course) start
+- I want to know which semester is [Syventävä ammatillinen asiantuntijuus -](course)
+- I want to know the study period of [Erot, jaot ja niiden rakentuminen, kirjatentti, Pori](course)
+- I want to know the academic term for [Yksilön työhyvinvointi](course)- Period [KATTAP11](course)
+- Semester [Kehittyminen hoitotyön opettajaksi ja kouluttajaksi](course)
+- Quarter [Johdanto riskienhallintaan ja vakuuttamiseen (avoin yliopisto-opetus), monimuoto-opetus](course)
+- Academic term [Opintopiiri](course)
+- [Sosiologia (verkkokurssi)](course) semester
+- [Päätöksenteon etiikka](course) academic term
+- [Eriytyvä syventävä tutkimusmenetelmäkurssi A: Diskurssianalyysi](course) quarter
+- This semester [Näkökulmia kääntämiseen - Tekstin ymmärtäminen](course)
+- What period [Tutkimustyötä tukevat tohtoriopinnot (tilastotiede)](course)
+- What study period [Eliittiteoriat ja -tutkimus](course)
+- What study period is [Bioinformatics tools (autumn 2018)](course) in
+- What period will [Normit ja asiakirjoittaminen - Tieteellinen kirjoittaminen](course) begin
+- [Introduction to Academic English (diverse learners)](course) period
+- Is [Seminaari (Seppänen) jatkuu keväältä](course) this period
+- Which period is [Ruotsin kielen kirjallinen ja suullinen viestintä (myös TTY:n biotekniikan opiskelijoille)](course)
+- Which period will [Johdatus viestintään ja mediaan - verkkokurssi](course) begin
+- What period will [Julkiset hankinnat](course) begin
+- [Fenomenologia](course) curriculum
+- When is [Kvalitatiivinen tutkimus kasvatustieteissä - Verkkokurssi, varhaiskasvatuksen opiskelijat](course) in the curriulum
+- The period of [Julkistalousoikeus](course)
+- Study period of [Monikielinen käännöstyöpaja](course)
+- Semester [Suullinen viestintä / Mündliche Kommunikation](course)
+- Which semester will [Writing for Publications](course) start
+- Which semester is [Kirjallinen ja suullinen viestintä II: kirjallinen viestintä](course)
+- Is [Translators' Cultural Competencies](course) this semester
+- What semester is [Scientific Writing - Module A - Writing Clinic](course)
+- Academic term [Oppimispelien käyttö ja evaluaatio](course)
+- Which academic term will [Pelit ja pelillisyys (keväällä 2018 perusopinnot aloittaneille) - verkkokurssi](course) begin
+- Which academic term is [Sosiaalitieteiden kvalitatiiviset menetelmät - Luennot ja harjoitukset](course)
+- [Moniammatillinen -klinikkaopetus](course) academic term
+- Which semester will [Current Approaches in Games and Internet Research](course) begin
+- The period of [Varhaiskasvatuksen kehittyvä asiantuntijuus - Työssäoppiminen (2.vsk ryhmä 4)](course)
+- The semester of [Tilastotieteen johdantokurssi, kevät](course)
+- The academic term of [Tieteellinen kirjoittaminen](course)
+- The quarter of [Tilastotieteen perusteet](course)
+- Which quarter is [Seminaari](course)
+- What is the quarter of [Kansainvälisen politiikan työseminaari - Luennot ja seminaari](course)
+- Which quarter will [Pohjoismaisten kielten lähtötasokoe](course) begin
+- I want to know which semester will [Tietorakenteet](course) start
+- I want to know which semester is [ABC of Scientific Communication](course)
+- I want to know the study period of [Research Ethics](course)
+- I want to know the academic term for [Moniammatillisuus, yhteisö ja vuorovaikutus / Luennot - 3.vsk + 2.vsk ryhmä 4](course)- Period [KATTAP11](course)
+- Semester [Työoikeuden syventävä opintojakso](course)
+- Quarter [Literature and Urban Space](course)
+- Academic term [Päätöksenteko lastensuojelussa](course)
+- [Valtio-opin teoriat (kirjatentti/essee)](course) semester
+- [Tekstianalyysi - Luennot](course) academic term
+- [Julkisen hallinnon reformit ja muutos](course) quarter
+- This semester [Current and Future Challenges of World Politics and Economy (POMLFCS3)](course)
+- What period [Tekoälyn filosofia](course)
+- What study period [Kuvakulttuuri -](course)
+- What study period is [Venäjän kielen rakenne - Morfologia](course) in
+- What period will [Ohjatut asiakastyöt](course) begin
+- [Leikki kulttuurisena, kehityksellisenä ja pedagogisena ilmiönä / Harjoitukset - 1.vsk](course) period
+- Is [Päätöksenteon etiikka](course) this period
+- Which period is [Kasvatus, koulutus ja yhteiskunta, monimuoto-opetus](course)
+- Which period will [Johdatus viestinnän tutkimukseen ja analyysiin - verkkokurssi](course) begin
+- What period will [Kielen kehitys / Harjoitukset - 2.vsk + 1.vsk ryhmät 6 ja 7](course) begin
+- [Urban Ethnography: The Social, Political and Economic Dimensions of Marginalization](course) curriculum
+- When is [Pro gradu -seminaari ja -tutkielma](course) in the curriulum
+- The period of [Poliittinen viestintä: Eduskuntavaalit 2019](course)
+- Study period of [Ohjelmistotuotannon käytännöt](course)
+- Semester [Espanja IV](course)
+- Which semester will [Communication Skills in English - Speaking Practice](course) start
+- Which semester is [Saksa III](course)
+- Is [Methods of Variationist Linguistics](course) this semester
+- What semester is [MA Thesis Seminar](course)
+- Academic term [Kaikille avoin tutkijaseminaari](course)
+- Which academic term will [Yritysetiikka (verkkokurssi)](course) begin
+- Which academic term is [Innovation Project (2018-II)](course)
+- [Johdatus hoitotieteeseen](course) academic term
+- Which semester will [Molekyylibiologia](course) begin
+- The period of [Mitä oikeudenmukaisuus on?](course)
+- The semester of [Omaan tieteenalaan ja tutkimusaiheeseen liittyvät opinnot teatteritaiteen tohtorin tutkinnossa](course)
+- The academic term of [Kehityspsykologia I (avoin yliopisto)](course)
+- The quarter of [Kandidaattiseminaari ja -tutkielma (ympäristöpolitiikka ja aluetiede), syksy](course)
+- Which quarter is [Suullinen viestintä II/Muntlig kommunikation II](course)
+- What is the quarter of [Basic Studies in Education -courses, introductory meetings, reading circles and book exams](course)
+- Which quarter will [Hallinto-oikeuden syventävä jakso](course) begin
+- I want to know which semester will [ATLAS.ti laadullisen analyysin tukena](course) start
+- I want to know which semester is [Syventävä projekti, syksyllä 2018 alkava](course)
+- I want to know the study period of [Identity and Lifecourse - Lectures, reading groups and essay](course)
+- I want to know the academic term for [Espanja IV](course)- Period [KATTAP11](course)
+- Semester [Sosiaalisen median ja vuorovaikutteisen median perusteet](course)
+- Quarter [Global Terrorism: Political Violence in a Global Age](course)
+- Academic term [Master's Thesis Seminar in Human-Technology Interaction (Starting Fall term)](course)
+- [Seminaari (Seppänen)](course) semester
+- [Popular Music and Politics](course) academic term
+- [Research seminar for postgraduate studies](course) quarter
+- This semester [Ranska eilen, tänään ja huomenna](course)
+- What period [Lausekielinen ohjelmointi I - Näyttökoe, syksy 2018](course)
+- What study period [Kandidaattiseminaari (Mustakallio)](course)
+- What study period is [Tuutorina toimiminen](course) in
+- What period will [Verkkojulkaiseminen](course) begin
+- [Nuorisotutkimuksen ajankohtaisia kysymyksiä](course) period
+- Is [Semantiikka ja pragmatiikka / Sémantique et pragmatique](course) this period
+- Which period is [Innovation Project (Spring term 2018-III)](course)
+- Which period will [Kehittävä asiantuntijatyö organisaatioissa](course) begin
+- What period will [Tutkielmakurssi (III)](course) begin
+- [Tekstianalyysi / Textanalyse](course) curriculum
+- When is [Hoitotiede tieteenä](course) in the curriulum
+- The period of [Communication écrite/Kirjallinen viestintä](course)
+- Study period of [Sukupuolen ja ruumiillisuuden tutkimuksen nykykeskustelut](course)
+- Semester [Vapaaehtoistyö - Osallistuminen vapaaehtoistyöhön](course)
+- Which semester will [Lausekielinen ohjelmointi II](course) start
+- Which semester is [Seminaari (Kunelius) jatkuu keväältä](course)
+- Is [Valtio-opin johdantokurssi (kirjatentti)](course) this semester
+- What semester is [Nuorisotyön ja nuorisotutkimuksen maisteriohjelman lähijakso 4.-5.10.2018](course)
+- Academic term [Fonetiikan ja yleisen kielitieteen perusteet - Yleinen kielitiede](course)
+- Which academic term will [Kandidaatintutkielmaseminaari - Seminaari](course) begin
+- Which academic term is [Ruotsin kielen kirjallinen ja suullinen viestintä](course)
+- [Kandidaatintutkielmaseminaari - Seminaari](course) academic term
+- Which semester will [Inclusiveness in Local Innovation Environments](course) begin
+- The period of [Pohjoismaiden kirjallisuus/Nordisk litteratur](course)
+- The semester of [Psykologian tutkimusmenetelmät I (avoin yliopisto)](course)
+- The academic term of [Kandidaattiseminaari (JATKAVA, Nevala)](course)
+- The quarter of [Terveyden ja mielenterveyden psykologia II](course)
+- Which quarter is [Finnish Elementary Course 1 (taught in 1. period)](course)
+- What is the quarter of [Työhyvinvointi](course)
+- Which quarter will [Student Exchange - courses completed in foreign universities 2-8 ECTS](course) begin
+- I want to know which semester will [Opetus, ohjaus, oppiminen - Luokanopettajaopiskelijat: Pienryhmäopetus ja siihen liittyvä harjoittelu (2 op) ja kirjallisuus (2 op)](course) start
+- I want to know which semester is [Lähtötasokoe](course)
+- I want to know the study period of [Viestinnän ja median tutkimuksen metodologia, harjoitukset vaihtoehtoisissa työpajoissa](course)
+- I want to know the academic term for [Kandidaattiseminaari ja tutkielma (yritysjuridiikka ja vero-oikeus)](course)- Period [KATTAP11](course)
+- Semester [Lapsen puheen ja kielen tutkimus ja kuntoutus](course)
+- Quarter [Specialized Optional Research Methodology: Action research](course)
+- Academic term [Maisteriopintojen esittely - CBDA](course)
+- [Romanian historia, yhteiskunta ja talouselämä / Romanian History, Society and Economy -](course) semester
+- [Vähittäiskaupan konseptit](course) academic term
+- [Sosiaalitieteiden teoria I - SOS5b luennot](course) quarter
+- This semester [Kielitieto ja -taito - Fraseologia  / Sprachwissen und Sprachfertigkeiten: Phraseologie](course)
+- What period [Asiantuntemus ja arjen ympäristöpolitiikka (esseesuoritusvaihtoehto) - oppimispaivakirja ja teemaessee](course)
+- What study period [Poliittinen kommunikaatio ja retoriikka (kirjatentti/essee)](course)
+- What study period is [Scottish Literature](course) in
+- What period will [Johdatus asiakastyöhön](course) begin
+- [Research seminar for postgraduate studies](course) period
+- Is [Ulkopolitiikka ja diplomatia (kirjatentti/essee)](course) this period
+- Which period is [Experimental Research in Human-Technology Interaction](course)
+- Which period will [Ajankohtaisia kansanterveyskysymyksiä](course) begin
+- What period will [Learning difficulties and the challenges in schooling in multicultural settings: critical reflections on the role of teachers](course) begin
+- [Dialogue: Constructive Talk at Work](course) curriculum
+- When is [Ranskan kirjallisuus II / Littérature française II](course) in the curriulum
+- The period of [Saksa I](course)
+- Study period of [Comparative Education - book exam](course)
+- Semester [Kirjallisuuden teoria - Kirjallisuustieteen klassikoita](course)
+- Which semester will [Kasvatus, koulutus ja yhteiskunta, monimuoto-opetus](course) start
+- Which semester is [Julkisen talousjohtamisen tutkimusotteet](course)
+- Is [Jatkokoulutusseminaari](course) this semester
+- What semester is [Tiedonhaun kieliteknologia](course)
+- Academic term [Orientoivat opinnot ja HOPS (englannin kieli, kirjallisuus ja kääntäminen)](course)
+- Which academic term will [Kasvatus tieteellisen tutkimuksen kohteena - verkko-opetus, IV-periodi](course) begin
+- Which academic term is [Ohjatut asiakastyöt](course)
+- [Kognitiivinen neurotiede II](course) academic term
+- Which semester will [Puolueet, vaalit ja poliittinen vaikuttaminen (kirjatentti/essee)](course) begin
+- The period of [Graduseminaari / Kekäläinen](course)
+- The semester of [Johdatus historiantutkimukseen - Johdatus historiantutkimukseen -luentokurssi](course)
+- The academic term of [SPSS:n perusteet, kevät](course)
+- The quarter of [Biostatistics](course)
+- Which quarter is [Ruotsin kielen kirjallinen ja suullinen viestintä / avoin yliopisto-opetus](course)
+- What is the quarter of [Matematiikkakasvatus / Harjoitukset - 2.vsk + 1.vsk ryhmät 6 ja 7](course)
+- Which quarter will [Kestävän kehityksen käytäntöjä](course) begin
+- I want to know which semester will [Comparative Education Policy](course) start
+- I want to know which semester is [Asiantuntijan puheviestintä ja vuorovaikutus (INTENSIIVIKURSSI 17.8.-29.8.18)](course)
+- I want to know the study period of [Research Mobility for Doctoral Researchers](course)
+- I want to know the academic term for [EU ja Länsi-Balkan: ehdollistettua demokratiaa ja valtionrakennusta](course)- Period [KATTAP11](course)
+- Semester [Johdatus historiantutkimukseen - Johdatus historiantutkimukseen -luentokurssi](course)
+- Quarter [Media maailmassa - verkkokurssi](course)
+- Academic term [Eettinen johtajuus](course)
+- [Espanja III](course) semester
+- [Introduction to Web Publishing - Autumn 2018](course) academic term
+- [Orientation to study in the Programme](course) quarter
+- This semester [Proseminaari, kandidaatintutkielma ja kypsyysnäyte](course)
+- What period [Kirjoitusviestintä / COMS](course)
+- What study period [Introduction to International Criminal Justice System](course)
+- What study period is [Implementation and Evaluation of Public Policies](course) in
+- What period will [Audiovisuaalisen kääntämisen seminaari / Kuvailutulkkaus](course) begin
+- [Johdatus kulttuurisosiologiaan](course) period
+- Is [Re-Thinking Value Creation](course) this period
+- Which period is [Sosiaalityön peruskurssi (kirjatentti)](course)
+- Which period will [Omaan tieteenalaan ja tutkimusaiheeseen liittyvät opinnot](course) begin
+- What period will [Kandidaattiseminaari ja -tutkielma (ympäristöpolitiikka ja aluetiede), syksy](course) begin
+- [Interview as a means of data generation](course) curriculum
+- When is [Orientoivat opinnot - Orientoivat opinnot](course) in the curriulum
+- The period of [Kvalitatiiviset menetelmät](course)
+- Study period of [Suurvalta kriiseissä: näkökulmia Venäjän historiaan 1700-luvulta 1900-luvulle](course)
+- Semester [Tasa-arvon ja yhdenvertaisuuden edistäminen työnä (verkkokurssi)](course)
+- Which semester will [Nuorisotyön ja nuorisotutkimuksen maisteriohjelman lähijakso 3.-4.10.2018](course) start
+- Which semester is [Latinan kielen alkeiskurssi](course)
+- Is [Viestinnän etiikka - verkkokurssi](course) this semester
+- What semester is [Vapaaehtoistyössä toimiminen](course)
+- Academic term [Henkilöstöjohtaminen](course)
+- Which academic term will [Kvalitatiivinen tutkimus kasvatustieteissä - Harjoitukset, Ryhmä, yhteinen varhaiskasv. ja luokanop. ryhmä](course) begin
+- Which academic term is [Conflict Resolution (book exam/essay)](course)
+- [Kulutuksen ja ostokäyttäytymisen teoria](course) academic term
+- Which semester will [Vahinkoriskien vakuuttaminen](course) begin
+- The period of [Biologia ja ympäristötieto - Biologian kenttäkurssi (1-4 ryhmät, Arboretum ja Pyynikinharju)](course)
+- The semester of [Finnish Elementary Course 1 (taught in 3. period)](course)
+- The academic term of [Perusharjoittelu](course)
+- The quarter of [Sosiaalityön arvot, etiikka ja vapaaehtoistyö](course)
+- Which quarter is [Terve ja turvallinen kouluyhteisö](course)
+- What is the quarter of [Taloustieteen perusteet, monimuoto-opetus](course)
+- Which quarter will [Arviointimenetelmät](course) begin
+- I want to know which semester will [Kansainvälistymistä ja verkostoitumista tukevat opinnot teatteritaiteen tohtorin tutkinnossa](course) start
+- I want to know which semester is [Finnish Elementary Course 1 (taught in 1. period)](course)
+- I want to know the study period of [Asiantuntijan puheviestintä ja vuorovaikutus / avoin yliopisto-opetus](course)
+- I want to know the academic term for [Tiede, tutkimus, kirjoittaminen](course)- Period [KATTAP11](course)
+- Semester [Kuvataidekasvatus / Harjoitukset - 2.vsk](course)
+- Quarter [Markkinoinnin johtaminen ja organisointi](course)
+- Academic term [Teknologiakasvatus - Teknologia](course)
+- [Political Communication and Rhetoric (book exam/essay)](course) semester
+- [Espanja III](course) academic term
+- [EU:n ulkosuhteiden erityiskysymykset: turvallisuus, talous ja arvot (kirjatentti/essee)](course) quarter
+- This semester [BMT-70100 Kudosteknologian perusteet](course)
+- What period [Tieto- ja asiakirjahallinto](course)
+- What study period [Kansainvälisen politiikan johdantokurssi (kaikki opiskelijat)](course)
+- What study period is [Pedagoginen johtaminen - Luennot ja ryhmätyöskentely](course) in
+- What period will [Kasvatushistoria - kirjatentti (slk ja klk)](course) begin
+- [Linguistics I: Introduction to Basic Concepts](course) period
+- Is [Kvalitatiivinen tutkimus kasvatustieteissä - Harjoitukset, luokanop. ryhmä](course) this period
+- Which period is [Strateginen johtaminen julkisyhteisöissä](course)
+- Which period will [Kansainvälisen politiikan johdantokurssi (kaikki opiskelijat)](course) begin
+- What period will [Kvalitatiivinen tutkimus kasvatustieteissä - Harjoitukset, luokanop. ryhmä](course) begin
+- [Health in disasters, conflicts and complex human emergencies](course) curriculum
+- When is [Seminaari](course) in the curriulum
+- The period of [Kandidaatintutkielmaseminaari - Seminaari](course)
+- Study period of [Talouselämän käännösviestinnän seminaari venäjä-suomi](course)
+- Semester [Pro gradu -seminaari ja -tutkielma (2018-2019)](course)
+- Which semester will [Saksan kielen valmentava kurssi - Interkulturelles Training](course) start
+- Which semester is [Työelämän myytit ja todellisuus](course)
+- Is [Vakuutuksen ja riskienhallinnan erikoistumisosa](course) this semester
+- What semester is [Kvantitatiivinen tutkimus kasvatustieteissä - Harjoitukset, varhaiskasvatus](course)
+- Academic term [Julkistalouden valvonta ja tarkastus](course)
+- Which academic term will [World society: National policies, global governance and transnational sociology](course) begin
+- Which academic term is [Eheyttävä musiikkikasvatus / Luennot - 2.vsk](course)
+- [History of English](course) academic term
+- Which semester will [Radiokääntäminen (saksa)](course) begin
+- The period of [Literature and Change after 1900 (British Literature)](course)
+- The semester of [Kandidaattiseminaari (Vuolanto)](course)
+- The academic term of [Introduction to Bayesian Analysis 1](course)
+- The quarter of [Kielen variaatio](course)
+- Which quarter is [Suomen kielen rakenne S2-näkökulmasta](course)
+- What is the quarter of [Venäjän kielen rakenne - Syntaksi](course)
+- Which quarter will [Kvalitatiivinen tutkimus kasvatustieteissä - Verkkokurssi, yhteisopetus avoimen yo:n ja tutkinto-opiskelijoille](course) begin
+- I want to know which semester will [Regression analysis](course) start
+- I want to know which semester is [Moniulotteinen markkinointi](course)
+- I want to know the study period of [Graduseminaari / Kekäläinen](course)
+- I want to know the academic term for [Kielioppi I/Språkets strukturer I](course)- Period [KATTAP11](course)
+- Semester [Kandidaattiseminaari (Vahtikari)](course)
+- Quarter [Internet ja vuorovaikutteinen media (syksyllä 2017 perusopinnot aloittaneille) - verkkokurssi](course)
+- Academic term [Kansalaisyhteiskunta ja poliittinen osallistuminen (kirjatentti/essee)](course)
+- [Minustako asiantuntijamyynnin ammattilainen?](course) semester
+- [Moniammatillisuus, yhteisö ja vuorovaikutus / Harjoitukset - 3.vsk + 2.vsk ryhmä 4](course) academic term
+- [Opimme lisää venäjän kielen suullisia taitoja](course) quarter
+- This semester [Käännösviestintä II englanti-suomi](course)
+- What period [Software Project Management, Software Project Management (Fall term)](course)
+- What study period [Näkökulmia kääntämiseen - Tekstin ymmärtäminen](course)
+- What study period is [Vero-oikeuden perusteet](course) in
+- What period will [Introduction to Argumentation and Scientific Reasoning](course) begin
+- [International Society (book exam/essay)](course) period
+- Is [Kandidaatintutkielmaseminaari - Muuntotyöryhmä, klk19](course) this period
+- Which period is [Työelämäviestinnän tutkimus- tai kehityshanke](course)
+- Which period will [Missä mennään Mead? -seminaari](course) begin
+- What period will [Journalistinen kieli - Tekstinhuolto](course) begin
+- [Kirjallisuuden teoria - Kirjallisuuden teorian suuntia](course) curriculum
+- When is [Terveydenhuollon ja terveystutkimuksen etiikka, Seinäjoki](course) in the curriulum
+- The period of [Työelämän myytit ja todellisuus](course)
+- Study period of [Vanheneminen ikääntyvässä yhteiskunnassa](course)
+- Semester [Poliittiset prosessit (kirjatentti/essee)](course)
+- Which semester will [Tutkimustyön perusteet - d) Kandidaattiseminaari (syksyllä 2018 alkava)](course) start
+- Which semester is [Individual project course](course)
+- Is [Opintojen suunnittelu - HOPS2](course) this semester
+- What semester is [Saksankielinen kaunokirjallisuus valistusajasta toiseen maailmansotaan / Deutschsprachige Literatur von der Aufklärung bis zum Zweiten Weltkrieg](course)
+- Academic term [Seminaari I/Seminarium I](course)
+- Which academic term will [Analyyttinen geometria (itseopiskelumateriaali ja opintopiiri)](course) begin
+- Which academic term is [Tiede ja teknologia yhteiskunnassa](course)
+- [Tietotekniikkataidot (kevät)](course) academic term
+- Which semester will [Puhe- ja nielemistoimintojen tutkimus ja kuntoutus](course) begin
+- The period of [Poliittisen sosiologian käsitteet ja tutkimukset](course)
+- The semester of [Opetussuunnitelmateoria, kirjatentti, Pori](course)
+- The academic term of [Rekisteritutkimukset](course)
+- The quarter of [Yritysjuridiikan ajankohtaiset teemat](course)
+- Which quarter is [Lähtötasokoe / Schwellentest](course)
+- What is the quarter of [Liiketoiminnan analysoinnin ja kehittämisen case-kurssi](course)
+- Which quarter will [Opetuksen, oppimisen ja koulutuksen arviointi ja laatu - Seminaari](course) begin
+- I want to know which semester will [Kirjallisuudentutkimuksen menetelmät - Menetelmät ja sovellukset](course) start
+- I want to know which semester is [Tutkimustyön perusteet (kevät, optio ryhmälle)](course)
+- I want to know the study period of [Valtio-opin johdantokurssi (kirjatentti)](course)
+- I want to know the academic term for [Tutkimustyötä tukevat tohtoriopinnot (matematiikka)](course)- Period [KATTAP11](course)
+- Semester [Näkökulmia kääntämiseen - Kääntäminen viestinnällisenä asiantuntijatehtävänä / Perspektiven auf Übersetzen](course)
+- Quarter [Kasvatus, tieto ja teoria - Luennot](course)
+- Academic term [Rahoitusoikeuden syventävä opintojakso - kirjatentti](course)
+- [Asiantuntijan puheviestintä ja vuorovaikutus (INTENSIIVIKURSSI 17.8.-29.8.18)](course) semester
+- [Introduction to Risk Management and Insurance (spring semester)](course) academic term
+- [International tutoring / Kv-tuutorina toimiminen](course) quarter
+- This semester [Business Translation Seminar Finnish - English](course)
+- What period [Tuloksellisuuden arvioinnin teoria](course)
+- What study period [Cultural Diversity in Education and at Work -  (autumn)](course)
+- What study period is [Pro gradu -tutkielma ja seminaari (vaiheet I-IV)](course) in
+- What period will [Kandidaattiseminaari (JATKAVA, Katermaa)](course) begin
+- [Keskustelunanalyysi (verkkokurssi), syksy 2018](course) period
+- Is [Kielen käyttö II](course) this period
+- Which period is [Sosiaaliturvan ajankohtaisia kysymyksiä](course)
+- Which period will [Oikeustieteellinen tutkimus](course) begin
+- What period will [Luemme ja keskustelemme venäjäksi](course) begin
+- [Leadership for Sustainable Change (KATVAS39)](course) curriculum
+- When is [Informaatio- ja mediajärjestelmien historiaa ja nykypäivää (syksyllä 2018 perusopinnot aloittaville) - verkkokurssi](course) in the curriulum
+- The period of [Kommunikationstraining II](course)
+- Study period of [[CANCELLED] Editing Project](course)
+- Semester [Suomet vieraina suussa](course)
+- Which semester will [Tieteellinen kirjoittaminen / COMS (puheviestinnän opiskelijoille)](course) start
+- Which semester is [Sosiaalityön peruskurssi (verkkokurssi)](course)
+- Is [Korkeakoulujen rahoitus ja talous - Harjoitustyö](course) this semester
+- What semester is [Organizational Behavior (Independent study, Spring 2019)](course)
+- Academic term [Yhteiskunnallinen muutos](course)
+- Which academic term will [Orientoivat opinnot Pori](course) begin
+- Which academic term is [Kvantitatiivinen tutkimus kasvatustieteissä - Harjoitukset, yhteinen avoimen ja tutkinto-op. ryhmä](course)
+- [Simultaanitulkkaus I englanti-suomi-englanti](course) academic term
+- Which semester will [Organisaatiokäyttäytyminen (itsenäinen suoritustapa, syksy 2018)](course) begin
+- The period of [Hallinto-oikeuden harjoituskurssi](course)
+- The semester of [Tieteellinen kirjoittaminen](course)
+- The academic term of [Sosiaalityön peruskurssi (kirjatentti)](course)
+- The quarter of [Eriytyvä syventävä tutkimusmenetelmäkurssi A: Kehittävän työntutkimuksen menetelmät](course)
+- Which quarter is [Kirjallinen viestintä I (venäjänkieliset opiskelijat)](course)
+- What is the quarter of [Asiakastyön menetelmät, luennot](course)
+- Which quarter will [Ikääntyminen, kieli ja vuorovaikutus](course) begin
+- I want to know which semester will [Business, Society and Nature (Lectures)](course) start
+- I want to know which semester is [Introduction to Academic English (JKK, EDU, LUO, COMS & SOC)](course)
+- I want to know the study period of [Lapset ympäristönsä tutkijoina - Käsityö](course)
+- I want to know the academic term for [Johdatus kunta- ja aluejohtamiseen](course)

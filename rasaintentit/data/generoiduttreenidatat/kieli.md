@@ -1,0 +1,31 @@
+- Teaching language [*](course)
+- Lecture language [*](course)
+- What is the teaching language in [*](course)
+- Teaching language in [*](course)
+- What language is [*](course)
+- Is [*](course) in english
+- Is [*](course) in finnish
+- [*](course) language
+- [*](course) teaching language
+- Is [*](course) taught in english
+- Is [*](course) taught in english
+- Can I pass [*](course) in english
+- Which language is [*](course)
+- What is [*](course) language
+- What is the language of [*](course) is
+- The teaching language of [*](course)
+- What language is used in [*](course)
+- Which language [*](course) is used
+- [*](course) spoken language
+- [*](course) languages
+- What are [*](course) languages
+- The [*](course) language
+- [*](course) teaching languages
+- The language of [*](course)
+- Teaching language in [*](course)
+- [*](course) in which language
+- What language do they speak in [*](course)
+- I want to know which language [*](course) is used
+- I want to know the language of [*](course)
+- I want to know what language do they speak in [*](course)
+- I want to know is [*](course) taught in english

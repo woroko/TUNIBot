@@ -1,0 +1,32 @@
+- Exceptions [*](course)
+- Exception [*](course)
+- What are the exceptions for [*](course)
+- [*](course) exceptions
+- [*](course) exception
+- Exceptions in teaching hours [*](course)
+- Exceptions in teaching times [*](course)
+- Are there any exceptions in teaching [*](course)
+- What exceptions are there in [*](course)
+- Lecture exceptions [*](course)
+- Does [*](course) have exceptions in teaching hours
+- Were there exceptions in lectures [*](course)
+- Teaching times exceptions for [*](course)
+- What were the exceptions of teaching in [*](course)
+- Does the schedule for [*](course) have any exceptions
+- When were the exceptions for [*](course)
+- The exceptions in lessons for [*](course)
+- Special teaching times for [*](course)
+- Is there anything special I should know about the course schedule for [*](course)
+- [*](course) special lecture hours
+- Special schedule [*](course)
+- Will there be lectures in holidays in [*](course)
+- Holiday exceptions [*](course)
+- Course break teaching times [*](course)
+- Do we have a lecture during holiday in [*](course)
+- Cancelled lectures [*](course)
+- Will [*](course) lectures be cancelled during holiday
+- Will [*](course) have a lecture every week
+- I want to know the exceptions in lessons for [*](course)
+- I want to know special teaching times for [*](course)
+- I want to know does the schedule for [*](course) have any exceptions
+- I want to know Teaching times exceptions for [*](course)

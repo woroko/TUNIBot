@@ -1,0 +1,30 @@
+- Schedule [*](course)
+- [*](course) schedule
+- [*](course) weekly schedule
+- [*](course) weekly
+- What is the schedule for [*](course)
+- What is the schedule [*](course)
+- When are classes for [*](course)
+- Classes [*](course)
+- When are classes [*](course)
+- Teaching times [*](course)
+- Teaching hours [*](course)
+- Teaching [*](course)
+- [*](course) teaching
+- Week [*](course)
+- Lectures [*](course)
+- When are lectures [*](course)
+- Hours weekly [*](course)
+- When are the classes [*](course) weekly
+- [*](course) teaching times
+- When are [*](course) teaching times
+- What are [*](course) teaching times
+- When are lectures [*](course)
+- The schedule for [*](course)
+- What are the teaching times for [*](course)
+- [*](course) times
+- [*](course) hours
+- I want to know when [*](course) teaching times are
+- I want to know teaching times of [*](course)
+- I want to know the schedule of [*](course)
+- I want to know when the lectures in course [*](course) are

@@ -1,0 +1,991 @@
+- How many points [Grammaire/Kielioppi](course)
+- How many credits [Orientaatio psykologiaan](course)
+- How many ECTS [Biostatistiikka ja tilastollinen tietojenkäsittely](course)
+- How many student credits [Sosiaalisen median yhteisöt: menetelmällisiä ratkaisuja määrällisestä laadulliseen](course)
+- How many student points [Tyylioppi](course)
+- How many student credits from [Ympäristön ja alueiden poliittisuus](course)
+- How many student points from [Ydinaseet ja kansainvälinen politiikka(course)
+- How many ECTS from [Kognitiivinen neurotiede I (avoin yliopisto)](course)
+- How many student credits is [Finnish Education System - Seminar](course)
+- How many points is [Sosiaaliturvan ajankohtaisia kysymyksiä](course)
+- How many credits is [Methods in Human-Centered Design](course)
+- How many ECTS is [Ruotsin kielen kirjallinen ja suullinen viestintä / Monenlaisten oppijoiden ryhmä](course)
+- How many student credits is [Tieteellisen kirjoittamisen seminaari kvantitatiivista tutkimusta tekeville](course)
+- How many student points is [Suullinen viestintä I/Muntlig kommunikation I](course)
+- Student points [Tieteellinen kirjoittaminen](course)
+- Student credits [Nuorten ryhmät ja ryhmän ohjaus, harjoitukset](course)
+- ECTS [Inklusiivinen koulu - Luennot, seminaarit, kenttätehtävä ja raportointi](course)
+- [Writing for Research (online course)](course) ECTS
+- [Seminaarit 1. lukukausi/2. lukukausi](course) course points
+- [Project Work (Fall term 2018)](course) student points
+- [Pohjoismaisten kielten lähtötasokoe](course) points
+- [Digital Image Processing - Self-studying](course) amount of points
+- [Pro gradu -seminaari ja -tutkielma (2018-2019)](course) credits
+- [Kielitieto ja -taito - Käännös-, rakenne- ja sanastoharjoitukset II  Sprachwissen und Sprachfertigkeiten: Kontrastive Text- und Wortschatzübungen](course) the amount of ECTS
+- How many points [Kielioppi II (venäjänkieliset opiskelijat)](course) is
+- How many ECTS [Perheen vuorovaikutus](course) will be
+- Credits [Rakennebiologia](course)
+- How many credits can I get from [Introduction to Risk Management and Insurance (autumn semester)](course)
+- How many ECTS can I get from [Tuutorina toimiminen](course)
+- How many student points can I get from [Kandidaatintutkielmaseminaari - Seminaari, II-periodissa alkava nopeasti etenevä ryhmä](course)
+- I want to know how many credits can I get from [Olio-ohjelmoinnin perusteet II](course)
+- I want to know how many ECTS can I get from [Fonetiikan ja yleisen kielitieteen perusteet - Yleinen kielitiede](course)
+- I want to know how many student points can I get from [Kliininen neuropsykologia II](course)
+- I want to know the amount of student points [Advanced English Business Communication](course)- How many points [Tieteenfilosofia](course)
+- How many credits [Liiketoimintaosaamisen kokonaisdynamiikka ja sen ohjaaminen - VIBU-yritysstimulaatio](course)
+- How many ECTS [Kansainvälisen politiikan yleiset syventävät menetelmäopinnot](course)
+- How many student credits [Kirjallisuuden teoria - Kirjallisuuden teorian suuntia](course)
+- How many student points [Opetus, ohjaus, oppiminen (toteutus aineenopettajan pedagogisia opintoja lukuvuonna 2018-2019 suorittaville)](course)
+- How many student credits from [Johdatus kunta- ja aluejohtamiseen (avoin yliopisto-opetus), monimuoto-opetus](course)
+- How many student points from [Tiimi toimii - puheviestinnän syventävä kurssi (3. periodi)(course)
+- How many ECTS from [Tiedonhankintataidot - Tiedonhankintataidot IV - Viitteiden hallinta (hoitotieteen opiskelijoille)](course)
+- How many student credits is [Visualization of Quantitative Data](course)
+- How many points is [Käännösviestintä I - Käännösviestintä I suomi-englanti](course)
+- How many credits is [Kehitys, kasvatus ja elämänkulku - Luennot EDUn opiskelijoille (2 op) TAI muille opiskelijoille luennot (2 op) ja kirjallisuus (3 op)](course)
+- How many ECTS is [Talouselämän käännösviestinnän seminaari venäjä-suomi](course)
+- How many student credits is [Monimuuttujamenetelmien perusteet](course)
+- How many student points is [Yritysjuridiikan case-kurssi](course)
+- Student points [Psykiatria](course)
+- Student credits [Historian tutkimusprosessi ja historiantutkijan etiikka](course)
+- ECTS [Rahoitusoikeuden syventävä opintojakso - kirjatentti](course)
+- [Thesis seminar and Master's Thesis](course) ECTS
+- [Tietokantojen perusteet](course) course points
+- [Valinnainen jakso: Valokuva historian tekijänä - luennot](course) student points
+- [Uuden ajan alun (1500-1800) tutkimuksen lähteet ja menetelmät](course) points
+- [Tuutorivastaavana toimiminen](course) amount of points
+- [Visualization of Quantitative Data](course) credits
+- [Kehittyminen johtajaksi terveydenhuollossa](course) the amount of ECTS
+- How many points [Politiikan tutkimuksen kandidaatintutkielma ja -seminaari](course) is
+- How many ECTS [Väestön vanheneminen, terveys ja hyvinvointi](course) will be
+- Credits [Science and Biotechnology Journal Club](course)
+- How many credits can I get from [Kirjallisuus, kulttuuri ja yhteiskunta](course)
+- How many ECTS can I get from [Musiikki - Musiikkikasvatuksen perusteet 2 - 1. vsk  ja erillisen opinto-oikeuden POM-opintoihin saaneet opiskelijat](course)
+- How many student points can I get from [Dialogue: Constructive Talk at Work](course)
+- I want to know how many credits can I get from [Kontrastiivisen fonetiikan perusteet -](course)
+- I want to know how many ECTS can I get from [Perehdyttäminen tietotekniikan alkeisiin](course)
+- I want to know how many student points can I get from [Informaatio- ja mediajärjestelmien historiaa ja nykypäivää](course)
+- I want to know the amount of student points [Inklusiivinen varhaiskasvatus / Harjoitukset - 3.vsk](course)- How many points [Harjoittelu / Elinikäinen oppiminen ja kasvatus - Arviointiseminaari vuonna 2018 harjoitteleville](course)
+- How many credits [Statistics Workshop](course)
+- How many ECTS [Espanja II](course)
+- How many student credits [Pedagoginen kehittäminen ja johtajuus / Harjoitukset - 3.vsk + 2.vsk ryhmä 4](course)
+- How many student points [Kansainvälinen verotus](course)
+- How many student credits from [Improving the quality and safety of health care through outcomes research](course)
+- How many student points from [Kandidaatintutkielma - Seminaari ja tutkielma(course)
+- How many ECTS from [Lähihistorian ryhmä](course)
+- How many student credits is [Radiokääntäminen (saksa)](course)
+- How many points is [Teknologiakasvatus - Teknologia](course)
+- How many credits is [Antropologian osa-alueet](course)
+- How many ECTS is [Kasvatus tieteellisen tutkimuksen kohteena - verkko-opetus, II-periodi](course)
+- How many student credits is [Seminaari I, kandidaatintutkielma ja kypsyysnäyte / Bachelor-Seminar, Bachelorarbeit und Klausur zum Thema der Arbeit](course)
+- How many student points is [Tutkijan työpaja](course)
+- Student points [English Word Formation](course)
+- Student credits [Kvantitatiivinen tutkimus kasvatustieteissä - Harjoitukset, yleinen OPETUS PERUUTETTU](course)
+- ECTS [Seminaari I, kandidaatintutkielma ja kypsyysnäyte / Bachelor-Seminar, Bachelorarbeit und Klausur zum Thema der Arbeit](course)
+- [Doctoral course on health policy](course) ECTS
+- [PhD by publication: writing integrative chapter](course) course points
+- [Kielellinen merkitys, käyttö ja konteksti](course) student points
+- [Praktikum](course) points
+- [Kielen käyttö I](course) amount of points
+- [Työelämän myytit ja todellisuus](course) credits
+- [Näkökulmia kääntämiseen - Kääntäminen viestinnällisenä asiantuntijatehtävänä / Perspektiven auf Übersetzen](course) the amount of ECTS
+- How many points [Opetus, ohjaus, oppiminen - Varhaiskasvatuksen opiskelijoille luennot (1 op) verkkotallenteena](course) is
+- How many ECTS [Practical Programming in Python](course) will be
+- Credits [Johdatus matematiikkaan ja tilastotieteeseen](course)
+- How many credits can I get from [Basic Studies in Education -courses,  introductory meetings, reading circles and book exams](course)
+- How many ECTS can I get from [Tutkiva opiskelu](course)
+- How many student points can I get from [Tekstiklinikka tutkielman kirjoittajille](course)
+- I want to know how many credits can I get from [Kasvatusfilosofia: ihminen, luonto ja kulttuuri - Luennot](course)
+- I want to know how many ECTS can I get from [Venäjän historia, kirjallisuus ja kulttuuri](course)
+- I want to know how many student points can I get from [Politiikan tutkimuksen kandidaatintutkielma ja -seminaari](course)
+- I want to know the amount of student points [Ranska III](course)- How many points [Moniammatillisuus, yhteisö ja vuorovaikutus / Luennot - 3.vsk + 2.vsk ryhmä 4](course)
+- How many credits [Kuva-  ja mediakulttuurit - Mediakulttuurit- I vsk ja  erillisen opinto-oikeuden POM-opintoihin saaneet opiskelijat (luennot)](course)
+- How many ECTS [Kasvatuksen historialliset ja filosofiset lähtökohdat, monimuoto-opetus](course)
+- How many student credits [Statistical Inference 1](course)
+- How many student points [Re-Thinking Value Creation](course)
+- How many student credits from [Yhteiskuntatutkimuksen tutkinto-ohjelman esittely](course)
+- How many student points from [Terveyden edistämisen perusteet(course)
+- How many ECTS from [Diskurssianalyysi](course)
+- How many student credits is [Perintö-, lahja- ja varainsiirtoverotus](course)
+- How many points is [Kandidaatintutkielmaseminaari - Seminaari](course)
+- How many credits is [Introduction to Finnish History](course)
+- How many ECTS is [Valinnainen jakso: Audiovisuaalisen kerronnan teoria ja dramaturgia](course)
+- How many student credits is [Tieteenfilosofia](course)
+- How many student points is [Latinalaisen amerikan lähihistoria ja kirjallisuus/Historia y literature contemporáneas de Latinoamérica](course)
+- Student points [Tutkimusseminaari ja pro gradu -tutkielma - Tutkimusseminaari](course)
+- Student credits [Jatkokoulutusseminaari](course)
+- ECTS [Johdanto tietokäytäntöjen tutkimukseen](course)
+- [Nuorten ryhmät ja ryhmän ohjaus, harjoitukset](course) ECTS
+- [Kasvatus tieteellisen tutkimuksen kohteena - verkko-opetus, IV-periodi](course) course points
+- [Tieteellinen kirjoittaminen / LUO & COMS](course) student points
+- [Ruotsin kielen kirjallinen ja suullinen viestintä (myös TTY:n biotekniikan opiskelijoille)](course) points
+- [Työhyvinvoinnin johtaminen (itsenäinen suoritustapa, kesäopinnot)](course) amount of points
+- [Orientaatio maisteriopintoihin](course) credits
+- [Tutkimuspraktikum](course) the amount of ECTS
+- How many points [Matemaattisen tilastotieteen perusteet](course) is
+- How many ECTS [Gradu-kvantimetodit](course) will be
+- Credits [Kansainvälisen politiikan teoria ja metateoria - Luentokurssi](course)
+- How many credits can I get from [Introduction to R](course)
+- How many ECTS can I get from [Innovation Project (2018-I)](course)
+- How many student points can I get from [ABC of Scientific Communication](course)
+- I want to know how many credits can I get from [Osallistuminen opiskelijavaihtoon](course)
+- I want to know how many ECTS can I get from [Fonetiikan tutkimusmenetelmät - Transkriptioharjoitukset](course)
+- I want to know how many student points can I get from [Johdatus kunta- ja aluejohtamiseen (avoin yliopisto-opetus), monimuoto-opetus](course)
+- I want to know the amount of student points [Vastuullisen liiketoiminnan case-kurssi](course)- How many points [TUTU2 Tulevaisuudentutkimuksen menetelmät](course)
+- How many credits [Media Landscape in Russia: Regional Perspective](course)
+- How many ECTS [Julkisen talousjohtamisen informaatio](course)
+- How many student credits [Vieraan kielen taito, perustaso](course)
+- How many student points [Tieteellinen kommunikaatio ja bibliometriikka](course)
+- How many student credits from [Gradu-kvantimetodit](course)
+- How many student points from [Kandidaatintutkielma(course)
+- How many ECTS from [Ympäristöpolitiikan vaikutuskeinot](course)
+- How many student credits is [Introduction to Academic English (diverse learners)](course)
+- How many points is [Tekstianalyysi - Harjoitukset](course)
+- How many credits is [Eduskuntavaalikurssi 2019 ja valinnainen tutkimusprojekti](course)
+- How many ECTS is [History of Education - book exam](course)
+- How many student credits is [Tekninen työ -](course)
+- How many student points is [Ruotsin kielen valmentava kurssi](course)
+- Student points [Laskentatoimen teoria ja IFRS II](course)
+- Student credits [Tuutorina toimiminen](course)
+- ECTS [Johdatus seminaarityöskentelyyn](course)
+- [Organisation Theory and Analysis](course) ECTS
+- [Opetus, ohjaus, oppiminen (toteutus aineenopettajan pedagogisia opintoja lukuvuonna 2018-2019 suorittaville)](course) course points
+- [Organisation Theory and Analysis](course) student points
+- [Foundations of Ecological Economics](course) points
+- [Communication Skills in English - Speaking Practice](course) amount of points
+- [Macroprudential Policy and Financial Stability](course) credits
+- [Introduction to Social Circus Pedagogy - (Tampere Summer School 2018)](course) the amount of ECTS
+- How many points [Saksa III](course) is
+- How many ECTS [New Forms of Violence, Change in Security Paradigm (book exam/essay)](course) will be
+- Credits [Julkisyhteisöjen kirjanpito ja tilinpäätös](course)
+- How many credits can I get from [Vuorovaikutuksen perusteet](course)
+- How many ECTS can I get from [Behavioral Finance](course)
+- How many student points can I get from [Erot, jaot ja niiden rakentuminen, kirjatentti, Pori](course)
+- I want to know how many credits can I get from [Biokemian menetelmät](course)
+- I want to know how many ECTS can I get from [Rahoitusoikeus](course)
+- I want to know how many student points can I get from [Kvantitatiivinen tutkimus kasvatustieteissä - Harjoitukset, varhaiskasv. ryhmä, luokanop. ja varhaiskasv. yhteinen ryhmä](course)
+- I want to know the amount of student points [Graduseminaari, alkava (Markkola)](course)- How many points [Lasten arki suomalaisessa yhteiskunnassa / Luennot - 1.vsk](course)
+- How many credits [Tuutorivastaavana toimiminen - Projekti/käytännön työ](course)
+- How many ECTS [Julkistalous](course)
+- How many student credits [Visuaalisen journalismin perusteet, luennot](course)
+- How many student points [Tutkimusseminaari ja pro gradu -tutkielma](course)
+- How many student credits from [Mediakasvatus, osallisuus ja aktiivinen kansalaisuus, kirjatentti, Seinäjoki](course)
+- How many student points from [Lasten arki suomalaisessa yhteiskunnassa / Luennot - 1.vsk(course)
+- How many ECTS from [Laatu, arviointi ja kehittäminen korkeakouluissa - Harjoitustyö](course)
+- How many student credits is [WWW Programming](course)
+- How many points is [Kandidaattiseminaari (JATKAVA, Vuolanto)](course)
+- How many credits is [Projektin suunnittelu ja johtaminen](course)
+- How many ECTS is [Liiketoiminnan analysoinnin ja kehittämisen case-kurssi](course)
+- How many student credits is [Kunnallisoikeuden syventävä jakso](course)
+- How many student points is [Pro gradu -seminaari 2018-2019 (vaihe I)](course)
+- Student points [Terve ja sairas ihminen](course)
+- Student credits [Psykologiharjoittelu](course)
+- ECTS [Eheyttävä musiikkikasvatus - Soitinrakennus](course)
+- [Tiimi toimii - puheviestinnän syventävä kurssi (3. - 4. periodi)](course) ECTS
+- [Intercultural Communication](course) course points
+- [Orientoivat opinnot Pori](course) student points
+- [Käännösviestintä I - Käännösviestintä I englanti-suomi](course) points
+- [Johdon laskentatoimen teoria -](course) amount of points
+- [Tutkielmapiiri: sota-ajan kirjeenvaihdon lingvistinen tutkimus](course) credits
+- [Language, Communication and Culture](course) the amount of ECTS
+- How many points [Scottish Literature](course) is
+- How many ECTS [Vanheneminen ikääntyvässä yhteiskunnassa](course) will be
+- Credits [The Transformation of Global Environmental Politics (Tampere Summer School 2018)](course)
+- How many credits can I get from [Venäjän kielen rakenne - Syntaksi](course)
+- How many ECTS can I get from [Tietotekniikka ja yhteiskunta](course)
+- How many student points can I get from [Teknologiat ja materiaalisuus terveyskysymyksissä](course)
+- I want to know how many credits can I get from [Media and the Arctic](course)
+- I want to know how many ECTS can I get from [Käsityöilmaisu - projekti/käytännön työ ja portfolio](course)
+- I want to know how many student points can I get from [Kuvataiteen perusteet - 1.vsk](course)
+- I want to know the amount of student points [Televisiojournalismi](course)- How many points [Kommunikationstraining I](course)
+- How many credits [Harjoittelu / Elinikäinen oppiminen ja kasvatus, Essee työkokemuksen pohjalta, klk19](course)
+- How many ECTS [Internet ja vuorovaikutteinen media](course)
+- How many student credits [Terveyden edistämisen perusteet (hoitotieteen opiskelijoille), kirjatentti, Seinäjoki](course)
+- How many student points [History of Education - book exam](course)
+- How many student credits from [Poliittiset ongelmat ja niiden muuttuvat kontekstit](course)
+- How many student points from [Kandidaatintutkielma - Seminaari ja tutkielma(course)
+- How many ECTS from [European, Eurasian and Global Energy Policies](course)
+- How many student credits is [Current Trends in Leadership](course)
+- How many points is [Kandidaattiseminaari ja -tutkielma (hallintotiede), syksy](course)
+- How many credits is [Henkilöstöjohtaminen](course)
+- How many ECTS is [Nordic Parliaments (POMLFCS1)](course)
+- How many student credits is [Käsityömuotoilu - projekti/käytännön työ ja protfolio](course)
+- How many student points is [Finlaysonin kielimaailmat](course)
+- Student points [Puheviestintä tieteenä](course)
+- Student credits [Valinnainen jakso: Valokuva historian tekijänä - luennot](course)
+- ECTS [Legal English](course)
+- [Musiikin tiedolliset valmiudet ja niiden soveltaminen - Harmonia ja improvisointi koskettimilla](course) ECTS
+- [Postcolonial Literature](course) course points
+- [Writing Scientific Journal Articles](course) student points
+- [Kansainvälinen talous](course) points
+- [English Word Formation](course) amount of points
+- [Valinnainen jakso: Tiedeviestinnän projekti](course) credits
+- [Valtiosääntöoikeus](course) the amount of ECTS
+- How many points [Valtakurssi](course) is
+- How many ECTS [Finnish Elementary Course 2 (taught in 4. period)](course) will be
+- Credits [Systemaattinen tiedonhaku hoitotieteessä, Seinäjoki](course)
+- How many credits can I get from [Translation and Academic Writing - Introduction to Academic Writing](course)
+- How many ECTS can I get from [Seminaari](course)
+- How many student points can I get from [Vastuullisen liiketoiminnan case-kurssi](course)
+- I want to know how many credits can I get from [Europe in transition](course)
+- I want to know how many ECTS can I get from [Johdatus hoitotieteelliseen tutkimukseen](course)
+- I want to know how many student points can I get from [Markkinoinnin johtaminen ja organisointi](course)
+- I want to know the amount of student points [Postgraduate seminar in Interactive Technology (Surakka)](course)- How many points [Eurooppalainen, euraasialainen ja globaali energiapolitiikka (kirjatentti/essee)](course)
+- How many credits [Human Mobility in Peace and Conflict Research](course)
+- How many ECTS [Eduskuntavaalikurssi 2019 ja valinnainen tutkimusprojekti](course)
+- How many student credits [Makrotalousteorian jatkokurssi II](course)
+- How many student points [Viestinnän ja median tutkimussuuntauksia](course)
+- How many student credits from [Minuus, identiteetti ja sosiaalinen konteksti](course)
+- How many student points from [Political Ideologies (book exam)(course)
+- How many ECTS from [Erikoiskurssi](course)
+- How many student credits is [Liikunnan projekti (5 op)](course)
+- How many points is [Eheyttävä musiikkikasvatus / Harjoitukset - 2.vsk](course)
+- How many credits is [Tutustuminen psykologin työhön](course)
+- How many ECTS is [Johdatus hoitotieteelliseen tutkimukseen, kirjatentti, Seinäjoki](course)
+- How many student credits is [Deutsch im Alltag und Studium](course)
+- How many student points is [Venäjä III](course)
+- Student points [Eriytyvä syventävä tutkimusmenetelmäkurssi A: Research methods in education policy](course)
+- Student credits [Poliittinen filosofia (kirjatentti/essee)](course)
+- ECTS [Media Landscape in Russia: Regional Perspective](course)
+- [Työelämäviestinnän tutkimus- tai kehityshanke](course) ECTS
+- [Biological data analysis with R](course) course points
+- [Introduction to Programming I (Tampere Summer School 2018)](course) student points
+- [Master's Thesis Seminar / Internet and Game Studies](course) points
+- [Käytännön opetus ja ohjaus - STYA3B2 Käytännön opetus ja ohjaus](course) amount of points
+- [Ympäristön ja alueiden poliittisuus (avoin yliopisto-opetus), monimuoto-opetus](course) credits
+- [Gender and wellbeing in the global South and North](course) the amount of ECTS
+- How many points [Äänne- ja muoto-oppi](course) is
+- How many ECTS [Näkökulmia kääntämiseen - Johdatus käännösprosessiin](course) will be
+- Credits [Speakers Series](course)
+- How many credits can I get from [Talous - politiikka - kulttuuri -lukupiiri](course)
+- How many ECTS can I get from [Ruotsin kielen kirjallinen ja suullinen viestintä](course)
+- How many student points can I get from [Advanced International Relations Research Methods (book exam/essay)](course)
+- I want to know how many credits can I get from [Eettinen johtajuus](course)
+- I want to know how many ECTS can I get from [Political Systems (book exam/essay)](course)
+- I want to know how many student points can I get from [Poliittiset ongelmat ja niiden muuttuvat kontekstit](course)
+- I want to know the amount of student points [Tutkimuspraktikum](course)- How many points [Kiina II](course)
+- How many credits [Inklusiivinen koulu - Luennot, seminaarit, kenttätehtävä ja raportointi](course)
+- How many ECTS [Research seminar for postgraduate studies](course)
+- How many student credits [Introduction to R](course)
+- How many student points [Yhteisöllinen oppiminen ja ohjaus - Seminaari](course)
+- How many student credits from [Kirjallinen ja suullinen viestintä III/Pis'mennaja i razgovornaja praktika](course)
+- How many student points from [Tieteellinen kirjoittaminen(course)
+- How many ECTS from [Conflict Resolution (book exam/essay)](course)
+- How many student credits is [Visuaalisen journalismin perusteet, luennot](course)
+- How many points is [Everything You Wanted to Know about Political Parties - But Never Dared to Ask (POMLFCS1)](course)
+- How many credits is [Yksilö, yhteiskunta ja kulttuuri - evankelisluterilaiset uskonnon ja elämänkatsomustiedon harjoitusryhmät - 2. vsk](course)
+- How many ECTS is [Research Seminar, Doctoral Programme in Language Studies](course)
+- How many student credits is [Strategia ja yrittäjyys](course)
+- How many student points is [Talous ja yhteiskunta](course)
+- Student points [Business Writing](course)
+- Student credits [Kvalitatiiviset menetelmät](course)
+- ECTS [Terveystaloustieteen tohtorikoulutussemiaari](course)
+- [MA Thesis Seminar](course) ECTS
+- [Tutkimusetiikka](course) course points
+- [Historiankirjoituksen historia](course) student points
+- [Emotions and Sociality in Human-Technology Interaction](course) points
+- [Väittelijän puheviestintä](course) amount of points
+- [Teoria- ja metodiopinnot teatteritaiteen tohtorin tutkinnossa](course) credits
+- [Terve ja turvallinen kouluyhteisö](course) the amount of ECTS
+- How many points [Kieliopin harjoitukset](course) is
+- How many ECTS [Kandidaattiseminaari ja -tutkielma (julkisoikeus), kevät -](course) will be
+- Credits [Literature and Society in Early Modern Britain](course)
+- How many credits can I get from [Current theoretical questions of educational research](course)
+- How many ECTS can I get from [Opetussuunnitelmatyö yliopistossa](course)
+- How many student points can I get from [Omaan tieteenalaan ja tutkimusaiheeseen liittyvät opinnot teatteritaiteen tohtorin tutkinnossa](course)
+- I want to know how many credits can I get from [Perusharjoittelu](course)
+- I want to know how many ECTS can I get from [Tiedonhankintataidot (hoitotiede)](course)
+- I want to know how many student points can I get from [Intercultural Communication](course)
+- I want to know the amount of student points [Studies of expansive learning: Foundations, findings and challenges](course)- How many points [Kokeellinen tiedonhaku](course)
+- How many credits [Filosofian tutkija- ja tohtorikoulutusseminaari](course)
+- How many ECTS [Julkistalouden jatkokurssi](course)
+- How many student credits [Moniammatillinen -klinikkaopetus](course)
+- How many student points [Media and the Arctic (POMLFCS3)](course)
+- How many student credits from [Genes and Genomes](course)
+- How many student points from [Kandidaatintutkielmaseminaari - Seminaari(course)
+- How many ECTS from [Usean muuttujan differentiaalilaskenta](course)
+- How many student credits is [Tietokäytännöt (syksyllä 2018 perusopinnot aloittaville) - verkkokurssi](course)
+- How many points is [Kirjallisuuden- ja kulttuurintutkimuksen teoriat](course)
+- How many credits is [Orientoivat opinnot - Tiedonhankintataidot I](course)
+- How many ECTS is [Äärellisten mallien teorian seminaari (Finite model theory seminar)](course)
+- How many student credits is [Foreign Policy and Diplomacy (book exam/essay)](course)
+- How many student points is [Teoria, ideologia & talouspolitiikka - Keynesiläisyydestä uusliberalismiin](course)
+- Student points [Laskentatoimen perusteet](course)
+- Student credits [Informaatio- ja mediajärjestelmien historiaa ja nykypäivää (keväällä 2019 perusopinnot aloittaville) - verkkokurssi](course)
+- ECTS [Aktuelle Texte aus Presse und Studium](course)
+- [Kirjallisuuden opettaminen](course) ECTS
+- [Liikunta - Liikuntapedagogiikka perusopetuksessa A ensisijaisesti opinnot 1½ lukuvuodessa suorittavat lo-opiskelijat](course) course points
+- [Welfare State Theories](course) student points
+- [Tutkielmaseminaari - Seminaari](course) points
+- [Empiiristen tutkimusmenetelmien yleisesitykset (kirjatentti/essee)](course) amount of points
+- [Lukuteoria ja algebra opettajille -](course) credits
+- [Talouselämän käännösviestinnän seminaari suomi-saksa -](course) the amount of ECTS
+- How many points [Kandidaatin tutkielma ja seminaari, (hoitotieteen opiskelijoille), Seinäjoki](course) is
+- How many ECTS [Kvantitatiivinen tutkimus kasvatustieteissä - Harjoitukset, varhaiskasv. ryhmä, luokanop. ja varhaiskasv. yhteinen ryhmä](course) will be
+- Credits [Seminaari II / Seminar II](course)
+- How many credits can I get from [Terveys, tieto, asiantuntijuus](course)
+- How many ECTS can I get from [Media maailmassa - verkkokurssi](course)
+- How many student points can I get from [Kirjallisuudentutkijan työkalupakki tieteellisiin kertomuksiin](course)
+- I want to know how many credits can I get from [Master's Thesis Seminar / Internet and Game Studies](course)
+- I want to know how many ECTS can I get from [Medioitu vuorovaikutus](course)
+- I want to know how many student points can I get from [Structure of English II - Grammar II](course)
+- I want to know the amount of student points [Uuden ajan alun (1500-1800) tutkimuksen lähteet ja menetelmät](course)- How many points [Kääntämisen ja tulkkauksen teoria ja käytäntö - Terminologia](course)
+- How many credits [Oppimisen ja opiskelun taidot](course)
+- How many ECTS [Orientaatio filosofian tutkinto-ohjelman opintoihin](course)
+- How many student credits [Kulutuksen ja ostokäyttäytymisen teoria](course)
+- How many student points [Yritysetiikka (verkkokurssi)](course)
+- How many student credits from [Kuva-  ja mediakulttuurit - Kuvakulttuurit - 1. vsk ja erillisen opinto-oikeuden POM-opintoihin saaneet opiskelijat (luennot)](course)
+- How many student points from [Introduction to Academic English (online / JKK, EDU, LUO, COMS & SOC)(course)
+- How many ECTS from [Internet ja vuorovaikutteinen media (keväällä 2018 perusopinnot aloittaneille) - verkkokurssi](course)
+- How many student credits is [Linguistics I: Introduction to Basic Concepts](course)
+- How many points is [Espanjan historia ja kirjallisuus - Historia y literatura de España](course)
+- How many credits is [Pro gradu -seminaari ja -tutkielma](course)
+- How many ECTS is [Julkissektorin instituutioiden talous (monimuoto-opetus)](course)
+- How many student credits is [Comparative Criminal Justice](course)
+- How many student points is [Kehittävä asiantuntijatyö organisaatioissa](course)
+- Student points [Projektiharjoittelu](course)
+- Student credits [Writing the Nation](course)
+- ECTS [Visuaalisen journalismin perusteet, harjoitukset](course)
+- [Väestön vanheneminen, terveys ja hyvinvointi](course) ECTS
+- [Lapset ympäristönsä tutkijoina - Matematiikka](course) course points
+- [Ruotsin kielen kirjallinen ja suullinen viestintä](course) student points
+- [Moniammatillinen -klinikkaopetus](course) points
+- [Kandidaattiseminaari (JATKAVA, Katermaa)](course) amount of points
+- [Visuality, security and peace: Introduction into visual peace research and visual security studies](course) credits
+- [Minustako asiantuntijamyynnin ammattilainen?](course) the amount of ECTS
+- How many points [Tiedon rajat](course) is
+- How many ECTS [Introduction to computational biology](course) will be
+- Credits [Political Ideologies (book exam)](course)
+- How many credits can I get from [Orientoivat opinnot ja HOPS (pohjoismaiset kielet)](course)
+- How many ECTS can I get from [Protein technology Laboratory Course A](course)
+- How many student points can I get from [Tutkimustyön perusteet - a) Tieteenfilosofia](course)
+- I want to know how many credits can I get from [Pro gradu -seminaari ja -tutkielma (2018-2019)](course)
+- I want to know how many ECTS can I get from [Suullinen viestintä I/Muntlig kommunikation I](course)
+- I want to know how many student points can I get from [Seminaari (Seppänen) jatkuu keväältä](course)
+- I want to know the amount of student points [Master's Thesis Seminar in Software Development](course)- How many points [Tutkielmakurssi (periodi I)](course)
+- How many credits [Tasa-arvon ja yhdenvertaisuuden edistäminen työnä (verkkokurssi)](course)
+- How many ECTS [Liiketoimintamallit](course)
+- How many student credits [Käännös suomi-espanja I/Traducción finés-español I](course)
+- How many student points [Linguistics I: Introduction to Basic Concepts](course)
+- How many student credits from [Specialised International Relations Research Methods (book exam/essay)](course)
+- How many student points from [Kielioppi I (suomenkieliset opiskelijat)(course)
+- How many ECTS from [Kehitys, kasvatus ja elämänkulku, monimuoto-opetus](course)
+- How many student credits is [High-throughput data analysis](course)
+- How many points is [Kandidaattiseminaari ja tutkielma (yrityksen johtaminen) - syksy 2018](course)
+- How many credits is [Introduction to research methods in public administration](course)
+- How many ECTS is [Media and Globalization - Lectures + essay](course)
+- How many student credits is [Asiantuntijan puheviestintä ja vuorovaikutus / avoin yliopisto-opetus](course)
+- How many student points is [Johdatus logiikkaan 1](course)
+- Student points [Äidinkieli ja kirjallisuus - Lukeminen ja kirjoittaminen - 1. vsk (luennot)](course)
+- Student credits [Biostatistics](course)
+- ECTS [Syventävä projekti, syksyllä 2018 alkava](course)
+- [Nimistöntutkimus](course) ECTS
+- [Tieteellinen kirjoittaminen / SOC (historia & filosofia)](course) course points
+- [Russia beyond Russia. Case Study Finland](course) student points
+- [Lausekielinen ohjelmointi I](course) points
+- [Graduseminaari (Junkkari)](course) amount of points
+- [Venäjä IV](course) credits
+- [NEDIS tohtorikoulutusseminaari (Lasten ja nuorten terveyden edistämisen tutkimus)](course) the amount of ECTS
+- How many points [ABC of Scientific Communication](course) is
+- How many ECTS [Kasvatus tieteellisen tutkimuksen kohteena, avoin yo, lähi- ja monimuotototeutus](course) will be
+- Credits [Graduseminaari (Ruohonen)](course)
+- How many credits can I get from [Opetus, ohjaus, oppiminen - Luennot (1 op) EDUn opiskelijoille TAI luennot (1 op) ja kirjatentti (4 op) opintojakson valinnaisena suorittaville](course)
+- How many ECTS can I get from [Systems biology methods](course)
+- How many student points can I get from [Kasvatustieteen metodologiset lähtökohdat - Luennot ja kirjatentti TAI kirjatentti](course)
+- I want to know how many credits can I get from [Vaihtuva-alainen kurssi: Oppimisvaikeudet](course)
+- I want to know how many ECTS can I get from [Liikunta - Liikuntapedagogiikan perusteet - 1 vsk ja  erillisen opinto-oikeuden POM-opintoihin saaneet opiskelijat](course)
+- I want to know how many student points can I get from [Yritysverotus](course)
+- I want to know the amount of student points [Orientoivat opinnot ja HOPS](course)- How many points [Perspectives to sustainable organisational and societal change](course)
+- How many credits [Työn taloustiede](course)
+- How many ECTS [Osallisuudet, oikeudet ja vastuut palvelujärjestelmäkohtaamisissa](course)
+- How many student credits [Sosiaalityön harjoittelu + kehittämistyön harjoittelu - STYS2B2 Harjoitteluseminaari](course)
+- How many student points [Kulttuuripsykologian perusteet](course)
+- How many student credits from [Tieteellinen kirjoittaminen / SOC (historia & filosofia)](course)
+- How many student points from [Julkisyhteisöjen kirjanpito ja tilinpäätös(course)
+- How many ECTS from [Networks in Service Business](course)
+- How many student credits is [Case study: Examining leadership challenges](course)
+- How many points is [Studies of expansive learning: Foundations, findings and challenges](course)
+- How many credits is [Political Economy](course)
+- How many ECTS is [Bioinformatics tools (spring 2019)](course)
+- How many student credits is [Teoria, ideologia & talouspolitiikka - Keynesiläisyydestä uusliberalismiin](course)
+- How many student points is [Asiantuntijan puheviestintä ja vuorovaikutus (4. periodi) / KTM-tutkinto](course)
+- Student points [Euroopan unionin finanssihallinto-oikeus - Luennot ja tentti.](course)
+- Student credits [Terveystiedon asiantuntijuus (sähköinen tentti)](course)
+- ECTS [Valokuva historian tekijänä](course)
+- [Political Systems Outside of Europe (book exam/essay)](course) ECTS
+- [PlayLab! Game Journalism Project](course) course points
+- [Finnish Society and Culture (spring)](course) student points
+- [Talous ja yhteiskunta](course) points
+- [Tieteellinen kirjoittaminen (SOC)](course) amount of points
+- [Asiakastyön teorioita ja menetelmiä - STYA3A2 Asiakastyön menetelmät, luennot](course) credits
+- [Kehittyminen hoitotyön opettajaksi ja kouluttajaksi](course) the amount of ECTS
+- How many points [Kokeellinen, kokeileva ja kokemuksellinen sosiaalipsykologia](course) is
+- How many ECTS [Tekninen viestintä ja informaation suunnittelu](course) will be
+- Credits [Fonetiikan ja yleisen kielitieteen perusteet - Yleinen kielitiede](course)
+- How many credits can I get from [Orientation - Orientation to studying in the Computational Big Data Analytics programme](course)
+- How many ECTS can I get from [Käytännön opetus ja ohjaus](course)
+- How many student points can I get from [Seminaari](course)
+- I want to know how many credits can I get from [Kansainvälinen yhteisö (kirjatentti/essee)](course)
+- I want to know how many ECTS can I get from [Introduction to Statistics (Tampere Summer School)](course)
+- I want to know how many student points can I get from [Introduction to research methods in public administration](course)
+- I want to know the amount of student points [Radiojournalismi](course)- How many points [Media and the Arctic (POMLFCS3)](course)
+- How many credits [Suunnittelu ja kehittäminen hoitotyön johtamisessa](course)
+- How many ECTS [Feministiset politiikat ja asiantuntijuus](course)
+- How many student credits [Sanastotyö](course)
+- How many student points [Seminaari](course)
+- How many student credits from [Luottamustehtävissä toimiminen - Luottamustehtäväraportti](course)
+- How many student points from [Individual project course(course)
+- How many ECTS from [Kognitiivinen neurotiede II](course)
+- How many student credits is [Children, young people, politics and participation](course)
+- How many points is [Rahoituksen jatkokurssi](course)
+- How many credits is [Tutkimusseminaari ja pro gradu -tutkielma](course)
+- How many ECTS is [Kielen kehitys / Luennot- 2.vsk + 1.vsk ryhmät 6 ja 7](course)
+- How many student credits is [Johdatus länsimaiseen kirjallisuushistoriaan - harjoitukset](course)
+- How many student points is [Dialogue: Constructive Talk at Work](course)
+- Student points [Draama - 2.vsk ja   opinnot 1½ lukuvuodessa suorittavat 1.vsk ja POM-opintoihin opinto-oikeuden saaneet opiskelijat( luennot)](course)
+- Student credits [Johdatus hallintotieteeseen (avoin yliopisto-opetus), monimuoto-opetus](course)
+- ECTS [Case study: Examining leadership challenges](course)
+- [Nuorisotyön ja nuorisotutkimuksen maisteriohjelman lähijakso 29.-30.8.2018](course) ECTS
+- [Konfliktinratkaisu (kirjatentti/essee)](course) course points
+- [Peace, Security and International Institutions (book exam/essay)](course) student points
+- [Pratiques de l'oral et de l'écrit / Ranskan kielen tuottaminen](course) points
+- [Organisational Change Dynamics and Management](course) amount of points
+- [Romanian kielen jatkokurssi II / Advanced Course 2 in Romanian -](course) credits
+- [Valtio-opin johdantokurssi](course) the amount of ECTS
+- How many points [Eliittiteoriat ja -tutkimus](course) is
+- How many ECTS [Minuus, identiteetti ja sosiaalinen konteksti](course) will be
+- Credits [Johdatus kulttuurisosiologiaan](course)
+- How many credits can I get from [Macroprudential Policy and Financial Stability](course)
+- How many ECTS can I get from [Empiiristen tutkimusmenetelmien yleisesitykset (kirjatentti/essee)](course)
+- How many student points can I get from [Monimuuttujamenetelmien perusteet](course)
+- I want to know how many credits can I get from [Reading Waste](course)
+- I want to know how many ECTS can I get from [Uuden ajan alun (1500-1800) tutkimuksen lähteet ja menetelmät](course)
+- I want to know how many student points can I get from [Inklusiivinen varhaiskasvatus / Harjoitukset - 3.vsk](course)
+- I want to know the amount of student points [Harjoittelu / Elinikäinen oppiminen ja kasvatus - Arviointiseminaari vuonna 2018 harjoitteleville](course)- How many points [Tutkielmaseminaari (keväällä 2019 alkavat seminaarit) - Seminaari](course)
+- How many credits [Liike-elämän ruotsia I](course)
+- How many ECTS [Sociolinguistics](course)
+- How many student credits [Tieteellinen kirjoittaminen / SOC (historia & filosofia)](course)
+- How many student points [Strategisen markkinoinnin caset](course)
+- How many student credits from [Julkisen hallinnon reformit ja muutos](course)
+- How many student points from [Software Project Management, Theory(course)
+- How many ECTS from [Digitaalinen historia](course)
+- How many student credits is [Academic Presentations](course)
+- How many points is [Kirjallinen viestintä I - Sanasto- ja rakenneharjoitukset](course)
+- How many credits is [Terveystiedon didaktiikan perusteet](course)
+- How many ECTS is [Regression analysis](course)
+- How many student credits is [Algebra 1A](course)
+- How many student points is [Tieteellinen kirjoittaminen ja politiikan tutkimuksen aineistot](course)
+- Student points [Moniammatilliset oppimisyhteisöt - Seminaari](course)
+- Student credits [Universal Basic Income](course)
+- ECTS [Arviointimenetelmät](course)
+- [Rakennebiologia](course) ECTS
+- [Tuutorina toimiminen](course) course points
+- [Sosiaalityön toimintaympäristöt (kirjatentti)](course) student points
+- [Global Ghallenges to the Future of Welfare State (Tampere Summer School 2018)](course) points
+- [Political Systems Outside of Europe (book exam/essay)](course) amount of points
+- [Bachelor's Thesis Seminar - seminar in English](course) credits
+- [Johdon laskentatoimen perusteet (avoin yliopisto-opetus)](course) the amount of ECTS
+- How many points [Kehittävä asiantuntijatyö organisaatioissa](course) is
+- How many ECTS [Kansainvälisen politiikan teoria ja metateoria - Luentokurssi](course) will be
+- Credits [Accounting Information Systems](course)
+- How many credits can I get from [Applied and Effective Project Management, Leadership and Communication - (Tampere Summer School)](course)
+- How many ECTS can I get from [Parhaat filosofiset artikkelit](course)
+- How many student points can I get from [Medical English - Introduction to Scientific Writing](course)
+- I want to know how many credits can I get from [Espanja IV](course)
+- I want to know how many ECTS can I get from [Government and Society: Inequality](course)
+- I want to know how many student points can I get from [Terveys ja talous](course)
+- I want to know the amount of student points [Kuvataiteen vaihtuvateemainen opintojakso/Elokuva mediakasvatuksen välineenä](course)- How many points [Research seminar for postgraduate studies](course)
+- How many credits [Julkisoikeuden perusteet (järjestäjä TAMK)](course)
+- How many ECTS [Kandidaattiseminaari (JATKAVA, Nevala)](course)
+- How many student credits [Pohjoismaiden yhteiskuntaolot ja kulttuurit](course)
+- How many student points [Terveys, arki ja toimijuus, luennot](course)
+- How many student credits from [Todennäköisyyslaskenta](course)
+- How many student points from [Proseminaari (ryhmä 2)(course)
+- How many ECTS from [Talouselämän ja tekniikan käännösviestinnän seminaari saksa-suomi](course)
+- How many student credits is [Introduction to Pharmacology and Drug Modelling](course)
+- How many points is [Media and the Arctic](course)
+- How many credits is [Venäjän kulttuuri](course)
+- How many ECTS is [Pratiques de l'écrit: méthodes et techniques d'expression écrite/Kirjoitusharjoituksia: kirjallisen esityksen metodit ja tekniikka](course)
+- How many student credits is [Tutkimustyötä tukevat tohtoriopinnot - Doctoral Studies in Information Studies and Interactive Media](course)
+- How many student points is [Laskentatoimen teoria ja IFRS II](course)
+- Student points [Pohjoismaisten kielten lähtötasokoe](course)
+- Student credits [Lääketieteellisen tutkimuksen etiikka](course)
+- ECTS [Planning, Managing and Completing Your Doctoral Thesis](course)
+- [Ruotsin kielen kirjallinen ja suullinen viestintä (myös TTY:n biotekniikan opiskelijoille)](course) ECTS
+- [Innovation Project (2018-I)](course) course points
+- [Oppimisyhteisöt ja vuorovaikutus, kirjatentti, Pori](course) student points
+- [Erot, jaot ja niiden rakentuminen, kirjatentti, Pori](course) points
+- [Kansainvälisen politiikan menetelmäseminaari (kirjatentti)](course) amount of points
+- [Kauppatieteellisen tutkimuksen menetelmät (vakuutus ja riskienhallinta + laskentatoimi)](course) credits
+- [Musiikin tiedolliset valmiudet ja niiden soveltaminen - Musiikkitieto](course) the amount of ECTS
+- How many points [Becoming an Efficient Researcher](course) is
+- How many ECTS [Romanticism and Its Legacy](course) will be
+- Credits [Symbols that move us - popular culture/deep culture](course)
+- How many credits can I get from [Translating and Editing for Publication](course)
+- How many ECTS can I get from [Mediakasvatus, osallisuus ja aktiivinen kansalaisuus, kirjatentti](course)
+- How many student points can I get from [Nuorisotyö ja nuorten elämänkulku](course)
+- I want to know how many credits can I get from [Asiantuntijan puheviestintä ja vuorovaikutusosaaminen](course)
+- I want to know how many ECTS can I get from [Musiikki - Musiikin teoria alakoulussa - 1. vsk ja  erillisen opinto-oikeuden POM-opintoihin saaneet opiskelijat](course)
+- I want to know how many student points can I get from [Poliittiset instituutiot ja prosessit (kirjatentti/essee)](course)
+- I want to know the amount of student points [Basics II: Intermediate Czech I](course)- How many points [Venäjä I](course)
+- How many credits [Kirjasto- ja tietopalvelujen suunnittelu ja arviointi](course)
+- How many ECTS [Terveydenhuollon koulutuspolitiikka](course)
+- How many student credits [Tietojärjestelmän suunnittelun perusteet - Näyttökoe, syksy 2018](course)
+- How many student points [Arviointimenetelmät](course)
+- How many student credits from [Civil Society and Political Participation (book exam/essay)](course)
+- How many student points from [Laajentava harjoittelu(course)
+- How many ECTS from [Erot, jaot ja niiden rakentuminen - Luennot ja lukupiiri (klk) TAI kirjatentti (slk ja klk)](course)
+- How many student credits is [Johdon laskentatoimen jatkokurssi](course)
+- How many points is [Responsible Business and Social Accounting (Lectures)](course)
+- How many credits is [Basic Studies in Education -courses, introductory meetings, reading circles and book exams](course)
+- How many ECTS is [Kirjallisuustieteen syysseminaari: Ihmesaduista adaptaatioihin. Näkökulmia sadun ja fantasian tutkimukseen](course)
+- How many student credits is [Syntyvyys, hoiva, sukupolvi](course)
+- How many student points is [Ainedidaktiikka I](course)
+- Student points [Menetelmäopinnot / Kielentutkimuksen metodit](course)
+- Student credits [Mediatutkimuksen valinn. jakso: Ääni, teknologia ja kulttuuri](course)
+- ECTS [Immunologian perusteet](course)
+- [Orientation - Orientation to studying in the Degree Programme](course) ECTS
+- [Oikeudellisen tutkimuksen perusteet](course) course points
+- [Lapset ympäristönsä tutkijoina - Käsityö](course) student points
+- [Toisen kielen oppiminen ja opetus](course) points
+- [Nuorisotyön toimintaympäristöt, työmuodot ja menetelmät](course) amount of points
+- [Introduction to Statistics](course) credits
+- [Suullinen ja kirjallinen taito - Ääntämisharjoitukset ja tekstinymmärtäminen/Expresión oral y escrita - Pronunciación y Comprensión de textos](course) the amount of ECTS
+- How many points [Poliittinen filosofia (kirjatentti/essee)](course) is
+- How many ECTS [Liike-elämän ruotsia I](course) will be
+- Credits [Genetics and Pathogenesis of Common Killers](course)
+- How many credits can I get from [Studia generalia: Lastenkirja kääntäjän kädessä](course)
+- How many ECTS can I get from [Systemaattinen tiedonhaku hoitotieteessä, Seinäjoki](course)
+- How many student points can I get from [Journalistinen kieli - Kielenhuolto, lauseoppi](course)
+- I want to know how many credits can I get from [Kielioppi II/Språkets strukturer II](course)
+- I want to know how many ECTS can I get from [Sopimusoikeus](course)
+- I want to know how many student points can I get from [Foundations of English Business Communication](course)
+- I want to know the amount of student points [Käsitteellinen mallintaminen I](course)- How many points [Puheviestinnän tutkimuskurssi](course)
+- How many credits [Monikulttuurisuus ja koulutuspolitiikka - Seminaari](course)
+- How many ECTS [Espanjan kielioppi II/Gramática española II](course)
+- How many student credits [Tekninen kirjoittaminen (englanti)](course)
+- How many student points [Tieteellinen kirjoittaminen](course)
+- How many student credits from [Seminaari](course)
+- How many student points from [Terve ja turvallinen kouluyhteisö(course)
+- How many ECTS from [Kvalitatiivinen tutkimus kasvatustieteissä - Verkkokurssi, yhteisopetus avoimen yo:n ja tutkinto-opiskelijoille](course)
+- How many student credits is [Eriytyvä syventävä tutkimusmenetelmäkurssi A: Etnografia](course)
+- How many points is [Tietojärjestelmän suunnittelun perusteet](course)
+- How many credits is [Kieli käyttöön/Språket i bruk](course)
+- How many ECTS is [Orientaatio tutkielman tekemiseen -](course)
+- How many student credits is [Johdatus länsimaiseen kirjallisuushistoriaan - luennot](course)
+- How many student points is [Musiikin perusteet / Luennot - 1.vsk ryhmät 1-5](course)
+- Student points [Making sense of globalization - Theorizing beyond the nation-state - Lectures + essay](course)
+- Student credits [Tutkielmapiiri](course)
+- ECTS [Introduction to International Criminal Justice System](course)
+- [Scientific Writing - Module A - Writing Clinic](course) ECTS
+- [Monikulttuurisen sosiaalityön erityiskysymykset - Sosnet verkkokurssi](course) course points
+- [Johtaminen ja organisaatiot II](course) student points
+- [Espanja IV](course) points
+- [Tilastotieteen johdantokurssi, iltaryhmä](course) amount of points
+- [Terveys, arki ja toimijuus, luennot](course) credits
+- [Eriytyvä syventävä tutkimusmenetelmäkurssi A: Laadullisen aineiston analyysi](course) the amount of ECTS
+- How many points [Practical Observation and Reflection of ECEC - Observation, written tasks, report](course) is
+- How many ECTS [Johdatus vuorovaikutteiseen teknologiaan](course) will be
+- Credits [Johdatus Suomen kirjallisuushistoriaan - luennot](course)
+- How many credits can I get from [Liberalismi ja demokratia](course)
+- How many ECTS can I get from [Sosiaalipolitiikka (lähi- ja monimuotokurssi)](course)
+- How many student points can I get from [Matematiikan gradustartti](course)
+- I want to know how many credits can I get from [Tekstin tekemisen perusteet](course)
+- I want to know how many ECTS can I get from [Rahoitusekonometria](course)
+- I want to know how many student points can I get from [Ruotsin kielen kirjallinen ja suullinen viestintä / Monenlaisten oppijoiden ryhmä](course)
+- I want to know the amount of student points [Harjoittelu / Elinikäinen oppiminen ja kasvatus, Essee työkokemuksen pohjalta, klk19](course)- How many points [Asiantuntijan puheviestintä ja vuorovaikutus opetus- ja kasvatustyössä (2. periodi)](course)
+- How many credits [Orientation](course)
+- How many ECTS [Statistical Modeling 1](course)
+- How many student credits [Environmental History and Cultural Ecology of Russia (VENS20)](course)
+- How many student points [Valinnainen jakso: Radioprojekti (kevät)](course)
+- How many student credits from [Hallintotieteen teoriat ja käsitteet](course)
+- How many student points from [Nykyajan filosofia(course)
+- How many ECTS from [Media and Globalization - Lectures + essay](course)
+- How many student credits is [Rahoituksen perusteet](course)
+- How many points is [International Political Economy](course)
+- How many credits is [Kvalitatiivinen tutkimus kasvatustieteissä - Harjoitukset, luokanopettajaopiskelijat](course)
+- How many ECTS is [Kehitys, kasvatus ja elämänkulku, monimuoto-opetus](course)
+- How many student credits is [Orientoivat ja asiantuntijuuden kehittymistä tukevat opinnot - Kasvatustieteellinen luku- ja kirjoitustaito](course)
+- How many student points is [Monikielinen käännöstyöpaja](course)
+- Student points [Biologia ja ympäristötieto - Biologian ja maantieteen perusteet- 1.vsk ja erillisen opinto-oikeuden POM-opintoihin saaneet opiskelijat (luennot)](course)
+- Student credits [Dialogitulkkaus / Dialogdolmetschen](course)
+- ECTS [Gender in Society](course)
+- [Kandidaattiseminaari (JATKAVA, Nenonen)](course) ECTS
+- [Työelämän korttipakka](course) course points
+- [Kohti matematiikan opettajuutta 2 (TTY)](course) student points
+- [Kertomuksen vaarat](course) points
+- [Bioinformatics](course) amount of points
+- [Current and Future Challenges of World Politics and Economy (POMLFCS3)](course) credits
+- [Bioinformatics project](course) the amount of ECTS
+- How many points [European Integration and Disintegration (BOOK EXAM POLKVS32)](course) is
+- How many ECTS [Politiikan tutkimuksen kandidaatintutkielma ja -seminaari](course) will be
+- Credits [Deutsch im Alltag und Studium](course)
+- How many credits can I get from [Johdatus kirjallisuuden poetiikkaan](course)
+- How many ECTS can I get from [Personal Study Planning](course)
+- How many student points can I get from [Tutkielmaseminaari (logopedia)](course)
+- I want to know how many credits can I get from [Kognitiivinen neurotiede I](course)
+- I want to know how many ECTS can I get from [Medioitu vuorovaikutus](course)
+- I want to know how many student points can I get from [Lapset kehittyvinä ja sosiaalisina toimijoina varhaiskasvatuksessa / Harjoitukset - 1.vsk](course)
+- I want to know the amount of student points [Literature and Urban Space](course)- How many points [Postcolonial Literature](course)
+- How many credits [Sidosryhmäteoria ja -johtaminen](course)
+- How many ECTS [Pro gradu -tutkielma ja -seminaari](course)
+- How many student credits [Kandidaatintutkielma](course)
+- How many student points [Genes and Genomes](course)
+- How many student credits from [Business, Society and Nature (Independent study) Autumn 2018](course)
+- How many student points from [Learning difficulties and the challenges in schooling in multicultural settings: critical reflections on the role of teachers(course)
+- How many ECTS from [Sukupuoli, perhe ja yhteiskunta](course)
+- How many student credits is [Pääoma-lukuseminaari](course)
+- How many points is [Vuorovaikutuksen perusteet](course)
+- How many credits is [Speakers Series](course)
+- How many ECTS is [Markkinoinnin teoria](course)
+- How many student credits is [Regression analysis](course)
+- How many student points is [Statistics](course)
+- Student points [Terveystiedon didaktiikan perusteet](course)
+- Student credits [SPSS:n perusteet, kevät](course)
+- ECTS [EU:n ulkosuhteiden erityiskysymykset: turvallisuus, talous ja arvot (kirjatentti/essee)](course)
+- [Saksan kielen valmentava kurssi - Interkulturelles Training](course) ECTS
+- [Espanjan historia ja kirjallisuus - Historia y literatura de España](course) course points
+- [Julkisen toiminnan tuloksellisuuden arviointi](course) student points
+- [Sosiaalioikeus I](course) points
+- [Molekulaarinen solubiologia](course) amount of points
+- [Pro gradu -tutkielma ja -seminaari, tammikuussa 2018 aloittaneet ryhmät](course) credits
+- [Johdon laskentatoimen jatkokurssi](course) the amount of ECTS
+- How many points [Kandidaatintutkielma ja seminaari, lukuvuosi 2018-2019](course) is
+- How many ECTS [Kiina I](course) will be
+- Credits [Laskentatoimi ja talousjohtaminen](course)
+- How many credits can I get from [Moniammatilliset johtamisopinnot](course)
+- How many ECTS can I get from [Variety in Present-day English](course)
+- How many student points can I get from [Kehityspsykologia I](course)
+- I want to know how many credits can I get from [Maisteriopintojen esittely - TIM](course)
+- I want to know how many ECTS can I get from [Foundations of English Business Communication (RPL) / näyttökoe](course)
+- I want to know how many student points can I get from [Tieteellinen kirjoittaminen](course)
+- I want to know the amount of student points [Valokuva historian tekijänä](course)- How many points [Cancer Biology](course)
+- How many credits [Ruotsin kielen kirjallinen ja suullinen viestintä](course)
+- How many ECTS [Pelit ja pelillisyys (syksyllä 2017 perusopinnot aloittaneille) - verkkokurssi](course)
+- How many student credits [Terveystieteiden tilastolliset tutkimusmenetelmät](course)
+- How many student points [Latinalaisen Amerikan historia ja kirjallisuus - Historia y literatura de Latinoamérica](course)
+- How many student credits from [Saksan kielen valmentava kurssi - Interkulturelles Training](course)
+- How many student points from [Soveltava projekti - projekti(course)
+- How many ECTS from [Kuva-  ja mediakulttuurit - Mediakulttuurit- I vsk ja  erillisen opinto-oikeuden POM-opintoihin saaneet opiskelijat (luennot)](course)
+- How many student credits is [Research on Society and Organisations](course)
+- How many points is [Innovation Project (2018-II)](course)
+- How many credits is [Master's Seminar and Thesis](course)
+- How many ECTS is [Laboroinnin perusteet](course)
+- How many student credits is [Journalism Start-Ups and Enterpreneurialism](course)
+- How many student points is [Moniammatilliset johtamisopinnot](course)
+- Student points [Research work](course)
+- Student credits [PlayLab! Game Journalism Project](course)
+- ECTS [Poliittinen kommunikointi ja retoriikka (kirjatentti/essee)](course)
+- [Eriytyvä syventävä tutkimusmenetelmäkurssi A: Research methods in education policy](course) ECTS
+- [Johdatus länsimaiseen kirjallisuushistoriaan - luennot](course) course points
+- [Work and Health](course) student points
+- [Opetuksen, oppimisen ja koulutuksen arviointi ja laatu - Seminaari](course) points
+- [Media, Information and Democracy](course) amount of points
+- [Ohjelmistotuotannon käytännöt](course) credits
+- [Näkökulmia kääntämiseen - Johdatus käännösprosessiin](course) the amount of ECTS
+- How many points [Nordic Model: Nordic Welfare Societies](course) is
+- How many ECTS [Matematiikan peruskäsitteitä](course) will be
+- Credits [Julkistalouden valvonta ja tarkastus](course)
+- How many credits can I get from [Luottamustehtävissä toimiminen - Luottamustehtäväraportti](course)
+- How many ECTS can I get from [Perusharjoittelu](course)
+- How many student points can I get from [Tuutorivastaavana toimiminen - Projekti/käytännön työ](course)
+- I want to know how many credits can I get from [Asiantuntijan puheviestintä ja vuorovaikutus / avoin yliopisto-opetus](course)
+- I want to know how many ECTS can I get from [Asiantuntijuuden kehittymiseen orientoiva opintojakso - v. 2018 EDUn opiskelijoiksi hyväksyttyjen ryhmät](course)
+- I want to know how many student points can I get from [Kasvatushistoria, kirjatentti, Seinäjoki](course)
+- I want to know the amount of student points [Tila, teknologia ja toiminta - essee](course)- How many points [Toiminnanohjausjärjestelmät (ERP)](course)
+- How many credits [Puhetekniikan ja äänenkäytön perusteet](course)
+- How many ECTS [Espanjan kielioppi II/Gramática española II](course)
+- How many student credits [KEB-21101 Mikrobiologia](course)
+- How many student points [Research in Practice](course)
+- How many student credits from [Ammattimainen tekstintarkistus](course)
+- How many student points from [Ihmisoikeudet ja kansainvälinen yhteisö (kirjatentti/essee)(course)
+- How many ECTS from [Kuva-  ja mediakulttuurit - Mediakulttuurit- I vsk ja  erillisen opinto-oikeuden POM-opintoihin saaneet opiskelijat (luennot)](course)
+- How many student credits is [Matemaattiset aineet - Johdatus lukukäsitteeseen ja toimintamateriaalit - 1. vsk  ja erillisen opinto-oikeuden POM-opintoihin saaneet opiskelijat (harjoitukset)](course)
+- How many points is [Yhteiskunnalliset kiistat ja niiden hallinta (esseesuoritusvaihtoehto)](course)
+- How many credits is [Kielen kehitys](course)
+- How many ECTS is [Kääntäminen äidinkieleen](course)
+- How many student credits is [Erilaisuuden kohtaaminen ja inklusiivinen varhaiskasvatus - Kirjatentti (vaihtoehtoinen suoritustapa)](course)
+- How many student points is [Basics of Project Management](course)
+- Student points [Yrityksen taloustieteellisen tutkimuksen perusteet](course)
+- Student credits [Analyysi A](course)
+- ECTS [Terveys, arki ja toimijuus, luennot](course)
+- [Social Constructionism](course) ECTS
+- [Identity and Lifecourse - Lectures, reading groups and essay](course) course points
+- [Vanhat ja uudet klassikot (kirjatentti/essee)](course) student points
+- [Satututkimuksen lukupiiri](course) points
+- [Sosiaalinen maailma](course) amount of points
+- [Lapset ympäristönsä tutkijoina - Ympäristökasvatus](course) credits
+- [Rauhan- ja konfliktintutkimus (kirjatentti/essee)](course) the amount of ECTS
+- How many points [Kehittävä asiantuntijatyö organisaatioissa](course) is
+- How many ECTS [Äärellisten mallien teorian seminaari (Finite model theory seminar)](course) will be
+- Credits [Projektin suunnittelu ja johtaminen](course)
+- How many credits can I get from [Basics of Project Management](course)
+- How many ECTS can I get from [Kansainvälisen politiikan yleiset syventävät menetelmäopinnot (kirjatentti/essee)](course)
+- How many student points can I get from [Vastuullisen liiketoiminnan case-kurssi](course)
+- I want to know how many credits can I get from [Research on Public Management and Organizations](course)
+- I want to know how many ECTS can I get from [Nuorisotyön ja nuorisotutkimuksen maisteriohjelman lähijakso 14.-15.3.2019](course)
+- I want to know how many student points can I get from [Viron peruskurssi](course)
+- I want to know the amount of student points [Tiedon organisointi ja informaatioarkkitehtuuri](course)- How many points [Verkostoitunut maailma](course)
+- How many credits [Asiantuntijan puheviestintä ja vuorovaikutus sosiaali- ja terveysalalla (2. periodi)](course)
+- How many ECTS [Master´s Thesis and Seminar - for the group that started in 2018](course)
+- How many student credits [Academic Presentations](course)
+- How many student points [English Word Formation](course)
+- How many student credits from [Writing for Research (online course)](course)
+- How many student points from [Kandidaattiseminaari (JATKAVA, Nenonen)(course)
+- How many ECTS from [Big Data Entity Resolution](course)
+- How many student credits is [Tieteellinen kirjoittaminen / COMS (kirjallisuuden opiskelijoille)](course)
+- How many points is [Yhteisöviestintä kunta- ja aluejohtamisessa](course)
+- How many credits is [Jatkokoulutusseminaari](course)
+- How many ECTS is [Kandidaatintutkielma ja seminaari, syksy 2018](course)
+- How many student credits is [SOTEPO - Tohtorikoulutusseminaari (Sos.- ja terv.pol., tervh.tutk., terv.huollon joht.)](course)
+- How many student points is [Human-Technology Interaction Project Work](course)
+- Student points [Tutkimustyötä tukevat tohtoriopinnot - Doctoral Studies in Information Studies and Interactive Media](course)
+- Student credits [Hoitotieteen tohtorikoulutusseminaari](course)
+- ECTS [Kääntämisen ja tulkkauksen teoria ja käytäntö - Käännösteoria](course)
+- [Orientation to study in the Programme](course) ECTS
+- [Tieteellinen kirjoittaminen / SOC (historia & filosofia)](course) course points
+- [Kandidaattiseminaari](course) student points
+- [Kehityspsykologia II](course) points
+- [Kansainvälistymistä ja verkostoitumista tukevat opinnot teatteritaiteen tohtorin tutkinnossa](course) amount of points
+- [Seminaari (Kunelius) jatkuu keväältä](course) credits
+- [Poverty in the world: Hunger, inequalities and action](course) the amount of ECTS
+- How many points [Venäjä III](course) is
+- How many ECTS [Varhaiskasvatuksen pedagogiikka ja opetussuunnitelmatyö / Luennot - 2.vsk + 1.vsk ryhmät 6 ja 7](course) will be
+- Credits [Keskustelunanalyysi (verkkokurssi), syksy 2018](course)
+- How many credits can I get from [Johdatus politiikan teoriaan (kirjatentti/essee)](course)
+- How many ECTS can I get from [Asiantuntijan puheviestintä ja vuorovaikutus opetus- ja kasvatustyössä (3. periodi)](course)
+- How many student points can I get from [Lukeminen ja kirjoittaminen oppimisen haasteena - (luennot)](course)
+- I want to know how many credits can I get from [Tutkimusasetelman menetelmällinen rakentuminen tohtoriopinnoissa - Dialogipajat](course)
+- I want to know how many ECTS can I get from [Ruututekstikääntämisen peruskurssi](course)
+- I want to know how many student points can I get from [SGN-53007 Computational Diagnostics](course)
+- I want to know the amount of student points [Käsityöilmaisu - projekti/käytännön työ ja portfolio](course)- How many points [Historiankirjoituksen historia](course)
+- How many credits [Speakers Series](course)
+- How many ECTS [Kandidaatintutkielmaseminaari - Seminaari, tammikuussa 2018 alkanut ryhmä, yhteisopetusta avoimen yo:n kanssa](course)
+- How many student credits [Eheyttävä musiikkikasvatus / Harjoitukset - 2.vsk](course)
+- How many student points [Foundations of Games and Internet Research](course)
+- How many student credits from [Näkökulmia kääntämiseen - Kääntäminen viestinnällisenä asiantuntijatehtävänä / Perspektiven auf Übersetzen](course)
+- How many student points from [Yhteiskunnan tutkimuksen ajankohtaisia kysymyksiä - Luennot(course)
+- How many ECTS from [Seminaari](course)
+- How many student credits is [Seminaari II](course)
+- How many points is [Pratiques de l'écrit: méthodes et techniques d'expression écrite/Kirjoitusharjoituksia: kirjallisen esityksen metodit ja tekniikka](course)
+- How many credits is [Työhyvinvointi (itsenäinen suoritustapa)](course)
+- How many ECTS is [Käsityömuotoilu - projekti/käytännön työ ja protfolio](course)
+- How many student credits is [Sosiaalipsykologia (verkkokurssi)](course)
+- How many student points is [Syventävä projekti, syksyllä 2018 alkava](course)
+- Student points [Kandidaattiseminaari ja tutkielma (markkinointi) - syksy 2018](course)
+- Student credits [Käännösteknologian harjoituskurssi](course)
+- ECTS [Comparative Criminal Justice](course)
+- [Asiantuntemus ja arjen ympäristöpolitiikka (esseesuoritusvaihtoehto) - oppimispaivakirja ja teemaessee](course) ECTS
+- [Juridisk svenska (vain KTM:ksi klklla 2019 valmistuville)](course) course points
+- [Sosiaalityön toimintaympäristöt (kirjatentti)](course) student points
+- [Ympäristökasvatus / Harjoitukset - 2.vsk + 1.vsk ryhmät 6 ja 7](course) points
+- [Mediakasvatus, osallisuus ja aktiivinen kansalaisuus, kirjatentti, Pori](course) amount of points
+- [Basics of Marketing and Sales -](course) credits
+- [Usean muuttujan differentiaalilaskenta](course) the amount of ECTS
+- How many points [Tiedonhankintataidot - Tiedonhankintataidot III -  Systemaattinen tiedonhankinta (kansanterveystieteen opiskelijoille)](course) is
+- How many ECTS [Ethnographic Research](course) will be
+- Credits [Developing and implementing European Public Sector Accounting modules](course)
+- How many credits can I get from [Academic Writing](course)
+- How many ECTS can I get from [Palvelut ja hyvinvointivaltion murros](course)
+- How many student points can I get from [Julkisyhteisöjen kirjanpito ja tilinpäätös](course)
+- I want to know how many credits can I get from [Research Methods in HTI](course)
+- I want to know how many ECTS can I get from [Syntax](course)
+- I want to know how many student points can I get from [Fonetiikan teoriaa - Fonetiikan jatkokurssi](course)
+- I want to know the amount of student points [Empiirinen projekti](course)- How many points [Tekoäly ja vakuutustoiminta/ Vakuutustieteen vaihtuvasisältöinen kurssi](course)
+- How many credits [Tilintarkastusoikeus - kirjatentti](course)
+- How many ECTS [Terveystiedon didaktiikan perusteet](course)
+- How many student credits [Finnish Survival Course](course)
+- How many student points [Saksa III](course)
+- How many student credits from [Political Institutions and Processes (book exam/essay)](course)
+- How many student points from [Julkisten palvelujen johtaminen(course)
+- How many ECTS from [Tutkimusasetelman menetelmällinen rakentuminen tohtoriopinnoissa - Dialogipajat](course)
+- How many student credits is [Yritysjuridiikan perusteet](course)
+- How many points is [WWW Programming](course)
+- How many credits is [Lastenkirjallisuus ja draama / Luennot - 3.vsk + 1.vsk ryhmät 6 ja 7](course)
+- How many ECTS is [Tilastollisen päättelyn perusteet](course)
+- How many student credits is [Kieli käyttöön/Språket i bruk](course)
+- How many student points is [Academic Presentations](course)
+- Student points [Kulttuurien kohtaaminen](course)
+- Student credits [Teoria- ja metodiopinnot teatteritaiteen tohtorin tutkinnossa](course)
+- ECTS [Matemaattiset aineet - Johdatus lukukäsitteeseen ja toimintamateriaalit - 1. vsk  ja erillisen opinto-oikeuden POM-opintoihin saaneet opiskelijat (harjoitukset)](course)
+- [BMT-70100 Kudosteknologian perusteet](course) ECTS
+- [Normit ja asiakirjoittaminen - Tieteellinen kirjoittaminen](course) course points
+- [Kasvatus, koulutus ja yhteiskunta, monimuoto-opetus](course) student points
+- [Academic Presentations](course) points
+- [Tietojenkäsittelytieteiden opintojakso TTY:ltä](course) amount of points
+- [Writing Scientific Journal Articles](course) credits
+- [Lähtötasokoe - Kirjallinen tentti](course) the amount of ECTS
+- How many points [Structure of English III: Grammar and Context](course) is
+- How many ECTS [Antropologian osa-alueet](course) will be
+- Credits [Arvonlisäverotuksen syventävä opintojakso](course)
+- How many credits can I get from [Lähtötasokoe / Schwellentest](course)
+- How many ECTS can I get from [Yrityksen johtamisen perusteet](course)
+- How many student points can I get from [Maisteriopintojen esittely - CBDA](course)
+- I want to know how many credits can I get from [Matemaattiset ohjelmistot (luentokurssi)](course)
+- I want to know how many ECTS can I get from [Tietokantojen perusteet (Hervannan kampus)](course)
+- I want to know how many student points can I get from [Ryhmät ja ryhmien väliset suhteet](course)
+- I want to know the amount of student points [Scottish Literature](course)- How many points [Basics I: Basics of Czech language II](course)
+- How many credits [Verkkojulkaisemisen perusteet - kevät 2019](course)
+- How many ECTS [Mikrotalousteoria I](course)
+- How many student credits [Seminar, Bachelor's Thesis and Maturity Test - Seminar](course)
+- How many student points [Introduction to Bayesian Analysis 1](course)
+- How many student credits from [Asiantuntijan puheviestintä ja vuorovaikutus (2. periodi)](course)
+- How many student points from [Lastenkirjallisuus ja draama / Luennot - 3.vsk + 1.vsk ryhmät 6 ja 7(course)
+- How many ECTS from [Populaarikulttuuri ja -kirjallisuus](course)
+- How many student credits is [Eheyttävä musiikkikasvatus / Luennot - 2.vsk](course)
+- How many points is [Kirjasto- ja tietopalvelujen suunnittelu ja arviointi (keväällä 2018 opintokokonaisuuden aloittaneille)](course)
+- How many credits is [Orientoivat opinnot - Alkuorientaatio](course)
+- How many ECTS is [Diskutera som specialist](course)
+- How many student credits is [Korkeakoulut ja korkeakoulutus tutkimuksen kohteena - Kirjallinen tentti](course)
+- How many student points is [Oman äänen analyysi ja harjoittaminen](course)
+- Student points [MED Research Day](course)
+- Student credits [Kandidaatintutkielmaseminaari - Muuntotyöryhmä, klk19](course)
+- ECTS [Soveltava projekti - projekti](course)
+- [Study Skills and Personal Study Planning - Basics of Information Literacy](course) ECTS
+- [Projektiharjoittelu](course) course points
+- [Tieteellisen tiedonhankinnan perusteet (venäjä) -](course) student points
+- [Algebra 1A](course) points
+- [Eriytyvä syventävä tutkimusmenetelmäkurssi A: Design-tutkimus](course) amount of points
+- [Puheviestintä ja hyvinvointi](course) credits
+- [Vapaaehtoistyössä toimiminen](course) the amount of ECTS
+- How many points [Yhteisöllinen kehittämistehtävä](course) is
+- How many ECTS [Bioinformatics](course) will be
+- Credits [Opetus, ohjaus, oppiminen - Varhaiskasvatuksen opiskelijoille luennot (1 op) verkkotallenteena](course)
+- How many credits can I get from [Ruotsin kielen kirjallinen ja suullinen viestintä / AHOT (näyttökoe)](course)
+- How many ECTS can I get from [Kehitys, kasvatus ja elämänkulku, monimuoto-opetus](course)
+- How many student points can I get from [Ruotsin kielen kirjallinen ja suullinen viestintä (JKK: HK & YTK / EDU / LUO / COMS: HuK, LuK & YTK / SOC) verkkokurssi](course)
+- I want to know how many credits can I get from [Human Mobility in Peace and Conflict Research](course)
+- I want to know how many ECTS can I get from [Tietokantojen perusteet](course)
+- I want to know how many student points can I get from [Opetusharjoittelu](course)
+- I want to know the amount of student points [Mielenterveys, yhteiskunta ja sukupuoli](course)- How many points [Saksankielinen nykykirjallisuus / Deutschsprachige Gegenwartsliteratur](course)
+- How many credits [Julkisyhteisöjen kirjanpito ja tilinpäätös](course)
+- How many ECTS [Business Ethics (Lectures)](course)
+- How many student credits [Kandidaatintutkielmaseminaari - Seminaari, tammikuussa 2018 alkanut ryhmä, yhteisopetusta avoimen yo:n kanssa](course)
+- How many student points [Doctoral Studies](course)
+- How many student credits from [Tekoälyn filosofia](course)
+- How many student points from [Euroopan integraation tutkimus (kirjatentti/essee)(course)
+- How many ECTS from [Työn ja hyvinvoinnin maisteriohjelman tutkielmaseminaari (jatkava)](course)
+- How many student credits is [Orientoivat opinnot ja HOPS (englannin kieli, kirjallisuus ja kääntäminen)](course)
+- How many points is [Tragedy of the Commons? Problems and Solutions](course)
+- How many credits is [Julkisen talousjohtamisen tietojärjestelmät](course)
+- How many ECTS is [[CANCELLED] Editing Project](course)
+- How many student credits is [Basics II: Intermediate Czech I](course)
+- How many student points is [Project Work (Fall term 2018)](course)
+- Student points [Orientation - Orientation to studying in the Degree Programme](course)
+- Student credits [Itsenäinen projekti: Opintopassi](course)
+- ECTS [Introduction to Political Theory (book exam/essay)](course)
+- [Introduction to Academic English (diverse learners)](course) ECTS
+- [Nuorisotutkimuksen ajankohtaisia kysymyksiä](course) course points
+- [Player and User Studies](course) student points
+- [Esiintyminen](course) points
+- [Digitaalinen historia](course) amount of points
+- [Quantitative Research Methods and Comparative Research Design (Global Society students)](course) credits
+- [Soluviljely (1. vuosikurssin opiskelijoille)](course) the amount of ECTS
+- How many points [Erot, jaot ja niiden rakentuminen - Luennot ja lukupiiri (klk) TAI kirjatentti (slk ja klk)](course) is
+- How many ECTS [Lesen, Verstehen, Schreiben](course) will be
+- Credits [Kandidaattiseminaari (JATKAVA, Katermaa)](course)
+- How many credits can I get from [Management Accounting and Human Behaviour](course)
+- How many ECTS can I get from [Introduction to Web Publishing (Tampere Summer School 2018)](course)
+- How many student points can I get from [Asiantuntijan puheviestintä ja vuorovaikutus / AHOT (näyttökoe)](course)
+- I want to know how many credits can I get from [Maisteriopintojen esittely - TIM](course)
+- I want to know how many ECTS can I get from [Sosiaalipolitiikan teoreettinen ajattelu -lukuseminaari](course)
+- I want to know how many student points can I get from [Professional Writing (online course)](course)
+- I want to know the amount of student points [Yhteisöllinen kehittämistehtävä](course)- How many points [Vero-oikeuden perusteet](course)
+- How many credits [Psykologiharjoittelu](course)
+- How many ECTS [Kansainvälinen verotus](course)
+- How many student credits [Verkkopalvelujen informaatioarkkitehtuuri](course)
+- How many student points [Fonetiikan tutkimusmenetelmät - Transkriptioharjoitukset](course)
+- How many student credits from [Tekstin tekemisen perusteet](course)
+- How many student points from [Translating and Editing for Publication(course)
+- How many ECTS from [Tutkielmaseminaari (kevätlukukaudelta 2018 jatkavat seminaarit)](course)
+- How many student credits is [Biokemian työt: Proteiinit](course)
+- How many points is [Translation II Finnish-English](course)
+- How many credits is [Orientoivat opinnot ja HOPS (suomen kieli)](course)
+- How many ECTS is [Information Visualization](course)
+- How many student credits is [Esimiestyö (syksy 2018)](course)
+- How many student points is [Ruututekstikääntämisen peruskurssi](course)
+- Student points [Kandidaatintutkielmaseminaari - Seminaari](course)
+- Student credits [Taidehistoria ja näyttelypedagogiikka -](course)
+- ECTS [Omaan tieteenalaan ja tutkimusaiheeseen liittyvät opinnot teatteritaiteen tohtorin tutkinnossa](course)
+- [Open Educational Resources - Lectures, seminars etc. in other universities or institutions](course) ECTS
+- [Ajankohtaiset ilmiöt hallintotieteissä - Itsenäinen työskentely](course) course points
+- [Saksa III](course) student points
+- [Sustainable business practices (Independent study)](course) points
+- [Yksilön työhyvinvointi](course) amount of points
+- [Personal Study Planning](course) credits
+- [Vuorovaikutuksen perusteet](course) the amount of ECTS
+- How many points [Tieteellinen kirjoittaminen ja politiikan tutkimuksen aineistot (kirjallinen tentti ja essee)](course) is
+- How many ECTS [Missä mennään Mead? -seminaari](course) will be
+- Credits [Yritysetiikka (verkkokurssi)](course)
+- How many credits can I get from [Saksankielisten maiden kulttuurihistoria / Kulturgeschichte der deutschsprachigen Länder](course)
+- How many ECTS can I get from [Saksa III](course)
+- How many student points can I get from [Terveydenhuollon koulutuspolitiikka](course)
+- I want to know how many credits can I get from [Viron peruskurssi](course)
+- I want to know how many ECTS can I get from [Liikuntapedagogiikka varhaiskasvatuksessa / Harjoitukset - 2.vsk](course)
+- I want to know how many student points can I get from [Vieraan kielen taito, jatkotaso](course)
+- I want to know the amount of student points [Simultaanitulkkaus I englanti-suomi-englanti](course)- How many points [Tulkin oikeustieto I](course)
+- How many credits [Liiketoimintaympäristön taloustiede](course)
+- How many ECTS [Äärellisten mallien teorian seminaari (Finite model theory seminar)](course)
+- How many student credits [Basics of programming and algorithms for bioinformatics](course)
+- How many student points [Tutkimustyön perusteet - b) Tutkimusmenetelmät](course)
+- How many student credits from [Gerontologian tohtorikoulutusseminaari](course)
+- How many student points from [International Political Economy (book exam/essay)(course)
+- How many ECTS from [Poliittinen kommunikaatio ja retoriikka (kirjatentti/essee)](course)
+- How many student credits is [Sisäinen valvonta ja sisäinen tarkastus](course)
+- How many points is [Uuden ajan alun ryhmä](course)
+- How many credits is [Vanhempien aikojen tutkijaseminaari](course)
+- How many ECTS is [Inklusiivinen pedagogiikka ja oppimisen tukeminen](course)
+- How many student credits is [Romanian kielen alkeet / Basic Course in Romanian](course)
+- How many student points is [Juridisk svenska (vain KTM:ksi klklla 2019 valmistuville)](course)
+- Student points [Kirjallinen viestintä I (venäjänkieliset opiskelijat)](course)
+- Student credits [Ulko- ja turvallisuuspoliittinen päätöksentekoharjoitus](course)
+- ECTS [Yhtiöoikeus](course)
+- [Sosiaalityön harjoittelu](course) ECTS
+- [Perheen vuorovaikutus](course) course points
+- [Vauvasta vaariin. Ikä feministisessä tutkimuksessa](course) student points
+- [Media and Globalization - Seminar](course) points
+- [Tekoälyn filosofia](course) amount of points
+- [Radio Project](course) credits
+- [Laboroinnin perusteet](course) the amount of ECTS
+- How many points [Syömis- ja nielemishäiriöt](course) is
+- How many ECTS [Konfliktinratkaisu (kirjatentti/essee)](course) will be
+- Credits [Teoria, ideologia & talouspolitiikka - Keynesiläisyydestä uusliberalismiin](course)
+- How many credits can I get from [Histoteknologian ja valomikroskopian perusteet](course)
+- How many ECTS can I get from [Structure of English I - Phonology and Pronunciation I](course)
+- How many student points can I get from [Introduction to Pharmacology and Drug Modelling](course)
+- I want to know how many credits can I get from [Orientation - Orientation to studying in the Computational Big Data Analytics programme](course)
+- I want to know how many ECTS can I get from [Keskustelun- ja diskurssianalyysi / Gesprächs- und Diskursanalyse](course)
+- I want to know how many student points can I get from [Nuorisotyön ja nuorisotutkimuksen maisteriohjelman lähijakso 11.-12.4.2019](course)
+- I want to know the amount of student points [Asiantuntijan puheviestintä ja vuorovaikutus / AHOT (näyttökoe)](course)- How many points [Liikunta pedagogisena ilmiönä - B Liikunnan vaihtevat ympäristöt](course)
+- How many credits [Kunnallistalouden kirjanpito -](course)
+- How many ECTS [New Wars and How to Study Them (POMLFCS3)](course)
+- How many student credits [Valtio-opin johdantokurssi](course)
+- How many student points [Ranska II](course)
+- How many student credits from [Mediatutkimuksen valinn. jakso: Työseminaari: Euroopan hullu vuosi 1968 ja sen perintö](course)
+- How many student points from [Usability Evaluation Methods(course)
+- How many ECTS from [Communication Skills in English - Academic Writing II](course)
+- How many student credits is [Foundations of Games and Internet Research](course)
+- How many points is [Käsityömuotoilu - projekti/käytännön työ ja protfolio](course)
+- How many credits is [Tutkimusprosessin hallinta tohtoriopinnoissa](course)
+- How many ECTS is [Digital Image Processing - Self-studying](course)
+- How many student credits is [Käännösviestintä I - Käännösviestintä I suomi-englanti](course)
+- How many student points is [Sosiaalityö terveydenhuollossa](course)
+- Student points [Kansalaisyhteiskunta ja poliittinen osallistuminen (kirjatentti/essee)](course)
+- Student credits [Orientaatio maisteriopintoihin](course)
+- ECTS [Kandidaattiseminaari ja kandidaatin tutkielma - Kandiseminaari](course)
+- [Opetusharjoittelu](course) ECTS
+- [Tutkimusasetelman menetelmällinen rakentuminen tohtoriopinnoissa - Dialogipajat](course) course points
+- [Conflict Resolution (book exam/essay)](course) student points
+- [Väestön vanheneminen, terveys ja hyvinvointi](course) points
+- [Ruotsin kielen kirjallinen ja suullinen viestintä (JKK: HK & YTK / EDU / LUO / COMS: HuK, LuK & YTK / SOC)](course) amount of points
+- [Audiovisuaalisen kääntämisen seminaari / Kuvailutulkkaus](course) credits
+- [Harjoittelu](course) the amount of ECTS
+- How many points [Seminaari I, kandidaatintutkielma ja kypsyysnäyte / Bachelor-Seminar, Bachelorarbeit und Klausur zum Thema der Arbeit](course) is
+- How many ECTS [Pro gradu -seminaari ja -tutkielma (taloustiede) - Pro gradu -seminaari](course) will be
+- Credits [Käännösviestintä suomi-ruotsi/Översättning finska-svenska](course)
+- How many credits can I get from [Tilastotieteen johdantokurssi, kevät](course)
+- How many ECTS can I get from [Biomolekyylit](course)
+- How many student points can I get from [Kvalitatiivinen tutkimus kasvatustieteissä - Harjoitukset, Ryhmä, yhteinen varhaiskasv. ja luokanop. ryhmä](course)
+- I want to know how many credits can I get from [SPSS:n perusteet, kevät](course)
+- I want to know how many ECTS can I get from [Mediadiskurssi](course)
+- I want to know how many student points can I get from [Venäjän kielen rakenne - Morfologia](course)
+- I want to know the amount of student points [Developing and implementing European Public Sector Accounting modules](course)

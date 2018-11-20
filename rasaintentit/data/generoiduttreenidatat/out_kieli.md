@@ -1,0 +1,901 @@
+- Teaching language [Johdatus verkostoanalyysiin](course)
+- Lecture language [Aikuisten neuropsykologinen tutkiminen](course)
+- What is the teaching language in [Johdatus sosiaaliantropologiaan -seminaari](course)
+- Teaching language in [Käännösviestintä suomi-venäjä](course)
+- What language is [Study Skills - Basics of Information Literacy](course)
+- Is [Kirjoitusviestintä / COMS](course) in english
+- Is [Johdatus verkostoanalyysiin](course) in finnish
+- [Johdon laskentatoimen teoria -](course) language
+- [African and Black Diaspora Studies Research Seminar](course) teaching language
+- Is [All You Wanted to Know about Elections - But Never Dared to Ask (POMLFCS1)](course) taught in english
+- Is [Master's thesis seminar and master's thesis](course) taught in english
+- Can I pass [Asiantuntijan puheviestintä ja vuorovaikutus, 1.-2. periodi / VIESTINTÄROHKEUDEN RYHMÄ](course) in english
+- Which language is [Liike-elämän ruotsia I](course)
+- What is [Kasvatus tieteellisen tutkimuksen kohteena - verkko-opetus, IV-periodi](course) language
+- What is the language of [Proseminaari](course) is
+- The teaching language of [Kasvatus tieteellisen tutkimuksen kohteena - avoin yo, lähi- ja monimuotototeutus](course)
+- What language is used in [Master's Thesis Seminar (2nd year students)](course)
+- Which language [Science and Biotechnology Journal Club](course) is used
+- [Erot, jaot ja niiden rakentuminen, kirjatentti](course) spoken language
+- [Maailmanloppu nyt. Ja ennen.](course) languages
+- What are [Uskontojen antropologiaa](course) languages
+- The [Kääntämisen ja tulkkauksen teoria ja käytäntö - Käännösteoria](course) language
+- [User Experience: Design and Evaluation (TUT/IHTE)](course) teaching languages
+- The language of [Kieli käyttöön/Språket i bruk](course)
+- Teaching language in [Johdatus yhteiskuntahistoriaan](course)
+- [Ruotsin kielen kirjallinen ja suullinen viestintä / AHOT (näyttökoe)](course) in which language
+- What language do they speak in [Preparatory Course in Communicative Skills](course)
+- I want to know which language [Tietokäytännöt (syksyllä 2018 perusopinnot aloittaville) - verkkokurssi](course) is used
+- I want to know the language of [Lehti- ja verkkojournalismi](course)
+- I want to know what language do they speak in [Ympäristön ja alueiden poliittisuus](course)
+- I want to know is [Kasvatushistoria, kirjatentti, Seinäjoki](course) taught in english- Teaching language [Grammaire/Kielioppi](course)
+- Lecture language [Mielenterveys, yhteiskunta ja sukupuoli](course)
+- What is the teaching language in [Johdatus viestinnän tutkimukseen ja analyysiin - verkkokurssi](course)
+- Teaching language in [Puheviestintä ja hyvinvointi](course)
+- What language is [Eriytyvä syventävä tutkimusmenetelmäkurssi A: Eläytymismenetelmä - yhdistetty Jari Eskolan graduryhmään](course)
+- Is [Opetussuunnitelmateoria - Luennot, seminaari ja lukupiiri (slk) TAI kirjatentti (slk ja klk)](course) in english
+- Is [Projektinhallinnan perusteet](course) in finnish
+- [Kasvatus, koulutus ja yhteiskunta, monimuoto-opetus](course) language
+- [Rahoituksen perusteet](course) teaching language
+- Is [Johdanto riskienhallintaan ja vakuuttamiseen](course) taught in english
+- Is [Asiantuntijan puheviestintä ja vuorovaikutus (1. periodi)](course) taught in english
+- Can I pass [Liikuntapedagogiikan perusteet / Luennot - 1.vsk](course) in english
+- Which language is [Talousviestintä / Wirtschaftskommunikation](course)
+- What is [Fighting Against Human Rights Violations](course) language
+- What is the language of [Kasvatus, tieto ja teoria - Luennot](course) is
+- The teaching language of [Erot, jaot ja niiden rakentuminen, kirjatentti, Seinäjoki](course)
+- What language is used in [Logiikka](course)
+- Which language [Lääketieteellisen tutkimuksen etiikka](course) is used
+- [Talous - politiikka - kulttuuri -lukupiiri](course) spoken language
+- [Human Mobility in Peace and Conflict Research](course) languages
+- What are [Osallisuudet, oikeudet ja vastuut palvelujärjestelmäkohtaamisissa](course) languages
+- The [Johdatus tilastotieteeseen](course) language
+- [Kestävän kehityksen käytäntöjä](course) teaching languages
+- The language of [Biotechnical product development](course)
+- Teaching language in [Proseminaari](course)
+- [Moniammatillinen -klinikkaopetus](course) in which language
+- What language do they speak in [Mediakulttuurit / Luennot - 2.vsk + 1.vsk ryhmät 6 ja 7](course)
+- I want to know which language [Introduction to Formal Specification](course) is used
+- I want to know the language of [Nuorten ja aikuisten mielenterveyden arviointi](course)
+- I want to know what language do they speak in [Viestinnän ja median tutkimuksen metodologia, harjoitukset vaihtoehtoisissa työpajoissa](course)
+- I want to know is [Terveyden edistämisen interventiot](course) taught in english- Teaching language [Kunta- ja aluejohtamisen vaihtuvasisältöinen erikoiskurssi](course)
+- Lecture language [Public Financial Management and Evolving Administrative Structures](course)
+- What is the teaching language in [Science and Biotechnology Journal Club](course)
+- Teaching language in [Opetus, ohjaus, oppiminen, verkko-opetus](course)
+- What language is [Orientation - Orientation to studying in the Degree Programme](course)
+- Is [Nuorisotyön ja nuorisotutkimuksen maisteriohjelman lähijakso 14.-15.3.2019](course) in english
+- Is [Orientation - Orientation to studying in the Software Development programme](course) in finnish
+- [Academic Writing](course) language
+- [Poliittiset instituutiot ja prosessit (kirjatentti/essee)](course) teaching language
+- Is [Kieliopin harjoitukset](course) taught in english
+- Is [Sustainable business practices (Independent study)](course) taught in english
+- Can I pass [Rahatalous](course) in english
+- Which language is [Pro gradu -tutkielma ja -seminaari, tammikuussa 2018 aloittaneet ryhmät](course)
+- What is [Kirjallinen viestintä I (venäjänkieliset opiskelijat)](course) language
+- What is the language of [Tutkimusprosessin hallinta - Läsnäoloon perustuva oppimispäiväkirja](course) is
+- The teaching language of [Informaatio- ja mediajärjestelmien historiaa ja nykypäivää (syksyllä 2018 perusopinnot aloittaville) - verkkokurssi](course)
+- What language is used in [Tieteellinen kirjoittaminen / LUO & COMS](course)
+- Which language [Liikekirjanpito ja tilinpäätös (avoin yliopisto-opetus)](course) is used
+- [Yksilö, yhteiskunta ja kulttuuri - historian ja yhteiskuntaopin harjoitusryhmät - 2. vsk](course) spoken language
+- [Varhaiskasvatuksen pedagogiikka ja opetussuunnitelmatyö / Luennot - 2.vsk + 1.vsk ryhmät 6 ja 7](course) languages
+- What are [Kiina III](course) languages
+- The [Kielellinen merkitys, käyttö ja konteksti](course) language
+- [Continental Model: The Austrian System of Work and Social Security](course) teaching languages
+- The language of [Venäjä III](course)
+- Teaching language in [Syntaksi](course)
+- [Lesen, Verstehen, Schreiben](course) in which language
+- What language do they speak in [Everything You Wanted to Know about Political Parties - But Never Dared to Ask (POMLFCS1)](course)
+- I want to know which language [Inklusiivinen pedagogiikka ja oppimisen tukeminen](course) is used
+- I want to know the language of [Statistics](course)
+- I want to know what language do they speak in [Master's Thesis Seminar in Human-Technology Interaction (Starting Fall term)](course)
+- I want to know is [Työhyvinvointi](course) taught in english- Teaching language [Linguistics II: Meaning and Discourse](course)
+- Lecture language [Ruotsin kielen kirjallinen ja suullinen viestintä (JKK: HK & YTK / EDU / LUO / COMS: HuK, LuK & YTK / SOC)](course)
+- What is the teaching language in [Matemaattisen tilastotieteen perusteet](course)
+- Teaching language in [Orientoivat opinnot - Orientoivat opinnot](course)
+- What language is [Hallintotieteen teoriat ja käsitteet](course)
+- Is [Lastenkirjallisuus ja draama / Harjoitukset - 3.vsk + 1.vsk ryhmät 6 ja 7](course) in english
+- Is [Monikielinen käännöstyöpaja](course) in finnish
+- [Venäjän historia, kirjallisuus ja kulttuuri](course) language
+- [Ryhmät ja ryhmien väliset suhteet](course) teaching language
+- Is [Semantiikka ja pragmatiikka / Sémantique et pragmatique](course) taught in english
+- Is [Liikuntapedagogiikka varhaiskasvatuksessa / Harjoitukset - 2.vsk](course) taught in english
+- Can I pass [Viestintä- ja informaatio-oikeus](course) in english
+- Which language is [Terveystiedon asiantuntijuus (sähköinen tentti)](course)
+- What is [Etnografinen tutkimusprosessi](course) language
+- What is the language of [Usability Evaluation Methods](course) is
+- The teaching language of [Tietojenkäsittelytieteiden opintojakso TTY:ltä](course)
+- What language is used in [Tekoälyn filosofia](course)
+- Which language [Sosiaalityön historia ja tutkimus (kirjatentti)](course) is used
+- [Nuorisotyön ja nuorisotutkimuksen maisteriohjelman lähijakso 12.-13.12.2018](course) spoken language
+- [Kontrastiivisen fonetiikan perusteet -](course) languages
+- What are [Tietotekniikkataidot (syksy)](course) languages
+- The [Laskentatoimen teoria ja IFRS II](course) language
+- [Responsible Business and Social Accounting (Online course)](course) teaching languages
+- The language of [Kulttuurinen monimuotoisuus koulutuksessa ja työelämässä, kirjatentti](course)
+- Teaching language in [Yrityksen johtamisen perusteet (avoin yliopisto-opetus), monimuoto-opetus](course)
+- [Kandidaattitutkielma ja seminaari (tilastotiede)](course) in which language
+- What language do they speak in [Verkkopalvelujen informaatioarkkitehtuuri](course)
+- I want to know which language [Ranska III](course) is used
+- I want to know the language of [Ympäristökasvatus / Luennot - 2.vsk + 1.vsk ryhmät 6 ja 7](course)
+- I want to know what language do they speak in [Tiedonhankintataidot 3op - Tiedonhankintataidot I - Tiedonhankinnan perusteet](course)
+- I want to know is [Introduction to R](course) taught in english- Teaching language [Tutkielmaseminaari - Tutkielmaseminaari](course)
+- Lecture language [Kandidaatintutkielmaseminaari - Seminaari](course)
+- What is the teaching language in [Kandidaatin tutkielma ja seminaari (Kansanterveystieteen opiskelijoille)](course)
+- Teaching language in [Romanian kielen jatkokurssi II / Advanced Course 2 in Romanian -](course)
+- What language is [Taloustieteen matematiikan jatkokurssi](course)
+- Is [Eriytyvä syventävä tutkimusmenetelmäkurssi A: Kyselyaineiston analysointi](course) in english
+- Is [Opetus, ohjaus, oppiminen - Luokanopettajaopiskelijat: Pienryhmäopetus ja siihen liittyvä harjoittelu (2 op) ja kirjallisuus (2 op)](course) in finnish
+- [Europe in transition](course) language
+- [Liikunta - Liikuntapedagogiikka perusopetuksessa A ensisijaisesti opinnot 1½ lukuvuodessa suorittavat POM-opintoihin opinto-oikeuden saaneet opiskelijat](course) teaching language
+- Is [Demola Project](course) taught in english
+- Is [Yritysjuridiikan perusteet](course) taught in english
+- Can I pass [Tutkimustyön perusteet - d) Kandidaattiseminaari (keväällä 2018 alkava)](course) in english
+- Which language is [Tieteellinen kirjoittaminen / LUO & COMS](course)
+- What is [Improving the quality and safety of health care through outcomes research](course) language
+- What is the language of [Tieteellinen kirjoittaminen](course) is
+- The teaching language of [Asevelvollisuus Suomessa ja kansainvälisesti](course)
+- What language is used in [Asioimistulkkaus venäjä-suomi-venäjä](course)
+- Which language [Hallinto-oikeuden syventävä jakso](course) is used
+- [Keskustelunanalyysi (verkkokurssi), kevät 2019](course) spoken language
+- [Strateginen johtaminen julkisyhteisöissä](course) languages
+- What are [Euroopan unionin finanssihallinto-oikeus - Luennot ja tentti.](course) languages
+- The [Intermediate studies in Computer Science in TUT](course) language
+- [Yksilön työhyvinvointi](course) teaching languages
+- The language of [Tieteellinen seminaarisarja](course)
+- Teaching language in [Matematiikkakasvatus / Harjoitukset - 2.vsk + 1.vsk ryhmät 6 ja 7](course)
+- [Kääntämisen ja tulkkauksen teoria ja käytäntö - Terminologia](course) in which language
+- What language do they speak in [Kuva-  ja mediakulttuurit - Kuvakulttuurit - 1. vsk ja erillisen opinto-oikeuden POM-opintoihin saaneet opiskelijat (luennot)](course)
+- I want to know which language [Tekstilingvistiikka / Textlinguistik](course) is used
+- I want to know the language of [Visual Peace Research](course)
+- I want to know what language do they speak in [Lain ja hallinnon käännösviestinnän seminaari suomi-venäjä](course)
+- I want to know is [Practical Observation of Finnish School System for Incoming Exchange Students - Observation, written tasks, report](course) taught in english- Teaching language [Nuorten ryhmät ja ryhmän ohjaus, harjoitukset](course)
+- Lecture language [Fonetiikan tutkimusmenetelmät - Menetelmäkurssi](course)
+- What is the teaching language in [Työelämävalmiudet ja asiantuntijuus - valmennusseminaari ja palautekeskustelu](course)
+- Teaching language in [Espanja II](course)
+- What language is [Tutkimuksen perusteet ja etiikka](course)
+- Is [Ruotsin kielen kirjallinen ja suullinen viestintä](course) in english
+- Is [Longitudinal and Finite Nonlinear Mixture Modelling and Associated Experimental Design Strategies (independent work and exams)](course) in finnish
+- [Tieteellinen kirjoittaminen ja politiikan tutkimuksen aineistot](course) language
+- [Basics of Marketing and Sales -](course) teaching language
+- Is [Demola-projektityö I](course) taught in english
+- Is [Orientaatiopäivä väitöskirjatutkijoille](course) taught in english
+- Can I pass [Tiivistämisen taito](course) in english
+- Which language is [Euroopan ulkopuoliset poliittiset järjestelmät (kirjatentti/essee)](course)
+- What is [Neuropsykologinen kuntoutus](course) language
+- What is the language of [Ydinaseet ja kansainvälinen politiikka](course) is
+- The teaching language of [Muutosjohtaminen sosiaalityössä - Sosnet verkkokurssi](course)
+- What language is used in [Kieli ja kielentäminen - 2 vsk (pienryhmät)](course)
+- Which language [Tilastollisen tutkimuksen perusteet](course) is used
+- [Orientoivat opinnot ja HOPS (venäjän kieli, kulttuuri ja kääntäminen)](course) spoken language
+- [Johtamisen ja organisaatioiden perusteet](course) languages
+- What are [Espanja II](course) languages
+- The [Academic Presentations](course) language
+- [Sosiaalioikeus - STYA1A2 Sosiaalioikeus II](course) teaching languages
+- The language of [Saksan kielen valmentava kurssi - Interkulturelles Training](course)
+- Teaching language in [Current and Future Challenges of World Politics and Economy (POMLFCS3)](course)
+- [Sosiaalioikeus I](course) in which language
+- What language do they speak in [Tekninen kirjoittaminen (englanti)](course)
+- I want to know which language [Liikuntatuutorina toimiminen - Liikuntatuutoriperehdytys](course) is used
+- I want to know the language of [Klinikkaharjoittelu](course)
+- I want to know what language do they speak in [Bioinformatics tools (autumn 2018)](course)
+- I want to know is [Media and the Arctic (POMLFCS3)](course) taught in english- Teaching language [Lineaarialgebra 1B](course)
+- Lecture language [Terveystieteiden laadulliset tutkimusmenetelmät](course)
+- What is the teaching language in [Liikunta - Liikuntapedagogiikan perusteet - 1 vsk ja  erillisen opinto-oikeuden POM-opintoihin saaneet opiskelijat](course)
+- Teaching language in [Politiikan tutkimuksen kandidaatintutkielma ja -seminaari](course)
+- What language is [Pro gradu -tutkielma ja -seminaari, tammikuussa 2019 aloittavat ryhmät](course)
+- Is [Kirjallisuus ja kulttuuri/Litteratur och kultur](course) in english
+- Is [Oikeudellisen tutkimuksen perusteet](course) in finnish
+- [Julkisyhteisöjen kirjanpito ja tilinpäätös](course) language
+- [Televisiojournalismi](course) teaching language
+- Is [Kirjallinen viestintä I (venäjänkieliset opiskelijat)](course) taught in english
+- Is [Arvonlisäverotuksen syventävä opintojakso](course) taught in english
+- Can I pass [Tutkimustyön perusteet (teemalla Verkostot ja somevaikuttaminen Twitterissä)](course) in english
+- Which language is [Tiedonhankintataidot (hoitotiede)](course)
+- What is [Lausekielinen ohjelmointi I - Näyttökoe, syksy 2018](course) language
+- What is the language of [Kansainvälisen politiikan erikoistuvat menetelmäopinnot (kirjatentti/essee)](course) is
+- The teaching language of [A Biomedical View of Patenting](course)
+- What language is used in [Tieteellinen kirjoittaminen](course)
+- Which language [Soluviljely (1. vuosikurssin opiskelijoille)](course) is used
+- [Poliittinen filosofia (kirjatentti/essee)](course) spoken language
+- [Thesis seminar](course) languages
+- What are [Comparative Criminal Justice](course) languages
+- The [Talouselämän ja tekniikan käännösviestinnän seminaari saksa-suomi](course) language
+- [Espanjan kielen kirjallinen ja suullinen taito](course) teaching languages
+- The language of [Ethnographic Research](course)
+- Teaching language in [Dialogitulkkaus](course)
+- [Venäjän historia, kirjallisuus ja kulttuuri](course) in which language
+- What language do they speak in [Uuden ajan alun murroksia](course)
+- I want to know which language [Kielen kehitys / Luennot- 2.vsk + 1.vsk ryhmät 6 ja 7](course) is used
+- I want to know the language of [Tutkiva opiskelu (syksyllä 2018 perusopinnot aloittaville) - verkkokurssi](course)
+- I want to know what language do they speak in [Palvelut ja hyvinvointivaltion murros](course)
+- I want to know is [Kasvatus, koulutus ja yhteiskunta, monimuoto-opetus](course) taught in english- Teaching language [Tutkimustyön perusteet - d) Kandidaattiseminaari (keväällä 2018 alkava)](course)
+- Lecture language [Pro gradu - seminaari 2018 (jatkava)  (vaihe I)](course)
+- What is the teaching language in [Translation and Academic Writing - Introduction to Academic Writing](course)
+- Teaching language in [Työ- ja virkamiesoikeus](course)
+- What language is [BMT-70100 Kudosteknologian perusteet](course)
+- Is [Tietorakenteet](course) in english
+- Is [Foundations of English Business Communication](course) in finnish
+- [Lähisuhdeväkivalta ja sen ammatillinen kohtaaminen - Sosnet verkkokurssi](course) language
+- [Käännösviestintä II englanti-suomi](course) teaching language
+- Is [Writing for Research](course) taught in english
+- Is [Oppimispelien käyttö ja evaluaatio](course) taught in english
+- Can I pass [Media maailmassa - verkkokurssi](course) in english
+- Which language is [Tiedonhankintataidot - Tiedonhankintataidot II - Tiedonhankinnan syventäminen](course)
+- What is [Cultural Conversations](course) language
+- What is the language of [Media Landscape in Russia: Regional Perspective](course) is
+- The teaching language of [Yrityksen oikeudellinen riskienhallinta](course)
+- What language is used in [Johdatus viestintään ja mediaan](course)
+- Which language [Romanticism and Its Legacy](course) is used
+- [Sosiaalipolitiikan teoreettinen ajattelu -lukuseminaari](course) spoken language
+- [Opintojen ohjattu suunnittelu](course) languages
+- What are [Historian määrällisen tiedon esittäminen](course) languages
+- The [Johdatus Suomen kirjallisuushistoriaan - harjoitukset](course) language
+- [Opintojen ohjattu suunnittelu](course) teaching languages
+- The language of [Usean muuttujan differentiaalilaskenta](course)
+- Teaching language in [Health systems and health in developing Asia: India, China, and North Korea](course)
+- [Tieteellinen kirjoittaminen / COMS (kirjallisuuden opiskelijoille)](course) in which language
+- What language do they speak in [Aikuis- ja ammattikasvatuksen asiantuntijuus](course)
+- I want to know which language [Kiina II](course) is used
+- I want to know the language of [Applied and Effective Project Management, Leadership and Communication - (Tampere Summer School)](course)
+- I want to know what language do they speak in [Ylellisyyden historia -verkkokurssi](course)
+- I want to know is [Kielioppi II/Språkets strukturer II](course) taught in english- Teaching language [Mental Health Research: Using the Knowledge and Adding to it](course)
+- Lecture language [Strateginen johtaminen](course)
+- What is the teaching language in [Ulko- ja turvallisuuspoliittinen päätöksentekoharjoitus](course)
+- Teaching language in [Ylirajallinen liikkuminen Itämerellä: Suomenlahden alueet kautta aikojen -verkkokurssi](course)
+- What language is [Advanced Microscopy](course)
+- Is [Terveyden edistämisen perusteet (kirjatentti hoitotieteen opiskelijoille)](course) in english
+- Is [Medioitu vuorovaikutus](course) in finnish
+- [Kielioppi I](course) language
+- [Culture and everyday life of the "Soviet Thaw"](course) teaching language
+- Is [Tutkimuspraktikum](course) taught in english
+- Is [Graduseminaari, alkava (Kaarninen)](course) taught in english
+- Can I pass [Vero-oikeuden perusteet](course) in english
+- Which language is [Semantiikka ja pragmatiikka / Sémantique et pragmatique](course)
+- What is [Molekulaarinen solubiologia](course) language
+- What is the language of [EI toteutusta 2018-19 Advanced immunology](course) is
+- The teaching language of [Ruotsin kielen kirjallinen ja suullinen viestintä / AHOT (näyttökoe)](course)
+- What language is used in [Media and the Arctic (POMLFCS3)](course)
+- Which language [Tutkimusasetelman menetelmällinen rakentuminen tohtoriopinnoissa - Dialogipajat](course) is used
+- [Research Methods in HTI](course) spoken language
+- [Esiintyminen](course) languages
+- What are [Ranska I](course) languages
+- The [Kehittävä asiantuntijatyö organisaatioissa](course) language
+- [Ympäristökasvatus / Harjoitukset - 2.vsk + 1.vsk ryhmät 6 ja 7](course) teaching languages
+- The language of [Foundations of Ecological Economics](course)
+- Teaching language in [Kielen ja vuorovaikutuksen tutkimuksen teorioita ja sovellutuksia](course)
+- [Matemaattiset aineet - Johdatus lukukäsitteeseen ja toimintamateriaalit - 1. vsk  ja erillisen opinto-oikeuden POM-opintoihin saaneet opiskelijat (harjoitukset)](course) in which language
+- What language do they speak in [Draama - 2.vsk ja   opinnot 1½ lukuvuodessa suorittavat 1.vsk ja POM-opintoihin opinto-oikeuden saaneet opiskelijat( luennot)](course)
+- I want to know which language [Business Ethics (Lectures)](course) is used
+- I want to know the language of [Antiikin ja keskiajan ryhmä](course)
+- I want to know what language do they speak in [Statistics](course)
+- I want to know is [Verotusmenettely ja oikeusturva verotuksessa](course) taught in english- Teaching language [Ammattimainen tekstintarkistus](course)
+- Lecture language [Ethnographic Research](course)
+- What is the teaching language in [Konsekutiivitulkkaus -](course)
+- Teaching language in [Antiikin ja keskiajan ryhmä](course)
+- What language is [Psykologiset interventiot](course)
+- Is [Johdatus historiantutkimukseen - Johdatus historiantutkimukseen -luentokurssi (avoin yo)](course) in english
+- Is [Tieteellinen kirjoittaminen (2. vuosikurssin opiskelijoille)](course) in finnish
+- [Puhesuomi ja esiintyminen](course) language
+- [Comparative Education - book exam](course) teaching language
+- Is [Pohjoismaisten kielten lähtötasokoe](course) taught in english
+- Is [Johdon laskentatoimen teoria -](course) taught in english
+- Can I pass [Matematiikan gradustartti](course) in english
+- Which language is [Lapset ja lastensuojelu](course)
+- What is [Dramaturgia: Musikaalin dramaturgia](course) language
+- What is the language of [Julkissektorin instituutioiden talous (monimuoto-opetus)](course) is
+- The teaching language of [Sosiaalipolitiikka (lähi- ja monimuotokurssi)](course)
+- What language is used in [Eastern European Model: Lithuanian System of Work and Social Security](course)
+- Which language [Pankkioikeus](course) is used
+- [Johdatus hoitotieteeseen](course) spoken language
+- [Structure of English II - Grammar II](course) languages
+- What are [Interview as a means of data generation](course) languages
+- The [Poliittiset ongelmat ja niiden muuttuvat kontekstit (kirjatentti)](course) language
+- [Cell Technology](course) teaching languages
+- The language of [Filosofian työpaja](course)
+- Teaching language in [Markkinoinnin kannattavuus ja taloudellisuus](course)
+- [Understanding and Managing a Business as a Dynamic Whole - VIBU Business Simulation Game](course) in which language
+- What language do they speak in [Olio-ohjelmoinnin perusteet II](course)
+- I want to know which language [Yhteiskunnallinen laskentatoimi](course) is used
+- I want to know the language of [Special Issues in Design Research](course)
+- I want to know what language do they speak in [Julkissektorin instituutioiden talous (monimuoto-opetus)](course)
+- I want to know is [Mikrotalousteoria I](course) taught in english- Teaching language [Kirjoitusviestintä / COMS](course)
+- Lecture language [Metafysiikka](course)
+- What is the teaching language in [Testimenetelmien perusteet ja ammattietiikka](course)
+- Teaching language in [Satututkimuksen lukupiiri](course)
+- What language is [Käytännön opetus ja ohjaus - STYA3B2 Käytännön opetus ja ohjaus](course)
+- Is [Opintojen ohjattu suunnittelu](course) in english
+- Is [Tietotekniikka ja yhteiskunta](course) in finnish
+- [Eläimet työssä](course) language
+- [Toimittajan tieto- ja viestintätekniikkataidot](course) teaching language
+- Is [Lapset kehittyvinä ja sosiaalisina toimijoina varhaiskasvatuksessa / Luennot - 1.vsk](course) taught in english
+- Is [New Wars and How to Study Them (POMLFCS3)](course) taught in english
+- Can I pass [Matematiikkakasvatus / Harjoitukset - 2.vsk + 1.vsk ryhmät 6 ja 7](course) in english
+- Which language is [Seminaari](course)
+- What is [Introduction to International Relations (book exam)](course) language
+- What is the language of [Liberalismi ja demokratia](course) is
+- The teaching language of [Professional Writing (online course)](course)
+- What language is used in [Kulttuurinen monimuotoisuus koulutuksessa ja työelämässä - Luennot (slk) TAI kirjallisuus (slk ja klk)](course)
+- Which language [Kandidaatintutkielma ja seminaari - Seminaari](course) is used
+- [Harjoittelu / Elinikäinen oppiminen ja kasvatus - HARJOITTELUTUKIOPTION HAKEMINEN: Seminaarit ja harjoittelu vuonna 2019 opintojakson suorittaville](course) spoken language
+- [Kansainvälisen politiikan teoria ja menetelmät (luentokurssi)](course) languages
+- What are [Yksilö, yhteiskunta ja kulttuuri - historian ja yhteiskuntaopin harjoitusryhmät - 2. vsk](course) languages
+- The [Seminaari (Nikunen) jatkuu keväältä](course) language
+- [Demola-projektityö I](course) teaching languages
+- The language of [Lähtötasokoe](course)
+- Teaching language in [Yrityksen johtamisen perusteet (avoin yliopisto-opetus), monimuoto-opetus](course)
+- [Cultural Diversity in Education and at Work -  (autumn)](course) in which language
+- What language do they speak in [Orientoivat opinnot - Tiedonhankintataidot I (TIE)](course)
+- I want to know which language [Kandidaattiseminaari ja tutkielma (vakuutus ja riskienhallinta), syksy 2018](course) is used
+- I want to know the language of [Kirjallisuus ja tunteet](course)
+- I want to know what language do they speak in [Tilastotieteen perusteet](course)
+- I want to know is [Opetus, ohjaus, oppiminen - Luokanopettajaopiskelijat: Pienryhmäopetus ja siihen liittyvä harjoittelu (2 op) ja kirjallisuus (2 op)](course) taught in english- Teaching language [Tieteellinen kirjoittaminen / COMS (puheviestinnän opiskelijoille)](course)
+- Lecture language [Asiantuntijuuden kehittymiseen orientoiva opintojakso - opintosuuntakohtaiset ryhmät jatkaville maisteriopiskelijoille (KASSO-opintosuunnan ryhmä)](course)
+- What is the teaching language in [Tulevaisuuden hyvinvointipalvelut: ratkaisuna robotiikka?](course)
+- Teaching language in [Tieteellinen kirjoittaminen (SOC)](course)
+- What language is [Basics II: Intermediate Czech I](course)
+- Is [Accounting Information Systems](course) in english
+- Is [Ohjatut asiakastyöt](course) in finnish
+- [Kandidaatintutkielma](course) language
+- [Lapset kehittyvinä ja sosiaalisina toimijoina varhaiskasvatuksessa / Luennot - 1.vsk](course) teaching language
+- Is [Kilpailuoikeuden syventävä opintojakso - kirjatentti](course) taught in english
+- Is [Media and Globalization - Lectures + essay](course) taught in english
+- Can I pass [Eheyttävä musiikkikasvatus - Musiikkiliikunta, tanssi ja musiikkileikit](course) in english
+- Which language is [Improving the quality and safety of health care through outcomes research](course)
+- What is [Ruotsin kielen kirjallinen ja suullinen viestintä (ensijaisesti EDU:n opiskelijoille), 4. periodi](course) language
+- What is the language of [Johtamisen ja organisaatioiden perusteet](course) is
+- The teaching language of [Mediatutkimuksen valinn. jakso: Ääni, teknologia ja kulttuuri](course)
+- What language is used in [Laadulliset tutkimusotteet](course)
+- Which language [Postgraduate seminar in Interactive Technology (Turunen)](course) is used
+- [Mikrotalousteoria I](course) spoken language
+- [Kansainvälisen historian tutkijaseminaari](course) languages
+- What are [Translating and Editing for Publication](course) languages
+- The [Lausekielinen ohjelmointi I - Näyttökoe, syksy 2018](course) language
+- [Verkkojulkaiseminen](course) teaching languages
+- The language of [Introduction to Corporate Social Responsibility](course)
+- Teaching language in [Johdon laskentatoimen perusteet](course)
+- [Kasvatuksen historialliset ja filosofiset lähtökohdat, monimuoto-opetus](course) in which language
+- What language do they speak in [Tietojenkäsittelytieteiden opintojakso TTY:ltä](course)
+- I want to know which language [Kandidaattiseminaari (Mustakallio)](course) is used
+- I want to know the language of [Inclusiveness in Local Innovation Environments](course)
+- I want to know what language do they speak in [Teaching, Pedagogical Facilitating, Learning](course)
+- I want to know is [Mikrotalousteoria II](course) taught in english- Teaching language [Communication écrite/Kirjallinen viestintä](course)
+- Lecture language [Laadulliset tutkimusotteet](course)
+- What is the teaching language in [Sosiaalipsykologia (verkkokurssi)](course)
+- Teaching language in [Global contexts of violence. Gender related violence in the landscape of global vulnerabilities (web course)](course)
+- What language is [Poliittiset järjestelmät (kirjatentti/essee)](course)
+- Is [Distributed Systems](course) in english
+- Is [Yhteiskunnan tutkimuksen ajankohtaisia kysymyksiä - Luennot (verkkokurssi)](course) in finnish
+- [BMT-70100 Kudosteknologian perusteet](course) language
+- [Peace, Human Rights and Democracy in the Korean Peninsula and East Asia (Tampere Summer School 2018)](course) teaching language
+- Is [Sosiaalityön teoriahistoria](course) taught in english
+- Is [Kandidaattiseminaari ja tutkielma (yrityksen johtaminen) - syksy 2018](course) taught in english
+- Can I pass [Ainedidaktiikka II](course) in english
+- Which language is [Yksilö, yhteiskunta ja kulttuuri - Historia, yhteiskuntaoppi ja katsomusopetus - 2. vsk (luennot)](course)
+- What is [Introduction to Education in Finland - Lectures, observation, essay and learning diary](course) language
+- What is the language of [Simultaaninen konferenssitulkkaus](course) is
+- The teaching language of [Musiikin perusteet / Luennot - 1.vsk ryhmät 1-5](course)
+- What language is used in [Puhesuomi ja esiintyminen](course)
+- Which language [Political Systems (book exam/essay)](course) is used
+- [Experimental animal course](course) spoken language
+- [Ohjelmistotuotannon käytännöt](course) languages
+- What are [Research Ethics](course) languages
+- The [Finnish Elementary Course 4](course) language
+- [Tutkielmaseminaari (keväällä 2019 alkavat seminaarit) - Seminaari](course) teaching languages
+- The language of [Public Financial Management and Evolving Administrative Structures](course)
+- Teaching language in [Vanhuus ja gerontologinen sosiaalityö](course)
+- [Nykyajan filosofia](course) in which language
+- What language do they speak in [Kirjallinen ja suullinen viestintä II: kirjallinen viestintä](course)
+- I want to know which language [Yksilöllisyys oppimisessa ja osallistumisessa](course) is used
+- I want to know the language of [Yritysjuridiikan ajankohtaiset teemat](course)
+- I want to know what language do they speak in [Perheen vuorovaikutus](course)
+- I want to know is [Kuva-  ja mediakulttuurit - Mediakulttuurit- I vsk ja  erillisen opinto-oikeuden POM-opintoihin saaneet opiskelijat (luennot)](course) taught in english- Teaching language [Asiakastieto ja asiakkuuksien johtaminen](course)
+- Lecture language [Social research and the behavioural sciences](course)
+- What is the teaching language in [Seminaari, kandidaatintutkielma ja kypsyysnäyte - Seminaari (kääntäminen ja tulkkaus)](course)
+- Teaching language in [Puheviestintä ja hyvinvointi](course)
+- What language is [Orientation and Study Planning](course)
+- Is [Kasvatus tieteellisen tutkimuksen kohteena - avoin yo, lähi- ja monimuotototeutus](course) in english
+- Is [Käsityö - Käsityö 1. vsk ja erillisen opinto-oikeuden POM-opintoihin saaneet opiskelijat (pienryhmäopetus)](course) in finnish
+- [Lastenkirjallisuus ja draama / Harjoitukset - 3.vsk + 1.vsk ryhmät 6 ja 7](course) language
+- [Children, young people, politics and participation](course) teaching language
+- Is [European, Eurasian and Global Energy Policy (book exam/essay)](course) taught in english
+- Is [Finnish Survival Course](course) taught in english
+- Can I pass [Kirjasto- ja tietopalvelujen suunnittelu ja arviointi](course) in english
+- Which language is [Kvalitatiivinen tutkimus kasvatustieteissä - Harjoitukset, luokanopettajaopiskelijat](course)
+- What is [Tutkielmaseminaari - Seminaari](course) language
+- What is the language of [COURSE CANCELLED: Islamism](course) is
+- The teaching language of [Matematiikan gradustartti](course)
+- What language is used in [Master's Thesis Seminar in Software Development](course)
+- Which language [Kandidaattiseminaari (Nenonen)](course) is used
+- [Interaction Techniques](course) spoken language
+- [Lähtötasokoe - Kirjallinen tentti](course) languages
+- What are [Ylirajallinen liikkuminen Itämerellä: Suomenlahden alueet kautta aikojen -verkkokurssi](course) languages
+- The [Kandidaatintutkielmaseminaari - Seminaari](course) language
+- [Orientation Course - General Orientation Course for International Students](course) teaching languages
+- The language of [Kielen kehitys](course)
+- Teaching language in [Terveys ja yhteiskuntapolitiikka](course)
+- [Valinnainen jakso: Johdatus tiedeviestintään](course) in which language
+- What language do they speak in [Ruotsin kielen kirjallinen ja suullinen viestintä](course)
+- I want to know which language [Vanheneminen sosiaalisena ilmiönä](course) is used
+- I want to know the language of [Ylirajaiset ilmiöt historiassa: näkökulmia tutkimukseen ja tulkintaan](course)
+- I want to know what language do they speak in [Henkilöstöjohtaminen](course)
+- I want to know is [Puheviestintä tieteenä](course) taught in english- Teaching language [Introduction to Political Theory (book exam/essay)](course)
+- Lecture language [Osallistuminen opiskelijavaihtoon](course)
+- What is the teaching language in [Literature and Change after 1900 (British Literature)](course)
+- Teaching language in [Writing for Publications](course)
+- What language is [Valinnainen jakso: Audiovisuaalisen kerronnan teoria ja dramaturgia](course)
+- Is [Fonetiikan teoriaa - Fonetiikan jatkokurssi](course) in english
+- Is [Laskentatoimen teoria ja IFRS II](course) in finnish
+- [Makrotalousteorian jatkokurssi I](course) language
+- [Yhteisöviestintä kunta- ja aluejohtamisessa](course) teaching language
+- Is [Orientoivat opinnot ja HOPS](course) taught in english
+- Is [Opintopiiri](course) taught in english
+- Can I pass [Ainedidaktinen tutkimus ja tutkiva opettajuus](course) in english
+- Which language is [Pedagoginen kehittäminen ja johtajuus / Luennot - 3.vsk + 2.vsk ryhmä 4](course)
+- What is [Nordiska synvinklar](course) language
+- What is the language of [Poliittiset järjestelmät (kirjatentti/essee)](course) is
+- The teaching language of [Professional Writing (online course)](course)
+- What language is used in [Cell Technology Laboratory Course](course)
+- Which language [Sosiaalityö terveydenhuollossa](course) is used
+- [Laskentatoimen teoria ja IFRS II](course) spoken language
+- [Teaching, Pedagogical Facilitating, Learning](course) languages
+- What are [Longitudinal and Finite Nonlinear Mixture Modelling and Associated Experimental Design Strategies (independent work and exams)](course) languages
+- The [Vertaisohjaus tietojenkäsittelytieteissä](course) language
+- [Terveystieteiden laadulliset tutkimusmenetelmät](course) teaching languages
+- The language of [Kandidaattiseminaari ja -tutkielma (julkisoikeus), syksy](course)
+- Teaching language in [Vanhuus ja gerontologinen sosiaalityö](course)
+- [Harjoittelu / Elinikäinen oppiminen ja kasvatus - Arviointiseminaari vuonna 2018 harjoitteleville](course) in which language
+- What language do they speak in [Visual Peace Research](course)
+- I want to know which language [Kansainvälisen politiikan teoria ja metateoria (kirjatentti)](course) is used
+- I want to know the language of [Terveystiedon sisällöt (sähköinen tentti)](course)
+- I want to know what language do they speak in [Valtio-opin maisteriseminaari](course)
+- I want to know is [Internship or work placement](course) taught in english- Teaching language [Global contexts of violence. Gender related violence in the landscape of global vulnerabilities (web course)](course)
+- Lecture language [Kv-tuutorina toimiminen](course)
+- What is the teaching language in [Filosofinen argumentaatio, tulkinta ja kirjoittaminen](course)
+- Teaching language in [Tieteellinen kirjoittaminen / SOC (logopedia)](course)
+- What language is [Developing and implementing European Public Sector Accounting modules](course)
+- Is [Seminaari](course) in english
+- Is [Viron jatkokurssi](course) in finnish
+- [Finnish Elementary Course 1 (taught in 3. period)](course) language
+- [Teemaseminaari Kant Puhtaan järjen kritiikki](course) teaching language
+- Is [Kandidaattiseminaari (JATKAVA, Vahtikari)](course) taught in english
+- Is [Kandidaatintutkielmaseminaari - Seminaari, II-periodissa alkava nopeasti etenevä ryhmä](course) taught in english
+- Can I pass [Inklusiivinen varhaiskasvatus / Harjoitukset - 3.vsk](course) in english
+- Which language is [Tietokäytännöt (keväällä 2018 perusopinnot aloittaneille) - verkkokurssi](course)
+- What is [Kasvatusfilosofia: ihminen, luonto ja kulttuuri - Luennot](course) language
+- What is the language of [Kielitieto ja -taito - Fraseologia  / Sprachwissen und Sprachfertigkeiten: Phraseologie](course) is
+- The teaching language of [Markkinointitutkimuksen sovellukset](course)
+- What language is used in [Kielen kehitys / Harjoitukset - 2.vsk + 1.vsk ryhmät 6 ja 7](course)
+- Which language [Saksan kielen valmentava kurssi - Interkulturelles Training](course) is used
+- [Bioinformatics tools (autumn 2018)](course) spoken language
+- [Orientoivat opinnot ja HOPS (suomen kieli)](course) languages
+- What are [Sosiaalityö terveydenhuollossa](course) languages
+- The [Tekstitaidot](course) language
+- [Luentateatteri](course) teaching languages
+- The language of [Kvalitatiivinen tutkimus kasvatustieteissä - Verkkokurssi, yhteisopetus avoimen yo:n ja tutkinto-opiskelijoille](course)
+- Teaching language in [Liike-elämän ruotsia I / näyttökoe (AHOT)](course)
+- [1800-luvun ja 1900-luvun kirjallisuuden historia/ Istorija russkoj literatury XIX i XX vekov](course) in which language
+- What language do they speak in [Vero-oikeuden perusteet](course)
+- I want to know which language [Hoivan ehdot, talouden rajat: johdatus vaivan politiikkaan](course) is used
+- I want to know the language of [Health in disasters, conflicts and complex human emergencies](course)
+- I want to know what language do they speak in [Kasvatus tieteellisen tutkimuksen kohteena, verkko-opetus, III-periodi](course)
+- I want to know is [Tilintarkastusoikeus - kirjatentti](course) taught in english- Teaching language [Tutkielmakurssi (III)](course)
+- Lecture language [Asiantuntijan puheviestintä ja vuorovaikutus, 1.-2. periodi / VIESTINTÄROHKEUDEN RYHMÄ](course)
+- What is the teaching language in [Vanheneminen ikääntyvässä yhteiskunnassa](course)
+- Teaching language in [Julkisoikeuden perusteet (järjestäjä TAMK)](course)
+- What language is [Organisation Theory and Analysis](course)
+- Is [Musiikin tiedolliset valmiudet ja niiden soveltaminen - Musiikkitieto](course) in english
+- Is [Human-Centered Product Development (TUT/IHTE)](course) in finnish
+- [Kielioppi I](course) language
+- [Orientoivat opinnot - Tiedonhankintataidot I](course) teaching language
+- Is [Historian tutkimusprosessi ja historiantutkijan etiikka](course) taught in english
+- Is [Nuorisotyön harjoittelu](course) taught in english
+- Can I pass [Saksa III](course) in english
+- Which language is [Tila, teknologia ja toiminta](course)
+- What is [International Society (book exam/essay)](course) language
+- What is the language of [Tiimi toimii - puheviestinnän syventävä kurssi (3. - 4. periodi)](course) is
+- The teaching language of [Dimensionality Reduction and Visualization](course)
+- What language is used in [Capstone - Talousjohdon tehtävät ja osaamisalueet](course)
+- Which language [Tekstianalyysi - Harjoitukset](course) is used
+- [Työ- ja organisaatiopsykologian interventiot](course) spoken language
+- [Basics of Management and Organizations](course) languages
+- What are [Research Ethics](course) languages
+- The [Venäjä III](course) language
+- [Kehitys, kasvatus ja elämänkulku - Luennot EDUn opiskelijoille (2 op) TAI muille opiskelijoille luennot (2 op) ja kirjallisuus (3 op)](course) teaching languages
+- The language of [Proseminaari (ryhmä 2)](course)
+- Teaching language in [Tulkin työkalupakki](course)
+- [Ohjaus yliopistossa](course) in which language
+- What language do they speak in [Orientoivat opinnot - Alkuorientaatio](course)
+- I want to know which language [Introduction to Bayesian Analysis 1](course) is used
+- I want to know the language of [European Integration and the Political System of the European Union (book exam/essay)](course)
+- I want to know what language do they speak in [Tutkiva opiskelu (keväällä 2019 perusopinnot aloittaville) - verkkokurssi](course)
+- I want to know is [Kandidaatintutkielmaseminaari - Seminaari](course) taught in english- Teaching language [Writing for Publications](course)
+- Lecture language [Johdatus yhteiskuntafilosofiaan](course)
+- What is the teaching language in [Media and the Arctic (POMLFCS3)](course)
+- Teaching language in [Orientaatio tutkielman tekemiseen -](course)
+- What language is [Research seminar for postgraduate studies](course)
+- Is [Asiakastyön teorioita ja menetelmiä - STYA3A2 Asiakastyön menetelmät, luennot](course) in english
+- Is [Continental Model: The Austrian System of Work and Social Security](course) in finnish
+- [Systemaattinen tiedonhaku hoitotieteessä](course) language
+- [Struggles on Education](course) teaching language
+- Is [Tieteellisen tiedonhankinnan perusteet (englannin kieli, kirjallisuus ja kääntäminen)](course) taught in english
+- Is [Johdatus viestintään ja mediaan](course) taught in english
+- Can I pass [Kirjasto- ja tietopalvelujen suunnittelu ja arviointi](course) in english
+- Which language is [Tietoresurssien tuotanto ja kokoelmatyö](course)
+- What is [Peace and Conflict Research (book exam/essay)](course) language
+- What is the language of [Transcultural perspectives in developing media education](course) is
+- The teaching language of [Russia beyond Russia. Case Study Finland](course)
+- What language is used in [Civil Society and Political Participation (book exam/essay)](course)
+- Which language [Finnish Advanced Course 2 (taught in Finnish)](course) is used
+- [Taitoseminaari](course) spoken language
+- [Tieteellinen kirjoittaminen (SOC)](course) languages
+- What are [Tilastollisen päättelyn perusteet, iltaryhmä](course) languages
+- The [Tutkimustyötä tukevat tohtoriopinnot - Doctoral Studies in Information Studies and Interactive Media](course) language
+- [Visuaalisen journalismin perusteet, luennot](course) teaching languages
+- The language of [Kasvatus tieteellisen tutkimuksen kohteena, avoin yo, lähi- ja monimuotototeutus](course)
+- Teaching language in [Harjoittelu / Varhaiskasvatus](course)
+- [Monikieliset tekstikorpukset (verkkokurssi)](course) in which language
+- What language do they speak in [New Wars and How to Study Them (POMLFCS3)](course)
+- I want to know which language [Vakuutustoiminnan periaatteet ja johtaminen](course) is used
+- I want to know the language of [Political Systems (book exam/essay)](course)
+- I want to know what language do they speak in [Presentation Skills](course)
+- I want to know is [Foundations of English Business Communication (RPL) / näyttökoe](course) taught in english- Teaching language [Terveystiedon asiantuntijuus (sähköinen tentti)](course)
+- Lecture language [Professional Writing (online course)](course)
+- What is the teaching language in [Talous - politiikka - kulttuuri -lukupiiri](course)
+- Teaching language in [Semantiikka ja pragmatiikka / Semantik und Pragmatik](course)
+- What language is [Hands-on genetics](course)
+- Is [Introduction to Social Circus Pedagogy - (Tampere Summer School 2018)](course) in english
+- Is [Opetus, ohjaus, oppiminen, monimuoto-opetus](course) in finnish
+- [Re-Thinking Value Creation](course) language
+- [Tekstianalyysi - Harjoitukset](course) teaching language
+- Is [Terveyden edistämisen interventiot, Seinäjoki](course) taught in english
+- Is [Kirjallinen viestintä II/Skriftlig kommunikation II](course) taught in english
+- Can I pass [Theatre, Society, and Politics 1660-1760](course) in english
+- Which language is [Scottish Literature](course)
+- What is [Philosophy of Science (online course)](course) language
+- What is the language of [Perheen vuorovaikutus](course) is
+- The teaching language of [Sosiaalipolitiikan teoreettinen ajattelu -lukuseminaari](course)
+- What language is used in [Eheyttävä musiikkikasvatus - Sointurakenteet ja säestystyylit koskettimilla](course)
+- Which language [Applied and Effective Project Management, Leadership and Communication - (Tampere Summer School)](course) is used
+- [Basic Studies in Education -courses,  introductory meetings, reading circles and book exams](course) spoken language
+- [Verkkopalvelujen informaatioarkkitehtuuri](course) languages
+- What are [Urban Inequalities](course) languages
+- The [KV-tuutorina toimiminen](course) language
+- [Accounting Information Systems](course) teaching languages
+- The language of [Health systems and health in developing Asia: India, China, and North Korea](course)
+- Teaching language in [Terveys ja yhteiskuntapolitiikka](course)
+- [Tilastotieteen johdantokurssi, kevät](course) in which language
+- What language do they speak in [Kandidaattiseminaari ja kandidaatin tutkielma - Kandiseminaari](course)
+- I want to know which language [Tulevaisuuden hyvinvointipalvelut: ratkaisuna robotiikka?](course) is used
+- I want to know the language of [Advanced bioinformatics tools](course)
+- I want to know what language do they speak in [Jatko-opintoja](course)
+- I want to know is [Tiedonhankintataidot - Tiedonhankintataidot IV - Viitteiden hallinta (kansanterveystieteen opiskelijoille)](course) taught in english- Teaching language [Basics I: Basics of Czech language I](course)
+- Lecture language [Requirements Engineering](course)
+- What is the teaching language in [Orientation and Study Planning](course)
+- Teaching language in [Orientoivat opinnot ja HOPS](course)
+- What language is [Ruotsin kielen valmentava kurssi](course)
+- Is [Valinnainen jakso: Radioprojekti (syksy)](course) in english
+- Is [Psykiatria](course) in finnish
+- [Graduseminaari, alkava (Markkola)](course) language
+- [Research seminar for postgraduate studies](course) teaching language
+- Is [Suomen kulttuuri ja yhteiskunta -lukupiiri](course) taught in english
+- Is [Tietojenkäsittelytieteiden opintojakso TTY:ltä](course) taught in english
+- Can I pass [Julkiset hankinnat](course) in english
+- Which language is [Viestintää tukevat keinot asiakas-työntekijä-suhteessa](course)
+- What is [Research in Practice](course) language
+- What is the language of [Lain ja hallinnon käännösviestinnän seminaari ranska-suomi](course) is
+- The teaching language of [Legal English](course)
+- What language is used in [Tyylioppi](course)
+- Which language [Methods in Text and Discourse Analysis](course) is used
+- [Foreign Policy and Diplomacy (book exam/essay)](course) spoken language
+- [Espanja I](course) languages
+- What are [Asevelvollisuus Suomessa ja kansainvälisesti](course) languages
+- The [Talouselämän ja tekniikan käännösviestinnän seminaari saksa-suomi](course) language
+- [Moniammatillinen -klinikkaopetus](course) teaching languages
+- The language of [Kandidaattitutkielma ja seminaari (matematiikka) - LaTeX-opinnot](course)
+- Teaching language in [Tulkkauksen teoria](course)
+- [Orientation - General Orientation Course for International Students](course) in which language
+- What language do they speak in [Kielen- ja tekstinhuolto](course)
+- I want to know which language [Advanced bioinformatics tools](course) is used
+- I want to know the language of [Methodology of Social and Comparative Research](course)
+- I want to know what language do they speak in [Julkiset rahoitusjärjestelmät](course)
+- I want to know is [Practical Programming in Python](course) taught in english- Teaching language [Tutkiva ja kehittävä opettaja](course)
+- Lecture language [Tiimi toimii - puheviestinnän syventävä kurssi (4. periodi)](course)
+- What is the teaching language in [Finnish Elementary Course 1 (taught in 3. period)](course)
+- Teaching language in [Kandidaatintutkielmaseminaari - Seminaari](course)
+- What language is [Statistical Inference 1](course)
+- Is [Työhyvinvoinnin johtaminen (itsenäinen suoritustapa, kesäopinnot)](course) in english
+- Is [The Transformation of Global Environmental Politics (Tampere Summer School 2018)](course) in finnish
+- [Ranska II](course) language
+- [Inklusiivinen varhaiskasvatus / Harjoitukset - 3.vsk](course) teaching language
+- Is [Kielen kehitys / Luennot- 2.vsk + 1.vsk ryhmät 6 ja 7](course) taught in english
+- Is [Klinikkaharjoittelu](course) taught in english
+- Can I pass [Introduction to Academic English (JKK, EDU, LUO, COMS & SOC)](course) in english
+- Which language is [Moniammatilliset oppimisyhteisöt - Luennot](course)
+- What is [Kaikille avoin tutkijaseminaari](course) language
+- What is the language of [Asiantuntijan puheviestintä ja vuorovaikutusosaaminen](course) is
+- The teaching language of [Nuorisotyön toimintaympäristöt, työmuodot ja menetelmät](course)
+- What language is used in [Ekonometria](course)
+- Which language [Research Seminar, Doctoral Programme in Language Studies](course) is used
+- [Euroopan ulkopuoliset poliittiset järjestelmät (kirjatentti/essee)](course) spoken language
+- [Osallistuminen opiskelijavaihtoon](course) languages
+- What are [Kiina IV](course) languages
+- The [Biostatistiikka ja tilastollinen tietojenkäsittely](course) language
+- [Johdatus yrittäjyyteen](course) teaching languages
+- The language of [Analyysi A](course)
+- Teaching language in [Vuorovaikutus ja tekstit S2-näkökulmasta](course)
+- [Työelämäviestinnän tutkimus- tai kehityshanke](course) in which language
+- What language do they speak in [Terveys, arki ja toimijuus, luennot](course)
+- I want to know which language [The Liberal Welfare State](course) is used
+- I want to know the language of [Lapsen puheen ja kielen tutkimus ja kuntoutus](course)
+- I want to know what language do they speak in [Tieteellinen kirjoittaminen (2. vuosikurssin opiskelijoille)](course)
+- I want to know is [Dokumentaation visualisointi](course) taught in english- Teaching language [Visual Peace Research](course)
+- Lecture language [Käännösviestintä suomi-venäjä](course)
+- What is the teaching language in [European, Eurasian and Global Energy Policy (book exam/essay)](course)
+- Teaching language in [Romanian kielen jatkokurssi I / Advanced Course 1 in Romanian](course)
+- What language is [Finnish Elementary Course 2 (taught in 4. period)](course)
+- Is [Yritysetiikka (verkkokurssi)](course) in english
+- Is [Yritysverotuksen syventävä opintojakso](course) in finnish
+- [KV-tuutorina toimiminen](course) language
+- [Ruotsin kielen kirjallinen ja suullinen viestintä](course) teaching language
+- Is [Current Approaches in Games and Internet Research](course) taught in english
+- Is [Tiedonhankintataidot - Tiedonhankintataidot IV - Viitteiden hallinta (kansanterveystieteen opiskelijoille)](course) taught in english
+- Can I pass [Dialogue: Constructive Talk at Work](course) in english
+- Which language is [Introduction to Academic English (online / JKK, EDU, LUO, COMS & SOC)](course)
+- What is [Sosiaalityön harjoittelu](course) language
+- What is the language of [Suomen kulttuuri ja yhteiskunta -lukupiiri](course) is
+- The teaching language of [Tiimi toimii - puheviestinnän syventävä kurssi (4. periodi)](course)
+- What language is used in [Ekoterveys, luonto ja ihminen](course)
+- Which language [Yhdyskuntakehittämisen ajankohtaisia kysymyksiä](course) is used
+- [Bioinformatics tools (autumn 2018)](course) spoken language
+- [Saamelaisen kirjallisuuden intensiivikurssi](course) languages
+- What are [Varhaiskasvatuksen ja esiopetuksen pedagogiikka - Työssäoppiminen 1.vsk:n monimuotoryhmien opiskelijoille](course) languages
+- The [Pro gradu - seminaari 2018 (jatkava)  (vaihe I)](course) language
+- [Medioitu vuorovaikutus](course) teaching languages
+- The language of [Kääntämisen ja tulkkauksen teoria ja käytäntö - Käännösteoria](course)
+- Teaching language in [Lapsuuden, nuoruuden ja perheen tutkimuskeskus PERLAn tutkimusseminaari](course)
+- [Government and Society: Inequality](course) in which language
+- What language do they speak in [Accounting Information Systems](course)
+- I want to know which language [Varhaismoderni yhteiskunta](course) is used
+- I want to know the language of [Harjoittelu / Elinikäinen oppiminen ja kasvatus, Essee työkokemuksen pohjalta, klk19](course)
+- I want to know what language do they speak in [American Government & Politics (Tampere Summer School 2018)](course)
+- I want to know is [Algorithmic Problem Solving](course) taught in english- Teaching language [Liikekirjanpito ja tilinpäätös (avoin yliopisto-opetus)](course)
+- Lecture language [Software Project Management, Software Project Management (Spring term)](course)
+- What is the teaching language in [Biologia ja ympäristötieto - Biologian ja maantieteen perusteet- 1.vsk ja erillisen opinto-oikeuden POM-opintoihin saaneet opiskelijat (luennot)](course)
+- Teaching language in [Terveys ja yhteiskuntapolitiikka](course)
+- What language is [Hoitotiede tieteenä, Seinäjoki](course)
+- Is [Kasvatuksen ja koulutuksen järjestelmät](course) in english
+- Is [Työelämän myytit ja todellisuus](course) in finnish
+- [Kulttuurien kohtaaminen](course) language
+- [Mediatutkimuksen valinn. jakso: Työseminaari: Euroopan hullu vuosi 1968 ja sen perintö](course) teaching language
+- Is [Espanjan kielen variaatio ajallisesti ja maantieteellisesti/Variación diacrónica y sincrónica del español](course) taught in english
+- Is [Kuva, sana ja ääni -multimodaalisuuskurssi](course) taught in english
+- Can I pass [Lähtötasokoe](course) in english
+- Which language is [Syntyvyys, hoiva, sukupolvi](course)
+- What is [Tilastollisten tutkimusmenetelmien soveltaminen hoitotieteessä](course) language
+- What is the language of [Kasvatustieteen metodologiset lähtökohdat - Luennot ja kirjatentti TAI kirjatentti](course) is
+- The teaching language of [Advanced bioinformatics tools](course)
+- What language is used in [Managing Research Information](course)
+- Which language [Nuorisotyön ja nuorisotutkimuksen maisteriohjelman lähijakso 9.11.2018](course) is used
+- [Scientific Writing - Module B - Thesis Writing (online)](course) spoken language
+- [Orientoivat opinnot - Orientoivat opinnot](course) languages
+- What are [Ympäristö ja hyvinvointi](course) languages
+- The [Cultural Conversations](course) language
+- [Eheyttävä musiikkikasvatus / Luennot - 2.vsk](course) teaching languages
+- The language of [Varhaiskasvatuksen ja esiopetuksen pedagogiikka - Työssäoppiminen 2.vsk (ryhmä 4)](course)
+- Teaching language in [Protein technology Laboratory Course A](course)
+- [Vertaisohjaus tietojenkäsittelytieteissä](course) in which language
+- What language do they speak in [Arjen latinaa ja kulttuurihistoriaa](course)
+- I want to know which language [Taloustiede, talouspolitiikka ja ajankohtaiset taloudelliset ja yhteiskunnalliset ongelmat](course) is used
+- I want to know the language of [Käännösviestintä I - Käännösviestintä I englanti-suomi](course)
+- I want to know what language do they speak in [Finnish Advanced Course 1 (taught in Finnish)](course)
+- I want to know is [Tiimi toimii - puheviestinnän syventävä kurssi (4. periodi)](course) taught in english- Teaching language [Käsitteellinen mallintaminen I](course)
+- Lecture language [Usability Evaluation Methods](course)
+- What is the teaching language in [Tieteellisen tiedonhankinnan perusteet (englannin kieli, kirjallisuus ja kääntäminen)](course)
+- Teaching language in [Introduction to Trans Studies](course)
+- What language is [Tilastollisen päättelyn perusteet, iltaryhmä](course)
+- Is [[CANCELLED] Editing Project](course) in english
+- Is [Seminaari (Ridell)](course) in finnish
+- [Visuaalisen kulttuurin teoria - luennot ja pienryhmätyöskentely](course) language
+- [Kandidaatintutkielmaseminaari - Seminaari, tammikuussa 2018 alkanut ryhmä, yhteisopetusta avoimen yo:n kanssa](course) teaching language
+- Is [International Political Economy (book exam/essay)](course) taught in english
+- Is [Tilastomenetelmien perusteet](course) taught in english
+- Can I pass [Learning from Multiple Sources](course) in english
+- Which language is [Sosiaalipsykologinen ajattelu II](course)
+- What is [Klassinen länsimainen kertomakirjallisuus](course) language
+- What is the language of [Romanian kielen alkeet / Basic Course in Romanian](course) is
+- The teaching language of [Kauppatieteellisen tutkimuksen menetelmät (markkinointi ja yrityksen johtaminen)](course)
+- What language is used in [Äidinkieli ja kirjallisuus - Lukeminen ja kirjoittaminen - 1. vsk (luennot)](course)
+- Which language [EI OPETETA 2018-2019 In vitro models](course) is used
+- [Lain ja hallinnon käännösviestinnän seminaari ranska-suomi](course) spoken language
+- [Kielitaito ja kielitaidon arviointi](course) languages
+- What are [Tutkimustyötä tukevat tohtoriopinnot (tietojenkäsittelyoppi)](course) languages
+- The [Qualitative Research Methods and Comparative Research Design](course) language
+- [Popular Music and Politics](course) teaching languages
+- The language of [Business, Society and Nature (Lectures)](course)
+- Teaching language in [Lapset kehittyvinä ja sosiaalisina toimijoina varhaiskasvatuksessa / Harjoitukset - 1.vsk](course)
+- [KV-tuutorina toimiminen](course) in which language
+- What language do they speak in [Orientation - Orientation to studying in the Software Development programme](course)
+- I want to know which language [Simultaanitulkkaus I venäjä-suomi-venäjä](course) is used
+- I want to know the language of [Mediated Learning Experinces in Multicultural Settings](course)
+- I want to know what language do they speak in [Persoonallisuuspsykologia I](course)
+- I want to know is [Työ ja äitiys tänään](course) taught in english- Teaching language [Terveys ja yhteiskuntapolitiikka](course)
+- Lecture language [Kasvatuksen historialliset ja filosofiset lähtökohdat, monimuoto-opetus](course)
+- What is the teaching language in [Klinikkaharjoittelu](course)
+- Teaching language in [Master´s Thesis and Seminar - for the group that started in 2017](course)
+- What language is [Biologia ja ympäristötieto - Biologian ja maantieteen perusteet- 1.vsk ja erillisen opinto-oikeuden POM-opintoihin saaneet opiskelijat (luennot)](course)
+- Is [Työelämän tekstitaidot](course) in english
+- Is [Student Exchange - courses completed in foreign universities 2-8 ECTS](course) in finnish
+- [Seminaari](course) language
+- [Ranska II](course) teaching language
+- Is [Cultural Conversations](course) taught in english
+- Is [Tiimi toimii - puheviestinnän syventävä kurssi (3. - 4. periodi)](course) taught in english
+- Can I pass [Tietohallinnon johtaminen](course) in english
+- Which language is [Espanja III](course)
+- What is [International Business Law](course) language
+- What is the language of [Graduseminaari / Kekäläinen (jatkuu keväältä 2018)](course) is
+- The teaching language of [Kasvatus, koulutus ja yhteiskunta, monimuoto-opetus](course)
+- What language is used in [Poliittinen filosofia (kirjatentti/essee)](course)
+- Which language [Preparatory Course in Reading and Writing for Academic Purposes (online)](course) is used
+- [Käännösviestintä I - Käännösviestintä I suomi-englanti](course) spoken language
+- [Scientific Writing - Module A - Writing Clinic](course) languages
+- What are [Orientaatio psykologiaan](course) languages
+- The [Jatkokoulutusseminaari](course) language
+- [Kauppatieteellisen tutkimuksen menetelmät (vakuutus ja riskienhallinta + laskentatoimi)](course) teaching languages
+- The language of [Seminaari (Kunelius) jatkuu keväältä](course)
+- Teaching language in [Speakers Series](course)
+- [Kansanterveystieteen johdantojakso](course) in which language
+- What language do they speak in [Nuorisotyö ja nuorisotutkimus (verkkokurssi)](course)
+- I want to know which language [Tila, teknologia ja toiminta - essee](course) is used
+- I want to know the language of [Tutkimuspraktikum](course)
+- I want to know what language do they speak in [Perspectives in Educational Research](course)
+- I want to know is [Sosiaalityön tutkimuksen metodologisia suunnistuksia](course) taught in english- Teaching language [Puheviestinnän tutkimuskurssi](course)
+- Lecture language [International Trade and Finance (Tampere Summer School) - luennot ja tentti](course)
+- What is the teaching language in [Modern Risk Management](course)
+- Teaching language in [Opetusharjoittelu](course)
+- What language is [Suurvalta kriiseissä: näkökulmia Venäjän historiaan 1700-luvulta 1900-luvulle](course)
+- Is [Asiantuntijan puheviestintä ja vuorovaikutus opetus- ja kasvatustyössä (1. periodi)](course) in english
+- Is [Kirjallinen viestintä I - Sanasto- ja rakenneharjoitukset](course) in finnish
+- [Dialogitulkkaus](course) language
+- [Luentateatteri](course) teaching language
+- Is [Olevan muoto - johdatus formaaliontologiaan](course) taught in english
+- Is [Tietokantaohjelmointi](course) taught in english
+- Can I pass [Gradu-kvantimetodit](course) in english
+- Which language is [Taloustiede, talouspolitiikka ja ajankohtaiset taloudelliset ja yhteiskunnalliset ongelmat](course)
+- What is [Talous ja yhteiskunta](course) language
+- What is the language of [Evaluation Research](course) is
+- The teaching language of [Käännösviestintä suomi - saksa / Translation Finnisch-Deutsch](course)
+- What language is used in [Mikrotalousteoria II](course)
+- Which language [Johdatus yritysjuridiikkaan](course) is used
+- [Geometria](course) spoken language
+- [Tieteellinen kirjoittaminen (SOC)](course) languages
+- What are [Introduction to R](course) languages
+- The [Hoitotyön johtamisen harjoittelu](course) language
+- [Continental Model: The Austrian System of Work and Social Security](course) teaching languages
+- The language of [Johdatus kirjallisuuden poetiikkaan](course)
+- Teaching language in [Kansainvälistymistä ja verkostoitumista tukevat opinnot](course)
+- [Erikoiskurssi](course) in which language
+- What language do they speak in [Finnish Elementary Course 4](course)
+- I want to know which language [Nordic Model: Nordic Welfare Societies](course) is used
+- I want to know the language of [Player and User Studies](course)
+- I want to know what language do they speak in [Distributed Systems](course)
+- I want to know is [Journalistinen kieli - Kielenhuolto, lauseoppi](course) taught in english- Teaching language [Sosiaalipsykologinen ajattelu II](course)
+- Lecture language [Laskentatoimen perusteet (avoin yliopisto-opetus), monimuoto-opetus](course)
+- What is the teaching language in [Moniammatilliset oppimisyhteisöt - Luennot](course)
+- Teaching language in [Latinankielinen kirjallisuus I: klassinen latina](course)
+- What language is [Kandidaatintutkielmaseminaari - Seminaari](course)
+- Is [Projektiharjoittelu](course) in english
+- Is [Muuttuvat oppimisympäristöt - Luennot ja opintopiiri](course) in finnish
+- [Korkeakoulut työyhteisöinä - Kehittämistehtävä](course) language
+- [Kansanterveystieteen käsitteitä ja teoreettisia kysymyksiä](course) teaching language
+- Is [Tutkimushaastattelu: taito, tyylit ja kohderyhmät](course) taught in english
+- Is [Kasvatus tieteellisen tutkimuksen kohteena - verkko-opetus, II-periodi](course) taught in english
+- Can I pass [C. Wright Millsin sosiologia - Luentoseminaari](course) in english
+- Which language is [Syntaksi](course)
+- What is [Julkisoikeuden syventävä tutkimusjakso](course) language
+- What is the language of [Tutkimusetiikka](course) is
+- The teaching language of [Business Ethics (Independent study)](course)
+- What language is used in [Julkisoikeuden tutkimuspraktikum](course)
+- Which language [Nimistöntutkimus](course) is used
+- [Lukeminen ja kirjoittaminen oppimisen haasteena - (luennot)](course) spoken language
+- [Tutkimusprosessin hallinta - Läsnäoloon perustuva oppimispäiväkirja](course) languages
+- What are [Opetussuunnitelmateoria, kirjatentti, Seinäjoki](course) languages
+- The [Tutkiva opiskelu (keväällä 2019 perusopinnot aloittaville) - verkkokurssi](course) language
+- [Kandidaattiseminaari (JATKAVA, Vahtikari)](course) teaching languages
+- The language of [Työelämävalmiudet ja asiantuntijuus - valmennusseminaari ja palautekeskustelu](course)
+- Teaching language in [Cancer Biology](course)
+- [Science and Biotechnology Journal Club](course) in which language
+- What language do they speak in [Käännösviestintä I - Käännösviestintä I suomi-englanti](course)
+- I want to know which language [Puhesuomi ja esiintyminen](course) is used
+- I want to know the language of [Introduction to Bayesian Analysis 2](course)
+- I want to know what language do they speak in [Sosiaalisen median yhteisöt: menetelmällisiä ratkaisuja määrällisestä laadulliseen](course)
+- I want to know is [Väestön vanheneminen, terveys ja hyvinvointi](course) taught in english- Teaching language [Saksa I](course)
+- Lecture language [Sosiaalityön vuorovaikutuksen tutkimus - Sosnet-verkkokurssi](course)
+- What is the teaching language in [Tilastollisen tutkimuksen perusteet](course)
+- Teaching language in [Kasvatus, koulutus ja yhteiskunta, monimuoto-opetus](course)
+- What language is [Julkisen talousjohtamisen näkökulmia](course)
+- Is [Tieteellinen seminaarisarja](course) in english
+- Is [Kansalaisyhteiskunta ja poliittinen osallistuminen (kirjatentti/essee)](course) in finnish
+- [Ruututekstikääntämisen peruskurssi](course) language
+- [Käsityö - Projektiosio - 2.vsk ja opinnot 1½ lukuvuodessa suorittavat 1.vsk ja POM-opintoihin opinto-oikeuden saaneet opiskelijat](course) teaching language
+- Is [Sosiaalityö terveydenhuollossa](course) taught in english
+- Is [Kandidaattiseminaari ja -tutkielma (hallintotiede), syksy](course) taught in english
+- Can I pass [Arvonlisäverotus](course) in english
+- Which language is [Johdatus viestintään ja mediaan](course)
+- What is [SPSS:n perusteet, kevät](course) language
+- What is the language of [Koulutussuunnittelu ja kehittäminen - Seminaari](course) is
+- The teaching language of [Grammaire/Kielioppi](course)
+- What language is used in [Eriytyvä syventävä tutkimusmenetelmäkurssi A: Etnografia](course)
+- Which language [International Dynamics and Policy Transfer in Education](course) is used
+- [Kielen kehitys](course) spoken language
+- [Saksa IV](course) languages
+- What are [Aktuelle Texte aus Presse und Studium](course) languages
+- The [Media maailmassa - verkkokurssi](course) language
+- [Johtamisviestintä](course) teaching languages
+- The language of [Ohjaus yliopistossa](course)
+- Teaching language in [Kansainvälisen politiikan johdantokurssi (kirjatentti)](course)
+- [Introduction to Cultural Psychology](course) in which language
+- What language do they speak in [Gradu-kvantimetodit](course)
+- I want to know which language [Työn uusi järjestys ja aikuiskasvatus - Seminaari](course) is used
+- I want to know the language of [Tutkiva opiskelu](course)
+- I want to know what language do they speak in [Algorithmic Problem Solving](course)
+- I want to know is [Kvalitatiivinen tutkimus kasvatustieteissä - Harjoitukset, yleinen ryhmä](course) taught in english- Teaching language [Ruotsin kielen kirjallinen ja suullinen viestintä](course)
+- Lecture language [Vanheneminen sosiaalisena ilmiönä](course)
+- What is the teaching language in [Monikielinen käännöstyöpaja](course)
+- Teaching language in [Kansainvälinen yhteisö (kirjatentti/essee)](course)
+- What language is [Advanced Course in Corporate Finance](course)
+- Is [Sota-ajan säännösteltyä kulttuuria](course) in english
+- Is [Inklusiivinen varhaiskasvatus / Harjoitukset - 3.vsk](course) in finnish
+- [Erot, jaot ja niiden rakentuminen, kirjatentti, Seinäjoki](course) language
+- [Tuloksellisuuden arvioinnin teoria](course) teaching language
+- Is [Käyttäjäkeskeinen kääntäminen](course) taught in english
+- Is [Psykologian tutkimusmenetelmät II: kokeellinen ja korrelatiivinen tutkimus](course) taught in english
+- Can I pass [Stem Cells](course) in english
+- Which language is [Kielitieto ja -taito - Fraseologia  / Sprachwissen und Sprachfertigkeiten: Phraseologie](course)
+- What is [Kansainvälisen politiikan menetelmäseminaari (kirjatentti)](course) language
+- What is the language of [Tietokantojen perusteet - Näyttökoe, syksy 2018](course) is
+- The teaching language of [Kääntämisen ja tulkkauksen teoria ja käytäntö - Käännösteoria](course)
+- What language is used in [Julkissektorin instituutioiden talous (monimuoto-opetus)](course)
+- Which language [Markkinoinnin ja myynnin perusteet](course) is used
+- [Ethnographic Research](course) spoken language
+- [Research Seminar, Doctoral Programme in Language Studies](course) languages
+- What are [Hoitot. tiedon hyödyntäminen johtamisessa ja opettamisessa: syventävä projektityö (kurssi jatkuu keväältä 2018)](course) languages
+- The [Opetussuunnitelmateoria, kirjatentti](course) language
+- [Scientific Writing - Module A - Writing Clinic](course) teaching languages
+- The language of [Preparatory Course in Communicative Skills](course)
+- Teaching language in [Advanced Microscopy](course)
+- [Cultural Diversity in Education and at Work -  (autumn)](course) in which language
+- What language do they speak in [Sosiaalityön arvot, etiikka ja vapaaehtoistyö](course)
+- I want to know which language [Project Planning and Management](course) is used
+- I want to know the language of [Käännösviestintä I - Käännösviestintä I suomi-englanti](course)
+- I want to know what language do they speak in [[CANCELLED] Editing Project](course)
+- I want to know is [A Biomedical View of Patenting](course) taught in english- Teaching language [Orientoivat ja asiantuntijuuden kehittymistä tukevat opinnot - HOPS-työskentely](course)
+- Lecture language [Kansanterveystieteen johdantojakso](course)
+- What is the teaching language in [Asioimistulkkaus (monikielinen)](course)
+- Teaching language in [Äänen häiriöt](course)
+- What language is [Master's Thesis Seminar in Human-Technology Interaction (Starting Fall term)](course)
+- Is [Makrotalousteorian jatkokurssi I](course) in english
+- Is [Kansalaisvaikuttaminen (kirjatentti/essee)](course) in finnish
+- [Tekstianalyysi - Harjoitukset](course) language
+- [Johdatus kääntäjän suomen opintoihin](course) teaching language
+- Is [Valtio-opin teoriat (kirjatentti/essee)](course) taught in english
+- Is [Kieli ja kielentäminen -2. vsk (luennot)](course) taught in english
+- Can I pass [Dokumentaation visualisointi](course) in english
+- Which language is [Muuttuvat oppimisympäristöt - Luennot ja opintopiiri](course)
+- What is [Johdatus sosiaaliantropologiaan, luennot (verkkokurssi)](course) language
+- What is the language of [Rauhan- ja konfliktintutkimus (kirjatentti/essee)](course) is
+- The teaching language of [Sidosryhmäteoria ja -johtaminen](course)
+- What language is used in [Romanian kielen alkeet / Basic Course in Romanian](course)
+- Which language [Julkisen hallinnon reformit ja muutos](course) is used
+- [Todennäköisyyslaskenta](course) spoken language
+- [Sustainable business practices (Lectures)](course) languages
+- What are [Keskustelunanalyysi (verkkokurssi), kevät 2019](course) languages
+- The [Introduction to Academic English (JKK, EDU, LUO, COMS & SOC)](course) language
+- [Budgeting and capital budgeting (online course)](course) teaching languages
+- The language of [Pratiques de l'oral et de l'écrit / Ranskan kielen tuottaminen](course)
+- Teaching language in [Tutustuminen psykologin työhön](course)
+- [Advanced Course in Microeconomics I](course) in which language
+- What language do they speak in [Structure of English I - Grammar I](course)
+- I want to know which language [Äkilliset traumaattiset kriisit ja niiden käsittely](course) is used
+- I want to know the language of [Empiirinen projekti](course)
+- I want to know what language do they speak in [Hoivan ehdot, talouden rajat: johdatus vaivan politiikkaan](course)
+- I want to know is [Pedagoginen johtaminen - Luennot ja ryhmätyöskentely](course) taught in english

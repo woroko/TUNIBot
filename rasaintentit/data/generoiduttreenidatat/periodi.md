@@ -1,0 +1,42 @@
+- Period [KATTAP11](course)
+- Semester [*](course)
+- Quarter [*](course)
+- Academic term [*](course)
+- [*](course) semester
+- [*](course) academic term
+- [*](course) quarter
+- This semester [*](course)
+- What period [*](course)
+- What study period [*](course)
+- What study period is [*](course) in
+- What period will [*](course) begin
+- [*](course) period
+- Is [*](course) this period
+- Which period is [*](course)
+- Which period will [*](course) begin
+- What period will [*](course) begin
+- [*](course) curriculum
+- When is [*](course) in the curriulum
+- The period of [*](course)
+- Study period of [*](course)
+- Semester [*](course)
+- Which semester will [*](course) start
+- Which semester is [*](course)
+- Is [*](course) this semester
+- What semester is [*](course)
+- Academic term [*](course)
+- Which academic term will [*](course) begin
+- Which academic term is [*](course)
+- [*](course) academic term
+- Which semester will [*](course) begin
+- The period of [*](course)
+- The semester of [*](course)
+- The academic term of [*](course)
+- The quarter of [*](course)
+- Which quarter is [*](course)
+- What is the quarter of [*](course)
+- Which quarter will [*](course) begin
+- I want to know which semester will [*](course) start
+- I want to know which semester is [*](course)
+- I want to know the study period of [*](course)
+- I want to know the academic term for [*](course)

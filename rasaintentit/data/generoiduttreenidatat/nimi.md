@@ -1,0 +1,38 @@
+- What is the name of [*](course)
+- [*](course) name
+- [*](course) name is
+- [*](course) name full
+- [*](course) complete name
+- [*](course) name actual
+- [*](course) whole name
+- What is name [*](course)
+- The name of [*](course)
+- Name [*](course)
+- What is the full name of [*](course)
+- What is [*](course) called
+- What is the course code [*](course) called
+- What course is [*](course)
+- [*](course) named
+- What's [*](course) named
+- Name of [*](course)
+- Tell me the name of [*](course)
+- Say the name of [*](course)
+- The whole name of [*](course)
+- [*](course) full name
+- [*](course) entire name
+- [*](course) whole name
+- [*](course) meaning
+- What does [*](course) mean
+- What means [*](course)
+- I want to know what [*](course) means
+- I want to know what [*](course) actually means
+- What is the meaning of [*](course)
+- [*](course) meaning
+- True name of [*](course)
+- Real name of [*](course)
+- Which course is [*](course)
+- What [TECHS3(course) means
+- I want to know what [*](course) stands for
+- I want to know the full name of course code [*](course)
+- I want to know the whole name of [*](course)
+- I want to know the name of [*](course)
