@@ -25,6 +25,16 @@ def tamk_API_implementations(id=None, name=None):
 
     return None
 
+#Searches course name by its id
+def tamk_course_name(id=None):
+    try:
+        if id is not None:
+            info = tamk_API_implementations(id=id)
+        name = info['realizations'][0]['name']
+        return("Name of the course "+str(id)+" is "+name+".")
+    except Exception as e:
+        print(e)
+    
 #Searches courses teaching language by its id
 def tamk_teachingLanguage(id=None, name=None):
     try:
@@ -101,6 +111,7 @@ def tamk_examSchedule(id=None, name=None):
         print(e)
     return""
 
+print(tamk_course_name("IM00BR45-3003"))
 print(tamk_teachingLanguage("IM00BR45-3003"))
 print(tamk_startDate("IM00BR45-3003"))
 print(tamk_location("IM00BR45-3003"))
