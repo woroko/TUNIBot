@@ -1606,7 +1606,7 @@
 - [JOVPVS5](course) starting date
 - [VENS3](course) begins
 - Tell me the start date of [KATVRP11](course)
-- What day will [TAYJ041(course) start
+- What day will [TAYJ041](course) start
 - When do I have [SOS4.2](course)
 - When do we have [KATMAA99](course)
 - The start date of [JKKYVP11](course)
@@ -2255,7 +2255,7 @@
 - How many student credits [Pedagoginen kehittäminen ja johtajuus / Harjoitukset - 3.vsk + 2.vsk ryhmä 4](course)
 - How many student points [Kansainvälinen verotus](course)
 - How many student credits from [Improving the quality and safety of health care through outcomes research](course)
-- How many student points from [Kandidaatintutkielma - Seminaari ja tutkielma(course)
+- How many student points from [Kandidaatintutkielma - Seminaari ja tutkielma](course)
 - How many ECTS from [Lähihistorian ryhmä](course)
 - How many student credits is [Radiokääntäminen (saksa)](course)
 - How many points is [Teknologiakasvatus - Teknologia](course)
@@ -2323,7 +2323,7 @@
 - How many student credits [Vieraan kielen taito, perustaso](course)
 - How many student points [Tieteellinen kommunikaatio ja bibliometriikka](course)
 - How many student credits from [Gradu-kvantimetodit](course)
-- How many student points from [Kandidaatintutkielma(course)
+- How many student points from [Kandidaatintutkielma](course)
 - How many ECTS from [Ympäristöpolitiikan vaikutuskeinot](course)
 - How many student credits is [Introduction to Academic English (diverse learners)](course)
 - How many points is [Tekstianalyysi - Harjoitukset](course)
@@ -2391,7 +2391,7 @@
 - How many student credits [Terveyden edistämisen perusteet (hoitotieteen opiskelijoille), kirjatentti, Seinäjoki](course)
 - How many student points [History of Education - book exam](course)
 - How many student credits from [Poliittiset ongelmat ja niiden muuttuvat kontekstit](course)
-- How many student points from [Kandidaatintutkielma - Seminaari ja tutkielma(course)
+- How many student points from [Kandidaatintutkielma - Seminaari ja tutkielma](course)
 - How many ECTS from [European, Eurasian and Global Energy Policies](course)
 - How many student credits is [Current Trends in Leadership](course)
 - How many points is [Kandidaattiseminaari ja -tutkielma (hallintotiede), syksy](course)
@@ -3581,7 +3581,7 @@
 - How many student credits [ITIA2](course)
 - How many student points [LTLY210](course)
 - How many student credits from [HALKOS24](course)
-- How many student points from [POLKVA41(course)
+- How many student points from [POLKVA41](course)
 - How many ECTS from [ENGA6](course)
 - How many student credits is [KKSUBMT](course)
 - How many points is [KKENVAL9](course)
