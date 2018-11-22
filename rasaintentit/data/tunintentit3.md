@@ -101,7 +101,7 @@
 - [Cultural Transitions](course) starting date
 - [Sosiaalityön harjoittelu](course) begins
 - Tell me the start date of [Multi-level Governance and Europeanisation (book exam/essay)](course)
-- What day will [Käännösten suomi(course) start
+- What day will [Käännösten suomi](course) start
 - When do I have [Teoria perhehoitotieteessä](course)
 - When do we have [Antropologian osa-alueet](course)
 - The start date of [Johdon laskentatoimen perusteet](course)
@@ -136,7 +136,7 @@
 - [Tietojärjestelmän suunnittelun perusteet - Näyttökoe, syksy 2018](course) starting date
 - [Master´s Thesis and Seminar - for the group that started in 2017](course) begins
 - Tell me the start date of [Kasvatuksen historialliset ja filosofiset lähtökohdat - Luennot ja kirjallisuus](course)
-- What day will [Feministiset politiikat ja asiantuntijuus(course) start
+- What day will [Feministiset politiikat ja asiantuntijuus](course) start
 - When do I have [Business Models](course)
 - When do we have [Kuvataidekasvatus / Harjoitukset - 2.vsk](course)
 - The start date of [Opetus, ohjaus, oppiminen, monimuoto-opeus](course)
@@ -171,7 +171,7 @@
 - [Kasvatus tieteellisen tutkimuksen kohteena, avoin yo, lähi- ja monimuotototeutus](course) starting date
 - [Itsenäinen projekti: Opintopassi](course) begins
 - Tell me the start date of [Tieteellinen kommunikaatio ja bibliometriikka](course)
-- What day will [Opintojen ohjattu suunnittelu(course) start
+- What day will [Opintojen ohjattu suunnittelu](course) start
 - When do I have [Todennäköisyyslaskenta](course)
 - When do we have [Yrityksen johtamisen perusteet (avoin yliopisto-opetus), monimuoto-opetus](course)
 - The start date of [Academic Presentations](course)
@@ -206,7 +206,7 @@
 - [Äänne- ja muoto-oppi](course) starting date
 - [Methods in Human-Centered Design](course) begins
 - Tell me the start date of [Käsitteellinen mallintaminen I](course)
-- What day will [Mediakulttuurit / Luennot - 2.vsk + 1.vsk ryhmät 6 ja 7(course) start
+- What day will [Mediakulttuurit / Luennot - 2.vsk + 1.vsk ryhmät 6 ja 7](course) start
 - When do I have [Johdatus filosofian historiaan](course)
 - When do we have [Imagining Persia/Iran: Orientalism, Revolution and Diaspora](course)
 - The start date of [Research Mobility for Doctoral Researchers](course)
@@ -276,7 +276,7 @@
 - [Filosofian työpaja](course) starting date
 - [Business Writing](course) begins
 - Tell me the start date of [Nuorisotyön ja nuorisotutkimuksen maisteriohjelman lähijakso 3.-4.10.2018](course)
-- What day will [Perusharjoittelu A - Ohjattu opetusharjoittelu(course) start
+- What day will [Perusharjoittelu A - Ohjattu opetusharjoittelu](course) start
 - When do I have [Tietojärjestelmän suunnittelun perusteet - Näyttökoe, syksy 2018](course)
 - When do we have [Laskentatoimi ja talousjohtaminen](course)
 - The start date of [Understanding and Managing a Business as a Dynamic Whole - VIBU Business Simulation Game](course)
@@ -311,7 +311,7 @@
 - [Terveyden ja mielenterveyden psykologia I (avoin yliopisto)](course) starting date
 - [Individual project course](course) begins
 - Tell me the start date of [Eriytyvä syventävä tutkimusmenetelmäkurssi A: Research methods in education policy](course)
-- What day will [Re-Thinking Value Creation(course) start
+- What day will [Re-Thinking Value Creation](course) start
 - When do I have [Tietojärjestelmän suunnittelun perusteet - Näyttökoe, syksy 2018](course)
 - When do we have [Political Systems (book exam/essay)](course)
 - The start date of [Welfare State Theories](course)
@@ -346,7 +346,7 @@
 - [Ulko- ja turvallisuuspoliittinen päätöksentekoharjoitus](course) starting date
 - [Sustainable business practices (Lectures)](course) begins
 - Tell me the start date of [Kirjallinen viestintä I / Schriftliche Kommunikation I](course)
-- What day will [Scientific Writing - Module A - Writing Clinic(course) start
+- What day will [Scientific Writing - Module A - Writing Clinic](course) start
 - When do I have [Tuloksellisuuden arvioinnin teoria](course)
 - When do we have [Käännösviestintä venäjä-suomi](course)
 - The start date of [Tila, teknologia ja toiminta: Lukuseminaari: Julkinen toiminta teknoyhteiskunnassa](course)
@@ -381,7 +381,7 @@
 - [Johdatus filosofian historiaan](course) starting date
 - [Klinikkaharjoittelu](course) begins
 - Tell me the start date of [Laatu, arviointi ja kehittäminen korkeakouluissa - Harjoitustyö](course)
-- What day will [Moniammatillisuus, yhteisö ja vuorovaikutus / Luennot - 3.vsk + 2.vsk ryhmä 4(course) start
+- What day will [Moniammatillisuus, yhteisö ja vuorovaikutus / Luennot - 3.vsk + 2.vsk ryhmä 4](course) start
 - When do I have [Transcultural perspectives in developing media education](course)
 - When do we have [Kontrastiivisen fonetiikan perusteet -](course)
 - The start date of [New Wars and How to Study Them (POMLFCS3)](course)
@@ -416,7 +416,7 @@
 - [Johdatus yhteiskuntafilosofiaan](course) starting date
 - [Practical Observation of Finnish School System for Incoming Exchange Students - Observation, written tasks, report](course) begins
 - Tell me the start date of [Hoitotieteen tohtorikoulutusseminaari](course)
-- What day will [Liikunta - Liikuntapedagogiikka perusopetuksessa A - 2. vsk(course) start
+- What day will [Liikunta - Liikuntapedagogiikka perusopetuksessa A - 2. vsk](course) start
 - When do I have [Usean muuttujan integraalilaskenta](course)
 - When do we have [Käytännön opetus ja ohjaus](course)
 - The start date of [Julkisen hallinnon reformit ja muutos](course)
@@ -486,7 +486,7 @@
 - [Inklusiivinen pedagogiikka ja oppimisen tukeminen](course) starting date
 - [Historiankirjoituksen historia](course) begins
 - Tell me the start date of [Luontokirjoittamisen klassikot](course)
-- What day will [Tendances de la littérature française moderne/Ranskalaisen nykykirjallisuuden suuntauksia(course) start
+- What day will [Tendances de la littérature française moderne/Ranskalaisen nykykirjallisuuden suuntauksia](course) start
 - When do I have [Järjestöjen rooli sosiaalipolitiikassa ja vapaaehtoistyö](course)
 - When do we have [Ranska III](course)
 - The start date of [Eheyttävä temaattinen loppuprojekti - projekti/käytännön työ ja portfolio](course)
@@ -521,7 +521,7 @@
 - [Johdatus vuorovaikutteiseen teknologiaan](course) starting date
 - [Rakennebiologia](course) begins
 - Tell me the start date of [Viestinnän ja median tutkimussuuntauksia](course)
-- What day will [Tietojärjestelmätieteen jatkokoulutusseminaari - Seminaari(course) start
+- What day will [Tietojärjestelmätieteen jatkokoulutusseminaari - Seminaari](course) start
 - When do I have [Työelämän tekstitaidot](course)
 - When do we have [Structure of English II - Phonology and Pronunciation II](course)
 - The start date of [Persoonallisuuspsykologia I](course)
@@ -556,7 +556,7 @@
 - [Teksti, keskustelu ja vuorovaikutus](course) starting date
 - [Oppimispelien käyttö ja evaluaatio](course) begins
 - Tell me the start date of [Kielen variaatio](course)
-- What day will [Kansainväliset vakuutusmarkkinat ja jälleenvakuutus(course) start
+- What day will [Kansainväliset vakuutusmarkkinat ja jälleenvakuutus](course) start
 - When do I have [Biological data analysis with R](course)
 - When do we have [Vuorovaikutuksen perusteet - verkkokurssina II](course)
 - The start date of [Knowledge, business and work in a digital society](course)
@@ -591,7 +591,7 @@
 - [Projektinhallinnan perusteet](course) starting date
 - [Ympäristöoikeus](course) begins
 - Tell me the start date of [Kuvataide - 2. vsk ja opinnot 1½ lukuvuodessa suorittavat  1.vsk ja POM-opintoihin opinto-oikeuden saaneet opiskelijat](course)
-- What day will [Tulkin työkalupakki(course) start
+- What day will [Tulkin työkalupakki](course) start
 - When do I have [Tutkimusprosessin hallinta tohtoriopinnoissa](course)
 - When do we have [Tissue biology](course)
 - The start date of [Tekstiklinikka tutkielman kirjoittajille](course)
@@ -661,7 +661,7 @@
 - [European Union Law](course) starting date
 - [Mediakasvatus, osallisuus ja aktiivinen kansalaisuus, kirjatentti](course) begins
 - Tell me the start date of [Current Trends in Leadership](course)
-- What day will [Digital Media Landscape and Media Policies(course) start
+- What day will [Digital Media Landscape and Media Policies](course) start
 - When do I have [Ruotsin kielen kirjallinen ja suullinen viestintä](course)
 - When do we have [Johdatus kääntäjän suomen opintoihin](course)
 - The start date of [Finnish Education System - Seminar](course)
@@ -696,7 +696,7 @@
 - [Radiokääntäminen (venäjä)](course) starting date
 - [Valtio-opin maisteriseminaari](course) begins
 - Tell me the start date of [Musiikin tiedolliset valmiudet ja niiden soveltaminen - Harmonia ja improvisointi koskettimilla](course)
-- What day will [Basics II: Intermediate Czech II(course) start
+- What day will [Basics II: Intermediate Czech II](course) start
 - When do I have [Hoitotieteen tohtorikoulutusseminaari](course)
 - When do we have [BMT-61227 Medical Biomaterials](course)
 - The start date of [Seminaari (Ridell)](course)
@@ -766,7 +766,7 @@
 - [Julkisen talousjohtamisen tutkimusotteet](course) starting date
 - [Tilastollisten tutkimusmenetelmien soveltaminen hoitotieteessä](course) begins
 - Tell me the start date of [Media and the Arctic (POMLFCS3)](course)
-- What day will [Tutkielmaseminaari (keväällä 2019 alkavat seminaarit) - Seminaari(course) start
+- What day will [Tutkielmaseminaari (keväällä 2019 alkavat seminaarit) - Seminaari](course) start
 - When do I have [Käännösviestintä I - Käännösviestintä I suomi-englanti](course)
 - When do we have [Sijoitustoiminta](course)
 - The start date of [Introduction to International Relations (book exam)](course)
@@ -801,7 +801,7 @@
 - [Study Skills - Basics of Information Literacy](course) starting date
 - [Introduction to Political Theory (book exam/essay)](course) begins
 - Tell me the start date of [Theories of Welfare States and Comparative Social Policy: An introduction](course)
-- What day will [Opimme lisää venäjän kielen suullisia taitoja(course) start
+- What day will [Opimme lisää venäjän kielen suullisia taitoja](course) start
 - When do I have [Vähittäiskaupan konseptit](course)
 - When do we have [Kielioppi II](course)
 - The start date of [Tilastotieteen johdantokurssi, syksy](course)
@@ -836,7 +836,7 @@
 - [Suullinen viestintä II/Muntlig kommunikation II](course) starting date
 - [Lapsuuden antropologia ja transnationaali lapsuus](course) begins
 - Tell me the start date of [Erot, jaot ja niiden rakentuminen, kirjatentti](course)
-- What day will [Jatkokoulutusseminaari(course) start
+- What day will [Jatkokoulutusseminaari](course) start
 - When do I have [Johdatus historiantutkimukseen - Johdatus historiantutkimukseen -luentokurssi](course)
 - When do we have [Tieteellinen kirjoittaminen / SOC (historia & filosofia)](course)
 - The start date of [Liikuntatuutorina toimiminen - Liikuntatuutoriperehdytys](course)
@@ -871,7 +871,7 @@
 - [Kandidaatintutkielma](course) starting date
 - [Lapset kehittyvinä ja sosiaalisina toimijoina varhaiskasvatuksessa / Harjoitukset - 1.vsk](course) begins
 - Tell me the start date of [Eettinen johtajuus](course)
-- What day will [Markkinoinnin teoria(course) start
+- What day will [Markkinoinnin teoria](course) start
 - When do I have [Government and Society: Inequality](course)
 - When do we have [Intercultural Communication](course)
 - The start date of [Vanhuus ja gerontologinen sosiaalityö](course)
@@ -906,7 +906,7 @@
 - [Structure of English I - Grammar I](course) starting date
 - [Tieteellinen kirjoittaminen / avoin yliopisto-opetus](course) begins
 - Tell me the start date of [Terveys ja talous](course)
-- What day will [Arjen latinaa ja kulttuurihistoriaa(course) start
+- What day will [Arjen latinaa ja kulttuurihistoriaa](course) start
 - When do I have [Tieteellinen kirjoittaminen (2. vuosikurssin opiskelijoille)](course)
 - When do we have [Kerronnan monet muodot (luentokurssi korvaa kirjatentin)](course)
 - The start date of [Espanjan kielen kirjallinen ja suullinen taito](course)
@@ -976,7 +976,7 @@
 - [Finnish Elementary Course 2 (taught in 4. period)](course) starting date
 - [Terveys, tieto, asiantuntijuus](course) begins
 - Tell me the start date of [Introduction to Web Publishing - Spring 2019](course)
-- What day will [History, Culture and Literature: Culture and Literature(course) start
+- What day will [History, Culture and Literature: Culture and Literature](course) start
 - When do I have [Peace Research Design](course)
 - When do we have [Tragedy of the Commons? Problems and Solutions](course)
 - The start date of [Sosiaalioikeus - STYA1A1 Sosiaalioikeus I](course)
@@ -1011,7 +1011,7 @@
 - [Opetus, ohjaus, oppiminen, monimuoto-opetus](course) starting date
 - [Kansainvälisen politiikan yleiset syventävät menetelmäopinnot (kirjatentti/essee)](course) begins
 - Tell me the start date of [Lähtötasokoe / Schwellentest](course)
-- What day will [Venäjä III(course) start
+- What day will [Venäjä III](course) start
 - When do I have [Grammaire/Kielioppi](course)
 - When do we have [Orientoivat opinnot - Orientoivat opinnot](course)
 - The start date of [Suomi ja maailman kielet](course)
@@ -1046,7 +1046,7 @@
 - [Suomen historian tutkijaseminaari](course) starting date
 - [Ranska II](course) begins
 - Tell me the start date of [Käännösviestintä ruotsi-suomi/Översättning svenska-finska](course)
-- What day will [Language and Identity(course) start
+- What day will [Language and Identity](course) start
 - When do I have [Radio Project](course)
 - When do we have [Knowledge Discovery](course)
 - The start date of [Kandidaattiseminaari ja -tutkielma (hallintotiede), kevät -](course)
@@ -1116,7 +1116,7 @@
 - [Second Language Acquisition](course) starting date
 - [Journalistinen kieli - Tekstinhuolto](course) begins
 - Tell me the start date of [Monikielinen käännöstyöpaja](course)
-- What day will [Oppimisyhteisöt ja vuorovaikutus, kirjatentti, Pori(course) start
+- What day will [Oppimisyhteisöt ja vuorovaikutus, kirjatentti, Pori](course) start
 - When do I have [Kielen opettaminen / Fremdsprachenlehren](course)
 - When do we have [Nuorisotyön harjoittelu](course)
 - The start date of [Inklusiivinen pedagogiikka ja oppimisen tukeminen](course)
@@ -1151,7 +1151,7 @@
 - [JOVPVS5](course) starting date
 - [VENS3](course) begins
 - Tell me the start date of [TIEA5](course)
-- What day will [RANA7(course) start
+- What day will [RANA7](course) start
 - When do I have [TAYJ041](course)
 - When do we have [JOVP5](course)
 - The start date of [KKRUKK](course)
@@ -1186,7 +1186,7 @@
 - [JOVPVS5](course) starting date
 - [VENS3](course) begins
 - Tell me the start date of [FILAPRO](course)
-- What day will [PSYS12(course) start
+- What day will [PSYS12](course) start
 - When do I have [KASLOE7.1](course)
 - When do we have [RANA1](course)
 - The start date of [KASLOM10](course)
@@ -1221,7 +1221,7 @@
 - [JOVPVS5](course) starting date
 - [VENS3](course) begins
 - Tell me the start date of [JOVA6/JMMETUS](course)
-- What day will [DPIS2(course) start
+- What day will [DPIS2](course) start
 - When do I have [JOVP1](course)
 - When do we have [MEDU10](course)
 - The start date of [KASLOE1.1](course)
@@ -1256,7 +1256,7 @@
 - [JOVPVS5](course) starting date
 - [VENS3](course) begins
 - Tell me the start date of [HEAAE03](course)
-- What day will [TRMU1(course) start
+- What day will [TRMU1](course) start
 - When do I have [KASSM2](course)
 - When do we have [ENGS13/15-16](course)
 - The start date of [KKSUSC](course)
@@ -1291,7 +1291,7 @@
 - [JOVPVS5](course) starting date
 - [VENS3](course) begins
 - Tell me the start date of [KASVAR10](course)
-- What day will [JOVAT2(course) start
+- What day will [JOVAT2](course) start
 - When do I have [KKRA2](course)
 - When do we have [JOVPVS12](course)
 - The start date of [KASP5](course)
@@ -1326,7 +1326,7 @@
 - [JOVPVS5](course) starting date
 - [VENS3](course) begins
 - Tell me the start date of [KKSU7](course)
-- What day will [KASLOM11(course) start
+- What day will [KASLOM11](course) start
 - When do I have [SUOV1](course)
 - When do we have [KATVAA11](course)
 - The start date of [KATYVS22](course)
@@ -1361,7 +1361,7 @@
 - [JOVPVS5](course) starting date
 - [VENS3](course) begins
 - Tell me the start date of [SOS6.1.1](course)
-- What day will [KKIN5(course) start
+- What day will [KKIN5](course) start
 - When do I have [ENGP2](course)
 - When do we have [KKSUOPE](course)
 - The start date of [KKKI4](course)
@@ -1396,7 +1396,7 @@
 - [JOVPVS5](course) starting date
 - [VENS3](course) begins
 - Tell me the start date of [KASA12](course)
-- What day will [KATLAP21(course) start
+- What day will [KATLAP21](course) start
 - When do I have [HALYAA14](course)
 - When do we have [TAYJ027](course)
 - The start date of [KASLOM8](course)
@@ -1431,7 +1431,7 @@
 - [JOVPVS5](course) starting date
 - [VENS3](course) begins
 - Tell me the start date of [VENA5](course)
-- What day will [ITIS61(course) start
+- What day will [ITIS61](course) start
 - When do I have [KATMAA16](course)
 - When do we have [KASLOE7.2](course)
 - The start date of [SOS1](course)
@@ -1466,7 +1466,7 @@
 - [JOVPVS5](course) starting date
 - [VENS3](course) begins
 - Tell me the start date of [DPEDUB.1A](course)
-- What day will [POLVOA41/S28(course) start
+- What day will [POLVOA41/S28](course) start
 - When do I have [KASA13](course)
 - When do we have [POLKVA43](course)
 - The start date of [HIST04](course)
@@ -1501,7 +1501,7 @@
 - [JOVPVS5](course) starting date
 - [VENS3](course) begins
 - Tell me the start date of [POHP2](course)
-- What day will [TERHOIA2(course) start
+- What day will [TERHOIA2](course) start
 - When do I have [STYA3A2](course)
 - When do we have [JOVA18](course)
 - The start date of [VENP2](course)
@@ -1536,7 +1536,7 @@
 - [JOVPVS5](course) starting date
 - [VENS3](course) begins
 - Tell me the start date of [KKVE5](course)
-- What day will [SOS4.1(course) start
+- What day will [SOS4.1](course) start
 - When do I have [ENGA1](course)
 - When do we have [JOVAT1](course)
 - The start date of [STYP1A](course)
@@ -1571,7 +1571,7 @@
 - [JOVPVS5](course) starting date
 - [VENS3](course) begins
 - Tell me the start date of [PSYA9](course)
-- What day will [KATYVA36(course) start
+- What day will [KATYVA36](course) start
 - When do I have [POHS1](course)
 - When do we have [HALJUA99](course)
 - The start date of [KASELOHA](course)
@@ -1641,7 +1641,7 @@
 - [JOVPVS5](course) starting date
 - [VENS3](course) begins
 - Tell me the start date of [KASVAR8](course)
-- What day will [KASA13(course) start
+- What day will [KASA13](course) start
 - When do I have [POLPOP01](course)
 - When do we have [JOVY2](course)
 - The start date of [DPJKKKS](course)
@@ -1676,7 +1676,7 @@
 - [JOVPVS5](course) starting date
 - [VENS3](course) begins
 - Tell me the start date of [NORDIG3](course)
-- What day will [MTTMP4(course) start
+- What day will [MTTMP4](course) start
 - When do I have [POLKVA11](course)
 - When do we have [MTTTA13](course)
 - The start date of [KIRA5](course)
@@ -1711,7 +1711,7 @@
 - [JOVPVS5](course) starting date
 - [VENS3](course) begins
 - Tell me the start date of [TRMU1](course)
-- What day will [JOVA14(course) start
+- What day will [JOVA14](course) start
 - When do I have [TIETA19](course)
 - When do we have [KASLOE7.1](course)
 - The start date of [ITIS61](course)
@@ -1746,7 +1746,7 @@
 - [JOVPVS5](course) starting date
 - [VENS3](course) begins
 - Tell me the start date of [BTK1061](course)
-- What day will [DPLA01(course) start
+- What day will [DPLA01](course) start
 - When do I have [POLVOS40](course)
 - When do we have [KASLOE7.2](course)
 - The start date of [KASPUHS7](course)
@@ -1781,7 +1781,7 @@
 - [JOVPVS5](course) starting date
 - [VENS3](course) begins
 - Tell me the start date of [SOSM5.1](course)
-- What day will [TIETS14(course) start
+- What day will [TIETS14](course) start
 - When do I have [HISA2](course)
 - When do we have [RANP1](course)
 - The start date of [POLVOA22](course)
@@ -1816,7 +1816,7 @@
 - [JOVPVS5](course) starting date
 - [VENS3](course) begins
 - Tell me the start date of [TERA3](course)
-- What day will [DPCMTJ2/JMMETUS(course) start
+- What day will [DPCMTJ2/JMMETUS](course) start
 - When do I have [POLKVA43](course)
 - When do we have [POLVOA41/S23/28](course)
 - The start date of [ENGP8](course)
@@ -1851,7 +1851,7 @@
 - [JOVPVS5](course) starting date
 - [VENS3](course) begins
 - Tell me the start date of [MTTMA2](course)
-- What day will [LFCS99(course) start
+- What day will [LFCS99](course) start
 - When do I have [DPHSM304](course)
 - When do we have [MVKS17/13S](course)
 - The start date of [JOVP5](course)
@@ -1886,7 +1886,7 @@
 - [JOVPVS5](course) starting date
 - [VENS3](course) begins
 - Tell me the start date of [ENGS46](course)
-- What day will [VENP4(course) start
+- What day will [VENP4](course) start
 - When do I have [BTK2223](course)
 - When do we have [KATVRA15](course)
 - The start date of [HALHAA13](course)
@@ -1921,7 +1921,7 @@
 - [JOVPVS5](course) starting date
 - [VENS3](course) begins
 - Tell me the start date of [TERHOI2](course)
-- What day will [YKT6.6.4(course) start
+- What day will [YKT6.6.4](course) start
 - When do I have [HALKAP01](course)
 - When do we have [HISA1B](course)
 - The start date of [BTK4311](course)
@@ -1956,7 +1956,7 @@
 - [JOVPVS5](course) starting date
 - [VENS3](course) begins
 - Tell me the start date of [MOLI](course)
-- What day will [HTIS54(course) start
+- What day will [HTIS54](course) start
 - When do I have [KKENKTMO](course)
 - When do we have [JKKYINA15](course)
 - The start date of [LTLY16](course)
@@ -1991,7 +1991,7 @@
 - [JOVPVS5](course) starting date
 - [VENS3](course) begins
 - Tell me the start date of [MTTS1](course)
-- What day will [TIEY4(course) start
+- What day will [TIEY4](course) start
 - When do I have [KATJOS99](course)
 - When do we have [BIOMJ016](course)
 - The start date of [POLPOP04](course)
@@ -2026,7 +2026,7 @@
 - [JOVPVS5](course) starting date
 - [VENS3](course) begins
 - Tell me the start date of [KKRUHY](course)
-- What day will [TERY4(course) start
+- What day will [TERY4](course) start
 - When do I have [SOSM1](course)
 - When do we have [KKVE4](course)
 - The start date of [STYS2B](course)
@@ -2061,7 +2061,7 @@
 - [JOVPVS5](course) starting date
 - [VENS3](course) begins
 - Tell me the start date of [KATLITO8](course)
-- What day will [DPHSR403(course) start
+- What day will [DPHSR403](course) start
 - When do I have [HALJUA14](course)
 - When do we have [POLKVA22](course)
 - The start date of [KATTAA13A](course)
@@ -2096,7 +2096,7 @@
 - [JOVPVS5](course) starting date
 - [VENS3](course) begins
 - Tell me the start date of [KKSAVAL3](course)
-- What day will [KKRA2(course) start
+- What day will [KKRA2](course) start
 - When do I have [KATVRA12](course)
 - When do we have [KASMULTI2C](course)
 - The start date of [PSYP4](course)
@@ -2131,7 +2131,7 @@
 - [JOVPVS5](course) starting date
 - [VENS3](course) begins
 - Tell me the start date of [MTTMA11](course)
-- What day will [KASA3(course) start
+- What day will [KASA3](course) start
 - When do I have [BIO4230](course)
 - When do we have [KASLOM3](course)
 - The start date of [KATTAS22B](course)
@@ -2166,7 +2166,7 @@
 - [JOVPVS5](course) starting date
 - [VENS3](course) begins
 - Tell me the start date of [JOVP5](course)
-- What day will [PSYS2(course) start
+- What day will [PSYS2](course) start
 - When do I have [KATJOA99](course)
 - When do we have [KKSUKTK](course)
 - The start date of [KASLOH3](course)
@@ -2187,7 +2187,7 @@
 - How many student credits [Sosiaalisen median yhteisöt: menetelmällisiä ratkaisuja määrällisestä laadulliseen](course)
 - How many student points [Tyylioppi](course)
 - How many student credits from [Ympäristön ja alueiden poliittisuus](course)
-- How many student points from [Ydinaseet ja kansainvälinen politiikka(course)
+- How many student points from [Ydinaseet ja kansainvälinen politiikka](course)
 - How many ECTS from [Kognitiivinen neurotiede I (avoin yliopisto)](course)
 - How many student credits is [Finnish Education System - Seminar](course)
 - How many points is [Sosiaaliturvan ajankohtaisia kysymyksiä](course)
@@ -2289,7 +2289,7 @@
 - How many student credits [Statistical Inference 1](course)
 - How many student points [Re-Thinking Value Creation](course)
 - How many student credits from [Yhteiskuntatutkimuksen tutkinto-ohjelman esittely](course)
-- How many student points from [Terveyden edistämisen perusteet(course)
+- How many student points from [Terveyden edistämisen perusteet](course)
 - How many ECTS from [Diskurssianalyysi](course)
 - How many student credits is [Perintö-, lahja- ja varainsiirtoverotus](course)
 - How many points is [Kandidaatintutkielmaseminaari - Seminaari](course)
@@ -2357,7 +2357,7 @@
 - How many student credits [Visuaalisen journalismin perusteet, luennot](course)
 - How many student points [Tutkimusseminaari ja pro gradu -tutkielma](course)
 - How many student credits from [Mediakasvatus, osallisuus ja aktiivinen kansalaisuus, kirjatentti, Seinäjoki](course)
-- How many student points from [Lasten arki suomalaisessa yhteiskunnassa / Luennot - 1.vsk(course)
+- How many student points from [Lasten arki suomalaisessa yhteiskunnassa / Luennot - 1.vsk](course)
 - How many ECTS from [Laatu, arviointi ja kehittäminen korkeakouluissa - Harjoitustyö](course)
 - How many student credits is [WWW Programming](course)
 - How many points is [Kandidaattiseminaari (JATKAVA, Vuolanto)](course)
@@ -2459,7 +2459,7 @@
 - How many student credits [Introduction to R](course)
 - How many student points [Yhteisöllinen oppiminen ja ohjaus - Seminaari](course)
 - How many student credits from [Kirjallinen ja suullinen viestintä III/Pis'mennaja i razgovornaja praktika](course)
-- How many student points from [Tieteellinen kirjoittaminen(course)
+- How many student points from [Tieteellinen kirjoittaminen](course)
 - How many ECTS from [Conflict Resolution (book exam/essay)](course)
 - How many student credits is [Visuaalisen journalismin perusteet, luennot](course)
 - How many points is [Everything You Wanted to Know about Political Parties - But Never Dared to Ask (POMLFCS1)](course)
@@ -2493,7 +2493,7 @@
 - How many student credits [Moniammatillinen -klinikkaopetus](course)
 - How many student points [Media and the Arctic (POMLFCS3)](course)
 - How many student credits from [Genes and Genomes](course)
-- How many student points from [Kandidaatintutkielmaseminaari - Seminaari(course)
+- How many student points from [Kandidaatintutkielmaseminaari - Seminaari](course)
 - How many ECTS from [Usean muuttujan differentiaalilaskenta](course)
 - How many student credits is [Tietokäytännöt (syksyllä 2018 perusopinnot aloittaville) - verkkokurssi](course)
 - How many points is [Kirjallisuuden- ja kulttuurintutkimuksen teoriat](course)
@@ -2595,7 +2595,7 @@
 - How many student credits [Sosiaalityön harjoittelu + kehittämistyön harjoittelu - STYS2B2 Harjoitteluseminaari](course)
 - How many student points [Kulttuuripsykologian perusteet](course)
 - How many student credits from [Tieteellinen kirjoittaminen / SOC (historia & filosofia)](course)
-- How many student points from [Julkisyhteisöjen kirjanpito ja tilinpäätös(course)
+- How many student points from [Julkisyhteisöjen kirjanpito ja tilinpäätös](course)
 - How many ECTS from [Networks in Service Business](course)
 - How many student credits is [Case study: Examining leadership challenges](course)
 - How many points is [Studies of expansive learning: Foundations, findings and challenges](course)
@@ -2629,7 +2629,7 @@
 - How many student credits [Sanastotyö](course)
 - How many student points [Seminaari](course)
 - How many student credits from [Luottamustehtävissä toimiminen - Luottamustehtäväraportti](course)
-- How many student points from [Individual project course(course)
+- How many student points from [Individual project course](course)
 - How many ECTS from [Kognitiivinen neurotiede II](course)
 - How many student credits is [Children, young people, politics and participation](course)
 - How many points is [Rahoituksen jatkokurssi](course)
@@ -2637,7 +2637,7 @@
 - How many ECTS is [Kielen kehitys / Luennot- 2.vsk + 1.vsk ryhmät 6 ja 7](course)
 - How many student credits is [Johdatus länsimaiseen kirjallisuushistoriaan - harjoitukset](course)
 - How many student points is [Dialogue: Constructive Talk at Work](course)
-- Student points [Draama - 2.vsk ja   opinnot 1½ lukuvuodessa suorittavat 1.vsk ja POM-opintoihin opinto-oikeuden saaneet opiskelijat( luennot)](course)
+- Student points [Draama - 2.vsk ja   opinnot 1½ lukuvuodessa suorittavat 1.vsk ja POM-opintoihin opinto-oikeuden saaneet opiskelijat]( luennot)](course)
 - Student credits [Johdatus hallintotieteeseen (avoin yliopisto-opetus), monimuoto-opetus](course)
 - ECTS [Case study: Examining leadership challenges](course)
 - [Nuorisotyön ja nuorisotutkimuksen maisteriohjelman lähijakso 29.-30.8.2018](course) ECTS
@@ -2663,7 +2663,7 @@
 - How many student credits [Tieteellinen kirjoittaminen / SOC (historia & filosofia)](course)
 - How many student points [Strategisen markkinoinnin caset](course)
 - How many student credits from [Julkisen hallinnon reformit ja muutos](course)
-- How many student points from [Software Project Management, Theory(course)
+- How many student points from [Software Project Management, Theory](course)
 - How many ECTS from [Digitaalinen historia](course)
 - How many student credits is [Academic Presentations](course)
 - How many points is [Kirjallinen viestintä I - Sanasto- ja rakenneharjoitukset](course)
@@ -2731,7 +2731,7 @@
 - How many student credits [Tietojärjestelmän suunnittelun perusteet - Näyttökoe, syksy 2018](course)
 - How many student points [Arviointimenetelmät](course)
 - How many student credits from [Civil Society and Political Participation (book exam/essay)](course)
-- How many student points from [Laajentava harjoittelu(course)
+- How many student points from [Laajentava harjoittelu](course)
 - How many ECTS from [Erot, jaot ja niiden rakentuminen - Luennot ja lukupiiri (klk) TAI kirjatentti (slk ja klk)](course)
 - How many student credits is [Johdon laskentatoimen jatkokurssi](course)
 - How many points is [Responsible Business and Social Accounting (Lectures)](course)
@@ -2765,7 +2765,7 @@
 - How many student credits [Tekninen kirjoittaminen (englanti)](course)
 - How many student points [Tieteellinen kirjoittaminen](course)
 - How many student credits from [Seminaari](course)
-- How many student points from [Terve ja turvallinen kouluyhteisö(course)
+- How many student points from [Terve ja turvallinen kouluyhteisö](course)
 - How many ECTS from [Kvalitatiivinen tutkimus kasvatustieteissä - Verkkokurssi, yhteisopetus avoimen yo:n ja tutkinto-opiskelijoille](course)
 - How many student credits is [Eriytyvä syventävä tutkimusmenetelmäkurssi A: Etnografia](course)
 - How many points is [Tietojärjestelmän suunnittelun perusteet](course)
@@ -2799,7 +2799,7 @@
 - How many student credits [Environmental History and Cultural Ecology of Russia (VENS20)](course)
 - How many student points [Valinnainen jakso: Radioprojekti (kevät)](course)
 - How many student credits from [Hallintotieteen teoriat ja käsitteet](course)
-- How many student points from [Nykyajan filosofia(course)
+- How many student points from [Nykyajan filosofia](course)
 - How many ECTS from [Media and Globalization - Lectures + essay](course)
 - How many student credits is [Rahoituksen perusteet](course)
 - How many points is [International Political Economy](course)
@@ -2833,7 +2833,7 @@
 - How many student credits [Kandidaatintutkielma](course)
 - How many student points [Genes and Genomes](course)
 - How many student credits from [Business, Society and Nature (Independent study) Autumn 2018](course)
-- How many student points from [Learning difficulties and the challenges in schooling in multicultural settings: critical reflections on the role of teachers(course)
+- How many student points from [Learning difficulties and the challenges in schooling in multicultural settings: critical reflections on the role of teachers](course)
 - How many ECTS from [Sukupuoli, perhe ja yhteiskunta](course)
 - How many student credits is [Pääoma-lukuseminaari](course)
 - How many points is [Vuorovaikutuksen perusteet](course)
@@ -2867,7 +2867,7 @@
 - How many student credits [Terveystieteiden tilastolliset tutkimusmenetelmät](course)
 - How many student points [Latinalaisen Amerikan historia ja kirjallisuus - Historia y literatura de Latinoamérica](course)
 - How many student credits from [Saksan kielen valmentava kurssi - Interkulturelles Training](course)
-- How many student points from [Soveltava projekti - projekti(course)
+- How many student points from [Soveltava projekti - projekti](course)
 - How many ECTS from [Kuva-  ja mediakulttuurit - Mediakulttuurit- I vsk ja  erillisen opinto-oikeuden POM-opintoihin saaneet opiskelijat (luennot)](course)
 - How many student credits is [Research on Society and Organisations](course)
 - How many points is [Innovation Project (2018-II)](course)
@@ -2969,7 +2969,7 @@
 - How many student credits [Eheyttävä musiikkikasvatus / Harjoitukset - 2.vsk](course)
 - How many student points [Foundations of Games and Internet Research](course)
 - How many student credits from [Näkökulmia kääntämiseen - Kääntäminen viestinnällisenä asiantuntijatehtävänä / Perspektiven auf Übersetzen](course)
-- How many student points from [Yhteiskunnan tutkimuksen ajankohtaisia kysymyksiä - Luennot(course)
+- How many student points from [Yhteiskunnan tutkimuksen ajankohtaisia kysymyksiä - Luennot](course)
 - How many ECTS from [Seminaari](course)
 - How many student credits is [Seminaari II](course)
 - How many points is [Pratiques de l'écrit: méthodes et techniques d'expression écrite/Kirjoitusharjoituksia: kirjallisen esityksen metodit ja tekniikka](course)
@@ -3003,7 +3003,7 @@
 - How many student credits [Finnish Survival Course](course)
 - How many student points [Saksa III](course)
 - How many student credits from [Political Institutions and Processes (book exam/essay)](course)
-- How many student points from [Julkisten palvelujen johtaminen(course)
+- How many student points from [Julkisten palvelujen johtaminen](course)
 - How many ECTS from [Tutkimusasetelman menetelmällinen rakentuminen tohtoriopinnoissa - Dialogipajat](course)
 - How many student credits is [Yritysjuridiikan perusteet](course)
 - How many points is [WWW Programming](course)
@@ -3037,7 +3037,7 @@
 - How many student credits [Seminar, Bachelor's Thesis and Maturity Test - Seminar](course)
 - How many student points [Introduction to Bayesian Analysis 1](course)
 - How many student credits from [Asiantuntijan puheviestintä ja vuorovaikutus (2. periodi)](course)
-- How many student points from [Lastenkirjallisuus ja draama / Luennot - 3.vsk + 1.vsk ryhmät 6 ja 7(course)
+- How many student points from [Lastenkirjallisuus ja draama / Luennot - 3.vsk + 1.vsk ryhmät 6 ja 7](course)
 - How many ECTS from [Populaarikulttuuri ja -kirjallisuus](course)
 - How many student credits is [Eheyttävä musiikkikasvatus / Luennot - 2.vsk](course)
 - How many points is [Kirjasto- ja tietopalvelujen suunnittelu ja arviointi (keväällä 2018 opintokokonaisuuden aloittaneille)](course)
@@ -3105,7 +3105,7 @@
 - How many student credits [Verkkopalvelujen informaatioarkkitehtuuri](course)
 - How many student points [Fonetiikan tutkimusmenetelmät - Transkriptioharjoitukset](course)
 - How many student credits from [Tekstin tekemisen perusteet](course)
-- How many student points from [Translating and Editing for Publication(course)
+- How many student points from [Translating and Editing for Publication](course)
 - How many ECTS from [Tutkielmaseminaari (kevätlukukaudelta 2018 jatkavat seminaarit)](course)
 - How many student credits is [Biokemian työt: Proteiinit](course)
 - How many points is [Translation II Finnish-English](course)
@@ -3173,7 +3173,7 @@
 - How many student credits [Valtio-opin johdantokurssi](course)
 - How many student points [Ranska II](course)
 - How many student credits from [Mediatutkimuksen valinn. jakso: Työseminaari: Euroopan hullu vuosi 1968 ja sen perintö](course)
-- How many student points from [Usability Evaluation Methods(course)
+- How many student points from [Usability Evaluation Methods](course)
 - How many ECTS from [Communication Skills in English - Academic Writing II](course)
 - How many student credits is [Foundations of Games and Internet Research](course)
 - How many points is [Käsityömuotoilu - projekti/käytännön työ ja protfolio](course)
@@ -3207,7 +3207,7 @@
 - How many student credits [TIEP3](course)
 - How many student points [JOVTKS3](course)
 - How many student credits from [ENGP5](course)
-- How many student points from [POLKVA43(course)
+- How many student points from [POLKVA43](course)
 - How many ECTS from [BTK4090](course)
 - How many student credits is [KATVAA14](course)
 - How many points is [KKENVAL7](course)
@@ -3241,7 +3241,7 @@
 - How many student credits [SAKS3](course)
 - How many student points [TERKAN2](course)
 - How many student credits from [TEE9](course)
-- How many student points from [KASA12(course)
+- How many student points from [KASA12](course)
 - How many ECTS from [JOUJOVTS](course)
 - How many student credits is [POLVOS10](course)
 - How many points is [KASLOE8.1](course)
@@ -3275,7 +3275,7 @@
 - How many student credits [JOVA1](course)
 - How many student points [SUKKP5A](course)
 - How many student credits from [ITIS31](course)
-- How many student points from [TERA6(course)
+- How many student points from [TERA6](course)
 - How many ECTS from [TIEP3](course)
 - How many student credits is [JOVP3](course)
 - How many points is [TAYJ035](course)
@@ -3309,7 +3309,7 @@
 - How many student credits [LTLY210](course)
 - How many student points [PSYS10](course)
 - How many student credits from [JOVA15](course)
-- How many student points from [KATRAS11(course)
+- How many student points from [KATRAS11](course)
 - How many ECTS from [KKRULUK](course)
 - How many student credits is [KKRULUK](course)
 - How many points is [JOUJOVTS](course)
@@ -3343,7 +3343,7 @@
 - How many student credits [KKSAVAL3](course)
 - How many student points [BTK4701](course)
 - How many student credits from [HISP2](course)
-- How many student points from [LUOYY023(course)
+- How many student points from [LUOYY023](course)
 - How many ECTS from [KATJOA14](course)
 - How many student credits is [KASVAR7](course)
 - How many points is [KKENYHT](course)
@@ -3377,7 +3377,7 @@
 - How many student credits [HISA2](course)
 - How many student points [SOS6.1.3](course)
 - How many student credits from [LTLY16](course)
-- How many student points from [ENGA11(course)
+- How many student points from [ENGA11](course)
 - How many ECTS from [TIETS21](course)
 - How many student credits is [FILS1](course)
 - How many points is [ITIA7](course)
@@ -3411,7 +3411,7 @@
 - How many student credits [JOVA13](course)
 - How many student points [SAKS2](course)
 - How many student credits from [MTTY4](course)
-- How many student points from [ITIA03(course)
+- How many student points from [ITIA03](course)
 - How many ECTS from [TERY4](course)
 - How many student credits is [LOGA5](course)
 - How many points is [SOS10.1.4](course)
@@ -3445,7 +3445,7 @@
 - How many student credits [BIO4380](course)
 - How many student points [PEDA3](course)
 - How many student credits from [POHP6](course)
-- How many student points from [LOGS4(course)
+- How many student points from [LOGS4](course)
 - How many ECTS from [KATTAS40](course)
 - How many student credits is [TERHOI4](course)
 - How many points is [MVKS48/58](course)
@@ -3479,7 +3479,7 @@
 - How many student credits [KASLOE6.2](course)
 - How many student points [BTK2040](course)
 - How many student credits from [SOS6.4.1](course)
-- How many student points from [HIST03(course)
+- How many student points from [HIST03](course)
 - How many ECTS from [FILS1E](course)
 - How many student credits is [KKSU5](course)
 - How many points is [KASP4](course)
@@ -3513,7 +3513,7 @@
 - How many student credits [SUOK2/A6](course)
 - How many student points [ITIA03](course)
 - How many student credits from [KKSUPRO](course)
-- How many student points from [POLKVA21(course)
+- How many student points from [POLKVA21](course)
 - How many ECTS from [MTTMY1](course)
 - How many student credits is [HALHAP01](course)
 - How many points is [TAYJ11](course)
@@ -3547,7 +3547,7 @@
 - How many student credits [HALKOS22](course)
 - How many student points [KKSAVAL2](course)
 - How many student credits from [DPHSF501](course)
-- How many student points from [KKES5(course)
+- How many student points from [KKES5](course)
 - How many ECTS from [LUOYY020](course)
 - How many student credits is [KATLITO5](course)
 - How many points is [FONEP1](course)
@@ -3615,7 +3615,7 @@
 - How many student credits [KASVAR2](course)
 - How many student points [TAYJ035](course)
 - How many student credits from [KASA13](course)
-- How many student points from [POHP4(course)
+- How many student points from [POHP4](course)
 - How many ECTS from [HALYAA15](course)
 - How many student credits is [LATAP4](course)
 - How many points is [KATVAA11](course)
@@ -3649,7 +3649,7 @@
 - How many student credits [ITIP5](course)
 - How many student points [HALJUA22](course)
 - How many student credits from [TAYJ031](course)
-- How many student points from [BTK1053(course)
+- How many student points from [BTK1053](course)
 - How many ECTS from [KASVAR12](course)
 - How many student credits is [JOVA11](course)
 - How many points is [DPHSS205](course)
@@ -3683,7 +3683,7 @@
 - How many student credits [KIRP1](course)
 - How many student points [KASLOH4B](course)
 - How many student credits from [POLVOS28](course)
-- How many student points from [HISP3(course)
+- How many student points from [HISP3](course)
 - How many ECTS from [TAYJ034](course)
 - How many student credits is [JOVPVS8](course)
 - How many points is [POLVOS21](course)
@@ -3717,7 +3717,7 @@
 - How many student credits [RANP3](course)
 - How many student points [DPHSR401](course)
 - How many student credits from [KASP1-2, KASP5](course)
-- How many student points from [KASP4(course)
+- How many student points from [KASP4](course)
 - How many ECTS from [POLKVA23](course)
 - How many student credits is [POLVOA42](course)
 - How many points is [TIEP4](course)
@@ -3751,7 +3751,7 @@
 - How many student credits [KASVAR11](course)
 - How many student points [HALYAS14](course)
 - How many student credits from [FONEP2](course)
-- How many student points from [KATVRP11(course)
+- How many student points from [KATVRP11](course)
 - How many ECTS from [KATRAS11](course)
 - How many student credits is [BIO2085](course)
 - How many points is [KKRA3](course)
@@ -3785,7 +3785,7 @@
 - How many student credits [SOS6.3.1](course)
 - How many student points [TERY4](course)
 - How many student credits from [TERA1](course)
-- How many student points from [BTK1031(course)
+- How many student points from [BTK1031](course)
 - How many ECTS from [TERHOIA2](course)
 - How many student credits is [BTK4663](course)
 - How many points is [POLVOS40](course)
@@ -3819,7 +3819,7 @@
 - How many student credits [SUOA8](course)
 - How many student points [TAYJ035](course)
 - How many student credits from [KATYVS23](course)
-- How many student points from [KKENKTMO(course)
+- How many student points from [KKENKTMO](course)
 - How many ECTS from [TERA6](course)
 - How many student credits is [KASLOK1](course)
 - How many points is [SOS4.4](course)
@@ -3853,7 +3853,7 @@
 - How many student credits [HIST03](course)
 - How many student points [KKENVAL9](course)
 - How many student credits from [POLVOS34](course)
-- How many student points from [DPHSO101(course)
+- How many student points from [DPHSO101](course)
 - How many ECTS from [JOVA17](course)
 - How many student credits is [KASLOE1.1](course)
 - How many points is [TERA2](course)
@@ -3887,7 +3887,7 @@
 - How many student credits [KIRA3C2](course)
 - How many student points [TERHOIA6](course)
 - How many student credits from [KKSU5](course)
-- How many student points from [KASA3(course)
+- How many student points from [KASA3](course)
 - How many ECTS from [TAYJ034](course)
 - How many student credits is [SOSM2](course)
 - How many points is [TERHOIA7](course)
@@ -3921,7 +3921,7 @@
 - How many student credits [JOVA8](course)
 - How many student points [ENGP1](course)
 - How many student credits from [HISA2](course)
-- How many student points from [HALKOS25(course)
+- How many student points from [HALKOS25](course)
 - How many ECTS from [HALKOS27](course)
 - How many student credits is [KASLOM1](course)
 - How many points is [VENA7](course)
@@ -3955,7 +3955,7 @@
 - How many student credits [SOS4.5](course)
 - How many student points [KATYVA52](course)
 - How many student credits from [ENGA6](course)
-- How many student points from [KASVART2(course)
+- How many student points from [KASVART2](course)
 - How many ECTS from [JKKYINA11](course)
 - How many student credits is [FILAK](course)
 - How many points is [HALHAA15](course)
@@ -3989,7 +3989,7 @@
 - How many student credits [JOVY3](course)
 - How many student points [KASVAR11](course)
 - How many student credits from [SUOP1](course)
-- How many student points from [TIETS43(course)
+- How many student points from [TIETS43](course)
 - How many ECTS from [KATLAS17](course)
 - How many student credits is [ENGA8](course)
 - How many points is [POLKVA12](course)
@@ -4023,7 +4023,7 @@
 - How many student credits [TERY5B](course)
 - How many student points [LFCS01](course)
 - How many student credits from [KKRUKTMO](course)
-- How many student points from [TAYJ042(course)
+- How many student points from [TAYJ042](course)
 - How many ECTS from [MTTTA7](course)
 - How many student credits is [POLVOA31](course)
 - How many points is [JOVTS5](course)
@@ -4057,7 +4057,7 @@
 - How many student credits [HISA4](course)
 - How many student points [YKT6.6.3](course)
 - How many student credits from [KASVAR7](course)
-- How many student points from [SAKP0(course)
+- How many student points from [SAKP0](course)
 - How many ECTS from [TECHS3](course)
 - How many student credits is [KKSU1](course)
 - How many points is [SOSKV1](course)
@@ -4091,7 +4091,7 @@
 - How many student credits [KATMAS99](course)
 - How many student points [PEDA2](course)
 - How many student credits from [KASMULTI2B](course)
-- How many student points from [KKSUHUK(course)
+- How many student points from [KKSUHUK](course)
 - How many ECTS from [VIROP2](course)
 - How many student credits is [HISA4](course)
 - How many points is [KKSAVAL4](course)
@@ -4125,7 +4125,7 @@
 - How many student credits [PGHMTS](course)
 - How many student points [JKKYINA11](course)
 - How many student credits from [KATYVA23](course)
-- How many student points from [LTLY16(course)
+- How many student points from [LTLY16](course)
 - How many ECTS from [KASLOE8.1](course)
 - How many student credits is [KATMAS13](course)
 - How many points is [SOSKV3](course)
@@ -4159,7 +4159,7 @@
 - How many student credits [TSEKP3](course)
 - How many student points [JKKYLT01](course)
 - How many student credits from [JOUJOVTS](course)
-- How many student points from [ITIA01(course)
+- How many student points from [ITIA01](course)
 - How many ECTS from [DPJKKHS](course)
 - How many student credits is [KATLAA11](course)
 - How many points is [TAYJ032](course)
@@ -4193,7 +4193,7 @@
 - How many student credits [BIO4380](course)
 - How many student points [HALJTS08](course)
 - How many student credits from [ENGA10](course)
-- How many student points from [BTK1062(course)
+- How many student points from [BTK1062](course)
 - How many ECTS from [POHA6](course)
 - How many student credits is [TERHOJ4](course)
 - How many points is [LOGS8](course)
@@ -4238,7 +4238,7 @@
 - Which classroom is [Työn uusi järjestys ja aikuiskasvatus - Seminaari](course)
 - What is the classroom for [Asiantuntijan puheviestintä ja vuorovaikutus (1. periodi) / KTM-tutkinto](course)
 - Which room is [Work and Health](course)
-- I'd like to find [Software Project Management, Theory(course)
+- I'd like to find [Software Project Management, Theory](course)
 - Where can I find [Yrityksen taloustieteellisen tutkimuksen perusteet](course)
 - [Analyysi B](course) place
 - [Lineaarialgebra 1B](course) where
@@ -4267,7 +4267,7 @@
 - Which classroom is [Kandidaatintutkielma](course)
 - What is the classroom for [Tuutorivastaavana toimiminen](course)
 - Which room is [Asiantuntijan puheviestintä ja vuorovaikutus / AHOT (näyttökoe)](course)
-- I'd like to find [Keskiajan symboliikkaa -verkkokurssi(course)
+- I'd like to find [Keskiajan symboliikkaa -verkkokurssi](course)
 - Where can I find [Terveydenhuollon koulutuspolitiikka](course)
 - [Johdon laskentatoimen teoria -](course) place
 - [Tieteellinen kommunikaatio ja bibliometriikka](course) where
@@ -4296,7 +4296,7 @@
 - Which classroom is [Syntyvyys, hoiva, sukupolvi](course)
 - What is the classroom for [Structure of English I - Grammar I](course)
 - Which room is [Kirjallisuuden- ja kulttuurintutkimuksen teoriat](course)
-- I'd like to find [Global politics of gender(course)
+- I'd like to find [Global politics of gender](course)
 - Where can I find [Tiede ja teknologia yhteiskunnassa](course)
 - [Sarjakuva ja kuvakirja kääntäjän kädessä / Suomentamisseminaari](course) place
 - [Ranska I](course) where
@@ -4325,7 +4325,7 @@
 - Which classroom is [Romanian kielen jatkokurssi II / Advanced Course 2 in Romanian -](course)
 - What is the classroom for [New Wars and How to Study Them (POMLFCS3)](course)
 - Which room is [Yliopistopedagogiikan perusteet](course)
-- I'd like to find [Tutkijaseminaari(course)
+- I'd like to find [Tutkijaseminaari](course)
 - Where can I find [Poliittiset järjestelmät (kirjatentti/essee)](course)
 - [Tissue biology](course) place
 - [International Society (book exam/essay)](course) where
@@ -4354,7 +4354,7 @@
 - Which classroom is [Tutkimustyön perusteet - c) Tutkimusmenetelmien erityiskysymyksiä](course)
 - What is the classroom for [Kandidaatintutkielma](course)
 - Which room is [Kaikille avoin tutkijaseminaari](course)
-- I'd like to find [Ulko- ja turvallisuuspoliittinen päätöksentekoharjoitus(course)
+- I'd like to find [Ulko- ja turvallisuuspoliittinen päätöksentekoharjoitus](course)
 - Where can I find [Vanhempien aikojen tutkijaseminaari](course)
 - [Visuaalisen journalismin perusteet, luennot](course) place
 - [Luovat aineistot ja analyysimenetelmät (intensiivikurssi)](course) where
@@ -4383,7 +4383,7 @@
 - Which classroom is [Johtaminen ja organisaatiot II](course)
 - What is the classroom for [Professional Writing (online course)](course)
 - Which room is [Tilastollisen tutkimuksen perusteet](course)
-- I'd like to find [Tekniikan käännösviestinnän seminaari englanti-suomi(course)
+- I'd like to find [Tekniikan käännösviestinnän seminaari englanti-suomi](course)
 - Where can I find [Kielioppi I / Grammatik I](course)
 - [Normit ja asiakirjoittaminen - Kääntäjän kielen- ja tekstinhuolto](course) place
 - [Yksilön työhyvinvointi (itsenäinen suoritustapa)](course) where
@@ -4412,7 +4412,7 @@
 - Which classroom is [Introduction to Web Publishing - Autumn 2018](course)
 - What is the classroom for [Tieteellinen kirjoittaminen / LUO & COMS](course)
 - Which room is [Laaja-alaistava harjoittelu - Ohjattu opetusharjoittelu](course)
-- I'd like to find [KV-tuutorina toimiminen(course)
+- I'd like to find [KV-tuutorina toimiminen](course)
 - Where can I find [Dramaturgia: Musikaalin dramaturgia](course)
 - [Taidehistoria ja näyttelypedagogiikka -](course) place
 - [Orientation - Orientation to studying in the Degree Programme](course) where
@@ -4441,7 +4441,7 @@
 - Which classroom is [International Trade and Finance (Tampere Summer School) - luennot ja tentti](course)
 - What is the classroom for [Bioinformatics tools (autumn 2018)](course)
 - Which room is [Tiedonhankinnan perusteet](course)
-- I'd like to find [Työ ja äitiys tänään(course)
+- I'd like to find [Työ ja äitiys tänään](course)
 - Where can I find [Julkisoikeuden perusteet (järjestäjä TAMK)](course)
 - [Johdatus hoitotieteelliseen tutkimukseen, kirjatentti, Seinäjoki](course) place
 - [Radio Project](course) where
@@ -4470,7 +4470,7 @@
 - Which classroom is [Valinnainen jakso: Toimitustyön johtaminen/ JOVVJS1 Visuaalisen työn johtaminen](course)
 - What is the classroom for [Kandidaattiseminaari (Nenonen)](course)
 - Which room is [Kandidaattiseminaari ja tutkielma (yritysjuridiikka ja vero-oikeus)](course)
-- I'd like to find [Linguistics II: Meaning and Discourse(course)
+- I'd like to find [Linguistics II: Meaning and Discourse](course)
 - Where can I find [Normit ja asiakirjoittaminen - Kääntäjän kielen- ja tekstinhuolto](course)
 - [Kirjallinen viestintä II/Skriftlig kommunikation II](course) place
 - [Informaatio- ja mediajärjestelmien historiaa ja nykypäivää](course) where
@@ -4499,7 +4499,7 @@
 - Which classroom is [Orientation - Introduction to Academic Culture and Degree Studies](course)
 - What is the classroom for [Vieraan kielen taito, perustaso](course)
 - Which room is [Tutkimusprosessin hallinta - Läsnäoloon perustuva oppimispäiväkirja](course)
-- I'd like to find [Semantiikka ja pragmatiikka / Sémantique et pragmatique(course)
+- I'd like to find [Semantiikka ja pragmatiikka / Sémantique et pragmatique](course)
 - Where can I find [Dialogue: Constructive Talk at Work](course)
 - [New Forms of Violence, Change in Security Paradigm (book exam/essay)](course) place
 - [Lähisuhdeväkivalta ja sen ammatillinen kohtaaminen - Sosnet verkkokurssi](course) where
@@ -4528,7 +4528,7 @@
 - Which classroom is [Behavioral Finance](course)
 - What is the classroom for [Eriytyvä syventävä tutkimusmenetelmäkurssi B: Metodologinen essee](course)
 - Which room is [Neurocomputing](course)
-- I'd like to find [Biotechnical product development(course)
+- I'd like to find [Biotechnical product development](course)
 - Where can I find [Tutkimustyötä tukevat tohtoriopinnot (tilastotiede)](course)
 - [Asiantuntijan puheviestintä ja vuorovaikutus opetus- ja kasvatustyössä (3. periodi)](course) place
 - [Hydrogel Journal Club](course) where
@@ -4557,7 +4557,7 @@
 - Which classroom is [Orientation - General Orientation Course for International Students](course)
 - What is the classroom for [Sosiaalipsykologia](course)
 - Which room is [Transcultural perspectives in developing media education](course)
-- I'd like to find [Matemaattiset aineet - Koulugeometria - 2 vsk(course)
+- I'd like to find [Matemaattiset aineet - Koulugeometria - 2 vsk](course)
 - Where can I find [Business Writing](course)
 - [Tutkielmapiiri](course) place
 - [Social Constructionism](course) where
@@ -4586,7 +4586,7 @@
 - Which classroom is [Lähtötasokoe](course)
 - What is the classroom for [Introduction to Academic English (diverse learners)](course)
 - Which room is [Puheviestintä tieteenä](course)
-- I'd like to find [Julkisen talousjohtamisen näkökulmia(course)
+- I'd like to find [Julkisen talousjohtamisen näkökulmia](course)
 - Where can I find [Graduseminaari, alkava (Niemi)](course)
 - [Principles of Usability, User Experience and User Interfaces](course) place
 - [Semantiikan harjoituskurssi](course) where
@@ -4673,7 +4673,7 @@
 - Which classroom is [Makrotalousteoria II](course)
 - What is the classroom for [Valinnainen jakso: Johdatus tiedeviestintään](course)
 - Which room is [Tutkimusprosessin hallinta - Läsnäoloon perustuva oppimispäiväkirja](course)
-- I'd like to find [Julkisten palvelujen johtaminen(course)
+- I'd like to find [Julkisten palvelujen johtaminen](course)
 - Where can I find [Kiina I](course)
 - [Johdatus tieteenfilosofiaan](course) place
 - [Retoriikka ja argumentaatioanalyysi/Retorik och argumentationsanalys](course) where
@@ -4702,7 +4702,7 @@
 - Which classroom is [Johdon laskentatoimen perusteet](course)
 - What is the classroom for [Teksti, keskustelu ja vuorovaikutus](course)
 - Which room is [Yhdyskuntakehittämisen ajankohtaisia kysymyksiä](course)
-- I'd like to find [Making sense of globalization - Theorizing beyond the nation-state - Lectures + essay(course)
+- I'd like to find [Making sense of globalization - Theorizing beyond the nation-state - Lectures + essay](course)
 - Where can I find [Mediatutkimuksen valinn. jakso: Työseminaari: Euroopan hullu vuosi 1968 ja sen perintö](course)
 - [Yksilö, yhteiskunta ja kulttuuri - Monikulttuurisuus koulussa - 2. vsk](course) place
 - [Environmental History and Cultural Ecology of Russia (VENS20)](course) where
@@ -4731,7 +4731,7 @@
 - Which classroom is [Feministinen teoria ja metodologia](course)
 - What is the classroom for [Venäjä III](course)
 - Which room is [Pratiques de l'oral et de l'écrit / Ranskan kielen tuottaminen](course)
-- I'd like to find [Learning from Multiple Sources(course)
+- I'd like to find [Learning from Multiple Sources](course)
 - Where can I find [Tutkijan puheviestintä](course)
 - [Cost-Benefit and Cost-Effectiveness Analysis for Social Planning](course) place
 - [Tieteellinen kirjoittaminen](course) where
@@ -4760,7 +4760,7 @@
 - Which classroom is [Yhteiskunnan tutkimuksen ajankohtaisia kysymyksiä - Luennot](course)
 - What is the classroom for [Toiminta, tulkinta ja tieto (verkkokurssi)](course)
 - Which room is [Cost-Benefit and Cost-Effectiveness Analysis for Social Planning](course)
-- I'd like to find [Modernisoituva yhteiskunta(course)
+- I'd like to find [Modernisoituva yhteiskunta](course)
 - Where can I find [Struggles on Education](course)
 - [Opetus, ohjaus, oppiminen, verkko-opetus](course) place
 - [Implementation and Evaluation of Public Policies](course) where
@@ -4789,7 +4789,7 @@
 - Which classroom is [Yhteiskunnan mittaaminen (verkkokurssi)](course)
 - What is the classroom for [Opetus, ohjaus, oppiminen, monimuoto-opeus](course)
 - Which room is [EU ja Länsi-Balkan: ehdollistettua demokratiaa ja valtionrakennusta](course)
-- I'd like to find [Median ja politiikan välinen suhde(course)
+- I'd like to find [Median ja politiikan välinen suhde](course)
 - Where can I find [Latinankielinen kirjallisuus I: klassinen latina](course)
 - [Sota-ajan säännösteltyä kulttuuria](course) place
 - [Ruotsin kielen kirjallinen ja suullinen viestintä](course) where
@@ -4847,7 +4847,7 @@
 - Which classroom is [Behavioraalinen ja psykologinen taloustiede](course)
 - What is the classroom for [Asioimistulkkaus venäjä-suomi-venäjä](course)
 - Which room is [Kansanterveystieteen käsitteitä ja teoreettisia kysymyksiä](course)
-- I'd like to find [Yhtiöoikeuden syventävä opintojakso(course)
+- I'd like to find [Yhtiöoikeuden syventävä opintojakso](course)
 - Where can I find [Rahoituksen perusteet](course)
 - [Muu valinnainen kurssi](course) place
 - [Tulkin oikeustieto I](course) where
@@ -4876,7 +4876,7 @@
 - Which classroom is [Usean muuttujan differentiaalilaskenta](course)
 - What is the classroom for [Applied and Effective Project Management, Leadership and Communication - (Tampere Summer School)](course)
 - Which room is [Introduction to Academic English / RPL (näyttökoe)](course)
-- I'd like to find [Introduction to Corporate Social Responsibility(course)
+- I'd like to find [Introduction to Corporate Social Responsibility](course)
 - Where can I find [Study Skills - Basics of Information Literacy](course)
 - [Saksa IV](course) place
 - [Kaupunkien maankäytön pelikenttä](course) where
@@ -4934,7 +4934,7 @@
 - Which classroom is [Kasvatus, tieto ja teoria - Luennot](course)
 - What is the classroom for [Julkiset rahoitusjärjestelmät](course)
 - Which room is [Päätöksenteko lastensuojelussa](course)
-- I'd like to find [Kvalitatiivinen tutkimus kasvatustieteissä - Verkkokurssi, yhteisopetus avoimen yo:n ja tutkinto-opiskelijoille(course)
+- I'd like to find [Kvalitatiivinen tutkimus kasvatustieteissä - Verkkokurssi, yhteisopetus avoimen yo:n ja tutkinto-opiskelijoille](course)
 - Where can I find [Kvalitatiivinen tutkimus kasvatustieteissä - Harjoitukset, yleinen ryhmä](course)
 - [Writing for Research](course) place
 - [Pedagoginen harjoittelu / Varhaiskasvatus](course) where
@@ -4963,7 +4963,7 @@
 - Which classroom is [Simultaanitulkkaus I venäjä-suomi-venäjä](course)
 - What is the classroom for [Rasismi ja antirasismi](course)
 - Which room is [Translators' Cultural Competencies](course)
-- I'd like to find [Johdatus sosiaaliantropologiaan -seminaari(course)
+- I'd like to find [Johdatus sosiaaliantropologiaan -seminaari](course)
 - Where can I find [Biokemian menetelmät](course)
 - [Ekonometrian jatkokurssi](course) place
 - [Asiantuntijan puheviestintä ja vuorovaikutus, 1.-2. periodi / VIESTINTÄROHKEUDEN RYHMÄ](course) where
@@ -4992,7 +4992,7 @@
 - Which classroom is [Kandidaatintutkielmaseminaari - Seminaari](course)
 - What is the classroom for [Internet ja vuorovaikutteinen media](course)
 - Which room is [Kontrastiivisen fonetiikan perusteet -](course)
-- I'd like to find [Second Language Acquisition(course)
+- I'd like to find [Second Language Acquisition](course)
 - Where can I find [Yritysverotuksen syventävä opintojakso](course)
 - [Kuntien ja alueiden kansainväliset hallintasuhteet](course) place
 - [Vertaisohjaus tietojenkäsittelytieteissä](course) where
@@ -5004,7 +5004,7 @@
 - I'm trying to find [Topical Issues in Governance, Management and Administration](course)
 - I want to know the location of [Opetus, ohjaus, oppiminen, monimuoto-opetus](course)
 - I want to know where [Hallintotieteen teoriat ja käsitteet](course) is
-- I want to know the classroom for [Kohti matematiikan opettajuutta 1(TTY)](course)
+- I want to know the classroom for [Kohti matematiikan opettajuutta 1](TTY)](course)
 - I want to know how to find [Visuaalisen kulttuurin teoria - luennot ja pienryhmätyöskentely](course)
 - Where is [Rahoitusekonometria](course)
 - Where is course [Journalismin perusteet, harjoitukset](course)
@@ -5050,7 +5050,7 @@
 - Which classroom is [Päätöksenteko lastensuojelussa](course)
 - What is the classroom for [Luentateatteri](course)
 - Which room is [KEB-61430 Laaja kemia 3](course)
-- I'd like to find [Eduskuntavaalikurssi 2019 ja valinnainen tutkimusprojekti(course)
+- I'd like to find [Eduskuntavaalikurssi 2019 ja valinnainen tutkimusprojekti](course)
 - Where can I find [Tutkimusseminaari ja pro gradu -tutkielma](course)
 - [SPSS:n perusteet, kevät](course) place
 - [Kasvatustieteen metodologiset lähtökohdat, kirjatentti, Pori](course) where
@@ -5079,7 +5079,7 @@
 - Which classroom is [Master's Thesis Seminar / Internet and Game Studies](course)
 - What is the classroom for [Kirjallisuus ja kulttuuri/Litteratur och kultur](course)
 - Which room is [Kasvatus tieteellisen tutkimuksen kohteena - verkko-opetus, I-periodi](course)
-- I'd like to find [Johdatus tietojenkäsittelytieteisiin(course)
+- I'd like to find [Johdatus tietojenkäsittelytieteisiin](course)
 - Where can I find [Pro gradu -seminaari ja -tutkielma (alkaa kevät 2019)](course)
 - [Tieteellinen kirjoittaminen / SOC (logopedia)](course) place
 - [SOS6.2.3 Työelämän vuorovaikutus](course) where
@@ -5108,7 +5108,7 @@
 - Which classroom is [KATYVA36](course)
 - What is the classroom for [JOUJOVTS/JMMETU](course)
 - Which room is [KKRUPRE2](course)
-- I'd like to find [JOVA6/JMMETUS(course)
+- I'd like to find [JOVA6/JMMETUS](course)
 - Where can I find [STYA7](course)
 - [KKVE4](course) place
 - [BTK2051](course) where
@@ -5137,7 +5137,7 @@
 - Which classroom is [STYA3B1](course)
 - What is the classroom for [SUOT1](course)
 - Which room is [KASA6](course)
-- I'd like to find [PGHAS06(course)
+- I'd like to find [PGHAS06](course)
 - Where can I find [DPHSF503](course)
 - [PEACE045](course) place
 - [YKT09.4](course) where
@@ -5166,7 +5166,7 @@
 - Which classroom is [KATLAS23](course)
 - What is the classroom for [JOVPVS5](course)
 - Which room is [FILJATKO](course)
-- I'd like to find [VENA11(course)
+- I'd like to find [VENA11](course)
 - Where can I find [POLKVA23](course)
 - [BIOMJ016](course) place
 - [PGHMTS](course) where
@@ -5195,7 +5195,7 @@
 - Which classroom is [COSOPON4](course)
 - What is the classroom for [POLKVA11](course)
 - Which room is [TAYJ035](course)
-- I'd like to find [TERY4(course)
+- I'd like to find [TERY4](course)
 - Where can I find [KKSULL](course)
 - [SAKS1](course) place
 - [KATPAL11](course) where
@@ -5224,7 +5224,7 @@
 - Which classroom is [MVKS17V](course)
 - What is the classroom for [KASA2](course)
 - Which room is [KKSUHY](course)
-- I'd like to find [SOS04.4(course)
+- I'd like to find [SOS04.4](course)
 - Where can I find [COSOPON5](course)
 - [STYS3A](course) place
 - [KASVARH](course) where
@@ -5253,7 +5253,7 @@
 - Which classroom is [TERTIETO2](course)
 - What is the classroom for [VENT1](course)
 - Which room is [TERKAN14](course)
-- I'd like to find [HISP1(course)
+- I'd like to find [HISP1](course)
 - Where can I find [GTS1](course)
 - [TIETS19](course) place
 - [HALJTS06](course) where
@@ -5282,7 +5282,7 @@
 - Which classroom is [KASA8](course)
 - What is the classroom for [BIO2085](course)
 - Which room is [KKSA1](course)
-- I'd like to find [POLKVA42(course)
+- I'd like to find [POLKVA42](course)
 - Where can I find [ITIY003](course)
 - [ESPFA2](course) place
 - [HALJUA64](course) where
@@ -5311,7 +5311,7 @@
 - Which classroom is [SAKA6](course)
 - What is the classroom for [KASLOM11](course)
 - Which room is [RUST2/VENS13](course)
-- I'd like to find [HALJUA19(course)
+- I'd like to find [HALJUA19](course)
 - Where can I find [YKT6.4.3](course)
 - [YKYYV07](course) place
 - [POLKVA42](course) where
@@ -5340,7 +5340,7 @@
 - Which classroom is [IGS006](course)
 - What is the classroom for [TERY4](course)
 - Which room is [MVKS36/31](course)
-- I'd like to find [KATVRS44(course)
+- I'd like to find [KATVRS44](course)
 - Where can I find [SUOK2/A6](course)
 - [FONEP2](course) place
 - [KATJOS11](course) where
@@ -5369,7 +5369,7 @@
 - Which classroom is [ITIS61](course)
 - What is the classroom for [ITIS24](course)
 - Which room is [ENGS3](course)
-- I'd like to find [MOLI(course)
+- I'd like to find [MOLI](course)
 - Where can I find [KASVAR6](course)
 - [KKSU5](course) place
 - [VENA1](course) where
@@ -5398,7 +5398,7 @@
 - Which classroom is [HALYAP01](course)
 - What is the classroom for [POLPOP01](course)
 - Which room is [PCP10/NAM IV](course)
-- I'd like to find [KKENVAL8(course)
+- I'd like to find [KKENVAL8](course)
 - Where can I find [PSYA5](course)
 - [YKT04.2](course) place
 - [SOP03.6](course) where
@@ -5427,7 +5427,7 @@
 - Which classroom is [RUST1/RUST3](course)
 - What is the classroom for [KASSY3](course)
 - Which room is [BTK1062](course)
-- I'd like to find [KASMAT2(course)
+- I'd like to find [KASMAT2](course)
 - Where can I find [ENGS40](course)
 - [KKENKTM](course) place
 - [KASMULTI2B](course) where
@@ -5456,7 +5456,7 @@
 - Which classroom is [JOUJOVTS](course)
 - What is the classroom for [SOS4.3](course)
 - Which room is [PSYP5](course)
-- I'd like to find [KATRAA12(course)
+- I'd like to find [KATRAA12](course)
 - Where can I find [TAYJ027](course)
 - [KASSM2](course) place
 - [POHP4](course) where
@@ -5485,7 +5485,7 @@
 - Which classroom is [MTTMS1](course)
 - What is the classroom for [KASA2](course)
 - Which room is [TERTIETO1](course)
-- I'd like to find [TRMU5(course)
+- I'd like to find [TRMU5](course)
 - Where can I find [ENGS22-24](course)
 - [KASP2](course) place
 - [KKENVAL9](course) where
@@ -5514,7 +5514,7 @@
 - Which classroom is [JOVA2](course)
 - What is the classroom for [KASVART3](course)
 - Which room is [SAKA1](course)
-- I'd like to find [KATLAS15(course)
+- I'd like to find [KATLAS15](course)
 - Where can I find [SOS9](course)
 - [KASA11](course) place
 - [STYVA](course) where
@@ -5543,7 +5543,7 @@
 - Which classroom is [TERA6](course)
 - What is the classroom for [TRMU2](course)
 - Which room is [HALHAA13](course)
-- I'd like to find [SOS04.4(course)
+- I'd like to find [SOS04.4](course)
 - Where can I find [JOUJOVTS](course)
 - [MOLI](course) place
 - [KASLOM5](course) where
@@ -5572,7 +5572,7 @@
 - Which classroom is [BIO4722](course)
 - What is the classroom for [PSYA10](course)
 - Which room is [KKSUVAL3](course)
-- I'd like to find [DPJKKPS(course)
+- I'd like to find [DPJKKPS](course)
 - Where can I find [HALJTS01](course)
 - [KATLITO2](course) place
 - [MVKS47](course) where
@@ -5601,7 +5601,7 @@
 - Which classroom is [KASA5](course)
 - What is the classroom for [KASP4](course)
 - Which room is [JOVTS2](course)
-- I'd like to find [HALKAS12(course)
+- I'd like to find [HALKAS12](course)
 - Where can I find [ITIA7](course)
 - [HALJUA44](course) place
 - [ENGA4](course) where
@@ -5630,7 +5630,7 @@
 - Which classroom is [ENGA1](course)
 - What is the classroom for [JOVPVS13](course)
 - Which room is [KASA15](course)
-- I'd like to find [PSYP1(course)
+- I'd like to find [PSYP1](course)
 - Where can I find [KATLAA23](course)
 - [MVKS18E](course) place
 - [JOVA18](course) where
@@ -5659,7 +5659,7 @@
 - Which classroom is [ENGA12](course)
 - What is the classroom for [TERTIETO3](course)
 - Which room is [COSOPC1](course)
-- I'd like to find [BTK4701(course)
+- I'd like to find [BTK4701](course)
 - Where can I find [KASP4](course)
 - [SOS6.2.4](course) place
 - [JOVA4](course) where
@@ -5688,7 +5688,7 @@
 - Which classroom is [DPLASEM](course)
 - What is the classroom for [ENGP1](course)
 - Which room is [ENGA5](course)
-- I'd like to find [BIOMJ016(course)
+- I'd like to find [BIOMJ016](course)
 - Where can I find [HISA4](course)
 - [DPEDUE](course) place
 - [PSYS12](course) where
@@ -5717,7 +5717,7 @@
 - Which classroom is [LTLY16](course)
 - What is the classroom for [KATLAS11](course)
 - Which room is [PEDA5](course)
-- I'd like to find [KASLOM3(course)
+- I'd like to find [KASLOM3](course)
 - Where can I find [KKSUHUK](course)
 - [SAKA11](course) place
 - [KKSU8](course) where
@@ -5746,7 +5746,7 @@
 - Which classroom is [ITIP5](course)
 - What is the classroom for [TAYJ042](course)
 - Which room is [POLKVA42](course)
-- I'd like to find [KATTAS31(course)
+- I'd like to find [KATTAS31](course)
 - Where can I find [DPHSR404](course)
 - [YKIEP4](course) place
 - [DPHSS204](course) where
@@ -5775,7 +5775,7 @@
 - Which classroom is [PEDA2](course)
 - What is the classroom for [HISA4](course)
 - Which room is [KASLOM8](course)
-- I'd like to find [KASA3(course)
+- I'd like to find [KASA3](course)
 - Where can I find [KASA11](course)
 - [DPLA01](course) place
 - [KASMULTI4](course) where
@@ -5804,7 +5804,7 @@
 - Which classroom is [RANP0](course)
 - What is the classroom for [KATVAA14](course)
 - Which room is [LATAP4](course)
-- I'd like to find [MTTTP4(course)
+- I'd like to find [MTTTP4](course)
 - Where can I find [BTK4320](course)
 - [KASP1-2, KASP5](course) place
 - [HALKAS13](course) where
@@ -5833,7 +5833,7 @@
 - Which classroom is [ESPFP3](course)
 - What is the classroom for [PEACE045](course)
 - Which room is [BTK0001](course)
-- I'd like to find [BTK3125(course)
+- I'd like to find [BTK3125](course)
 - Where can I find [TERHOIA1](course)
 - [KKKI1](course) place
 - [TIEY2](course) where
@@ -5862,7 +5862,7 @@
 - Which classroom is [POLKAA99](course)
 - What is the classroom for [HALJUS11](course)
 - Which room is [KASVAR2](course)
-- I'd like to find [PGHES01(course)
+- I'd like to find [PGHES01](course)
 - Where can I find [POLVOA52](course)
 - [HISA4](course) place
 - [ITIS14](course) where
@@ -5891,7 +5891,7 @@
 - Which classroom is [SAKA4](course)
 - What is the classroom for [TAYJ031](course)
 - Which room is [KASP4](course)
-- I'd like to find [SOS08.3(course)
+- I'd like to find [SOS08.3](course)
 - Where can I find [PSYP1](course)
 - [KATTAS22B](course) place
 - [HALJUA42](course) where
@@ -5920,7 +5920,7 @@
 - Which classroom is [KASA5](course)
 - What is the classroom for [KATJOS21](course)
 - Which room is [KASLOE7.1](course)
-- I'd like to find [TAYJ032(course)
+- I'd like to find [TAYJ032](course)
 - Where can I find [YKTM4](course)
 - [TERKAN18](course) place
 - [KASP3](course) where
@@ -6595,7 +6595,7 @@
 - [Fenomenologia](course) teaching times
 - When are [Poliittiset aatteet ja ideologiat](course) teaching times
 - What are [Terveyden ja mielenterveyden psykologia II](course) teaching times
-- When are lectures [Kohti matematiikan opettajuutta 1(TTY)](course)
+- When are lectures [Kohti matematiikan opettajuutta 1](TTY)](course)
 - The schedule for [Kvantitatiivinen tutkimus kasvatustieteissä - Harjoitukset, yleinen ja luokanopettajaopiskelijat](course)
 - What are the teaching times for [Gypsies in Hungary (intensive course)](course)
 - [Basics II: Intermediate Czech II](course) times
@@ -8002,7 +8002,7 @@
 - The language of [Foundations of Ecological Economics](course)
 - Teaching language in [Kielen ja vuorovaikutuksen tutkimuksen teorioita ja sovellutuksia](course)
 - [Matemaattiset aineet - Johdatus lukukäsitteeseen ja toimintamateriaalit - 1. vsk  ja erillisen opinto-oikeuden POM-opintoihin saaneet opiskelijat (harjoitukset)](course) in which language
-- What language do they speak in [Draama - 2.vsk ja   opinnot 1½ lukuvuodessa suorittavat 1.vsk ja POM-opintoihin opinto-oikeuden saaneet opiskelijat( luennot)](course)
+- What language do they speak in [Draama - 2.vsk ja   opinnot 1½ lukuvuodessa suorittavat 1.vsk ja POM-opintoihin opinto-oikeuden saaneet opiskelijat]( luennot)](course)
 - I want to know which language [Business Ethics (Lectures)](course) is used
 - I want to know the language of [Antiikin ja keskiajan ryhmä](course)
 - I want to know what language do they speak in [Statistics](course)
@@ -10304,7 +10304,7 @@
 - When is [Yksilö, yhteiskunta ja kulttuuri - Monikulttuurisuus koulussa - 2. vsk](course) in the curriulum
 - The period of [Global Terrorism: Political Violence in a Global Age](course)
 - Study period of [Terveysteknologia](course)
-- Semester [Draama - 2.vsk ja   opinnot 1½ lukuvuodessa suorittavat 1.vsk ja POM-opintoihin opinto-oikeuden saaneet opiskelijat( luennot)](course)
+- Semester [Draama - 2.vsk ja   opinnot 1½ lukuvuodessa suorittavat 1.vsk ja POM-opintoihin opinto-oikeuden saaneet opiskelijat]( luennot)](course)
 - Which semester will [Kognitiivinen neurotiede II](course) start
 - Which semester is [Kasvatus tieteellisen tutkimuksen kohteena, verkko-opetus, III-periodi](course)
 - Is [Perusharjoittelu B - Ohjattu opetusharjoittelu](course) this semester
@@ -12199,7 +12199,7 @@
 - Lecture exceptions [Erot, jaot ja niiden rakentuminen - Luennot ja lukupiiri (klk) TAI kirjatentti (slk ja klk)](course)
 - Does [Opetus, ohjaus, oppiminen, monimuoto-opeus](course) have exceptions in teaching hours
 - Were there exceptions in lectures [Asiantuntijuuden kehittymiseen orientoiva opintojakso - opintosuuntakohtaiset ryhmät jatkaville maisteriopiskelijoille (KASSY-, KASSO- ja KASSA-opintosuuntien ryhmiä)](course)
-- Teaching times exceptions for [Draama - 2.vsk ja   opinnot 1½ lukuvuodessa suorittavat 1.vsk ja POM-opintoihin opinto-oikeuden saaneet opiskelijat( luennot)](course)
+- Teaching times exceptions for [Draama - 2.vsk ja   opinnot 1½ lukuvuodessa suorittavat 1.vsk ja POM-opintoihin opinto-oikeuden saaneet opiskelijat]( luennot)](course)
 - What were the exceptions of teaching in [Media, Race and Society](course)
 - Does the schedule for [Internet ja vuorovaikutteinen media](course) have any exceptions
 - When were the exceptions for [Eastern European Model: Lithuanian System of Work and Social Security](course)
@@ -12900,7 +12900,7 @@
 - Exceptions in teaching times [Kulttuurien kohtaaminen](course)
 - Are there any exceptions in teaching [Tilastotieteen matriisilaskenta ja laskennalliset menetelmät](course)
 - What exceptions are there in [Työelämävalmiudet ja asiantuntijuus - valmennusseminaari ja palautekeskustelu](course)
-- Lecture exceptions [Kohti matematiikan opettajuutta 1(TTY)](course)
+- Lecture exceptions [Kohti matematiikan opettajuutta 1](TTY)](course)
 - Does [Terveydenhuollon ja terveystutkimuksen etiikka, Seinäjoki](course) have exceptions in teaching hours
 - Were there exceptions in lectures [Lausekielinen ohjelmointi I](course)
 - Teaching times exceptions for [Inklusiivinen varhaiskasvatus / Harjoitukset - 3.vsk](course)
@@ -12955,7 +12955,7 @@
 - I want to know special teaching times for [Tutkijan puheviestintä](course)
 - I want to know does the schedule for [Kuva, sana ja ääni -multimodaalisuuskurssi](course) have any exceptions
 - I want to know Teaching times exceptions for [Johdatus viestintään ja mediaan](course)
-- Exceptions [Draama - 2.vsk ja   opinnot 1½ lukuvuodessa suorittavat 1.vsk ja POM-opintoihin opinto-oikeuden saaneet opiskelijat( luennot)](course)
+- Exceptions [Draama - 2.vsk ja   opinnot 1½ lukuvuodessa suorittavat 1.vsk ja POM-opintoihin opinto-oikeuden saaneet opiskelijat]( luennot)](course)
 - Exception [Maisteriopintojen esittely - CBDA](course)
 - What are the exceptions for [Omaan tieteenalaan ja tutkimusaiheeseen liittyvät opinnot teatteritaiteen tohtorin tutkinnossa](course)
 - [Kandidaattiseminaari ja tutkielma (laskentatoimi) - Kandidaattiseminaari, kevät 2018](course) exceptions
@@ -14046,7 +14046,7 @@
 - True name of [Äidinkieli ja kirjallisuus - Lasten- ja nuortenkirjallisuus - 1. vsk](course)
 - Real name of [Kielitieteen historia ja tutkimussuunnat](course)
 - Which course is [Suomen kulttuuri ja yhteiskunta -lukupiiri](course)
-- What [TECHS3(course) means
+- What [TECHS3](course) means
 - I want to know what [Fonetiikan teoriaa - Fonetiikan jatkokurssi](course) stands for
 - I want to know the full name of course code [Radiojournalismi](course)
 - I want to know the whole name of [Johdatus filosofian historiaan](course)
@@ -14084,7 +14084,7 @@
 - True name of [Kääntäjän ja tulkin työelämätaidot](course)
 - Real name of [Graduseminaari, jatkava (Markkola)](course)
 - Which course is [Writing Research Grant Proposals](course)
-- What [TECHS3(course) means
+- What [TECHS3](course) means
 - I want to know what [Normit ja asiakirjoittaminen - Kääntäjän kielen- ja tekstinhuolto](course) stands for
 - I want to know the full name of course code [Espanja IV](course)
 - I want to know the whole name of [Johdanto tietokäytäntöjen tutkimukseen](course)
@@ -14122,7 +14122,7 @@
 - True name of [Persoonallisuuspsykologia I (avoin yliopisto)](course)
 - Real name of [Orientoivat opinnot - Tiedonhankintataidot I (TIE)](course)
 - Which course is [Nuorisotyön ja nuorisotutkimuksen maisteriohjelman lähijakso 11.-12.4.2019](course)
-- What [TECHS3(course) means
+- What [TECHS3](course) means
 - I want to know what [Kvalitatiivinen tutkimus kasvatustieteissä - Harjoitukset, Ryhmä, yhteinen varhaiskasv. ja luokanop. ryhmä](course) stands for
 - I want to know the full name of course code [Kandidaattiseminaari (Mustakallio)](course)
 - I want to know the whole name of [Molekyylibiologia](course)
@@ -14160,7 +14160,7 @@
 - True name of [Gerontologian tohtorikoulutusseminaari](course)
 - Real name of [Terveystiedon perusteet](course)
 - Which course is [Kansainvälisen politiikan erikoistuvat menetelmäopinnot (kirjatentti/essee)](course)
-- What [TECHS3(course) means
+- What [TECHS3](course) means
 - I want to know what [Ranska I](course) stands for
 - I want to know the full name of course code [Opetus, ohjaus, oppiminen - Luennot (1 op) EDUn opiskelijoille TAI luennot (1 op) ja kirjatentti (4 op) opintojakson valinnaisena suorittaville](course)
 - I want to know the whole name of [Varhaiskasvatuksen pedagogiikka ja opetussuunnitelmatyö / Luennot - 2.vsk + 1.vsk ryhmät 6 ja 7](course)
@@ -14198,7 +14198,7 @@
 - True name of [Terveystieteiden orientoivat tohtoriopinnot](course)
 - Real name of [Lasten arki suomalaisessa yhteiskunnassa / Harjoitukset - 1.vsk](course)
 - Which course is [Kvantitatiivinen tutkimus kasvatustieteissä - Harjoitukset, yhteinen avoimen ja tutkinto-op. ryhmä](course)
-- What [TECHS3(course) means
+- What [TECHS3](course) means
 - I want to know what [Lausekielinen ohjelmointi II](course) stands for
 - I want to know the full name of course code [Tiedonhankintataidot (hoitotiede), Seinäjoki](course)
 - I want to know the whole name of [Applied and Effective Project Management, Leadership and Communication - (Tampere Summer School)](course)
@@ -14236,7 +14236,7 @@
 - True name of [Johtaminen ja organisaatiot I (kirjallisuus)](course)
 - Real name of [Kandidaattiseminaari ja tutkielma (laskentatoimi) - Kandidaattiseminaari, syksy 2018](course)
 - Which course is [Kandidaattitutkielma ja seminaari (matematiikka) - seminaari](course)
-- What [TECHS3(course) means
+- What [TECHS3](course) means
 - I want to know what [Ajankohtaisia kansanterveyskysymyksiä](course) stands for
 - I want to know the full name of course code [Terveydenhuollon ja terveystutkimuksen etiikka](course)
 - I want to know the whole name of [Kandidaattiseminaari ja tutkielma (markkinointi) - syksy 2018](course)
@@ -14274,7 +14274,7 @@
 - True name of [Biological data analysis with R](course)
 - Real name of [Study Skills - Basics of Information Literacy](course)
 - Which course is [Teaching, Pedagogical Facilitating, Learning](course)
-- What [TECHS3(course) means
+- What [TECHS3](course) means
 - I want to know what [Kommunikationstraining II](course) stands for
 - I want to know the full name of course code [Liikuntatuutorina toimiminen - Liikuntatuutoriperehdytys](course)
 - I want to know the whole name of [Tutkielmapiiri](course)
@@ -14312,7 +14312,7 @@
 - True name of [Juridisk svenska (vain KTM:ksi klklla 2019 valmistuville)](course)
 - Real name of [Kandidaatin tutkielma ja seminaari (hoitotiede)](course)
 - Which course is [Simultaanitulkkaus I englanti-suomi-englanti](course)
-- What [TECHS3(course) means
+- What [TECHS3](course) means
 - I want to know what [Liikunnan projekti (5 op)](course) stands for
 - I want to know the full name of course code [Saksan kielen valmentava kurssi - Interkulturelles Training](course)
 - I want to know the whole name of [Kasvatuksen historialliset ja filosofiset lähtökohdat, monimuoto-opetus](course)
@@ -14350,7 +14350,7 @@
 - True name of [Struggles on Education](course)
 - Real name of [Sosiaalityön tutkimuksen metodologisia suunnistuksia](course)
 - Which course is [Erot, jaot ja niiden rakentuminen, kirjatentti](course)
-- What [TECHS3(course) means
+- What [TECHS3](course) means
 - I want to know what [Interview as a means of data generation](course) stands for
 - I want to know the full name of course code [Tiimi toimii - puheviestinnän syventävä kurssi (4. periodi)](course)
 - I want to know the whole name of [Liiketoimintaympäristön taloustiede](course)
@@ -14388,7 +14388,7 @@
 - True name of [Software Engineering](course)
 - Real name of [The Transformation of Global Environmental Politics (Tampere Summer School 2018)](course)
 - Which course is [Tieteellinen kirjoittaminen / COMS (kirjallisuuden opiskelijoille)](course)
-- What [TECHS3(course) means
+- What [TECHS3](course) means
 - I want to know what [Liikekirjanpito ja tilinpäätös (avoin yliopisto-opetus)](course) stands for
 - I want to know the full name of course code [Vanhempien aikojen tutkijaseminaari](course)
 - I want to know the whole name of [Antiikin ja keskiajan ryhmä](course)
@@ -14426,7 +14426,7 @@
 - True name of [Tekoälyn filosofia](course)
 - Real name of [Orientoivat opinnot - Tiedonhankintataidot I (TIE)](course)
 - Which course is [Sanaston tuntemus/Ordkunskap](course)
-- What [TECHS3(course) means
+- What [TECHS3](course) means
 - I want to know what [History, Culture and Literature: Culture and Literature](course) stands for
 - I want to know the full name of course code [Eheyttävä musiikkikasvatus - Soitinrakennus](course)
 - I want to know the whole name of [Viron peruskurssi](course)
@@ -14464,7 +14464,7 @@
 - True name of [Asiakirjatiedon organisointi- ja kuvailumenetelmät](course)
 - Real name of [Urban Inequalities](course)
 - Which course is [Näkökulmia kääntämiseen - Kääntäminen viestinnällisenä asiantuntijatehtävänä / Perspektiven auf Übersetzen](course)
-- What [TECHS3(course) means
+- What [TECHS3](course) means
 - I want to know what [Sosiaalitieteiden kvantitatiiviset tutkimusmenetelmät (verkkokurssi)](course) stands for
 - I want to know the full name of course code [Kielioppi II (venäjänkieliset opiskelijat)](course)
 - I want to know the whole name of [Sustainable business practices (Lectures)](course)
@@ -14502,7 +14502,7 @@
 - True name of [Lukeminen ja kirjoittaminen oppimisen haasteena - (luennot)](course)
 - Real name of [Tutkimusasetelman menetelmällinen rakentuminen tohtoriopinnoissa - Dialogipajat](course)
 - Which course is [Fundamentals of Human-Technology Interaction (Tampere Summer School 2018)](course)
-- What [TECHS3(course) means
+- What [TECHS3](course) means
 - I want to know what [Eriytyvä syventävä tutkimusmenetelmäkurssi A: Design-tutkimus](course) stands for
 - I want to know the full name of course code [Syntaxe du français/ Ranskan syntaksi](course)
 - I want to know the whole name of [A seminar on theoretical social research: Schmitt, Arendt, and The Political](course)
@@ -14540,7 +14540,7 @@
 - True name of [Tieteellinen kirjoittaminen](course)
 - Real name of [Comparative Research in Social Policy](course)
 - Which course is [Varhaiskasvatuksen pedagogiikka ja opetussuunnitelmatyö / Luennot - 2.vsk + 1.vsk ryhmät 6 ja 7](course)
-- What [TECHS3(course) means
+- What [TECHS3](course) means
 - I want to know what [Introduction to Academic English (online / JKK, EDU, LUO, COMS & SOC)](course) stands for
 - I want to know the full name of course code [Dialogue: Constructive Talk at Work](course)
 - I want to know the whole name of [Rahoitusoikeus](course)
@@ -14578,7 +14578,7 @@
 - True name of [Nuorisotyön harjoittelu](course)
 - Real name of [Advanced English Business Communication](course)
 - Which course is [Kulutuksen ja ostokäyttäytymisen teoria](course)
-- What [TECHS3(course) means
+- What [TECHS3](course) means
 - I want to know what [Advanced Project Studies](course) stands for
 - I want to know the full name of course code [Filosofian työpaja](course)
 - I want to know the whole name of [Romanian kielen jatkokurssi I / Advanced Course 1 in Romanian](course)
@@ -14616,7 +14616,7 @@
 - True name of [Kvantitatiivinen tutkimus kasvatustieteissä - Harjoitukset, luokanop.](course)
 - Real name of [SGN-53007 Computational Diagnostics](course)
 - Which course is [Aikuiskasvatus ja työelämä, kirjatentti, Pori](course)
-- What [TECHS3(course) means
+- What [TECHS3](course) means
 - I want to know what [Yhtiöoikeus](course) stands for
 - I want to know the full name of course code [Opetus, ohjaus, oppiminen, verkko-opetus](course)
 - I want to know the whole name of [POISTA TÄMÄ! Solun biokemia ja  molekyylibiologia](course)
@@ -14654,7 +14654,7 @@
 - True name of [Practical Programming in Python](course)
 - Real name of [Human-Centered Product Development (TUT/IHTE)](course)
 - Which course is [Perehdyttäminen tietotekniikan alkeisiin (kevät)](course)
-- What [TECHS3(course) means
+- What [TECHS3](course) means
 - I want to know what [Kvantitatiivinen tutkimus kasvatustieteissä - Harjoitukset, yhteinen avoimen ja tutkinto-op. ryhmä](course) stands for
 - I want to know the full name of course code [Vakuutustoiminnan periaatteet ja johtaminen](course)
 - I want to know the whole name of [Cancer Biology](course)
@@ -14692,7 +14692,7 @@
 - True name of [Biologia ja ympäristötieto - Biologian kenttäkurssi - 2. vsk (1-2. ryhmät Hyytiälä)](course)
 - Real name of [Cultural Diversity in Education and at Work -  (autumn)](course)
 - Which course is [Current and Future Challenges of World Politics and Economy (POMLFCS3)](course)
-- What [TECHS3(course) means
+- What [TECHS3](course) means
 - I want to know what [Kasvatus tieteellisen tutkimuksen kohteena - verkko-opetus, I-periodi](course) stands for
 - I want to know the full name of course code [Erot, jaot ja niiden rakentuminen, kirjatentti, Seinäjoki](course)
 - I want to know the whole name of [Budgeting and capital budgeting (online course)](course)
@@ -14730,7 +14730,7 @@
 - True name of [Introduction to Bayesian Analysis 2](course)
 - Real name of [Yritysjuridiikan case-kurssi](course)
 - Which course is [Valinnainen jakso: Audiovisuaalisen kerronnan teoria ja dramaturgia](course)
-- What [TECHS3(course) means
+- What [TECHS3](course) means
 - I want to know what [Finnish Elementary Course 2 (taught in 4. period)](course) stands for
 - I want to know the full name of course code [Antiikin ja keskiajan ryhmä](course)
 - I want to know the whole name of [Kauppatieteellisen tutkimuksen menetelmät (vakuutus ja riskienhallinta + laskentatoimi)](course)
@@ -14768,7 +14768,7 @@
 - True name of [KEB-61410 Laaja kemia 1](course)
 - Real name of [Kaupungistuva maailma: Kaupungit ja kaupunkilaisuus 1800-luvulta nykypäivään](course)
 - Which course is [Verkkojulkaiseminen](course)
-- What [TECHS3(course) means
+- What [TECHS3](course) means
 - I want to know what [Kuvataide - 2. vsk ja opinnot 1½ lukuvuodessa suorittavat  1.vsk ja POM-opintoihin opinto-oikeuden saaneet opiskelijat](course) stands for
 - I want to know the full name of course code [Politiikan tutkimuksen kandidaatintutkielma ja -seminaari](course)
 - I want to know the whole name of [Terveystiedon perusteet](course)
@@ -14806,7 +14806,7 @@
 - True name of [Shakespeare: Past and Present](course)
 - Real name of [Sosiaalityön vuorovaikutuksen tutkimus - Sosnet-verkkokurssi](course)
 - Which course is [Kasvatuksen historialliset ja filosofiset lähtökohdat - Luennot ja kirjallisuus](course)
-- What [TECHS3(course) means
+- What [TECHS3](course) means
 - I want to know what [Puhe- ja nielemistoimintojen tutkimus ja kuntoutus](course) stands for
 - I want to know the full name of course code [Pedagoginen harjoittelu/Elinikäinen oppiminen ja kasvatus, aikuiskoulutuksen opettajan pedagogiset opinnot - Pedagoginen seminaari ja harjoittelu](course)
 - I want to know the whole name of [Finnish Elementary Course 1 (taught in 1. & 2. period)](course)
@@ -14844,7 +14844,7 @@
 - True name of [Työelämävalmiudet ja asiantuntijuus - valmennusseminaari ja palautekeskustelu](course)
 - Real name of [Tutkimusetiikka](course)
 - Which course is [Advanced Course in Microeconomics I](course)
-- What [TECHS3(course) means
+- What [TECHS3](course) means
 - I want to know what [Biostatistiikka ja tilastollinen tietojenkäsittely](course) stands for
 - I want to know the full name of course code [Seminaari I, kandidaatintutkielma ja kypsyysnäyte / Bachelor-Seminar, Bachelorarbeit und Klausur zum Thema der Arbeit](course)
 - I want to know the whole name of [Kandidaattitutkielma ja seminaari (matematiikka) - LaTeX-opinnot](course)
@@ -14882,7 +14882,7 @@
 - True name of [Media maailmassa - verkkokurssi](course)
 - Real name of [Henkilöstöjohtaminen](course)
 - Which course is [Latinan jatkokurssi](course)
-- What [TECHS3(course) means
+- What [TECHS3](course) means
 - I want to know what [Kuvanprosessointi / Digital Image Processing](course) stands for
 - I want to know the full name of course code [Käännösten suomi](course)
 - I want to know the whole name of [Valinnainen jakso: Valokuva historian tekijänä - työpaja](course)
@@ -14920,7 +14920,7 @@
 - True name of [Työelämäviestinnän tutkimus- tai kehityshanke](course)
 - Real name of [Kielioppi II (suomenkieliset opiskelijat)](course)
 - Which course is [Monikieliset tekstikorpukset (verkkokurssi)](course)
-- What [TECHS3(course) means
+- What [TECHS3](course) means
 - I want to know what [Pro gradu -seminaari ja -tutkielma](course) stands for
 - I want to know the full name of course code [Laajentava harjoittelu](course)
 - I want to know the whole name of [Oikeus ja politiikka](course)
@@ -14958,7 +14958,7 @@
 - True name of [Julkisen hallinnon reformit ja muutos](course)
 - Real name of [Introduction to Education in Finland - Lectures, observation, essay and learning diary](course)
 - Which course is [Orientation Course - General Orientation Course for International Students](course)
-- What [TECHS3(course) means
+- What [TECHS3](course) means
 - I want to know what [Kansainvälinen yhteisö (kirjatentti/essee)](course) stands for
 - I want to know the full name of course code [Kirjallinen viestintä II/Skriftlig kommunikation II](course)
 - I want to know the whole name of [Seminaari (Seppänen)](course)
@@ -14996,7 +14996,7 @@
 - True name of [Aineopintojen valinnainen jakso: Organisaatioviestintä](course)
 - Real name of [Klassinen länsimainen kertomakirjallisuus](course)
 - Which course is [Puheviestinnän tutkimuskurssi](course)
-- What [TECHS3(course) means
+- What [TECHS3](course) means
 - I want to know what [Tutkimustyön perusteet - c) Tutkimusmenetelmien erityiskysymyksiä](course) stands for
 - I want to know the full name of course code [Työoikeuden syventävä opintojakso](course)
 - I want to know the whole name of [Introduction to Academic English (JKK, EDU, LUO, COMS & SOC)](course)
@@ -15034,7 +15034,7 @@
 - True name of [Finnish Survival Course](course)
 - Real name of [Systemaattinen tiedonhaku hoitotieteessä](course)
 - Which course is [Vuorovaikutussuhteiden konsultointi](course)
-- What [TECHS3(course) means
+- What [TECHS3](course) means
 - I want to know what [Yrityksen johtamisen perusteet](course) stands for
 - I want to know the full name of course code [Seminaari (Seppänen)](course)
 - I want to know the whole name of [Harjoittelu / Varhaiskasvatus](course)
@@ -15072,7 +15072,7 @@
 - True name of [Kokeellinen, kokeileva ja kokemuksellinen sosiaalipsykologia](course)
 - Real name of [Practical Observation of Finnish School System for Incoming Exchange Students - Observation, written tasks, report](course)
 - Which course is [Professional Writing (online course)](course)
-- What [TECHS3(course) means
+- What [TECHS3](course) means
 - I want to know what [Media, Information and Democracy](course) stands for
 - I want to know the full name of course code [Johdatus viestintään ja mediaan - verkkokurssi](course)
 - I want to know the whole name of [Kandidaattiseminaari ja -tutkielma (hallintotiede), syksy](course)
@@ -15110,7 +15110,7 @@
 - True name of [Espanja IV](course)
 - Real name of [Seminaari](course)
 - Which course is [Laadulliset tutkimusotteet](course)
-- What [TECHS3(course) means
+- What [TECHS3](course) means
 - I want to know what [Johdon laskentatoimen perusteet (avoin yliopisto-opetus)](course) stands for
 - I want to know the full name of course code [Osallisuudet, oikeudet ja vastuut palvelujärjestelmäkohtaamisissa](course)
 - I want to know the whole name of [Kirjoitusviestintä / COMS](course)
@@ -15148,7 +15148,7 @@
 - True name of [Persoonallisuuspsykologia I (avoin yliopisto)](course)
 - Real name of [Kuvan uudet muodot](course)
 - Which course is [Systems biology methods](course)
-- What [TECHS3(course) means
+- What [TECHS3](course) means
 - I want to know what [Tutkimustyön perusteet (teemalla Verkostot ja somevaikuttaminen Twitterissä)](course) stands for
 - I want to know the full name of course code [Kielioppi II](course)
 - I want to know the whole name of [Global Humanitarianism and its Critics (POMLFCS3)](course)
@@ -15186,7 +15186,7 @@
 - True name of [KIRP1](course)
 - Real name of [ITIP1](course)
 - Which course is [KASORIENT](course)
-- What [TECHS3(course) means
+- What [TECHS3](course) means
 - I want to know what [ENGS7-9](course) stands for
 - I want to know the full name of course code [KASA13](course)
 - I want to know the whole name of [KASSM2](course)
@@ -15224,7 +15224,7 @@
 - True name of [DPEDUB.1A](course)
 - Real name of [MVKS24E](course)
 - Which course is [KASA13](course)
-- What [TECHS3(course) means
+- What [TECHS3](course) means
 - I want to know what [HTIS87](course) stands for
 - I want to know the full name of course code [SOS7.2/STYA4B](course)
 - I want to know the whole name of [KKES1](course)
@@ -15262,7 +15262,7 @@
 - True name of [TIETA18](course)
 - Real name of [KASA11](course)
 - Which course is [JOVAT1](course)
-- What [TECHS3(course) means
+- What [TECHS3](course) means
 - I want to know what [KASA1.3](course) stands for
 - I want to know the full name of course code [KASVAR12](course)
 - I want to know the whole name of [KASP3](course)
@@ -15300,7 +15300,7 @@
 - True name of [ENGS3](course)
 - Real name of [DPMED15](course)
 - Which course is [POLVOS26](course)
-- What [TECHS3(course) means
+- What [TECHS3](course) means
 - I want to know what [TIETS05](course) stands for
 - I want to know the full name of course code [YKIEP4](course)
 - I want to know the whole name of [KIRA3B](course)
@@ -15338,7 +15338,7 @@
 - True name of [KASLOE7.2](course)
 - Real name of [YKYYHT3](course)
 - Which course is [VENS4](course)
-- What [TECHS3(course) means
+- What [TECHS3](course) means
 - I want to know what [TIEA2.1A](course) stands for
 - I want to know the full name of course code [KASLOM6](course)
 - I want to know the whole name of [SOSM5.1](course)
@@ -15376,7 +15376,7 @@
 - True name of [MTTTA1](course)
 - Real name of [PSYA10](course)
 - Which course is [KASLOE6.2](course)
-- What [TECHS3(course) means
+- What [TECHS3](course) means
 - I want to know what [MTTTA14](course) stands for
 - I want to know the full name of course code [STYA5](course)
 - I want to know the whole name of [KIRA3G](course)
@@ -15414,7 +15414,7 @@
 - True name of [ITIA03](course)
 - Real name of [VENT1](course)
 - Which course is [BIO2085](course)
-- What [TECHS3(course) means
+- What [TECHS3](course) means
 - I want to know what [SOS7.2/STYA4B](course) stands for
 - I want to know the full name of course code [KKENYHT](course)
 - I want to know the whole name of [TAYJ033](course)
@@ -15452,7 +15452,7 @@
 - True name of [KASA7](course)
 - Real name of [POLVOA21](course)
 - Which course is [VENT1](course)
-- What [TECHS3(course) means
+- What [TECHS3](course) means
 - I want to know what [KATYVA52](course) stands for
 - I want to know the full name of course code [LUOYA200](course)
 - I want to know the whole name of [ITIP3](course)
@@ -15490,7 +15490,7 @@
 - True name of [TAYJ13](course)
 - Real name of [KATVRA24](course)
 - Which course is [KASVAR9](course)
-- What [TECHS3(course) means
+- What [TECHS3](course) means
 - I want to know what [KASLOM9](course) stands for
 - I want to know the full name of course code [RANA6](course)
 - I want to know the whole name of [KATSTA12](course)
@@ -15528,7 +15528,7 @@
 - True name of [DPHSR404](course)
 - Real name of [HALKAS13](course)
 - Which course is [ENGA10](course)
-- What [TECHS3(course) means
+- What [TECHS3](course) means
 - I want to know what [VENP2](course) stands for
 - I want to know the full name of course code [LUOYY004](course)
 - I want to know the whole name of [POLKVA33](course)
@@ -15566,7 +15566,7 @@
 - True name of [SOS4.4](course)
 - Real name of [KATVAA14](course)
 - Which course is [SUOA8](course)
-- What [TECHS3(course) means
+- What [TECHS3](course) means
 - I want to know what [TIEP1](course) stands for
 - I want to know the full name of course code [KATJOS21](course)
 - I want to know the whole name of [KKRULL](course)
@@ -15604,7 +15604,7 @@
 - True name of [KASP3](course)
 - Real name of [PEACE046](course)
 - Which course is [TERA3](course)
-- What [TECHS3(course) means
+- What [TECHS3](course) means
 - I want to know what [SOS6.3.3](course) stands for
 - I want to know the full name of course code [KKSULUK](course)
 - I want to know the whole name of [KASLOE7.2](course)
@@ -15642,7 +15642,7 @@
 - True name of [JOVP3](course)
 - Real name of [KIRP5](course)
 - Which course is [TRSU05](course)
-- What [TECHS3(course) means
+- What [TECHS3](course) means
 - I want to know what [KKRUYHT](course) stands for
 - I want to know the full name of course code [TAYJ11](course)
 - I want to know the whole name of [KKIN4](course)
@@ -15680,7 +15680,7 @@
 - True name of [MTTTP5](course)
 - Real name of [KASSM2](course)
 - Which course is [TERA1](course)
-- What [TECHS3(course) means
+- What [TECHS3](course) means
 - I want to know what [TERKAN18](course) stands for
 - I want to know the full name of course code [MTTTP5](course)
 - I want to know the whole name of [KATJOP11](course)
@@ -15718,7 +15718,7 @@
 - True name of [ITIP1](course)
 - Real name of [STYA5](course)
 - Which course is [BTK4620](course)
-- What [TECHS3(course) means
+- What [TECHS3](course) means
 - I want to know what [KASSO1](course) stands for
 - I want to know the full name of course code [STYS3B2](course)
 - I want to know the whole name of [RANS2](course)
@@ -15756,7 +15756,7 @@
 - True name of [KASVAR12](course)
 - Real name of [SOS06.1](course)
 - Which course is [HISS1B](course)
-- What [TECHS3(course) means
+- What [TECHS3](course) means
 - I want to know what [ROMAP1](course) stands for
 - I want to know the full name of course code [DPHSFC07](course)
 - I want to know the whole name of [KATLAS13](course)
@@ -15794,7 +15794,7 @@
 - True name of [KASVAR10](course)
 - Real name of [HALYAA14](course)
 - Which course is [TRSU02](course)
-- What [TECHS3(course) means
+- What [TECHS3](course) means
 - I want to know what [LTLY16](course) stands for
 - I want to know the full name of course code [SOSM5.1](course)
 - I want to know the whole name of [KATVRP11](course)
@@ -15832,7 +15832,7 @@
 - True name of [KIRS1](course)
 - Real name of [JOVVAL](course)
 - Which course is [HALHAA16](course)
-- What [TECHS3(course) means
+- What [TECHS3](course) means
 - I want to know what [SAKP6](course) stands for
 - I want to know the full name of course code [TIETS21](course)
 - I want to know the whole name of [POLVOS24](course)
@@ -15870,7 +15870,7 @@
 - True name of [KATTAA40](course)
 - Real name of [ENGS2](course)
 - Which course is [ITIS33](course)
-- What [TECHS3(course) means
+- What [TECHS3](course) means
 - I want to know what [JOVP2](course) stands for
 - I want to know the full name of course code [KASVAR1](course)
 - I want to know the whole name of [PCP10/NAM IV](course)
@@ -15908,7 +15908,7 @@
 - True name of [POLKVA41](course)
 - Real name of [KIRA3G](course)
 - Which course is [KIRS5](course)
-- What [TECHS3(course) means
+- What [TECHS3](course) means
 - I want to know what [ENGA20](course) stands for
 - I want to know the full name of course code [MOLI](course)
 - I want to know the whole name of [SUOA8](course)
@@ -15946,7 +15946,7 @@
 - True name of [ITIS41](course)
 - Real name of [KASA12](course)
 - Which course is [SOS6.1.3](course)
-- What [TECHS3(course) means
+- What [TECHS3](course) means
 - I want to know what [TIETS19](course) stands for
 - I want to know the full name of course code [KATRAS11](course)
 - I want to know the whole name of [FONEA4](course)
@@ -15984,7 +15984,7 @@
 - True name of [KKES1](course)
 - Real name of [TERHOJ3](course)
 - Which course is [MVKS42E](course)
-- What [TECHS3(course) means
+- What [TECHS3](course) means
 - I want to know what [BTK4665](course) stands for
 - I want to know the full name of course code [KATLAS14](course)
 - I want to know the whole name of [KKENVAL4](course)
@@ -16022,7 +16022,7 @@
 - True name of [ITIA11](course)
 - Real name of [KKESVAL4](course)
 - Which course is [SAKA5](course)
-- What [TECHS3(course) means
+- What [TECHS3](course) means
 - I want to know what [TIETS13](course) stands for
 - I want to know the full name of course code [POHA6](course)
 - I want to know the whole name of [TERHOIA2](course)
@@ -16060,7 +16060,7 @@
 - True name of [KATRAA11](course)
 - Real name of [KKENVAL2](course)
 - Which course is [MEJOS15](course)
-- What [TECHS3(course) means
+- What [TECHS3](course) means
 - I want to know what [SOS6.5.1](course) stands for
 - I want to know the full name of course code [KKVE4](course)
 - I want to know the whole name of [LTLY01](course)
@@ -16098,7 +16098,7 @@
 - True name of [TERTIETO3](course)
 - Real name of [STYA3A](course)
 - Which course is [POLKVA33](course)
-- What [TECHS3(course) means
+- What [TECHS3](course) means
 - I want to know what [LTLY01](course) stands for
 - I want to know the full name of course code [POLPOP04](course)
 - I want to know the whole name of [KATJOS32](course)
@@ -16136,7 +16136,7 @@
 - True name of [POLVOS23](course)
 - Real name of [TAYJ12](course)
 - Which course is [SUOP3](course)
-- What [TECHS3(course) means
+- What [TECHS3](course) means
 - I want to know what [TIEP3](course) stands for
 - I want to know the full name of course code [KASORIENT](course)
 - I want to know the whole name of [TIETS46](course)
@@ -16174,7 +16174,7 @@
 - True name of [KATLAA11](course)
 - Real name of [HALYAA12](course)
 - Which course is [TERVAL1](course)
-- What [TECHS3(course) means
+- What [TECHS3](course) means
 - I want to know what [TERVAL4](course) stands for
 - I want to know the full name of course code [SAKA12](course)
 - I want to know the whole name of [ITIA01](course)
@@ -16212,7 +16212,7 @@
 - True name of [BIO4450](course)
 - Real name of [STYS1A](course)
 - Which course is [DPHSR401](course)
-- What [TECHS3(course) means
+- What [TECHS3](course) means
 - I want to know what [TERVAL7](course) stands for
 - I want to know the full name of course code [FONEA4](course)
 - I want to know the whole name of [MTTTP5](course)
@@ -16250,7 +16250,7 @@
 - True name of [POHP5](course)
 - Real name of [MVKS17/13S](course)
 - Which course is [FILA1](course)
-- What [TECHS3(course) means
+- What [TECHS3](course) means
 - I want to know what [TIETA13](course) stands for
 - I want to know the full name of course code [KKSULL](course)
 - I want to know the whole name of [HALJTS08](course)
@@ -16288,7 +16288,7 @@
 - True name of [TECHS4](course)
 - Real name of [POLVOS21](course)
 - Which course is [ENGA6](course)
-- What [TECHS3(course) means
+- What [TECHS3](course) means
 - I want to know what [VENS8](course) stands for
 - I want to know the full name of course code [BIO2200](course)
 - I want to know the whole name of [HALJUA99](course)
