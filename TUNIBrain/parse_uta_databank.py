@@ -34,7 +34,10 @@ class UTAJsonParser:
         pass
 
     def find_course_start_date(self, id):
-        matches = self.search_regular_course_implementation(id=id)
+        if (id is not None):
+            matches = self.search_regular_course_implementation(id=id)
+        else:
+            matches = self.search_regular_course_implementation(name=name)
         ordered_matches = []
         currentDate = datetime.now()
         for i in range(0, len(matches)):
@@ -105,8 +108,11 @@ class UTAJsonParser:
             
         
         
-    def find_course_teachinglanguage(self, id):
-        matches = self.search_regular_course_implementation(id=id)
+    def find_course_teachinglanguage(self, id=None, name=None):
+        if (id is not None):
+            matches = self.search_regular_course_implementation(id=id)
+        else:
+            matches = self.search_regular_course_implementation(name=name)
         ordered_matches = []
         currentDate = datetime.now()
         for i in range(0, len(matches)):
@@ -142,8 +148,11 @@ class UTAJsonParser:
 
         return response
 
-    def find_course_teaching_times(self, id):
-        matches = self.search_regular_course_implementation(id=id)
+    def find_course_teaching_times(self, id=None, name=None):
+        if (id is not None):
+            matches = self.search_regular_course_implementation(id=id)
+        else:
+            matches = self.search_regular_course_implementation(name=name)
         ordered_matches = []
         currentDate = datetime.now()
         for i in range(0, len(matches)):
@@ -203,6 +212,61 @@ class UTAJsonParser:
                                     + alkuminuutit + "-" + time['lopputunnit'] \
                                     + ":" + loppuminuutit + ", in " + time['paikka'] + "\n"
 
+                    i += 1
+            except Exception as e:
+                traceback.print_exc()
+                print("find_course_teaching_times error")
+
+        return response
+        
+    def find_course_deviations(self, id=None, name=None):
+        if (id is not None):
+            matches = self.search_regular_course_implementation(id=id)
+        else:
+            matches = self.search_regular_course_implementation(name=name)
+        ordered_matches = []
+        currentDate = datetime.now()
+        for i in range(0, len(matches)):
+            try:
+                start = dateutil.parser.parse(matches[i]['startDate'])
+                diff = start - currentDate
+                ordered_matches.append((i, math.fabs(diff.total_seconds())))
+            except Exception as e:
+                print(e)
+                print("find_course_teaching_times invalid")
+
+        response = ""
+        if len(matches) > 0:
+            try:
+                i=0
+                for match in sorted(ordered_matches, key=lambda x: x[1]):
+                    if i > 2:
+                        break
+                    course_json = matches[match[0]]
+                    if match[1] < 63113851.0: # 2 years
+                        response += "  Course " + course_json['name'] + ", start date " \
+                            + course_json['startDate'] + ".\n"
+                        #response += "Study groups and schedules: \n"
+                        group_idx = 0
+                        for group in course_json['_opsi_opryhmat']:
+                        
+                            deviations_found = False
+                            for time in group['ajat']:
+                                if time['poikkeusajat']:
+                                    for deviation in time['poikkeusajat']:
+                                        starttime = datetime.utcfromtimestamp(deviation['alkuaika']//1000).strftime('%d-%m-%Y')
+                                        paikka = deviation['paikka']
+                                        alkutunnit = deviation['alkutunnit']
+                                        response += "Exception: " + str(starttime) + " at " + alkutunnit + " in " + paikka + "\n"
+                                        #print(deviation.keys())
+                                        alkuminuutit = deviation['alkuaika']
+                                        #response += "loytyi poikkeus \n"
+                                
+                                    deviations_found = True
+                        
+                        
+                        if deviations_found is False:
+                            response += "No deviations found."
                     i += 1
             except Exception as e:
                 traceback.print_exc()
