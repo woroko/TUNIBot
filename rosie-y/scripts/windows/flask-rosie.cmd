@@ -1,1 +1,1 @@
-python -m programy.clients.restful.flask.client --config ../../config/xnix/config.flask.rest.yaml --cformat yaml --logging ../../config/xnix/logging.yaml
+python -m programy.clients.restful.flask.client --config ../../config/windows/config_flask.yaml --cformat yaml --logging ../../config/windows/logging.yaml
