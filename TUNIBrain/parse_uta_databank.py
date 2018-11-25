@@ -33,7 +33,7 @@ class UTAJsonParser:
     def current_date_sort(date):
         pass
 
-    def find_course_start_date(self, id):
+    def find_course_start_date(self, id=None, name=None):
         if (id is not None):
             matches = self.search_regular_course_implementation(id=id)
         else:

@@ -118,6 +118,26 @@ def parse_rasa_json(receivedThreshold, rasa_json):
                             response = uta
                 else:
                     response = "Are you asking for course schedules?\nYou need to mention a course code to help me search."
+                    
+            if rasa_json['intent']['name'] == 'poikkeusajat':
+                if len(rasa_json["entities"]) > 0:
+                    if rasa_json["entities"][0]["entity"] == "course":
+                        coursecode = rasa_json["entities"][0]['value']
+                        uta = UTA_PARSER.find_course_deviations(coursecode)
+                        if len(uta) > 2:
+                            response = uta
+                else:
+                    response = "Are you asking for course time exceptions?\nYou need to mention a course code to help me search."
+                    
+            if rasa_json['intent']['name'] == 'creditsMin':
+                if len(rasa_json["entities"]) > 0:
+                    if rasa_json["entities"][0]["entity"] == "course":
+                        coursecode = rasa_json["entities"][0]['value']
+                        uta = UTA_PARSER.find_course_credits(coursecode)
+                        if len(uta) > 2:
+                            response = uta
+                else:
+                    response = "Are you asking for course credits?\nYou need to mention a course code to help me search."
 
     except Exception as e:
         print("Error in rasa code:")
@@ -145,7 +165,6 @@ def test():
     rasa_response = requests.post(RASA_ADDRESS, data=rasa_query)
     rasa_json = json.loads(rasa_response.text)
     #print(rasa_json)
-    #print(moi['intent']['confidence'])
     receivedThreshold = rasa_json['intent']['confidence']
     print("rasa conf " + "{0:.2f}".format(receivedThreshold))
     need_cs_response = True
