@@ -1,0 +1,296 @@
+
+## intent:startDate
+- When does [*](course) start
+- When does [*](course) start
+- When does [*](course) start
+- When does [*](course) begin
+- When does [*](course) begin
+- When will [*](course) begin
+- When will [*](course) begin
+- When will [*](course) begin
+- When will [*](course) begin
+- When does [*](course) begin
+- When will [*](course) start
+- When will [*](course) start
+- When will [*](course) start
+- When will [*](course) start
+- When is [*](course)
+- [*](course) when
+- When [*](course)
+- [*](course) start
+- [*](course) start date
+- [*](course) starting date
+- [*](course) begins
+- Tell me the start date of [*](course)
+- What day will [*](course) start
+- When do I have [*](course)
+- When do we have [*](course)
+- The start date of [*](course)
+- Start date for [*](course)
+- Start of [*](course)
+- I want to know when [*](course) starts
+- I want to know when will [*](course) start
+- I want to know the start date of [*](course)
+- I want to know when [*](course) begin
+- Tell me the start date of [*](course)
+- Tell me when [*](course) begins
+- What day will [*](course) start
+
+
+## intent:creditsMin
+- How many points [*](course)
+- How many credits [*](course)
+- How many ECTS [*](course)
+- How many student credits [*](course)
+- How many student points [*](course)
+- How many student credits from [*](course)
+- How many student points from [*](course)
+- How many ECTS from [*](course)
+- How many student credits is [*](course)
+- How many points is [*](course)
+- How many credits is [*](course)
+- How many ECTS is [*](course)
+- How many student credits is [*](course)
+- How many student points is [*](course)
+- Student points [*](course)
+- Student credits [*](course)
+- ECTS [*](course)
+- [*](course) ECTS
+- [*](course) course points
+- [*](course) student points
+- [*](course) points
+- [*](course) amount of points
+- [*](course) credits
+- [*](course) the amount of ECTS
+- How many points [*](course) is
+- How many ECTS [*](course) will be
+- Credits [*](course)
+- How many credits can I get from [*](course)
+- How many ECTS can I get from [*](course)
+- How many student points can I get from [*](course)
+- I want to know how many credits can I get from [*](course)
+- I want to know how many ECTS can I get from [*](course)
+- I want to know how many student points can I get from [*](course)
+- I want to know the amount of student points [*](course)
+
+
+## intent:paikka
+- Where is [*](course)
+- Where is course [*](course)
+- Where is class [*](course)
+- Where is lecture [*](course)
+- Where is the classroom [*](course)
+- Where can I find [*](course)
+- How to get to [*](course)
+- Where [*](course)
+- Location [*](course)
+- Find [*](course)
+- How to find [*](course)
+- How can I find [*](course)
+- Which classroom is [*](course)
+- What is the classroom for [*](course)
+- Which room is [*](course)
+- I'd like to find [*](course)
+- Where can I find [*](course)
+- [*](course) place
+- [*](course) where
+- [*](course) location
+- Locate [*](course)
+- Where is [*](course) located
+- The location of [*](course) class
+- I can't find [*](course)
+- I'm trying to find [*](course)
+- I want to know the location of [*](course)
+- I want to know where [*](course) is
+- I want to know the classroom for [*](course)
+- I want to know how to find [*](course)
+
+
+## intent:opetusajat
+- Schedule [*](course)
+- [*](course) schedule
+- [*](course) weekly schedule
+- [*](course) weekly
+- What is the schedule for [*](course)
+- What is the schedule [*](course)
+- When are classes for [*](course)
+- Classes [*](course)
+- When are classes [*](course)
+- Teaching times [*](course)
+- Teaching hours [*](course)
+- Teaching [*](course)
+- [*](course) teaching
+- Week [*](course)
+- Lectures [*](course)
+- When are lectures [*](course)
+- Hours weekly [*](course)
+- When are the classes [*](course) weekly
+- [*](course) teaching times
+- When are [*](course) teaching times
+- What are [*](course) teaching times
+- When are lectures [*](course)
+- The schedule for [*](course)
+- What are the teaching times for [*](course)
+- [*](course) times
+- [*](course) hours
+- I want to know when [*](course) teaching times are
+- I want to know teaching times of [*](course)
+- I want to know the schedule of [*](course)
+- I want to know when the lectures in course [*](course) are
+
+
+## intent:kieli
+- Teaching language [*](course)
+- Lecture language [*](course)
+- What is the teaching language in [*](course)
+- Teaching language in [*](course)
+- What language is [*](course)
+- Is [*](course) in english
+- Is [*](course) in finnish
+- [*](course) language
+- [*](course) teaching language
+- Is [*](course) taught in english
+- Is [*](course) taught in english
+- Can I pass [*](course) in english
+- Which language is [*](course)
+- What is [*](course) language
+- What is the language of [*](course) is
+- The teaching language of [*](course)
+- What language is used in [*](course)
+- Which language [*](course) is used
+- [*](course) spoken language
+- [*](course) languages
+- What are [*](course) languages
+- The [*](course) language
+- [*](course) teaching languages
+- The language of [*](course)
+- Teaching language in [*](course)
+- [*](course) in which language
+- What language do they speak in [*](course)
+- I want to know which language [*](course) is used
+- I want to know the language of [*](course)
+- I want to know what language do they speak in [*](course)
+- I want to know is [*](course) taught in english
+
+
+## intent:periodi
+- Period [KATTAP11](course)
+- Semester [*](course)
+- Quarter [*](course)
+- Academic term [*](course)
+- [*](course) semester
+- [*](course) academic term
+- [*](course) quarter
+- This semester [*](course)
+- What period [*](course)
+- What study period [*](course)
+- What study period is [*](course) in
+- What period will [*](course) begin
+- [*](course) period
+- Is [*](course) this period
+- Which period is [*](course)
+- Which period will [*](course) begin
+- What period will [*](course) begin
+- [*](course) curriculum
+- When is [*](course) in the curriulum
+- The period of [*](course)
+- Study period of [*](course)
+- Semester [*](course)
+- Which semester will [*](course) start
+- Which semester is [*](course)
+- Is [*](course) this semester
+- What semester is [*](course)
+- Academic term [*](course)
+- Which academic term will [*](course) begin
+- Which academic term is [*](course)
+- [*](course) academic term
+- Which semester will [*](course) begin
+- The period of [*](course)
+- The semester of [*](course)
+- The academic term of [*](course)
+- The quarter of [*](course)
+- Which quarter is [*](course)
+- What is the quarter of [*](course)
+- Which quarter will [*](course) begin
+- I want to know which semester will [*](course) start
+- I want to know which semester is [*](course)
+- I want to know the study period of [*](course)
+- I want to know the academic term for [*](course)
+
+
+## intent:poikkeusajat
+- Exceptions [*](course)
+- Exception [*](course)
+- What are the exceptions for [*](course)
+- [*](course) exceptions
+- [*](course) exception
+- Exceptions in teaching hours [*](course)
+- Exceptions in teaching times [*](course)
+- Are there any exceptions in teaching [*](course)
+- What exceptions are there in [*](course)
+- Lecture exceptions [*](course)
+- Does [*](course) have exceptions in teaching hours
+- Were there exceptions in lectures [*](course)
+- Teaching times exceptions for [*](course)
+- What were the exceptions of teaching in [*](course)
+- Does the schedule for [*](course) have any exceptions
+- When were the exceptions for [*](course)
+- The exceptions in lessons for [*](course)
+- Special teaching times for [*](course)
+- Is there anything special I should know about the course schedule for [*](course)
+- [*](course) special lecture hours
+- Special schedule [*](course)
+- Will there be lectures in holidays in [*](course)
+- Holiday exceptions [*](course)
+- Course break teaching times [*](course)
+- Do we have a lecture during holiday in [*](course)
+- Cancelled lectures [*](course)
+- Will [*](course) lectures be cancelled during holiday
+- Will [*](course) have a lecture every week
+- I want to know the exceptions in lessons for [*](course)
+- I want to know special teaching times for [*](course)
+- I want to know does the schedule for [*](course) have any exceptions
+- I want to know Teaching times exceptions for [*](course)
+
+
+## intent:nimi
+- What is the name of [*](course)
+- [*](course) name
+- [*](course) name is
+- [*](course) name full
+- [*](course) complete name
+- [*](course) name actual
+- [*](course) whole name
+- What is name [*](course)
+- The name of [*](course)
+- Name [*](course)
+- What is the full name of [*](course)
+- What is [*](course) called
+- What is the course code [*](course) called
+- What course is [*](course)
+- [*](course) named
+- What's [*](course) named
+- Name of [*](course)
+- Tell me the name of [*](course)
+- Say the name of [*](course)
+- The whole name of [*](course)
+- [*](course) full name
+- [*](course) entire name
+- [*](course) whole name
+- [*](course) meaning
+- What does [*](course) mean
+- What means [*](course)
+- I want to know what [*](course) means
+- I want to know what [*](course) actually means
+- What is the meaning of [*](course)
+- [*](course) meaning
+- True name of [*](course)
+- Real name of [*](course)
+- Which course is [*](course)
+- What [TECHS3(course) means
+- I want to know what [*](course) stands for
+- I want to know the full name of course code [*](course)
+- I want to know the whole name of [*](course)
+- I want to know the name of [*](course)
+
+

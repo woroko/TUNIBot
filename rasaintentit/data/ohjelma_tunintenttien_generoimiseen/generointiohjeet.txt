@@ -1,0 +1,21 @@
+T‰m‰ pieni ohjelma kopioi alkuper‰isen tiedoston jokaisen rivin uuteen tiedostoon,
+ja k‰ytt‰‰ komentoriviargumentteina,
+
+KOMENTORIVILLE:
+python example_generator2.py tunintentit_gener.md course_codes.txt  uta_course_names.txt
+
+T‰llˆin se luo out_tunintentit_gener.md -tiedoston, jossa on jokainen kysymys niin monta kertaa kopioituna,
+kuin INTENT_MULTIPLIER sallii.
+
+Ohjelma olettaa, ett‰ tunintentit_gener.md:ss‰ on korvattu jokainen esimerkkikurssikoodi t‰htimerkill‰ *.
+
+ Ohjelma myˆs lis‰‰ esimerkkikysymykset siten, ett‰
+ ensin kirjoitetaan kopiot kysymyksest‰ kurssien *koodien* kanssa,
+ ja sittenluodaan kopiot kurssien *nimien* kanssa.
+ 
+ Kurssien nimien kirjoittamisen yhteydess‰ ohjelma korvaa entiteetin (course) muotoon (coursename).
+EI toistaiseksi lis‰‰ alkuper‰isen tiedoston oletusmateriaalia kuten "hi" ja "my name is John" jne
+
+lis‰‰ kuitenkin loppuun lookup-table-k‰skyt
+
+#INTENT MULTIPLIER m‰‰r‰‰, montako kertaa kopioidaan harjoitteludatan jokainen kysymys.
