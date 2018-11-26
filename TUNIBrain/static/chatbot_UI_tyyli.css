@@ -71,6 +71,11 @@ html
 {
 	width: 100%;
 }
+tr
+{
+	white-space: pre;
+	white-space: pre-line;
+}
 
 tr:nth-child(even)
 {
