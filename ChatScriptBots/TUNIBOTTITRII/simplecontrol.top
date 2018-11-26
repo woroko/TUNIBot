@@ -135,7 +135,7 @@ u: () # main per-sentence processing
 	if (%response == $_responseCount)  # we failed, somehow, to find something to say to user. Say something
 	{
 		^repeat()
-		#Please ask me anything you [like] [want to know] [are wondering about].
+		# Please ask me anything you [like] [want to know] [are wondering about].
 		^respond(~questions)
 	}
 
