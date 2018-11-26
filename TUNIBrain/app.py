@@ -63,7 +63,7 @@ def query_chatscript(query, userID="TestUser"):
 
     # data_out on CS-botin vastaus lähetettyyn kysymykseen. Se pitäisi siis
     # lähettää jonnekin eteenpäin.
-    data_out = client_socket.recv(200)
+    data_out = client_socket.recv(1000)
     client_socket.close()
 
     return data_out.decode("utf-8")
