@@ -174,7 +174,7 @@ def test():
     query = request.forms.get('query')
 
     #Are logs working
-    logs_on = False
+    #logs_on = False
     #Removes special characters from query, and makes it start with uppercase letter
     cleaning_query = ''.join(e for e in query if e.isalnum() or e.isspace())
     cleaned_query = "".join(c.upper() if i is 0 else c for i, c in enumerate(cleaning_query))
