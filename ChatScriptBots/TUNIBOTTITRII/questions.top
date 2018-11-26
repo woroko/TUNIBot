@@ -1,5 +1,25 @@
-topic: ~QUESTIONS keep repeat ( university of tampere technology uta tut tamk yliopisto teknillinen ammattikorkeakoulu tuni )
+topic: ~QUESTIONS keep repeat ( university of tampere technology uta tut tamk yliopisto teknillinen ammattikorkeakoulu tuni registrar main building pinni a b linna virta atalpa kauppi )
 
+t: TUTORIAL ( %input<%userfirstline ) 
+	^keep()
+	^repeat()
+	Hey there, I'm Tunibot! Is this your first time here?
+		a: (~yes)
+			Then allow me to give you a brief tutorial on everything I'm capable of!\n
+			You can ask me anything you need to know about studying in Tampere.\n
+			If I'm unable to answer, please try another way of asking.\n
+			This whole "talking" thing is still new to me, so I might not get it right away, but I'm trying so hard to learn!
+			And the more questions I get the more I learn!
+		a: (~no)
+			Ah, welcome back! I should've recognized you!
+			How have you been?
+			b: (good)
+				That's good to hear!
+			b: (bad)
+				I'm sorry to hear that. I hope I can help you out!
+				
+u: (qwerty_ytrewq)
+	^reuse(TUTORIAL)
 	
 u: ( * registrar * )
 	Contact Information
