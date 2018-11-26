@@ -88,56 +88,75 @@ def parse_rasa_json(receivedThreshold, rasa_json):
                 if len(rasa_json["entities"]) > 0:
                     if rasa_json["entities"][0]["entity"] == "course":
                         coursecode = rasa_json["entities"][0]['value']
-                        uta = UTA_PARSER.find_course_start_date(coursecode)
+                        uta = UTA_PARSER.find_course_start_date(id=coursecode)
                         if len(uta) > 2:
                             response = uta
-                        '''tamk = tamk_startDate(coursecode)
-                        if len(tamk) > 2:
-                            if len(uta) > 2:
-                                response += "\n"
-                            response += tamk
-                            need_cs_response = False'''
+                    elif rasa_json["entities"][0]["entity"] == "coursename":
+                        coursename = rasa_json["entities"][0]['value']
+                        uta = UTA_PARSER.find_course_start_date(name=coursename)
+                        if len(uta) > 2:
+                            response = uta
                 else:
-                    response = "Are you asking for course starting dates?\nYou need to mention a course code to help me search."
+                    response = "Are you asking for course starting dates?\nYou need to mention a course code/name to help me search."
             if rasa_json['intent']['name'] == 'kieli':
                 if len(rasa_json["entities"]) > 0:
                     if rasa_json["entities"][0]["entity"] == "course":
                         coursecode = rasa_json["entities"][0]['value']
-                        uta = UTA_PARSER.find_course_teachinglanguage(coursecode)
+                        uta = UTA_PARSER.find_course_teachinglanguage(id=coursecode)
+                        if len(uta) > 2:
+                            response = uta
+                    elif rasa_json["entities"][0]["entity"] == "coursename":
+                        coursename = rasa_json["entities"][0]['value']
+                        uta = UTA_PARSER.find_course_teachinglanguage(name=coursename)
                         if len(uta) > 2:
                             response = uta
                 else:
-                    response = "Are you asking for course teaching language?\nYou need to mention a course code to help me search."
+                    response = "Are you asking for course teaching language?\nYou need to mention a course code/name to help me search."
             if rasa_json['intent']['name'] == 'opetusajat' or \
                         rasa_json['intent']['name'] == 'periodi':
                 if len(rasa_json["entities"]) > 0:
                     if rasa_json["entities"][0]["entity"] == "course":
                         coursecode = rasa_json["entities"][0]['value']
-                        uta = UTA_PARSER.find_course_teaching_times(coursecode)
+                        uta = UTA_PARSER.find_course_teaching_times(id=coursecode)
+                        if len(uta) > 2:
+                            response = uta
+                    elif rasa_json["entities"][0]["entity"] == "coursename":
+                        coursename = rasa_json["entities"][0]['value']
+                        uta = UTA_PARSER.find_course_teaching_times(name=coursename)
                         if len(uta) > 2:
                             response = uta
                 else:
-                    response = "Are you asking for course schedules?\nYou need to mention a course code to help me search."
-                    
+                    response = "Are you asking for course schedules?\nYou need to mention a course code/name to help me search."
+
             if rasa_json['intent']['name'] == 'poikkeusajat':
                 if len(rasa_json["entities"]) > 0:
                     if rasa_json["entities"][0]["entity"] == "course":
                         coursecode = rasa_json["entities"][0]['value']
-                        uta = UTA_PARSER.find_course_deviations(coursecode)
+                        uta = UTA_PARSER.find_course_deviations(id=coursecode)
+                        if len(uta) > 2:
+                            response = uta
+                    elif rasa_json["entities"][0]["entity"] == "coursename":
+                        coursename = rasa_json["entities"][0]['value']
+                        uta = UTA_PARSER.find_course_deviations(name=coursename)
                         if len(uta) > 2:
                             response = uta
                 else:
-                    response = "Are you asking for course time exceptions?\nYou need to mention a course code to help me search."
-                    
+                    response = "Are you asking for course time exceptions?\nYou need to mention a course code/name to help me search."
+
             if rasa_json['intent']['name'] == 'creditsMin':
                 if len(rasa_json["entities"]) > 0:
                     if rasa_json["entities"][0]["entity"] == "course":
                         coursecode = rasa_json["entities"][0]['value']
+                        uta = UTA_PARSER.find_course_credits(id=coursecode)
+                        if len(uta) > 2:
+                            response = uta
+                    elif rasa_json["entities"][0]["entity"] == "coursename":
+                        coursename = rasa_json["entities"][0]['value']
                         uta = UTA_PARSER.find_course_credits(coursecode)
                         if len(uta) > 2:
                             response = uta
                 else:
-                    response = "Are you asking for course credits?\nYou need to mention a course code to help me search."
+                    response = "Are you asking for course credits?\nYou need to mention a course code/name to help me search."
 
     except Exception as e:
         print("Error in rasa code:")
@@ -150,6 +169,8 @@ def test():
     username = request.forms.get('username') #+ ":tunibottitoo"
     if username is None:
         username = "TestUser"
+    print("Username: " + username)
+
     query = request.forms.get('query')
 
     #Are logs working
@@ -175,7 +196,7 @@ def test():
         need_cs_response = False
 
     if need_cs_response:
-        response = query_chatscript(query)
+        response = query_chatscript(query, userID=username)
         print("Chatscript response: " + response)
 
     #Was ChatScript able to answer?
@@ -227,7 +248,8 @@ def test():
 
     footer = "</body></html>"
 
-    return header + response.replace("\n", "<br>").replace("  ", "&nbsp&nbsp") + footer
+    #replace("\n", "<br>").replace("  ", "&nbsp&nbsp")
+    return header + response + footer
 
 
 

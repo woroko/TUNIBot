@@ -1,0 +1,781 @@
+- How many points [RANP6](course)
+- How many credits [SAKW1](course)
+- How many ECTS [KATJOA99](course)
+- How many student credits [KASLOH4B](course)
+- How many student points [HALJUS99](course)
+- How many student credits from [HTIY006](course)
+- How many student points from [POLPOP04](course)
+- How many ECTS from [KASVAR7](course)
+- How many student credits is [VENA13](course)
+- How many points is [VENP2](course)
+- How many credits is [KASA13](course)
+- How many ECTS is [MEDU09](course)
+- How many student credits is [TERTIETO5](course)
+- How many student points is [KKRUHY](course)
+- Student points [ITIS61](course)
+- Student credits [ITIA2](course)
+- ECTS [KASSM3](course)
+- [SOS08.3](course) ECTS
+- [BIO4716](course) course points
+- [POLKVA31](course) student points
+- [SOP03.6](course) points
+- [PSYA6](course) amount of points
+- [POHP6](course) credits
+- [POHA11](course) the amount of ECTS
+- How many points [ITIA2](course) is
+- How many ECTS [HALVALS10](course) will be
+- Credits [VENP1](course)- How many points [KATJOP11](course)
+- How many credits [RANS4](course)
+- How many ECTS [JKKYTUA02](course)
+- How many student credits [MVKS60](course)
+- How many student points [LOGM1](course)
+- How many student credits from [TIETS18](course)
+- How many student points from [TERA1](course)
+- How many ECTS from [TIETS02](course)
+- How many student credits is [TIETA6](course)
+- How many points is [POHP1](course)
+- How many credits is [HALTVA12](course)
+- How many ECTS is [ITIS61](course)
+- How many student credits is [KASLOM3](course)
+- How many student points is [KATVRS42](course)
+- Student points [KATMAS13](course)
+- Student credits [KATVRS52](course)
+- ECTS [TERKAN11](course)
+- [SOS10.6](course) ECTS
+- [VENA5](course) course points
+- [YKIEP4](course) student points
+- [TIEA5](course) points
+- [MVKS46](course) amount of points
+- [TERTIETO3](course) credits
+- [KASA12](course) the amount of ECTS
+- How many points [JOVKA2&JOVKA3](course) is
+- How many ECTS [TRSU02](course) will be
+- Credits [BTK1062](course)- How many points [PGHAS06](course)
+- How many credits [POLHAR10](course)
+- How many ECTS [POLVOA42](course)
+- How many student credits [POLVOS40](course)
+- How many student points [ENGS42](course)
+- How many student credits from [ENGA7](course)
+- How many student points from [KATYVA13](course)
+- How many ECTS from [MTTTA6](course)
+- How many student credits is [MTTTA1](course)
+- How many points is [RANS3](course)
+- How many credits is [PSYS6C](course)
+- How many ECTS is [JKKYPS1](course)
+- How many student credits is [LTLY16](course)
+- How many student points is [JOVA7/JMMETUS](course)
+- Student points [SUOP4](course)
+- Student credits [HALTVA12](course)
+- ECTS [KASS1](course)
+- [PEDAYOP2](course) ECTS
+- [JKKYJOTE1](course) course points
+- [KIRS5](course) student points
+- [KKENYHT](course) points
+- [JOVPVS1](course) amount of points
+- [TERHOJ3](course) credits
+- [KASA12](course) the amount of ECTS
+- How many points [KASVAR9](course) is
+- How many ECTS [DPEDUE](course) will be
+- Credits [SAKA9](course)- How many points [KKSU1](course)
+- How many credits [TERHOIA4](course)
+- How many ECTS [SUOS1](course)
+- How many student credits [KASVAR11](course)
+- How many student points [KIRS5](course)
+- How many student credits from [HALKAS99](course)
+- How many student points from [TIETS26](course)
+- How many ECTS from [ITIS33](course)
+- How many student credits is [HIST01](course)
+- How many points is [HISA4](course)
+- How many credits is [JOVA16](course)
+- How many ECTS is [KASA12](course)
+- How many student credits is [KASVAR2](course)
+- How many student points is [KKSUHUK](course)
+- Student points [JOVTS1/SOS10.6](course)
+- Student credits [KASLOM3](course)
+- ECTS [LOGS9](course)
+- [MOLI](course) ECTS
+- [KASVAR12](course) course points
+- [KASA13](course) student points
+- [SAKA6](course) points
+- [KASP4](course) amount of points
+- [ESPFP1](course) credits
+- [FILS1E](course) the amount of ECTS
+- How many points [KKENMP3](course) is
+- How many ECTS [TERHOJ2](course) will be
+- Credits [ENGS40](course)- How many points [LUOYY019](course)
+- How many credits [KASA13](course)
+- How many ECTS [SOS04.4](course)
+- How many student credits [POLVOS27](course)
+- How many student points [KATVRS60](course)
+- How many student credits from [KASVAR11](course)
+- How many student points from [KASP5](course)
+- How many ECTS from [KASLOM5](course)
+- How many student credits is [RANP4](course)
+- How many points is [KASA1.3](course)
+- How many credits is [KASLOH4B](course)
+- How many ECTS is [HALTVP11](course)
+- How many student credits is [STYS3B2](course)
+- How many student points is [MVKS48/58](course)
+- Student points [SAKA12](course)
+- Student credits [PSYP5](course)
+- ECTS [SOSM5.2](course)
+- [POLPOP02](course) ECTS
+- [KASA12](course) course points
+- [POLVOA21](course) student points
+- [YKT07.2](course) points
+- [TERA6](course) amount of points
+- [VENA16](course) credits
+- [HIST02](course) the amount of ECTS
+- How many points [KATTAA90](course) is
+- How many ECTS [POLVOS24](course) will be
+- Credits [YKYYHT4B](course)- How many points [KATTAS40](course)
+- How many credits [YKIEP1](course)
+- How many ECTS [KASLOE7.2](course)
+- How many student credits [FONEP4](course)
+- How many student points [POLVOS24](course)
+- How many student credits from [KKENVAL8](course)
+- How many student points from [LOGM1](course)
+- How many ECTS from [BIO2200](course)
+- How many student credits is [KATVRS55](course)
+- How many points is [JKKYTUA02](course)
+- How many credits is [KASLTT](course)
+- How many ECTS is [BTK2070](course)
+- How many student credits is [POLKVA12](course)
+- How many student points is [TEE3](course)
+- Student points [KKES1](course)
+- Student credits [JOVA14](course)
+- ECTS [FONEP1](course)
+- [TERHOIA4](course) ECTS
+- [KATYVS23](course) course points
+- [HISS1B](course) student points
+- [KATLAA23](course) points
+- [KATYVS22](course) amount of points
+- [POLYEP11](course) credits
+- [JOVA20](course) the amount of ECTS
+- How many points [KKENYHT](course) is
+- How many ECTS [RUST5/VENS19/20](course) will be
+- Credits [HTIS54](course)- How many points [KASVAR3](course)
+- How many credits [FILS1A](course)
+- How many ECTS [KASVAR9](course)
+- How many student credits [POLKVA11](course)
+- How many student points [MTTTP1](course)
+- How many student credits from [KIRP3](course)
+- How many student points from [KATTAA21](course)
+- How many ECTS from [HALJTA14](course)
+- How many student credits is [HALHAA99](course)
+- How many points is [POLVOS40](course)
+- How many credits is [KKRUKTMO](course)
+- How many ECTS is [SOSM5.1](course)
+- How many student credits is [HIST01](course)
+- How many student points is [KATVRA30](course)
+- Student points [BTK2070](course)
+- Student credits [BTK1031](course)
+- ECTS [DPIS1](course)
+- [SOS10.6](course) ECTS
+- [KATYVP11](course) course points
+- [DPHSM304](course) student points
+- [KASPUHS8](course) points
+- [DPEDUE](course) amount of points
+- [HISS2](course) credits
+- [PCP11](course) the amount of ECTS
+- How many points [ROMAP5](course) is
+- How many ECTS [POHA6](course) will be
+- Credits [POHS10](course)- How many points [BTK0024](course)
+- How many credits [TERKAN12](course)
+- How many ECTS [SAKS4/K4](course)
+- How many student credits [VENS2](course)
+- How many student points [KKSUHUK1](course)
+- How many student credits from [KATYVA36](course)
+- How many student points from [KASSY3](course)
+- How many ECTS from [KASA13](course)
+- How many student credits is [FILA7](course)
+- How many points is [KASLOH3](course)
+- How many credits is [HISA1B](course)
+- How many ECTS is [SOS6.1.2](course)
+- How many student credits is [KATYVS43](course)
+- How many student points is [VENA16](course)
+- Student points [STYS2B](course)
+- Student credits [POLKVA33](course)
+- ECTS [JKKYLII](course)
+- [KASP3](course) ECTS
+- [KASLOM6](course) course points
+- [HIS](course) student points
+- [DPCMTJ4](course) points
+- [TIEP1](course) amount of points
+- [STYA1A](course) credits
+- [TAYJ035](course) the amount of ECTS
+- How many points [KASP4](course) is
+- How many ECTS [KASP3](course) will be
+- Credits [POLKVA12](course)- How many points [KASA2](course)
+- How many credits [FILS2A](course)
+- How many ECTS [KKSA3](course)
+- How many student credits [STYA1A](course)
+- How many student points [HALHAS21](course)
+- How many student credits from [KASLOM3](course)
+- How many student points from [KATVAA12](course)
+- How many ECTS from [TAYJ032](course)
+- How many student credits is [POLVOS23](course)
+- How many points is [KASA8](course)
+- How many credits is [KKIN5](course)
+- How many ECTS is [KASA12](course)
+- How many student credits is [TRSU02](course)
+- How many student points is [MTTTA13](course)
+- Student points [TIETS21](course)
+- Student credits [JOVA5](course)
+- ECTS [JOVA4](course)
+- [HISS2](course) ECTS
+- [POLVOA31](course) course points
+- [KASMULTI3](course) student points
+- [PEDAYOA1](course) points
+- [JKKYLII](course) amount of points
+- [HALKAP01](course) credits
+- [KASLOM11](course) the amount of ECTS
+- How many points [MTTTA2](course) is
+- How many ECTS [HALKAP01](course) will be
+- Credits [KATTAS40](course)- How many points [PEDAYOP3](course)
+- How many credits [STYA6](course)
+- How many ECTS [FILS2B/C](course)
+- How many student credits [KASVAR10](course)
+- How many student points [KKSUSC](course)
+- How many student credits from [SUKKP3](course)
+- How many student points from [HALHAS21](course)
+- How many ECTS from [LTLY07](course)
+- How many student credits is [KASVAR3](course)
+- How many points is [HALVALS10](course)
+- How many credits is [POLKVA44](course)
+- How many ECTS is [SAKP6](course)
+- How many student credits is [KKSUSOTE](course)
+- How many student points is [KIRS4](course)
+- Student points [KKSUVAL1](course)
+- Student credits [TECHS5](course)
+- ECTS [KATVRS42](course)
+- [KASERIT3](course) ECTS
+- [KATYVA31](course) course points
+- [KASA9](course) student points
+- [TERHOO3](course) points
+- [POLVOS40](course) amount of points
+- [MTTY4](course) credits
+- [KKENVAL7](course) the amount of ECTS
+- How many points [POLVOA32](course) is
+- How many ECTS [TRSU02](course) will be
+- Credits [ESPFP0](course)- How many points [KASLOK3](course)
+- How many credits [KASA11](course)
+- How many ECTS [POLPOP05](course)
+- How many student credits [HTIS64](course)
+- How many student points [KATRAA12](course)
+- How many student credits from [SOS6.5.3](course)
+- How many student points from [HISP3](course)
+- How many ECTS from [KATYVA33](course)
+- How many student credits is [KATYVA41](course)
+- How many points is [HALJUA65](course)
+- How many credits is [TERHOI3](course)
+- How many ECTS is [KASVAR10](course)
+- How many student credits is [POLYEP12](course)
+- How many student points is [KATLAS23](course)
+- Student points [HISJATKO](course)
+- Student credits [KASA7](course)
+- ECTS [TEE2](course)
+- [MVKS54](course) ECTS
+- [BTK4702](course) course points
+- [HISA4](course) student points
+- [KATRAA11](course) points
+- [TERHOJ4](course) amount of points
+- [HALKAS12](course) credits
+- [KASA8](course) the amount of ECTS
+- How many points [KKSUPRO](course) is
+- How many ECTS [TRSU02](course) will be
+- Credits [POLKVS22](course)- How many points [HISA4](course)
+- How many credits [BTK4121](course)
+- How many ECTS [KASPUHS8](course)
+- How many student credits [KATJOA99](course)
+- How many student points [ITIA03](course)
+- How many student credits from [ENGA13](course)
+- How many student points from [MTTTY1](course)
+- How many ECTS from [IGS006](course)
+- How many student credits is [TERA6](course)
+- How many points is [BTK4665](course)
+- How many credits is [KASS3](course)
+- How many ECTS is [KASLOE6.1](course)
+- How many student credits is [TEATP3](course)
+- How many student points is [RANA7](course)
+- Student points [KASLOK2](course)
+- Student credits [TSEKP3](course)
+- ECTS [FILJATKO](course)
+- [KATSTA12](course) ECTS
+- [VENS15](course) course points
+- [KKENMP3](course) student points
+- [POLPOP05](course) points
+- [KKSU2](course) amount of points
+- [KASLOE8.1](course) credits
+- [DPCMTJ4](course) the amount of ECTS
+- How many points [BTK4090](course) is
+- How many ECTS [KATLAS13](course) will be
+- Credits [VENP3/VENK1](course)- How many points [KATVRS44](course)
+- How many credits [MTTMA15](course)
+- How many ECTS [KKSUSOTE](course)
+- How many student credits [SOSM4](course)
+- How many student points [DPJKKHS](course)
+- How many student credits from [HALJTA14](course)
+- How many student points from [HALKAA99](course)
+- How many ECTS from [TERY4](course)
+- How many student credits is [STYA1A](course)
+- How many points is [KKSUHUK](course)
+- How many credits is [KASLOM11](course)
+- How many ECTS is [MTTY1](course)
+- How many student credits is [KASLOM11](course)
+- How many student points is [DPHSR404](course)
+- Student points [KKENYHT](course)
+- Student credits [VENA6](course)
+- ECTS [HALYAP01](course)
+- [TERKANA1](course) ECTS
+- [STYA5](course) course points
+- [SUKKP0](course) student points
+- [KASA9](course) points
+- [SOS6.3.3](course) amount of points
+- [KATLAS17](course) credits
+- [KATYVA21](course) the amount of ECTS
+- How many points [ITIA6](course) is
+- How many ECTS [MEDU07](course) will be
+- Credits [FILA9](course)- How many points [TERKANA2](course)
+- How many credits [KATLAA12](course)
+- How many ECTS [KATVRA24](course)
+- How many student credits [DPCMTJ2/JMMETUS](course)
+- How many student points [KKENYHT](course)
+- How many student credits from [KATTAS22A](course)
+- How many student points from [BTK5557](course)
+- How many ECTS from [KKES3](course)
+- How many student credits is [ITIY3](course)
+- How many points is [TERKANA2](course)
+- How many credits is [HALKAS12](course)
+- How many ECTS is [SOS6.4.3](course)
+- How many student credits is [JOVPVS6](course)
+- How many student points is [TIETS21](course)
+- Student points [KKENVAL1](course)
+- Student credits [KASSO1](course)
+- ECTS [KASMULTI1](course)
+- [PSYP5](course) ECTS
+- [MVKS34](course) course points
+- [YKT6.6.1](course) student points
+- [LOGS1](course) points
+- [TERHOIA1](course) amount of points
+- [TERY5B](course) credits
+- [KATJOA12](course) the amount of ECTS
+- How many points [KASP1-2, KASP5](course) is
+- How many ECTS [KASERIT3](course) will be
+- Credits [LFCS04](course)- How many points [KATVAA14](course)
+- How many credits [KASA12](course)
+- How many ECTS [POHA3](course)
+- How many student credits [KKSU1](course)
+- How many student points [LTLY16](course)
+- How many student credits from [KKVEPRE1](course)
+- How many student points from [KASVARH](course)
+- How many ECTS from [KASS1](course)
+- How many student credits is [PEDA5](course)
+- How many points is [PSYP5](course)
+- How many credits is [HALJTA99](course)
+- How many ECTS is [TIEA2.1B](course)
+- How many student credits is [KKSAVAL4](course)
+- How many student points is [MVKS30](course)
+- Student points [FILS1A](course)
+- Student credits [KASP5](course)
+- ECTS [JOVA6](course)
+- [KKSUVAL3](course) ECTS
+- [KKENYHT](course) course points
+- [KASVAR1](course) student points
+- [KATYVA34](course) points
+- [JOVTS5](course) amount of points
+- [ITIA4](course) credits
+- [MTTTP1](course) the amount of ECTS
+- How many points [KASLOM3](course) is
+- How many ECTS [FONEA4](course) will be
+- Credits [YKT04.2](course)- How many points [TRSU07](course)
+- How many credits [HALJUA13](course)
+- How many ECTS [KASLOH3](course)
+- How many student credits [TIEY4](course)
+- How many student points [KATLAA12](course)
+- How many student credits from [LUOYY005](course)
+- How many student points from [TIETS05](course)
+- How many ECTS from [HISJATKO](course)
+- How many student credits is [HTIS53](course)
+- How many points is [COSOPOM1](course)
+- How many credits is [BTK2040](course)
+- How many ECTS is [DPHSO101](course)
+- How many student credits is [HALYAS14](course)
+- How many student points is [POLVOA22](course)
+- Student points [ITIA03](course)
+- Student credits [HIST03](course)
+- ECTS [MTTTY1](course)
+- [HALJTS04](course) ECTS
+- [KATTAA90](course) course points
+- [VENA6](course) student points
+- [KKSU8](course) points
+- [KASP5](course) amount of points
+- [TAYJ13](course) credits
+- [POLVOA22/A32](course) the amount of ECTS
+- How many points [ITIA03](course) is
+- How many ECTS [KKRULUK](course) will be
+- Credits [POHA2](course)- How many points [KKENVAL9](course)
+- How many credits [SOS10.1.4](course)
+- How many ECTS [TERA3](course)
+- How many student credits [PSYP2](course)
+- How many student points [TERHOI3](course)
+- How many student credits from [BTK1074](course)
+- How many student points from [MTTTA2](course)
+- How many ECTS from [BIO4716](course)
+- How many student credits is [SUKKP3](course)
+- How many points is [LUOYY023](course)
+- How many credits is [JKKYLT01](course)
+- How many ECTS is [TERY1](course)
+- How many student credits is [SUOS4](course)
+- How many student points is [KATLITO8](course)
+- Student points [SOSM5.1](course)
+- Student credits [KKENYHT](course)
+- ECTS [HALJUA14](course)
+- [VENS2](course) ECTS
+- [KKENYHT](course) course points
+- [JKKYTUO2](course) student points
+- [JOUJOVTS](course) points
+- [BIO2250](course) amount of points
+- [KATTAA13A](course) credits
+- [JOVA18](course) the amount of ECTS
+- How many points [LTLY16](course) is
+- How many ECTS [STYS1B4](course) will be
+- Credits [ITIA11](course)- How many points [COSOPN2](course)
+- How many credits [JOVA9](course)
+- How many ECTS [ITIA01](course)
+- How many student credits [KKVE2](course)
+- How many student points [JOVPVS3](course)
+- How many student credits from [KKRUPRE2](course)
+- How many student points from [JOVTS1/SOS10.6](course)
+- How many ECTS from [VENP2](course)
+- How many student credits is [KKSUPRO](course)
+- How many points is [TAYJ026](course)
+- How many credits is [HTIY005](course)
+- How many ECTS is [JOVA8](course)
+- How many student credits is [SAKA11](course)
+- How many student points is [FIL](course)
+- Student points [HALHAS99](course)
+- Student credits [DPYTCON](course)
+- ECTS [HALKAS15](course)
+- [POLKVA33](course) ECTS
+- [HISA2](course) course points
+- [KIRS5](course) student points
+- [KASSO1](course) points
+- [HISA2](course) amount of points
+- [STYA3B](course) credits
+- [JOUJOVTS](course) the amount of ECTS
+- How many points [MVKS23](course) is
+- How many ECTS [SUKKP1](course) will be
+- Credits [HALHAS17](course)- How many points [TERTIETO4](course)
+- How many credits [VENS13](course)
+- How many ECTS [BTK1023](course)
+- How many student credits [TIETS21](course)
+- How many student points [BTK4501](course)
+- How many student credits from [COSOPON3](course)
+- How many student points from [LUOYY020](course)
+- How many ECTS from [KATLITO4](course)
+- How many student credits is [SUOA1](course)
+- How many points is [TERY4](course)
+- How many credits is [SOSM5.1](course)
+- How many ECTS is [HTIS52](course)
+- How many student credits is [KASVAR7](course)
+- How many student points is [POLKAA99](course)
+- Student points [KATLAS26](course)
+- Student credits [LFCS04](course)
+- ECTS [PSYA11](course)
+- [KASA5](course) ECTS
+- [STYP3](course) course points
+- [KASA7](course) student points
+- [KASA2](course) points
+- [KASLOH3](course) amount of points
+- [KASA11](course) credits
+- [STYP5](course) the amount of ECTS
+- How many points [HTIY006](course) is
+- How many ECTS [TSEKP2](course) will be
+- Credits [KASLOE7.2](course)- How many points [SAKA5](course)
+- How many credits [PCP02/NAM-VII](course)
+- How many ECTS [HALYAA12](course)
+- How many student credits [FILA2](course)
+- How many student points [RANS4](course)
+- How many student credits from [MVKS40/62](course)
+- How many student points from [HISP1](course)
+- How many ECTS from [ENGA4](course)
+- How many student credits is [KASLOE8.1](course)
+- How many points is [KASA11](course)
+- How many credits is [KASP5](course)
+- How many ECTS is [SAKS4/K4](course)
+- How many student credits is [YKYYV07](course)
+- How many student points is [HTIS53](course)
+- Student points [KASMAT1](course)
+- Student credits [TIETA6](course)
+- ECTS [POLKAA99](course)
+- [LATAP3](course) ECTS
+- [DPHSO101](course) course points
+- [TIETS17](course) student points
+- [KASVAR12](course) points
+- [JOVVJS2](course) amount of points
+- [LATAP3](course) credits
+- [POHA4/POHS4](course) the amount of ECTS
+- How many points [KKSUHUK](course) is
+- How many ECTS [TRSU05](course) will be
+- Credits [TRMU2](course)- How many points [TERHOI1](course)
+- How many credits [JOVKA2&JOVKA3](course)
+- How many ECTS [TAYJ12](course)
+- How many student credits [KATYVS24](course)
+- How many student points [TEATP3](course)
+- How many student credits from [ITIS45](course)
+- How many student points from [KASSO6](course)
+- How many ECTS from [MVKS54-56](course)
+- How many student credits is [KKRUKTK](course)
+- How many points is [TSEKP2](course)
+- How many credits is [TAYJ035](course)
+- How many ECTS is [KASLOM6](course)
+- How many student credits is [KATLITO1](course)
+- How many student points is [KASPUHS7](course)
+- Student points [TRMU1](course)
+- Student credits [TERTIETO2](course)
+- ECTS [SOS4.4](course)
+- [MEDU07](course) ECTS
+- [KATMAA14](course) course points
+- [KASA9](course) student points
+- [ITIS23](course) points
+- [ESPFP1](course) amount of points
+- [ESPFP5](course) credits
+- [LUOYY026](course) the amount of ECTS
+- How many points [YKYYV07](course) is
+- How many ECTS [TERTIETO5](course) will be
+- Credits [TERHOI2](course)- How many points [HALJUA99](course)
+- How many credits [POLKVS33](course)
+- How many ECTS [TAYJ042](course)
+- How many student credits [KASLOM4](course)
+- How many student points [POHS1](course)
+- How many student credits from [MVKS38](course)
+- How many student points from [ITIS11](course)
+- How many ECTS from [KASP3](course)
+- How many student credits is [KASSO1](course)
+- How many points is [MVKS28](course)
+- How many credits is [BIO2085](course)
+- How many ECTS is [KATLITO8](course)
+- How many student credits is [JOVA20](course)
+- How many student points is [LOGA1](course)
+- Student points [JOUJOVTS](course)
+- Student credits [POLPOP01](course)
+- ECTS [KASA6](course)
+- [TIEA5](course) ECTS
+- [SOS08.2](course) course points
+- [SOCYKV1](course) student points
+- [MTTA1](course) points
+- [DPIS1](course) amount of points
+- [MVKS36/31](course) credits
+- [KATLAA99](course) the amount of ECTS
+- How many points [ITIP1](course) is
+- How many ECTS [KKSAVAL0](course) will be
+- Credits [DPJKKPS](course)- How many points [KATLAA22](course)
+- How many credits [HALEUA11](course)
+- How many ECTS [POLVOA21](course)
+- How many student credits [KKSUPRO](course)
+- How many student points [KASVAR11](course)
+- How many student credits from [KKRUYHT](course)
+- How many student points from [KASVAR12](course)
+- How many ECTS from [ITIP1](course)
+- How many student credits is [MTTTP1](course)
+- How many points is [PGHAS06](course)
+- How many credits is [KASVAR4](course)
+- How many ECTS is [NORDIG4](course)
+- How many student credits is [BIOMJ016](course)
+- How many student points is [PSYS2](course)
+- Student points [SUOT3](course)
+- Student credits [KATVRS40](course)
+- ECTS [TRMU2](course)
+- [KASLOM7](course) ECTS
+- [KKES3](course) course points
+- [TIEY4](course) student points
+- [HALKOS23](course) points
+- [JOVPVS1](course) amount of points
+- [ENGA6](course) credits
+- [HTIS53](course) the amount of ECTS
+- How many points [POLPOP01](course) is
+- How many ECTS [FILS2B/C](course) will be
+- Credits [MTTTY1](course)- How many points [KATVRP12](course)
+- How many credits [DPEDUA.1A](course)
+- How many ECTS [JOVTS5](course)
+- How many student credits [KASLOE6.2](course)
+- How many student points [POLYEP12](course)
+- How many student credits from [KKSUYP](course)
+- How many student points from [JOVVAL](course)
+- How many ECTS from [HALJUA99](course)
+- How many student credits is [KIRA3G](course)
+- How many points is [DPJKKHS](course)
+- How many credits is [KKSUSC](course)
+- How many ECTS is [KKENVAL7](course)
+- How many student credits is [LTLY214](course)
+- How many student points is [ENGS4](course)
+- Student points [IGS005](course)
+- Student credits [KKENYHT](course)
+- ECTS [SUKKP5B](course)
+- [DPHSO101](course) ECTS
+- [FIL](course) course points
+- [HALYAA13](course) student points
+- [BTK3125](course) points
+- [PSYS12](course) amount of points
+- [SOS10.1.3](course) credits
+- [LOGS7](course) the amount of ECTS
+- How many points [MTTTP5](course) is
+- How many ECTS [KASMULTI2B](course) will be
+- Credits [JOVTS5](course)- How many points [PSYA3](course)
+- How many credits [KIRS4](course)
+- How many ECTS [POLKVA32](course)
+- How many student credits [POLVOS40](course)
+- How many student points [BTK5557](course)
+- How many student credits from [PSYS3](course)
+- How many student points from [TAYJ024](course)
+- How many ECTS from [TIETA8](course)
+- How many student credits is [VENA8](course)
+- How many points is [SOS10.1.5](course)
+- How many credits is [POLVOS26](course)
+- How many ECTS is [HALKAA12](course)
+- How many student credits is [KATLITO8](course)
+- How many student points is [KASA13](course)
+- Student points [KATVAA11](course)
+- Student credits [TERA6](course)
+- ECTS [LTLY213](course)
+- [KASSM2](course) ECTS
+- [HISP2](course) course points
+- [HALJUS13](course) student points
+- [TAYJ11](course) points
+- [ENGA7](course) amount of points
+- [JOVMS2A](course) credits
+- [ITIA03](course) the amount of ECTS
+- How many points [DPLSSEM](course) is
+- How many ECTS [MEDU09](course) will be
+- Credits [TIETA13](course)- How many points [KASLOM11](course)
+- How many credits [ITIA03](course)
+- How many ECTS [KATVAA11](course)
+- How many student credits [PSYA9](course)
+- How many student points [HALHAS99](course)
+- How many student credits from [KASLOE8.1](course)
+- How many student points from [FILS2A](course)
+- How many ECTS from [HISS2](course)
+- How many student credits is [BTK4030](course)
+- How many points is [KATMAA14](course)
+- How many credits is [ITIY003](course)
+- How many ECTS is [JKKYTVA13](course)
+- How many student credits is [KASA15](course)
+- How many student points is [KKSUSC](course)
+- Student points [KKSUPRO](course)
+- Student credits [KASP1](course)
+- ECTS [STYA5](course)
+- [HTIS84](course) ECTS
+- [POLKVA41](course) course points
+- [FILJATKO](course) student points
+- [PEACE046](course) points
+- [POHA6](course) amount of points
+- [TAYJ035](course) credits
+- [PSYS2](course) the amount of ECTS
+- How many points [JOVVAL](course) is
+- How many ECTS [VENS1](course) will be
+- Credits [KKVEVAL1](course)- How many points [KASA13](course)
+- How many credits [HISA2](course)
+- How many ECTS [PSYP2](course)
+- How many student credits [KKENVAL4](course)
+- How many student points [ITIS24](course)
+- How many student credits from [NORDIG4](course)
+- How many student points from [KASA11](course)
+- How many ECTS from [POLKVS22](course)
+- How many student credits is [POLVOA41](course)
+- How many points is [ITIS45](course)
+- How many credits is [RANS1](course)
+- How many ECTS is [SUKKP5A](course)
+- How many student credits is [KKENVAL8](course)
+- How many student points is [KKSA1](course)
+- Student points [POLKVA11](course)
+- Student credits [LFCS04](course)
+- ECTS [HIS](course)
+- [KATJOA14](course) ECTS
+- [HALYAA14](course) course points
+- [TRMU2](course) student points
+- [KKSAPRE2](course) points
+- [FILS2B/C](course) amount of points
+- [KASVAR9](course) credits
+- [TERKANA2](course) the amount of ECTS
+- How many points [KIRS1](course) is
+- How many ECTS [MVKS39E/S](course) will be
+- Credits [POLKVS10](course)- How many points [TAYJ025](course)
+- How many credits [DPJKKHS](course)
+- How many ECTS [JOVAT1](course)
+- How many student credits [HALJUA21](course)
+- How many student points [JKKYMYJK05](course)
+- How many student credits from [POLVOA12](course)
+- How many student points from [KKSUPRO](course)
+- How many ECTS from [PSYS13](course)
+- How many student credits is [STYS2A](course)
+- How many points is [PSYS16](course)
+- How many credits is [KATTAA31](course)
+- How many ECTS is [POLVOA32/S23/24](course)
+- How many student credits is [JOVA11](course)
+- How many student points is [KKSUPRO](course)
+- Student points [FIL](course)
+- Student credits [HALTVA15](course)
+- ECTS [KATMAS14](course)
+- [KATJOA14](course) ECTS
+- [SOSM6.5](course) course points
+- [TERKANP4](course) student points
+- [ESPFA6](course) points
+- [KASA12](course) amount of points
+- [POLHAR10](course) credits
+- [KASSY5](course) the amount of ECTS
+- How many points [LOGS2](course) is
+- How many ECTS [KASLOM4](course) will be
+- Credits [KATJOA12](course)- How many points [FONEP1](course)
+- How many credits [KASVARPH](course)
+- How many ECTS [TERKAN11](course)
+- How many student credits [JOVPVS8](course)
+- How many student points [TIETS18](course)
+- How many student credits from [KIRP3](course)
+- How many student points from [POLPOP01](course)
+- How many ECTS from [SOS10.2](course)
+- How many student credits is [DPHSFC06](course)
+- How many points is [STYA5](course)
+- How many credits is [KKSULUK](course)
+- How many ECTS is [KKRUYHT](course)
+- How many student credits is [JOVAT2](course)
+- How many student points is [KASLOM10](course)
+- Student points [KASS4](course)
+- Student credits [SOS4.5](course)
+- ECTS [KASSO5](course)
+- [LUOYY006](course) ECTS
+- [HALKAA14](course) course points
+- [SOS1](course) student points
+- [TIETS14](course) points
+- [POHA3](course) amount of points
+- [MTTMA15](course) credits
+- [KASVAR7](course) the amount of ECTS
+- How many points [KKRA2](course) is
+- How many ECTS [STYS1B4](course) will be
+- Credits [SUOK2/A6/S8](course)- How many points [FILP3B](course)
+- How many credits [SUOA5/YKIEA1](course)
+- How many ECTS [ESPFP2](course)
+- How many student credits [KASA13](course)
+- How many student points [TAYJ033](course)
+- How many student credits from [POLVOS10](course)
+- How many student points from [TAYJ033](course)
+- How many ECTS from [HALYHT](course)
+- How many student credits is [KIRP5](course)
+- How many points is [FILA3](course)
+- How many credits is [ITIA03](course)
+- How many ECTS is [KATMAA13](course)
+- How many student credits is [STYVA](course)
+- How many student points is [KASP5](course)
+- Student points [KASLOE4.3](course)
+- Student credits [TERVAL7](course)
+- ECTS [KATVAA11](course)
+- [KATJOS12](course) ECTS
+- [POLKVA31](course) course points
+- [KASLOE6.1](course) student points
+- [JOVPVS6](course) points
+- [KASA13](course) amount of points
+- [KASVAR5](course) credits
+- [KASVAR11](course) the amount of ECTS
+- How many points [PSYS12](course) is
+- How many ECTS [ENGS4](course) will be
+- Credits [VENA10](course)
