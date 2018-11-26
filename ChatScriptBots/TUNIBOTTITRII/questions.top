@@ -213,5 +213,5 @@ u: ( * [university "university of tampere" uta school address mail contact openi
 	
 u: ( what is your name ) My name is TUNIbotti, the best and greatest Tampere higher education chat bot out there!
 
-#u: DEFAULT ()
-#	Please ask me anything you [like] [want to know] [are wondering about].
+u: DEFAULT ()
+	Please ask me anything you [like] [want to know] [are wondering about].

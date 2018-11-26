@@ -135,8 +135,8 @@ u: () # main per-sentence processing
 	if (%response == $_responseCount)  # we failed, somehow, to find something to say to user. Say something
 	{
 		^repeat()
-		Please ask me anything you [like] [want to know] [are wondering about].
-		#^respond(~questions)
+		#Please ask me anything you [like] [want to know] [are wondering about].
+		^respond(~questions)
 	}
 
 topic: ~XPOSTPROCESS system () # gambits only - not allowed to write to  output - generates speech on windows -- for Linux you'd want to install Festival (or equivalent) and call that instead.
