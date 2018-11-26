@@ -3,8 +3,9 @@ from datetime import datetime
 
 class Logger:
     def __init__(self, logs_on):
+        self.logs_on = False
         if logs_on:
-            self.logs_on
+            self.logs_on = True
             currentDate = datetime.now()
             currentDate = currentDate.strftime('%H-%M-%S %d.%m.%Y')
             self.csvfile_s = open('Logs/Successful/'+ str(currentDate) +'.csv', 'w', newline='')
