@@ -249,7 +249,7 @@ def test():
     footer = "</body></html>"
 
     #replace("\n", "<br>").replace("  ", "&nbsp&nbsp")
-    return header + response.replace("\\n", "\n") + footer
+    return header + response.replace("\\r\\n", "\n").replace("\\n", "\n").replace("\\r", "\n") + footer
 
 
 
