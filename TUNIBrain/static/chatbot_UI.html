@@ -27,6 +27,7 @@
             </div>
 
         </div>
+        <p id="username">placeholder</p>
 
         <script type="text/javascript">
 
@@ -39,6 +40,7 @@
                 }
             });
 
+            createUsername();
             bindCallback();
 
             function createUserChatBubble(text)
@@ -81,17 +83,31 @@
             function bindCallback()
             {
                 document.getElementById("input_field").value = '';
+                var qwerty = "qwerty_ytrewq";
 
                 $(document).ready(function()
                 { 
+                    $.post("http://localhost:8082/msg",
+                        {
+                            "query": qwerty,
+                            "username": window.username
+                        },
+                        function(data, status)
+                        {
+                            //alert("Data: " + data + "\nStatus: " + status);
+                            createBotChatBubble(data);
+                        });
+
                     $("#submit_button").click(function()
                     {
                         var text_value = document.getElementById("input_field").value;
+                        var user_name = document.getElementById("username").value;
                         createUserChatBubble(text_value);
 
                         $.post("http://localhost:8082/msg",
                         {
-                            "query": text_value
+                            "query": text_value,
+                            "username": window.username
                         },
                         function(data, status)
                         {
@@ -103,7 +119,22 @@
                 });
             };
 
-            
+            function createUsername()
+            {
+
+                var username = '';
+                var number;
+                var i;
+
+                for(i = 0; i < 6; i++)
+                {
+                    number = Math.floor(Math.random() * 10);
+                    username += number.toString();
+                }
+                window.username = username;
+
+                document.getElementById("username").innerHTML = "UserID: " + username;
+            };
 
         </script>    
     </body>
