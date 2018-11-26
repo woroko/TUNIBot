@@ -111,8 +111,8 @@ def tamk_examSchedule(id=None, name=None):
         print(e)
     return""
 
-print(tamk_course_name("IM00BR45-3003"))
-print(tamk_teachingLanguage("IM00BR45-3003"))
-print(tamk_startDate("IM00BR45-3003"))
-print(tamk_location("IM00BR45-3003"))
-print(tamk_examSchedule("IM00BR45-3003"))
+#print(tamk_course_name("IM00BR45-3003"))
+#print(tamk_teachingLanguage("IM00BR45-3003"))
+#print(tamk_startDate("IM00BR45-3003"))
+#print(tamk_location("IM00BR45-3003"))
+#print(tamk_examSchedule("IM00BR45-3003"))
