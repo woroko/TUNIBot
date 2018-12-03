@@ -1,0 +1,237 @@
+topic: ~QUESTIONS keep repeat ( university of tampere technology uta tut tamk yliopisto teknillinen ammattikorkeakoulu tuni registrar main building pinni a b linna virta atalpa kauppi )
+
+t: TUTORIAL ( %input<%userfirstline ) 
+	^keep()
+	^repeat()
+	Hey there, I'm Tunibot! Is this your first time here?
+		a: (~yes)
+			Then allow me to give you a brief tutorial on everything I'm capable of!\n
+			You can ask me anything you need to know about studying in Tampere.\n
+			If I'm unable to answer, please try another way of asking.\n
+			This whole "talking" thing is still new to me, so I might not get it right away, but I'm trying so hard to learn!\n
+			And the more questions I get the more I learn!
+		a: (~no)
+			Ah, welcome back! I should've recognized you!\n
+			How have you been?
+			b: (good)
+				That's good to hear!
+			b: (bad)
+				I'm sorry to hear that. I hope I can help you out!
+				
+u: (qwerty_ytrewq)
+	^reuse(TUTORIAL)
+	
+u: ( * registrar * )
+	Contact Informatio\n
+	University main building, Kalevantie 4, room A 121\n
+	tel. 050 318 7000\n
+	e-mail: aktuaari(at)uta.fi\n
+	Opening hours:\n
+	Monday 10.00-16.00 Tuesday - Friday 10.00-14.00\n
+	OBS! In Summer from 4th of June till 31st of July were are open 12-14\n
+	Exceptions:-
+	
+u: ( * main building * )
+	Main building (Päätalo), Kalevantie 4\n
+	Mon-Fri 7-20\n
+	Sat 8-15\n
+	Summer time (June 4th - September 2nd)\n
+	Mon-Fri 7-17
+	
+u: ( * "Pinni A" * )
+	Pinni A, Kanslerinrinne 1\n
+	Mon-Thu 7.30-20\n
+	Fri 7.30-16\n
+	Summer time (June 4th - September 2nd) Mon-Fri 8-16
+
+u: ( * "Pinni B" * )
+	Pinni B, Kanslerinrinne 1\n
+	Mon-Thu 7.30-20\n
+	Fri 7.30-17\n
+	Summer time (June 4th - September 2nd) Mon-Fri 7.30-16
+	
+u: ( * "Linna" * )
+	Linna, Kalevantie 5\n
+	Mon–Fri 7.30-20\n
+	Sat 9.00-15\n
+	Summer time (June 4th - August 26th)\n
+	Mon 8-18\n
+	Tue - Fri 8-16
+
+u: ( * "Virta" * )
+	Virta, Åkerlundinkatu 5\n
+	Mon–Thu 7.30-20\n
+	Fri 7.30-17\n
+	Summer time (June 4th - September 2nd)\n
+	Mon–Fri 8-16\n
+	(July 9th - July 28th closed)
+
+u: ( * "Atalpa" * )
+	Atalpa, Ratapihankatu 55\n
+	Mon-Fri 7.30-16\n
+	Summer time (June 4th - September 2nd)\n
+	Mon-Fri 8-16\n
+	(June 25th - July 28th closed)\n
+	Sports facilities: Unipoli Sport\n
+	Teacher Training School of the University of Tampere, upper secondary school
+	
+u: ( * "Kauppi" * )
+	Kauppi campus\n
+	Tays Central Hospital area parking map (in Finnish)\n
+	Kauppi campus, UTA buildings (pdf)\n
+	Arvo, Arvo Ylpön katu 34 (former Lääkärinkatu 1) Mon–Fri 7.30–20\n
+	Tampere University Hospital, Teiskontie 35
+	
+u: ( * ["Auttilankulma" "Auttilan kulma"] * )
+	Auttilankulma, Vuolteenkatu 20
+	
+u: ( * teacher training school * )
+	Teacher Training School of the University of Tampere, Lounaantie 2 and Kuokkamaantie 16
+	
+u: ( * university consortium * )
+	University Consortium Pori, Pohjoisranta 11 C, FI-28101 Pori\n
+	University Consortium Seinäjoki, Kampusranta 9 C, FI-60320 Seinäjoki
+	
+u: ( * faculties * )
+	Faculty of Communication Sciences (COMS)\n
+	Faculty of Education (EDU)\n
+	Faculty of Management (JKK)\n
+	Faculty of Medicine and Life Sciences (MED)\n
+	Faculty of Natural Sciences (LUO)\n
+	Faculty of Social Sciences (SOC)
+
+u: ( * where * ["COMS" "Communication Sciences" "Faculty of Communication Sciences"] * )
+	Postal address\n
+	Faculty of Communication Sciences\n
+	33014 University of Tampere, Finland\n
+	Visiting address\n
+	Pinni B building, Kanslerinrinne 1, Tampere\n
+	Arrival guide and campus map\n
+	Email: coms.info@uta.fi
+	
+u: ( * ["COMS" "Communication Sciences" "Faculty of Communication Sciences"] * )
+	The Faculty of Communication Sciences is a multidisciplinary environment for teaching and research that combines traditions and expertise from the arts, natural sciences, social sciences and theatre. As such, the Faculty is unique in Finland. The Faculty is made up of the School of Language, Translation and Literary Studies (LTL), the School of Communication, Media and Theatre (CMT) and the School of Information Sciences’ (SIS) Degree Programme in Information Studies and Interactive Media and Master’s Degree Programme in Human-Technology Interaction. The Faculty is home to some 3,500 students and over 300 researchers, instructors and administrators.
+
+u: ( * where * ["EDU" "Faculty of Education"] * )
+	Mailing address: \n
+	Faculty of Education\n
+	FIN-33014 University of Tampere\n
+	Visiting address:\n
+	VIRTA Building, Åkerlundinkatu 5, Tampere\n
+	Opening hours June 4th - August 31st 2018\n
+	4.6.-6.7.2018\n
+	Mon-Fri 8.00-16.00\n
+	9.-27.7.2018\n
+	Closed\n
+	30.7.-3.8.2018\n
+	Mon-Fri 8.00-16.00\n
+	6.-31.8.2018\n
+	Mon-Fri 7.30-16.00\n
+	Tel. +358 (0)3 355 111\n
+	Fax. +358 (0)3 31224528\n
+	Email: edu.info@uta.fi\n
+	Email addresses: firstname.lastname@uta.fi
+	
+u: ( * ["EDU" "Faculty of Education"] * )
+	The University of Tampere Faculty of Education in  is a research and  learning community exploring and analysing changes in education and  society. The faculty participates in building the idea of learning society in national and global scale by offering degree programmes for prospective educational professionals with top-quality societal and cultural expertise. The Faculty of Education promotes research which contributes to the basic understanding of conditions and possibilities of education in a time of global change. The faculty provides research-based basic and postgraduate education as well as continuing education.
+	
+u: ( * where * ["JKK" "Faculty of Management"] * )	
+	Postal address:\n
+	Faculty of Management (JKK)\n
+	33014  UNIVERSITY OF TAMPERE\n
+	Finland\n
+	Visiting address:\n
+	Kanslerinrinne 1 (Pinni A Building)
+
+u: ( * ["JKK" "Faculty of Management"] * )
+	Faculty of Management is an academic research and education unit operating in the areas of Politics, Business and Administrative Sciences. It is a large community with 3,500 students and more than 200 staff members, including 40 professors.\n
+	Faculty of Management provides students with a learning environment that enables them to fundamentally understand tomorrow’s world that is in the making from multiple perspectives. We seek novel ways to lead, govern and study across boundaries.
+
+u: ( * where * ["MED" "Faculty of Medicine"] * )	
+	Postal Address:\n
+	Faculty of Medicine and Life Sciences\n
+	PB 100\n
+	FI-33014 UNIVERSITY OF TAMPERE\n
+	FINLAND\n
+	Visiting Address:\n
+	Arvo Ylpön katu 34 (Arvo building), Tampere
+
+u: ( * ["MED" "Faculty of Medicine"] * )
+	The research in the Faculty of Medicine and Life Sciences covers different areas of medicine, from clinical to translational medicine.\n
+	A part of the research groups at the faculty belong to BioMediTech Institute, a joint research institute of the University of Tampere and Tampere University of Technology.\n
+	Research groups that are at work on cancer research at the faculty belong to our regional cancer center, Fican Mid, and to our local Tays Cancer Centre.\n
+	The Faculty of Medicine and Life Sciences offers the Licentiate of Medicine degree (M.D.), and the degrees of Bachelor of Science (B. Sc.) and Master of Science (M. Sc.).  The faculty also gives postgraduate education in the field of medicine. After completing the M.D. or M.Sc. degree, it is possible to apply for doctoral studies.
+
+u: ( * where * ["LUO" "Faculty of Natural Sciences"] * )
+	Postal address\n
+	Faculty of Natural Sciences\n
+	33014 University of Tampere, Finland\n
+	Visiting address of the Faculty Office\n
+	Kanslerinrinne 1, Pinni B Building, Ground floor, room B1053\n
+	Tel. +358 50 318 6398 Faculty Office\n
+	luo.info(at)uta.fi
+
+u: ( * ["LUO" "Faculty of Natural Sciences"] * )
+	The Faculty hosts the Tampere Research Center for Information and Systems (CIS). Active research topics of CIS include information systems, software development, databases, data analysis, statistics, logic and model theory, number theory, algebra, and algebraic geometry.\n
+	The Faculty also hosts the Center for Applied Statistics and Data Analytics (CAST) which offers collaboration in statistics and data analytics and provides R&D services.\n
+	Studies\n
+	The Faculty of Natural Sciences educates experts in Mathematics, Statistics and Computer Sciences, whose competence will play a crucial role in the development of an increasingly digital world.\n
+	Students graduating from the Faculty may find jobs with various businesses, educational institutions or research centres as project managers, Mathematics teachers, researchers, software designers or data analysts.
+
+u: ( * where * ["SOC" "Faculty of Social Sciences"] * )
+	Postal address:\n
+	Faculty of Social Sciences (SOC)\n
+	33014 UNIVERSITY OF TAMPERE\n
+	FINLAND\n
+	Visiting address:\n
+	Linna-building, 6. floor., Kalevantie 5\n
+	>> location\n
+	Faculty office is closed between 27.12.2017 - 3.1.2018.\n
+	Kauppi campus (Health Sciences)\n
+	Postal address:\n
+	PL 100\n
+	33014 UNIVERSITY OF TAMPERE\n
+	FINLAND\n
+	Visiting address:\n
+	Arvo, 3. floor\n
+	Arvo Ylpön katu 34 (ex. Lääkärinkatu 1)\n
+	33520 TAMPERE
+
+u: ( * ["SOC" "Faculty of Social Sciences"] * )
+	The Faculty of Social Sciences is a community of about 2,800 students and 400 employees, and its profile is firmly placed at the centre of the University of Tampere’s areas of strength: teaching and research in the fields of society and health. The teaching and research at the Faculty support people’s welfare, health and functional ability in our globalising and complex world, and the Faculty offers important contributions to solving various welfare challenges. The multidisciplinary Faculty of Social Sciences was formed when the School of Social Sciences and Humanities (YKY) and the School of Health Sciences (HES) merged. The Faculty’s internationally high-quality and multidisciplinary expertise extends from understanding the long processes of cultural change to topical questions about society and everyday life. Its areas of practical application range from population-level forecasts to the management of welfare systems and the education of professionals.\n
+	The Faculty educates students through degree programmes in health sciences, history, logopaedics, philosophy, psychology, social research and social work. The Faculty also runs two international master’s degree programmes. Some 600 students graduate annually with either a bachelor’s or a master’s degree.\n
+	The doctoral training offered is interwoven with research in the Faculty’s areas of focus. The Faculty is a strong actor in doctoral training at both the university level and in the networks of the fields that the Faculty specialises in. Approximately forty people complete their doctoral studies every year.
+
+u: ( * [period semester calendar] * )
+	Academic Calendar 2018-2019\n
+	Autumn semester 2018\n
+	Period I 27 Aug - 21 Oct\n
+	Period II: 22 Oct - 14 Dec\n
+	Spring semester 2019\n
+	Period III: 7 Jan - 3 March\n
+	Period IV: 4 March - 26 May\n
+	Teaching in the Spring Semester 2019 begins 7 January and ends by the end of May 2019. However, the academic year continues until 31 July 2019. All new international students are required to attend the Orientation Course (2 - 5 January, 2019).
+
+u: ( * admissions * )
+	Admissions Office\n
+	Contact Information\n
+	University Main Building, lecture room C7 (street address Kalevantie 4, Tampere)\n
+	Tel. +358 (0)50 318 7387 (line open 10-12 a.m.)\n
+	Fax +358 (0)3 219 1006\n
+	Email: admissions@uta.fi\n
+	Admissions Office is open 14 March - 31 August 2018 Mon-Fri 9.00-15.00 with the telephone line open during 12.00-14.00 Mon-Thu. From 3 September until 14 September 2018 Admissions Office is open Mon-Fri 9.00-11.00.
+	
+u: ( * {where contact address location find open information mail find} * [university "university of tampere" uta school address mail contact opening] * )
+	University of Tampere, Kalevantie 4, 33100 Tampere, Finland, Mailing address: FI-33014\n
+	Tampereen yliopisto. registry@uta.fi\n
+	Info desk tel. +358 50 318 6999 opastus@uta.fi Open Mon-Fri 8.00-15.45
+
+u: ( * [university "university of tampere" uta school address mail contact opening] * {where contact address location find open information mail find} * )
+	University of Tampere, Kalevantie 4, 33100 Tampere, Finland, Mailing address: FI-33014\n
+	Tampereen yliopisto. registry@uta.fi\n
+	Info desk tel. +358 50 318 6999 opastus@uta.fi Open Mon-Fri 8.00-15.45
+	
+u: ( what is your name ) My name is TUNIbotti, the best and greatest Tampere higher education chat bot out there!
+
+u: DEFAULT ()
+	Please ask me anything you [like] [want to know] [are wondering about].
