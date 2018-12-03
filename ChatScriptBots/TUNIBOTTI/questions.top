@@ -230,7 +230,17 @@ u: ( * [university "university of tampere" uta school address mail contact openi
 	University of Tampere, Kalevantie 4, 33100 Tampere, Finland, Mailing address: FI-33014\n
 	Tampereen yliopisto. registry@uta.fi\n
 	Info desk tel. +358 50 318 6999 opastus@uta.fi Open Mon-Fri 8.00-15.45
+
 	
+u: ( ["who is" "where can i find"] _*1 _*1 )
+	$etunimi = ^original('_0)
+	$sukunimi = ^original('_1)
+	Are you looking for $etunimi $sukunimi?
+	a: (~yes)
+		Please check this link: ^"http://www.uta.fi/haku/?haku=$sukunimi\+$etunimi"
+	a: (~no)
+		Oh, I was wrong!
+		
 u: ( what is your name ) My name is TUNIbotti, the best and greatest Tampere higher education chat bot out there!
 
 u: DEFAULT ()
