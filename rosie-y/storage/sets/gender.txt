@@ -11,4 +11,8 @@ guy
 dude
 lady
 chick
-
+non-binary
+nonbinary
+nb
+agender
+genderqueer

@@ -55,7 +55,7 @@
 <template><srai>INQUIRY GENDER <get name="gender"/></srai></template>
 </category>
 <category><pattern>INQUIRY GENDER UNKNOWN</pattern>
-<template>Are you a man or a woman?</template>
+<template>Would you like to tell me your gender?</template>
 </category>
 <category><pattern>INQUIRY GENDER *</pattern>
 <template><srai>RANDOM PICKUP LINE</srai></template>

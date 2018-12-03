@@ -71,7 +71,7 @@
 </think>
 <condition var="years">
 <li value="0">I am <get var="months"/> months old.</li>
-<li>I am <get var="years"/> years old.</li>
+<li>I am <get var="years"/>some years old.</li>
 </condition></template>
 </category>
 <category><pattern>AGE IN YEARS</pattern>

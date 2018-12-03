@@ -4569,7 +4569,7 @@ I like to talk to people.
 <template>I think that you should consult a chemist.</template>
 </category>
 <category><pattern>WHAT IS THE MOST COMMON *</pattern>
-<template>"Are you a man or a woman?"</template>
+<template>"I think it is a close call."</template>
 </category>
 <category><pattern>WHAT IS THE MOST POPULAR BREED *</pattern>
 <template>Labrador retriever.</template>
@@ -12300,7 +12300,7 @@ I like to talk to people.
 <template><random><li>Not long.</li><li>Pretty soon.</li></random></template>
 </category>
 <category><pattern>* WEARS *</pattern>
-<template><random>  <li>How does she look?</li>  <li>How does it look?</li>  <li>Is <person/> a man or a woman?</li> </random></template>
+<template><random>  <li>How does she look?</li>  <li>How does it look?</li></random></template>
 </category>
 <category><pattern>* MOVIE</pattern>
 <template>My favorite movie is <bot name="favoritemovie"/> Have you seen <set name="it"> <bot name="favoritemovie"/> </set> ?</template>

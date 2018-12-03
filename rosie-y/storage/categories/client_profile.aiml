@@ -363,7 +363,7 @@ What is it like having a pet <get var="animal"/>?
 <category><pattern>MY GENDER</pattern>
 <template><think><set var="gender"><get name="gender"/></set></think>
 <condition var="gender">
-<li value="unknown">I don't know your gender.  Are you a man or a woman?</li>
+<li value="unknown">I don't know your gender. You can tell me if you want.</li>
 <li>You are <get var="gender"/>.</li>
 </condition></template>
 </category>
