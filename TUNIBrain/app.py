@@ -20,7 +20,7 @@ dirname = os.path.dirname(abspath(getsourcefile(lambda:0)))
 app = Bottle()
 debug(True)
 #Are logs working
-logs_on = True
+logs_on = False
 
 RASA_ADDRESS = "http://localhost:5000/parse"
 RASA_THRESHOLD = 0.6
@@ -183,8 +183,10 @@ def test():
     #response = requests.get("api-address")
     #response = '{"intent": {"confidence": 0.5}}'
     rasa_query = '{"query":"' + cleaned_query + '", "project": "current"}'
-    rasa_response = requests.post(RASA_ADDRESS, data=rasa_query)
-    rasa_json = json.loads(rasa_response.text)
+    rasa_response = requests.post(RASA_ADDRESS, data=rasa_query.encode("utf-8"))
+    rasa_response.encoding = "utf-8"
+    print(rasa_response.text)
+    rasa_json = json.loads(rasa_response.text, encoding="utf-8")
     #print(rasa_json)
     receivedThreshold = rasa_json['intent']['confidence']
     print("rasa conf " + "{0:.2f}".format(receivedThreshold))
@@ -209,7 +211,8 @@ def test():
         print("trying program-y")
         try:
             aiml_response = requests.get(PROGRAMY_ENDPOINT.replace("*1",query)\
-            .replace("*2",username))
+            .replace("*2",username).encode("ISO 8859-1"))
+            aiml_response.encoding = "ISO 8859-1"
             aiml_json = json.loads(aiml_response.text)
             response = aiml_json[0]['response']['answer']
             Source = "Program-Y"
