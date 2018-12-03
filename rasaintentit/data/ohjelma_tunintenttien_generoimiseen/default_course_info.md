@@ -1,0 +1,40 @@
+## intent:defaultinfo
+- [*](course)
+- [*](course)
+- [*](course)
+- [*](course)
+- [*](course)
+- [*](course)
+- [*](course)
+- [*](course)
+- [*](course)
+- [*](course)
+- [*](course)
+- information [*](course)
+- [*](course) all information
+- [*](course) basic information
+- basic information [*](course)
+- [*](course) all
+- all [*](course)
+- everything about [*](course)
+- about [*](course)
+- what is [*](course)
+- what course is [*](course)
+- what can you tell me about [*](course)
+- what is there to know about [*](course)
+- what do you know about [*](course)
+- do you know about [*](course)
+- can you tell me about [*](course)
+- tell me everything about [*](course)
+- tell me about [*](course)
+- [*](course) full
+- [*](course) full information
+- [*](course) all information
+- [*](course) details
+- [*](course) all details
+- [*](course) summary
+- full information [*](course
+- all information [*](course)
+- details [*](course)
+- all details [*](course)
+- full [*](course)

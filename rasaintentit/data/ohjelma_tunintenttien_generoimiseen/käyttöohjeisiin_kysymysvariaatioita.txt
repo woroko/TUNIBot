@@ -1,0 +1,47 @@
+
+<--- nämä ovat variaatioita kysymyksiin, joilla käyttäjä saattaa yrittää pyytää käyttöohjeita -->
+
+
+## intent:ohjeet
+- what can I ask
+- what can I ask you
+- how can I ask questions
+- what questions can I ask you
+- what kind of questions can I ask
+- how should I phrase my questions
+- how to ask
+- how to ask questions
+- how can I ask
+- how should I ask
+- how to form a question
+- I don't know how to ask you
+- I don't know how to ask
+- I don't know what to say
+- I don't know what to ask
+- I want to know
+- I want to know how to ask
+- do you know about
+- what do you know about
+- help me talk to you
+- help me ask
+- help me phrase this
+- guide me
+- guide help
+- give me instructions
+- instruct me
+- instructions
+- guide
+- help
+- help me
+- help me ask you
+- tell me how to ask you
+- tell me how to ask you questions
+- what questions can you answer
+- what kind of question can you answer
+- what do you know
+- what kind of subjects can you talk about
+- what question can you answer
+- what kind of 	questions can you answer
+- what can you tell me
+- tell me
+- what can you say
