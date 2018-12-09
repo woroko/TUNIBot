@@ -39,6 +39,7 @@ html
 	width: 100%;
 	height: 380px;
 	scroll-behavior: smooth;
+	flex-direction: column;
 }
 
 #textfield_frame
@@ -71,10 +72,12 @@ html
 {
 	width: 100%;
 }
+
 tr
 {
 	white-space: pre;
 	white-space: pre-line;
+	display: flex;
 }
 
 tr:nth-child(even)

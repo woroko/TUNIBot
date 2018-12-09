@@ -123,16 +123,27 @@
             {
 
                 var username = '';
+                var base_value = 97;
                 var number;
+                var ascii_char;
                 var i;
 
-                for(i = 0; i < 6; i++)
+                for(i = 0; i < 15; i++)
                 {
-                    number = Math.floor(Math.random() * 10);
-                    username += number.toString();
+                    if(Math.floor(Math.random() * 10) < 5)
+                    {
+                        number = Math.floor(Math.random() * 10);
+                        username += number.toString();
+                    }
+                    else
+                    {
+                        ascii_char = (Math.random() * 25) + 1;
+                        number = String.fromCharCode(base_value + ascii_char);
+                        username += number;
+                    }
                 }
-                window.username = username;
 
+                window.username = username;
                 document.getElementById("username").innerHTML = "UserID: " + username;
             };
 
