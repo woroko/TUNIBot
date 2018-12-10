@@ -4,14 +4,17 @@
         <meta charset="utf-8">
         <link rel="stylesheet" type="text/css" href="chatbot_UI_tyyli.css">
         <title>TUNIBot</title>
-        <script src="https://unpkg.com/rivescript@latest/dist/rivescript.min.js"></script>
         <script
 			  src="https://code.jquery.com/jquery-3.3.1.js"
 			  integrity="sha256-2Kok7MbOyxpgUVvAk/HJ2jigOSYS2auK4Pfzbm7uH60="
-			  crossorigin="anonymous">	
+			  crossorigin="anonymous">
 		</script>
     </head>
     <body>
+
+        <p id="username">placeholder</p>
+        <button id="activate_chatbot_button" onclick="openChatWindow()">Activate TUNIChat</button>
+
         <div id="chatbot_frame">
             <div id="banner">
                 <p id="banner_text">TUNIBot Prototype</p>
@@ -25,10 +28,8 @@
                 <input id="input_field" type="search" placeholder="Type your message...">
                 <button id="submit_button">Submit</button>
             </div>
-
         </div>
-        <p id="username">placeholder</p>
-
+        
         <script type="text/javascript">
 
             var input = document.getElementById("input_field");
@@ -79,7 +80,6 @@
                 child.textContent = "Bot says: " + parsed_text;
                 cell.appendChild(child);
                 child.scrollIntoView();
-
             };
 
             function bindCallback()
@@ -117,7 +117,6 @@
                             createBotChatBubble(data);
                         });
                     });
-
                 });
             };
 
@@ -154,8 +153,26 @@
 
                 window.username = username;
                 document.getElementById("username").innerHTML = "UserID: " + username;
+                window.localStorage.setItem("UserID", username);
             };
 
-        </script>    
+            function openChatWindow()
+            {
+                var chat_window = document.getElementById("chatbot_frame");
+
+                if(document.getElementById("activate_chatbot_button").innerHTML == "Activate TUNIChat")
+                {
+                    document.getElementById("activate_chatbot_button").innerHTML = "Deactivate TUNIChat";
+                    chat_window.style.display = "block";
+                }
+                else
+                {
+                    document.getElementById("activate_chatbot_button").innerHTML = "Activate TUNIChat";
+                    chat_window.style.display = "none";
+                }
+            };
+
+        </script>
+
     </body>
 </html>
