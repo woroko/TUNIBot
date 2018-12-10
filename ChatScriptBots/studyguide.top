@@ -1,0 +1,32 @@
+topic: ~QUESTIONS keep repeat ( university of tampere technology uta tut tamk yliopisto teknillinen ammattikorkeakoulu tuni registrar main building pinni a b linna virta atalpa kauppi )
+
+u: (["courses in period" "in period"] _*1)
+    $period = '_0
+    if ($period == "four"){
+        $period = 4
+    }
+    else if ($period == "three"){
+        $period = 3
+    }
+    else if ($period == "two"){
+        $period = 2
+    }
+    else if ($period == "one"){
+        $period = 1
+    }
+    What do you study?
+        a: ([tkt "computer science" tietojenkäsittelytiede tietojenkasittelytiede])
+            You can find the courses here:\n
+            ^"https://www10.uta.fi/opas/opetusohjelma/opetusohjelma.htm?lvv=2018&ops=162&ots=15&kieli=en#opsi__periodi__$period"
+        a: ([maths mathematics statistics stats matematiikka matikka])
+            You can find the courses here:\n
+            ^"https://www10.uta.fi/opas/opetusohjelma/opetusohjelma.htm?lvv=2018&ops=162&ots=10&kieli=en#opsi__periodi__$period"
+        
+u: ([courses "study guide"])
+    What do you study?
+        a: ([tkt "computer science" tietojenkäsittelytiede tietojenkasittelytiede])
+            You can find the courses here:\n
+            https://www10.uta.fi/opas/opetusohjelma/opetusohjelma.htm?lvv=2018&ops=162&ots=15&kieli=en
+        a: ([maths mathematics statistics stats matematiikka matikka])
+            You can find the courses here:\n
+            https://www10.uta.fi/opas/opetusohjelma/opetusohjelma.htm?lvv=2018&ops=162&ots=10&kieli=en
