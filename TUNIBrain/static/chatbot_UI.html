@@ -52,6 +52,7 @@
 
                 child.textContent = "You said: " + text;
                 cell.appendChild(child);
+                child.scrollIntoView();
 
             };
 
@@ -77,6 +78,7 @@
 
                 child.textContent = "Bot says: " + parsed_text;
                 cell.appendChild(child);
+                child.scrollIntoView();
 
             };
 
@@ -123,23 +125,30 @@
             {
 
                 var username = '';
-                var base_value = 97;
+                var base_value_lower_case = 97;
+                var base_value_upper_case = 65;
                 var number;
                 var ascii_char;
                 var i;
 
-                for(i = 0; i < 15; i++)
+                for(i = 0; i < 32; i++)
                 {
                     if(Math.floor(Math.random() * 10) < 5)
                     {
                         number = Math.floor(Math.random() * 10);
                         username += number.toString();
                     }
+                    else if(Math.floor(Math.random() * 10) < 5)
+                    {
+                        ascii_char = (Math.random() * 25) + 1;
+                        number = String.fromCharCode(base_value_lower_case + ascii_char);
+                        username += number;
+                    }
                     else
                     {
                         ascii_char = (Math.random() * 25) + 1;
-                        number = String.fromCharCode(base_value + ascii_char);
-                        username += number;
+                        number = String.fromCharCode(base_value_upper_case + ascii_char);
+                        username += number; 
                     }
                 }
 
