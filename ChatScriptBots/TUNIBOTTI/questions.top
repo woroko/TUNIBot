@@ -106,6 +106,26 @@ u: ([courses "study guide"])
 			You can find the courses here:\n
 			https://www10.uta.fi/opas/opetusohjelma/opetusohjelma.htm?lvv=2018&ops=162&ots=10&kieli=en
 
+u: ( ["who is" "where can i find"] _*1 _*1 )
+	$etunimi = ^original('_0)
+	$sukunimi = ^original('_1)
+	^"Are you looking for $etunimi $sukunimi?"
+	a: (~yes)
+		Please check this link: ^"http://www.uta.fi/haku/?haku=$sukunimi\+$etunimi"
+	a: (~no)
+		Oh, I was mistaken!
+	
+u: ( ["who is" "where can i find"] _*1 )
+	$kokonimi = ^original('_0)
+	_0 = ^burst($kokonimi)
+	$etunimi = _0
+	$sukunimi = _1
+	^"Are you looking for $etunimi $sukunimi?"
+	a: (~yes)
+		Please check this link: ^"http://www.uta.fi/haku/?haku=$sukunimi\+$etunimi"
+	a: (~no)
+		Oh, I was mistaken!
+			
 u: ( registrar )
 	Contact Informatio\n
 	University main building, Kalevantie 4, room A 121\n
@@ -316,27 +336,162 @@ u: ( [university "university of tampere" uta school address mail contact opening
 	Tampereen yliopisto. registry@uta.fi\n
 	Info desk tel. +358 50 318 6999 opastus@uta.fi Open Mon-Fri 8.00-15.45
 	
-u: ( ["who is" "where can i find"] _*1 _*1 )
-	$etunimi = ^original('_0)
-	$sukunimi = ^original('_1)
-	^"Are you looking for $etunimi $sukunimi?"
-	a: (~yes)
-		Please check this link: ^"http://www.uta.fi/haku/?haku=$sukunimi\+$etunimi"
-	a: (~no)
-		Oh, I was mistaken!
+u: (["parking" << parking at the university >>])
+	Parking\n
+	All parking places at the University require a paid permit. There is limited space for parking on the campuses.\n
+	The parking places are controlled by the City of Tampere’s parking control.\n
+	http://www.uta.fi/english/administration/universityservices/facilities/parking.html
 	
-u: ( ["who is" "where can i find"] _*1 )
-	$kokonimi = ^original('_0)
-	_0 = ^burst($kokonimi)
-	$etunimi = _0
-	$sukunimi = _1
-	^"Are you looking for $etunimi $sukunimi?"
-	a: (~yes)
-		Please check this link: ^"http://www.uta.fi/haku/?haku=$sukunimi\+$etunimi"
-	a: (~no)
-		Oh, I was mistaken!
+u: ([<< lunch minerva >> << lunch pinni b >> << food minerva >> << food pinni b >> << pinni b menu >> << minerva menu >> "minerva" << restaurant pinni b >>])
+	Restaurant Minerva is located on the second floor of Pinni Building B of the University of Tampere at Kanslerinrinne 1.\n
+	https://www.fazerfoodco.fi/en/restaurants/Ravintolat-kaupungeittain/tampere/minerva/
 	
-u: ( what is your name ) My name is TUNIbotti, the best and greatest Tampere higher education chat bot out there!
+u: ([<< lunch juvenes >> << lunch main building >> << food juvenes >> << food main building >> << main building menu >> << juvenes menu >> << juvenes >> << restaurant main building >> << Cafe alakuppila >> << cafe pinni >>])
+	Restaurant Juvenes is located on the second floor of Main Building of the University of Tampere.\n
+	https://www.juvenes.fi/uta
+	
+u: ([<< lunch sodexo >> << lunch library >> << food sodexo >> << food linna >> << food library >> << menu linna >> << menu sodexo >> << menu library >> << restaurant linna >> << restaurant sodexo >> << restaurant library >> "sodexo"])
+	Restaurant Sodexo Linna is located on the first floor of Library building Linna of the University of Tampere at Kalevantie 5.\n
+	https://www.sodexo.fi/linna
+	
+u: ([<< kauppi kampus restaurants >> << food at kauppi kampus >> << lunch kauppi >>])
+	https://www.juvenes.fi/kauppi/en
+	
+u: ([restaurant food lunch])
+	Restaurants and menus:\n
+	http://www.uta.fi/en/cooperation-and-services/restaurants-and-menus
+	
+u: (cast)
+	CAST was created to build a recognized center of expertise on the area of applied statistics and data analytics that would enable\n
+	University of Tampere to be a strong partner in local and global scene.\n
+	This would include the inclusive research, professional consulting services and excellence in education.\n
+	https://research.uta.fi/cast/
+	
+u: (["applied statistics and data analytics" << center statistic analytic >> << centre statistic analytic >>])
+	CAST was created to build a recognized center of expertise on the area of applied statistics and data analytics that would enable\n
+	University of Tampere to be a strong partner in local and global scene.\n
+	This would include the inclusive research, professional consulting services and excellence in education.\n
+	https://research.uta.fi/cast/
+	
+u: ([demola << demola project >>])
+	Demola brings together employees from partner organizations and students\n
+	from the higher education institutions in Tampere to tackle agile projects.\n
+	https://www.uta.fi/en/yhteistyo-ja-palvelut/demola-projekti
+	
+u: ([<< it-helpdesk >> << it helpdesk >> << it help >> << helpdesk >>])
+	IT-helpdesk\n
+	E-mail: it-helpdesk@uta.fi\n
+	Telephone: +358 40 190 4141\n
+	Visiting address:\n
+	Main Building E246, Arvo E106\n
+	\n
+	Opening hours:\n
+	Mon-Thu 8am-4pm, Fri 8am-3pm\n
+	On eves and outside teaching periods\n
+	Mon-Fri 8am-3pm\n
+	http://www.uta.fi/it-helpdesk/en
+	
+u: (["centre for international education" << international education centre >> << international education center >> << international education >>])
+	The Centre for International Education coordinates the student, teacher and staff mobility,\n
+	international degree programmes, as well as education export at the University of Tampere.\n
+	International Office\n
+	Main Building, room A 129\n
+	Street address: Kalevantie 4\n
+	Tel. +358 50 318 6006\n
+	intoffice@uta.fi (General inquiries, exchange and visiting students)\n
+	admissions@uta.fi (Degree programmes)\n
+	\n
+	Opening hours:\n
+	Mon-Thu 10-11 and 12-14, Fri 12-13\n
+	(Closed on Friday the 7th of December 2018)\n
+	https://www.uta.fi/opiskelunopas/en/centre-international-education
+	  
+u: ([<< language culture service >> << language culture >> << language service >> << culture service >>])
+	http://www.uta.fi/en/cooperation-and-services/language-and-culture-services
+	
+u: ([<< language centre >> << language center >>])
+	Language and communication skills are an integral part of academic competence in our increasingly international and interdisciplinary world.\n
+	The Language Centre’s effective language and international communication courses\n
+	provide practical language skills that support academic studies, career development and research.\n
+	http://www.uta.fi/kielikeskus/en/index.html
+	
+u: (["registry and records management" << registry record >> << registry record management >>])
+	Registry and Records Management\n
+	The task of the Registry is to process and register incoming and outgoing documents in a computer based record\n
+	and to give advice on matters related to the processing of documents.\n
+	The Registry is open on weekdays at 9:00–15:00.\n
+	\n
+	Visiting address:\n
+	Main building of the University, B-wing, 2nd floor\n
+	Kalevantie 4, 33101 Tampere\n
+	Tel. +358 (0)50 318 6689\n
+	E-mail registry@uta.fi\n
+	http://www.uta.fi/english/administration/universityservices/registry.html
+	
+u:  (["library" "university library" << library university >>])
+	Tampere University Library is a scientific library open to everyone.\n
+	Library services are primarily developed to support the teaching and research of the University of Tampere.\n
+	The Library serves in Linna library on Main campus and in Arvo library on Kauppi campus.\n
+	http://www.uta.fi/kirjasto/en/index.html
+	
+u: (["laboratory services" << laboratory service >>])
+	Information about Laboratory services:\n
+	http://www.uta.fi/las/en
+	
+u: (["sports" << university sports >> "exercise" << exercise university >>])
+	Information about sport possibilities:\n
+	http://sport.unipolitampere.fi/indexen.html
+	
+u: (["lost property" "lost and found" << lose find >> << where lost >> "i lost" << lose property >>])
+	Lost property\n
+	The house managers of the respective buildings are in charge of lost property on the University campus areas.\n
+	The lost property location on the man campus is by the main door of the Main Building, at the info desk. For the Kauppi campus the lost property point is the info desk in the Arvo Building.\n
+	Clothing left on pegs on campus will be collected into a carton by the pegs.\n
+	http://www.uta.fi/en/cooperation-and-services/lost-property
+	
+u: ("study services")
+	https://www.uta.fi/opiskelunopas/en/study-services
+	
+u: ([accessibility premises wheelchair])
+	Information about accessibility at University of Tampere.\n
+	https://www.uta.fi/opiskelunopas/en/essential-information/accessibility
+	
+u: ([<< tampere university press >> << university press >>])
+	http://www.uta.fi/kirjasto/en/tup/index.html
+	
+u: ([<< tampere centre for skills training and simulation >> << skills training and simulation >>])
+	http://sites.uta.fi/taitokeskus/en/
+	
+u: ([<< finnish social science data archive >> data archive])
+	Finnish Social Science Data Archive:\n
+	https://www.fsd.uta.fi/en/
+	
+u: (<< it administration >>)
+	IT administration:\n
+	http://www.uta.fi/english/administration/universityservices/it/index.html
+	
+u: ("security" "crisis")
+	http://www.uta.fi/english/administration/universityadministration/facilities/security.html
+	
+u: ("synergos")
+	http://www.uta.fi/jkk/synergos/en/index.html
+	
+u: (<< research service >>)
+	http://www.uta.fi/english/administration/universityservices/researchservices.html
+	
+u: ([<< service visitor >> visitor])
+	http://www.uta.fi/en/cooperation-and-services/services-for-visitors
+	
+u: ([<< press information office >> << press information >> << information office >>])
+	http://www.uta.fi/english/administration/universityservices/press.html
+	
+u: (["y-kampus" "y kampus" "y-campus" "y campus"])
+	https://www.y-kampus.fi/en/
+	
+u: (["ekokampus" "ecocampus"])
+	http://www.uta.fi/ekokampus/en/about.html
+	
+u: ( what is your name ) My name is Tunibotti, the best and greatest Tampere higher education chat bot out there!
 
 u: DEFAULT ()
 	Please ask me anything you [like] [want to know] [are wondering about].
