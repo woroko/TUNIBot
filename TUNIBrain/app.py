@@ -132,11 +132,17 @@ def parse_rasa_json(receivedThreshold, rasa_json):
                         uta = UTA_PARSER.find_course_teaching_times(id=coursecode)
                         if len(uta) > 2:
                             response = uta
+                        tamk = tamk_examSchedule(id=coursecode)
+                        if len(tamk) > 2:
+                            response += tamk
                     elif rasa_json["entities"][0]["entity"] == "coursename":
                         coursename = rasa_json["entities"][0]['value']
                         uta = UTA_PARSER.find_course_teaching_times(name=coursename)
                         if len(uta) > 2:
                             response = uta
+                        tamk = tamk_examSchedule(name=coursename)
+                        if len(tamk) > 2:
+                            response += tamk
                 else:
                     response = "Are you asking for course schedules?\nYou need to mention a course code/name to help me search."
 
@@ -191,9 +197,34 @@ def parse_rasa_json(receivedThreshold, rasa_json):
                 else:
                     response = "Are you asking for course name?\nYou need to mention a course code to help me search."
 
+            if rasa_json['intent']['name'] == 'paikka':
+                if len(rasa_json["entities"]) > 0:
+                    if rasa_json["entities"][0]["entity"] == "course":
+                        coursecode = rasa_json["entities"][0]['value']
+                        uta = UTA_PARSER.find_course_teaching_times(id=coursecode)
+                        tamk = tamk_location(id=coursecode)
+                        if len(uta) > 2:
+                            response = uta
+                        if len(tamk) > 2:
+                            response += tamk
+                    elif rasa_json["entities"][0]["entity"] == "coursename":
+                        coursename = rasa_json["entities"][0]['value']
+                        uta = UTA_PARSER.find_course_teaching_times(name=coursename)
+                        tamk = tamk_location(name=coursename)
+                        if len(uta) > 2:
+                            response = uta
+                        if len(tamk) > 2:
+                            response += tamk
+                else:
+                    response = "Are you asking for course location?\nYou need to mention a course code/name to help me search."
+
+
     except Exception as e:
         print("Error in rasa code:")
         print(e)
+
+    if response is not None and len(response) < 3:
+        response = None
 
     return response
 

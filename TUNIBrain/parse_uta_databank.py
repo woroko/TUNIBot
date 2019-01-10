@@ -8,7 +8,7 @@ import math
 
 class UTAJsonParser:
     def parse_files(self, json_dir):
-        with open(json_dir + '/uta_course_implementations.json', 'r', encoding="latin-1") as f:
+        with open(json_dir + '/uta_course_implementations.json', 'r', encoding="utf-8") as f:
             self.course_implementations = json.load(f)
 
     def __init__(self, json_dir):
@@ -55,7 +55,7 @@ class UTAJsonParser:
                 response += "\n"'''
                 i=0
                 for match in sorted(ordered_matches, key=lambda x: x[1]):
-                    if i > 2:
+                    if i > 0:
                         break
                     course_json = matches[match[0]]
                     if match[1] < 63113851.0: # 2 years

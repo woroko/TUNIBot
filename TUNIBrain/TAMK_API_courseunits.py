@@ -41,4 +41,5 @@ def tamk_credits(id=None, name=None):
         info = tamk_API_courseunits(name=name)
     credits = info['courseUnits'][0]['credits']
     return("Course "+ info['courseUnits'][0]['name'] +" is worth "+str(credits)+" credits.")
+
 print(tamk_credits("IM00BR45"))
