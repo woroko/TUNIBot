@@ -1,4 +1,5 @@
 import requests, json
+import traceback
 
 #Gets courses info from TAMK API by course id
 def tamk_API_courseunits(id=None, name=None):
@@ -18,6 +19,19 @@ def tamk_API_courseunits(id=None, name=None):
     ret = json.loads(r.text)
     return ret
 
+#Searches course name by its id
+def tamk_course_name_fromunit(id=None):
+    try:
+        if id is not None:
+            info = tamk_API_courseunits(id=id)
+        name = info['courseUnits'][0]['name']
+        print("unit info:")
+        print(info)
+        return("Name of the course "+str(id)+" is "+name+".")
+    except Exception as e:
+        pass
+        #print("from courseunit error")
+        #traceback.print_exc()
 
 #Searches courses credits by its id
 def tamk_credits(id=None, name=None):

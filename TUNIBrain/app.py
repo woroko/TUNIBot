@@ -1,3 +1,5 @@
+from gevent import monkey; monkey.patch_all()
+
 from bottle import Bottle, run, \
 template, debug, static_file, request, post, get, route, hook, response
 
@@ -29,9 +31,6 @@ RASA_SPECIAL = 0.2
 RASA_SPECIAL_ENTITY = 0.35
 UTA_PARSER = UTAJsonParser("jsons")
 PROGRAMY_ENDPOINT = "http://localhost:8989/api/rest/v1.0/ask?question=*1&userid=*2"
-
-
-from gevent import monkey; monkey.patch_all()
 
 @app.hook('after_request')
 def enable_cors():
@@ -80,7 +79,7 @@ def login():
     '''
 
 def parse_rasa_json(receivedThreshold, rasa_json):
-    response = None
+    response = ""
     try:
         if receivedThreshold > RASA_THRESHOLD or (receivedThreshold > RASA_SPECIAL and \
         "entities" in rasa_json and len(rasa_json['entities']) > 0 and \
@@ -182,10 +181,13 @@ def parse_rasa_json(receivedThreshold, rasa_json):
                         coursecode = rasa_json["entities"][0]['value']
                         uta = UTA_PARSER.find_course_name(coursecode)
                         tamk = tamk_course_name(id=coursecode)
-                        if len(uta) > 2:
+                        tamk2 = tamk_course_name_fromunit(id=coursecode)
+                        if uta is not None and len(uta) > 2:
                             response = uta
-                        if len(tamk) > 2:
+                        if tamk is not None and len(tamk) > 2:
                             response += tamk
+                        if tamk2 is not None and len(tamk2) > 2:
+                            response += tamk2
                 else:
                     response = "Are you asking for course name?\nYou need to mention a course code to help me search."
 
