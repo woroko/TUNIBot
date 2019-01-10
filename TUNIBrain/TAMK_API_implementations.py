@@ -1,6 +1,7 @@
 import requests, json
 from datetime import datetime
 import dateutil.parser
+import traceback
 
 #Gets courses info from TAMK API by course id
 def tamk_API_implementations(id=None, name=None):
@@ -12,7 +13,7 @@ def tamk_API_implementations(id=None, name=None):
         if id is not None:
             info = {"codes": [id]}
         elif name is not None:
-            info = {"name": [name]}
+            info = {"name": name}
         info = json.dumps(info)
         loaded_info = json.loads(info)
 
@@ -21,7 +22,7 @@ def tamk_API_implementations(id=None, name=None):
         ret = json.loads(r.text)
         return ret
     except Exception as e:
-        print(e)
+        traceback.print_exc()
 
     return None
 
@@ -33,15 +34,19 @@ def tamk_course_name(id=None):
         name = info['realizations'][0]['name']
         return("Name of the course "+str(id)+" is "+name+".")
     except Exception as e:
-        print(e)
-    
+        traceback.print_exc()
+
 #Searches courses teaching language by its id
 def tamk_teachingLanguage(id=None, name=None):
     try:
         if id is not None:
             info = tamk_API_implementations(id=id)
+            #print(info)
+            #print("CODE")
         elif name is not None:
             info = tamk_API_implementations(name=name)
+            #print(info)
+            #print("NAME")
         language = info['realizations'][0]['teachingLanguage']
         if(language == 'en'):
             language = 'english'
@@ -51,7 +56,7 @@ def tamk_teachingLanguage(id=None, name=None):
             language = 'swedish'
         return("Teaching language of the course "+info['realizations'][0]['name']+" is "+language+".")
     except Exception as e:
-        print(e)
+        traceback.print_exc()
     return ""
 
 
@@ -67,7 +72,7 @@ def tamk_startDate(id=None, name=None):
         startDate = startDate.strftime('%d-%m-%Y')
         return("Starting date of the course "+info['realizations'][0]['name']+" is "+str(startDate)+".")
     except Exception as e:
-        print(e)
+        traceback.print_exc()
     return ""
 
 
@@ -90,7 +95,7 @@ def tamk_location(id=None, name=None):
             location = sv_location
         return("Location of the course "+info['realizations'][0]['name']+" is "+location+"." )
     except Exception as e:
-        print(e)
+        traceback.print_exc()
 
     return ""
 
@@ -108,11 +113,11 @@ def tamk_examSchedule(id=None, name=None):
             exams = "unknown"
         return("Exam schedule of the course "+info['realizations'][0]['name']+" is: "+exams)
     except Exception as e:
-        print(e)
+        traceback.print_exc()
     return""
 
 #print(tamk_course_name("IM00BR45-3003"))
-#print(tamk_teachingLanguage("IM00BR45-3003"))
+#print(tamk_teachingLanguage(name="Knowledge Management"))
 #print(tamk_startDate("IM00BR45-3003"))
 #print(tamk_location("IM00BR45-3003"))
 #print(tamk_examSchedule("IM00BR45-3003"))
