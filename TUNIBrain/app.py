@@ -176,6 +176,18 @@ def parse_rasa_json(receivedThreshold, rasa_json):
                             response += tamk
                 else:
                     response = "Are you asking for course credits?\nYou need to mention a course code/name to help me search."
+            if rasa_json['intent']['name'] == 'nimi':
+                if len(rasa_json["entities"]) > 0:
+                    if rasa_json["entities"][0]["entity"] == "course":
+                        coursecode = rasa_json["entities"][0]['value']
+                        uta = UTA_PARSER.find_course_name(coursecode)
+                        tamk = tamk_course_name(id=coursecode)
+                        if len(uta) > 2:
+                            response = uta
+                        if len(tamk) > 2:
+                            response += tamk
+                else:
+                    response = "Are you asking for course name?\nYou need to mention a course code to help me search."
 
     except Exception as e:
         print("Error in rasa code:")

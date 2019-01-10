@@ -33,6 +33,40 @@ class UTAJsonParser:
     def current_date_sort(date):
         pass
 
+    def find_course_name(self, id):
+        matches = self.search_regular_course_implementation(id=id)
+        ordered_matches = []
+        currentDate = datetime.now()
+        for i in range(0, len(matches)):
+            try:
+                start = dateutil.parser.parse(matches[i]['startDate'])
+                diff = start - currentDate
+                ordered_matches.append((i, math.fabs(diff.total_seconds())))
+            except Exception as e:
+                print(e)
+                print("find_course_start_date invalid")
+
+        response = ""
+        if len(matches) > 0:
+            try:
+                '''response += "Found matching courses at UTA."
+                if len(matches) > 1:
+                    response += " Displaying top 3."
+                response += "\n"'''
+                i=0
+                for match in sorted(ordered_matches, key=lambda x: x[1]):
+                    if i > 2:
+                        break
+                    course_json = matches[match[0]]
+                    if match[1] < 63113851.0: # 2 years
+                        response += "  Course " + course_json['code'] + " is called " \
+                            + course_json['name'] + ".\n"
+                    i += 1
+            except Exception as e:
+                print("find_course_name error")
+
+        return response
+
     def find_course_start_date(self, id=None, name=None):
         if (id is not None):
             matches = self.search_regular_course_implementation(id=id)
@@ -75,7 +109,7 @@ class UTAJsonParser:
             matches = self.search_regular_course_implementation(id=id)
         elif(name is not None):
             matches = self.search_regular_course_implementation(name=name)
-        ordered_matches = []    
+        ordered_matches = []
         currentDate = datetime.now()
         for i in range(0, len(matches)):
             try:
@@ -86,7 +120,7 @@ class UTAJsonParser:
                 print(e)
                 print("find_course_credits invalid")
         response = ""
-        
+
         if len(matches) > 0:
             try:
                 i=0
@@ -105,9 +139,9 @@ class UTAJsonParser:
                 print("find_course_credits error")
 
         return response
-            
-        
-        
+
+
+
     def find_course_teachinglanguage(self, id=None, name=None):
         if (id is not None):
             matches = self.search_regular_course_implementation(id=id)
@@ -218,7 +252,7 @@ class UTAJsonParser:
                 print("find_course_teaching_times error")
 
         return response
-        
+
     def find_course_deviations(self, id=None, name=None):
         if (id is not None):
             matches = self.search_regular_course_implementation(id=id)
@@ -249,7 +283,7 @@ class UTAJsonParser:
                         #response += "Study groups and schedules: \n"
                         group_idx = 0
                         for group in course_json['_opsi_opryhmat']:
-                        
+
                             deviations_found = False
                             for time in group['ajat']:
                                 if time['poikkeusajat']:
@@ -261,10 +295,10 @@ class UTAJsonParser:
                                         #print(deviation.keys())
                                         alkuminuutit = deviation['alkuaika']
                                         #response += "loytyi poikkeus \n"
-                                
+
                                     deviations_found = True
-                        
-                        
+
+
                         if deviations_found is False:
                             response += "No deviations found."
                     i += 1
@@ -291,7 +325,7 @@ def dump_course_codes(parser):
             code = course['code']
             if len(code) > 1:
                 f.write(code + "\n")
-                
+
 def dump_course_names(parser):
     with open("uta_course_names.txt", 'w') as f:
         for course in parser.course_implementations:
