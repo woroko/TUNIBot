@@ -10,6 +10,7 @@ from inspect import getsourcefile
 from os.path import abspath
 from parse_uta_databank import UTAJsonParser
 from TAMK_API_implementations import *
+from TAMK_API_courseunits import *
 
 from Log import Logger
 
@@ -112,12 +113,16 @@ def parse_rasa_json(receivedThreshold, rasa_json):
                         tamk = tamk_teachingLanguage(id=coursecode)
                         if len(uta) > 2:
                             response = uta
+                        if len(tamk) > 2:
+                            response += tamk
                     elif rasa_json["entities"][0]["entity"] == "coursename":
                         coursename = rasa_json["entities"][0]['value']
                         uta = UTA_PARSER.find_course_teachinglanguage(name=coursename)
                         tamk = tamk_teachingLanguage(name=coursename)
                         if len(uta) > 2:
                             response = uta
+                        if len(tamk) > 2:
+                            response += tamk
                 else:
                     response = "Are you asking for course teaching language?\nYou need to mention a course code/name to help me search."
             if rasa_json['intent']['name'] == 'opetusajat' or \
@@ -156,13 +161,19 @@ def parse_rasa_json(receivedThreshold, rasa_json):
                     if rasa_json["entities"][0]["entity"] == "course":
                         coursecode = rasa_json["entities"][0]['value']
                         uta = UTA_PARSER.find_course_credits(id=coursecode)
+                        tamk = tamk_credits(id=coursecode)
                         if len(uta) > 2:
                             response = uta
+                        if len(tamk) > 2:
+                            response += tamk
                     elif rasa_json["entities"][0]["entity"] == "coursename":
                         coursename = rasa_json["entities"][0]['value']
-                        uta = UTA_PARSER.find_course_credits(coursecode)
+                        uta = UTA_PARSER.find_course_credits(name=coursename)
+                        tamk = tamk_credits(name=coursename)
                         if len(uta) > 2:
                             response = uta
+                        if len(tamk) > 2:
+                            response += tamk
                 else:
                     response = "Are you asking for course credits?\nYou need to mention a course code/name to help me search."
 
