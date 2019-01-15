@@ -253,7 +253,7 @@ def parse_rasa_json(receivedThreshold, rasa_json):
 
     except Exception as e:
         print("Error in rasa code:")
-        print(e)
+        traceback.print_exc()
 
     # if response is too short (empty), set response to None in order to use ChatScript or rosie response
     if response is not None and len(response) < 3:
