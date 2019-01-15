@@ -14,6 +14,8 @@ class UTAJsonParser:
     def __init__(self, json_dir):
         self.parse_files(json_dir)
 
+    # search courses, return as list
+    # TODO: implement fuzzy matching for course name
     def search_regular_course_implementation(self, id=None, name=None):
         courses = []
         try:
@@ -30,9 +32,8 @@ class UTAJsonParser:
 
         return courses
 
-    def current_date_sort(date):
-        pass
 
+    # search courses, sort matches by date, parse course name and return as string
     def find_course_name(self, id):
         matches = self.search_regular_course_implementation(id=id)
         ordered_matches = []
@@ -49,10 +50,6 @@ class UTAJsonParser:
         response = ""
         if len(matches) > 0:
             try:
-                '''response += "Found matching courses at UTA."
-                if len(matches) > 1:
-                    response += " Displaying top 3."
-                response += "\n"'''
                 i=0
                 for match in sorted(ordered_matches, key=lambda x: x[1]):
                     if i > 0:
@@ -67,6 +64,7 @@ class UTAJsonParser:
 
         return response
 
+    # search courses, sort matches by date, parse start date and return as string
     def find_course_start_date(self, id=None, name=None):
         if (id is not None):
             matches = self.search_regular_course_implementation(id=id)
@@ -104,6 +102,7 @@ class UTAJsonParser:
 
         return response
 
+    # search courses, sort matches by date, parse credit amount and return as string
     def find_course_credits(self, id=None, name=None):
         if(id is not None):
             matches = self.search_regular_course_implementation(id=id)
@@ -141,7 +140,7 @@ class UTAJsonParser:
         return response
 
 
-
+    # search courses, sort matches by date, parse teaching language and return as string
     def find_course_teachinglanguage(self, id=None, name=None):
         if (id is not None):
             matches = self.search_regular_course_implementation(id=id)
@@ -182,6 +181,7 @@ class UTAJsonParser:
 
         return response
 
+    # search courses, sort matches by date, parse teaching times and return as string
     def find_course_teaching_times(self, id=None, name=None):
         if (id is not None):
             matches = self.search_regular_course_implementation(id=id)
@@ -253,6 +253,7 @@ class UTAJsonParser:
 
         return response
 
+    # search courses, sort matches by date, parse exception times and return as string
     def find_course_deviations(self, id=None, name=None):
         if (id is not None):
             matches = self.search_regular_course_implementation(id=id)
@@ -280,10 +281,8 @@ class UTAJsonParser:
                     if match[1] < 63113851.0: # 2 years
                         response += "  Course " + course_json['name'] + ", start date " \
                             + course_json['startDate'] + ".\n"
-                        #response += "Study groups and schedules: \n"
                         group_idx = 0
                         for group in course_json['_opsi_opryhmat']:
-
                             deviations_found = False
                             for time in group['ajat']:
                                 if time['poikkeusajat']:
@@ -309,7 +308,7 @@ class UTAJsonParser:
         return response
 
 
-
+    # not yet implemented
     def search_tampub(self, id=None, name=None):
         pubs = []
         try:

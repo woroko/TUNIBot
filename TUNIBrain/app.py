@@ -21,28 +21,33 @@ import re
 dirname = os.path.dirname(abspath(getsourcefile(lambda:0)))
 
 app = Bottle()
-debug(True)
-#Are logs working
+#debug(True)
+
+# enable or disable logging
 logs_on = False
 
-RASA_ADDRESS = "http://localhost:5000/parse"
-RASA_THRESHOLD = 0.6
-RASA_SPECIAL = 0.2
-RASA_SPECIAL_ENTITY = 0.35
-UTA_PARSER = UTAJsonParser("jsons")
+RASA_ADDRESS = "http://localhost:5000/parse" # http address of rasa server
+RASA_THRESHOLD = 1.1 # confidence threshold for using rasa response (when no entities are detected)
+# RASA_THRESHOLD is never achieved (max is 1.0), effectively switched off when no entities detected
+RASA_THRESHOLD_DEFAULTINFO = 0.95 # confidence threshold for using rasa response (when no entities are detected)
+RASA_SPECIAL = 0.25 # confidence threshold for using rasa response (when entities are detected)
+RASA_SPECIAL_ENTITY = 0.35 # entity confidence threshold for using rasa response (when entities are detected)
+UTA_PARSER = UTAJsonParser("jsons") # initialize uta parser with jsons directory
 PROGRAMY_ENDPOINT = "http://localhost:8989/api/rest/v1.0/ask?question=*1&userid=*2"
 
+# add cors header to all requests
 @app.hook('after_request')
 def enable_cors():
-    response.headers['Access-Control-Allow-Origin'] = 'http://localhost:8082'
+    response.headers['Access-Control-Allow-Origin'] = '*'
 
+# return files from the static path
 @app.route('/static/<filename>')
 def server_static(filename):
-    #return "hey"
     return static_file(filename, root='static')
 
 logger = Logger(logs_on)
 
+# note: comments in Finnish
 def query_chatscript(query, userID="TestUser"):
     # Lokaalin testiympäristön osoite. Muistetaan muokata, kunhan CS
     # on serverillä.
@@ -68,26 +73,20 @@ def query_chatscript(query, userID="TestUser"):
 
     return data_out.decode("utf-8")
 
-@app.get('/') # or @route('/login')
-def login():
-    return '''
-        <form action="/msg" method="post">
-            <input name="username" type="hidden" value="testUser" />
-            Query: <input name="query" type="text" />
-            <input value="Send" type="submit" />
-        </form>
-    '''
-
+# parse rasa json and respond with appropriate response from tamk or uta (tuni) backends
+# needs major refactoring
 def parse_rasa_json(receivedThreshold, rasa_json):
     response = ""
     try:
         if receivedThreshold > RASA_THRESHOLD or (receivedThreshold > RASA_SPECIAL and \
         "entities" in rasa_json and len(rasa_json['entities']) > 0 and \
         rasa_json['entities'][0]['confidence'] > RASA_SPECIAL_ENTITY):
-            if rasa_json['intent']['name'] == 'startDate':
+            if rasa_json['intent']['name'] == 'startDate': # check intent name
                 if len(rasa_json["entities"]) > 0:
                     if rasa_json["entities"][0]["entity"] == "course":
                         coursecode = rasa_json["entities"][0]['value']
+                        # if course found, search for course and add to response
+                        # all of the following intents follow this basic pattern
                         uta = UTA_PARSER.find_course_start_date(id=coursecode)
                         tamk = tamk_startDate(id=coursecode)
                         if len(uta) > 2:
@@ -159,7 +158,7 @@ def parse_rasa_json(receivedThreshold, rasa_json):
                         if len(uta) > 2:
                             response = uta
                 else:
-                    response = "Are you asking for course time exceptions?\nYou need to mention a course code/name to help me search."
+                    response = "Are you asking for exceptions in the course schedule?\nYou need to mention a course code/name to help me search."
 
             if rasa_json['intent']['name'] == 'creditsMin':
                 if len(rasa_json["entities"]) > 0:
@@ -218,11 +217,45 @@ def parse_rasa_json(receivedThreshold, rasa_json):
                 else:
                     response = "Are you asking for course location?\nYou need to mention a course code/name to help me search."
 
+            if rasa_json['intent']['name'] == 'defaultinfo'\
+            and receivedThreshold > RASA_THRESHOLD_DEFAULTINFO: # check intent name, special
+                if len(rasa_json["entities"]) > 0:
+                    if rasa_json["entities"][0]["entity"] == "course":
+                        coursecode = rasa_json["entities"][0]['value']
+                        # return start date and language if asking generic question about course
+                        uta = UTA_PARSER.find_course_start_date(id=coursecode)
+                        tamk = tamk_startDate(id=coursecode)
+                        if len(uta) > 2:
+                            response = uta
+                        if len(tamk) > 2:
+                            response += tamk
+                        uta = UTA_PARSER.find_course_teachinglanguage(id=coursecode)
+                        tamk = tamk_teachingLanguage(id=coursecode)
+                        if len(uta) > 2:
+                            response += "\n" + uta
+                        if len(tamk) > 2:
+                            response += "\n" + tamk
+                    elif rasa_json["entities"][0]["entity"] == "coursename":
+                        coursename = rasa_json["entities"][0]['value']
+                        uta = UTA_PARSER.find_course_start_date(name=coursename)
+                        tamk = tamk_startDate(name=coursename)
+                        if len(uta) > 2:
+                            response = uta
+                        if len(tamk) > 2:
+                            response += tamk
+                        uta = UTA_PARSER.find_course_teachinglanguage(name=coursename)
+                        tamk = tamk_teachingLanguage(id=coursename)
+                        if len(uta) > 2:
+                            response += "\n" + uta
+                        if len(tamk) > 2:
+                            response += "\n" + tamk
+
 
     except Exception as e:
         print("Error in rasa code:")
         print(e)
 
+    # if response is too short (empty), set response to None in order to use ChatScript or rosie response
     if response is not None and len(response) < 3:
         response = None
 
@@ -237,40 +270,41 @@ def test():
 
     query = request.forms.get('query')
 
-    #Are logs working
-    #logs_on = False
     #Removes special characters from query, and makes it start with uppercase letter
     cleaning_query = ''.join(e for e in query if e.isalnum() or e.isspace() or e == '-')
     cleaned_query = "".join(c.upper() if i is 0 else c for i, c in enumerate(cleaning_query))
 
-
-    #response = requests.get("api-address")
-    #response = '{"intent": {"confidence": 0.5}}'
+    # send user query to rasa, utf-8 encoding
     rasa_query = '{"query":"' + cleaned_query + '", "project": "current"}'
     rasa_response = requests.post(RASA_ADDRESS, data=rasa_query.encode("utf-8"))
     rasa_response.encoding = "utf-8"
-    print(rasa_response.text)
+    #print(rasa_response.text)
+
     rasa_json = json.loads(rasa_response.text, encoding="utf-8")
-    #print(rasa_json)
+    print(rasa_json)
     receivedThreshold = rasa_json['intent']['confidence']
     print("rasa conf " + "{0:.2f}".format(receivedThreshold))
     need_cs_response = True
     response = parse_rasa_json(receivedThreshold, rasa_json)
     success = True
 
+    # if parsing rasa json succeeded, we don't need a chatscript response
     if response is not None:
         need_cs_response = False
 
+    # otherwise, send user query to chatscript bot
     if need_cs_response:
         response = query_chatscript(query, userID=username)
         print("Chatscript response: " + response)
 
-    #Was ChatScript able to answer?
-    if need_cs_response and \
-    "Please ask me anything you" in response:
+    # was ChatScript able to answer?
+    # should switch this phrase to something more distinct
+    if need_cs_response and "Please ask me anything you" in response:
         print("did not succeed at rasa or chatscript")
         success = False
 
+    # if Rasa and ChatScript were not able to respond
+    # rosie (program-y) is the final
     if not success:
         print("trying program-y")
         try:
@@ -301,14 +335,20 @@ def test():
                 logger.log_failed(query, response, 0, "none", 0, "none", Source)
         elif len(rasa_json["entities"]) == 0:
             if success:
-                logger.log_success(query, response, rasa_json['intent']['confidence'], rasa_json['intent']['name'], 0, "none", Source)
+                logger.log_success(query, response, rasa_json['intent']['confidence'],\
+                rasa_json['intent']['name'], 0, "none", Source)
             else:
-                logger.log_failed(query, response, rasa_json['intent']['confidence'], rasa_json['intent']['name'], 0, "none", Source)
+                logger.log_failed(query, response, rasa_json['intent']['confidence'],\
+                rasa_json['intent']['name'], 0, "none", Source)
         else:
             if success:
-                logger.log_success(query, response, rasa_json['intent']['confidence'], rasa_json['intent']['name'], rasa_json["entities"][0]["confidence"], rasa_json["entities"][0]["entity"], Source)
+                logger.log_success(query, response, rasa_json['intent']['confidence'],\
+                 rasa_json['intent']['name'], rasa_json["entities"][0]["confidence"],\
+                 rasa_json["entities"][0]["entity"], Source)
             else:
-                logger.log_failed(query, response, rasa_json['intent']['confidence'], rasa_json['intent']['name'], rasa_json["entities"][0]["confidence"], rasa_json["entities"][0]["entity"], Source)
+                logger.log_failed(query, response, rasa_json['intent']['confidence'],\
+                rasa_json['intent']['name'], rasa_json["entities"][0]["confidence"],\
+                rasa_json["entities"][0]["entity"], Source)
 
 
     header = "<html><body>"
@@ -316,7 +356,10 @@ def test():
     footer = "</body></html>"
 
     #replace("\n", "\r\n").replace("  ", "&nbsp&nbsp")
-    return header + response.replace("\\r\\n", "\r\n").replace("\\n", "\r\n").replace("\\r", "\r\n").replace("\n", "\r\n").replace("\r\n", "\r\n") + footer
+
+    # return bot response, replacing incorrectly formatted newlines
+    return header + response.replace("\\r\\n", "\r\n").replace("\\n", "\r\n")\
+    .replace("\\r", "\r\n").replace("\n", "\r\n").replace("\r\n", "\r\n") + footer
 
 
 
