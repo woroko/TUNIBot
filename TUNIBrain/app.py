@@ -29,7 +29,8 @@ logs_on = False
 RASA_ADDRESS = "http://localhost:5000/parse" # http address of rasa server
 RASA_THRESHOLD = 1.1 # confidence threshold for using rasa response (when no entities are detected)
 # RASA_THRESHOLD is never achieved (max is 1.0), effectively switched off when no entities detected
-RASA_THRESHOLD_DEFAULTINFO = 0.95 # confidence threshold for using rasa response (when no entities are detected)
+RASA_THRESHOLD_DEFAULTINFO = 0.90 # confidence threshold for using rasa response (when no entities are detected)
+RASA_THRESHOLD_DEFAULTINFO_ENTITY = 0.90
 RASA_SPECIAL = 0.25 # confidence threshold for using rasa response (when entities are detected)
 RASA_SPECIAL_ENTITY = 0.35 # entity confidence threshold for using rasa response (when entities are detected)
 UTA_PARSER = UTAJsonParser("jsons") # initialize uta parser with jsons directory
@@ -88,19 +89,21 @@ def parse_rasa_json(receivedThreshold, rasa_json):
                         # if course found, search for course and add to response
                         # all of the following intents follow this basic pattern
                         uta = UTA_PARSER.find_course_start_date(id=coursecode)
-                        tamk = tamk_startDate(id=coursecode)
                         if len(uta) > 2:
                             response = uta
-                        if len(tamk) > 2:
-                            response += tamk
+                        else:
+                            tamk = tamk_startDate(id=coursecode)
+                            if len(tamk) > 2:
+                                response += tamk
                     elif rasa_json["entities"][0]["entity"] == "coursename":
                         coursename = rasa_json["entities"][0]['value']
                         uta = UTA_PARSER.find_course_start_date(name=coursename)
-                        tamk = tamk_startDate(name=coursename)
                         if len(uta) > 2:
                             response = uta
-                        if len(tamk) > 2:
-                            response += tamk
+                        else:
+                            tamk = tamk_startDate(name=coursename)
+                            if len(tamk) > 2:
+                                response += tamk
                 else:
                     response = "Are you asking for course starting dates?\nYou need to mention a course code/name to help me search."
             if rasa_json['intent']['name'] == 'kieli':
@@ -108,19 +111,22 @@ def parse_rasa_json(receivedThreshold, rasa_json):
                     if rasa_json["entities"][0]["entity"] == "course":
                         coursecode = rasa_json["entities"][0]['value']
                         uta = UTA_PARSER.find_course_teachinglanguage(id=coursecode)
-                        tamk = tamk_teachingLanguage(id=coursecode)
                         if len(uta) > 2:
                             response = uta
-                        if len(tamk) > 2:
-                            response += tamk
+                        else:
+                            tamk = tamk_teachingLanguage(id=coursecode)
+                            if len(tamk) > 2:
+                                response += tamk
                     elif rasa_json["entities"][0]["entity"] == "coursename":
                         coursename = rasa_json["entities"][0]['value']
                         uta = UTA_PARSER.find_course_teachinglanguage(name=coursename)
-                        tamk = tamk_teachingLanguage(name=coursename)
+
                         if len(uta) > 2:
                             response = uta
-                        if len(tamk) > 2:
-                            response += tamk
+                        else:
+                            tamk = tamk_teachingLanguage(name=coursename)
+                            if len(tamk) > 2:
+                                response += tamk
                 else:
                     response = "Are you asking for course teaching language?\nYou need to mention a course code/name to help me search."
             if rasa_json['intent']['name'] == 'opetusajat' or \
@@ -131,17 +137,19 @@ def parse_rasa_json(receivedThreshold, rasa_json):
                         uta = UTA_PARSER.find_course_teaching_times(id=coursecode)
                         if len(uta) > 2:
                             response = uta
-                        tamk = tamk_examSchedule(id=coursecode)
-                        if len(tamk) > 2:
-                            response += tamk
+                        else:
+                            tamk = tamk_examSchedule(id=coursecode)
+                            if len(tamk) > 2:
+                                response += tamk
                     elif rasa_json["entities"][0]["entity"] == "coursename":
                         coursename = rasa_json["entities"][0]['value']
                         uta = UTA_PARSER.find_course_teaching_times(name=coursename)
                         if len(uta) > 2:
                             response = uta
-                        tamk = tamk_examSchedule(name=coursename)
-                        if len(tamk) > 2:
-                            response += tamk
+                        else:
+                            tamk = tamk_examSchedule(name=coursename)
+                            if len(tamk) > 2:
+                                response += tamk
                 else:
                     response = "Are you asking for course schedules?\nYou need to mention a course code/name to help me search."
 
@@ -165,19 +173,21 @@ def parse_rasa_json(receivedThreshold, rasa_json):
                     if rasa_json["entities"][0]["entity"] == "course":
                         coursecode = rasa_json["entities"][0]['value']
                         uta = UTA_PARSER.find_course_credits(id=coursecode)
-                        tamk = tamk_credits(id=coursecode)
                         if len(uta) > 2:
                             response = uta
-                        if len(tamk) > 2:
-                            response += tamk
+                        else:
+                            tamk = tamk_credits(id=coursecode)
+                            if len(tamk) > 2:
+                                response += tamk
                     elif rasa_json["entities"][0]["entity"] == "coursename":
                         coursename = rasa_json["entities"][0]['value']
                         uta = UTA_PARSER.find_course_credits(name=coursename)
-                        tamk = tamk_credits(name=coursename)
                         if len(uta) > 2:
                             response = uta
-                        if len(tamk) > 2:
-                            response += tamk
+                        else:
+                            tamk = tamk_credits(name=coursename)
+                            if len(tamk) > 2:
+                                response += tamk
                 else:
                     response = "Are you asking for course credits?\nYou need to mention a course code/name to help me search."
             if rasa_json['intent']['name'] == 'nimi':
@@ -185,14 +195,16 @@ def parse_rasa_json(receivedThreshold, rasa_json):
                     if rasa_json["entities"][0]["entity"] == "course":
                         coursecode = rasa_json["entities"][0]['value']
                         uta = UTA_PARSER.find_course_name(coursecode)
-                        tamk = tamk_course_name(id=coursecode)
-                        tamk2 = tamk_course_name_fromunit(id=coursecode)
                         if uta is not None and len(uta) > 2:
                             response = uta
-                        if tamk is not None and len(tamk) > 2:
-                            response += tamk
-                        if tamk2 is not None and len(tamk2) > 2:
-                            response += tamk2
+                        else:
+                            tamk = tamk_course_name(id=coursecode)
+                            if tamk is not None and len(tamk) > 2:
+                                response += tamk
+                            else:
+                                tamk2 = tamk_course_name_fromunit(id=coursecode)
+                                if tamk2 is not None and len(tamk2) > 2:
+                                    response += tamk2
                 else:
                     response = "Are you asking for course name?\nYou need to mention a course code to help me search."
 
@@ -201,54 +213,62 @@ def parse_rasa_json(receivedThreshold, rasa_json):
                     if rasa_json["entities"][0]["entity"] == "course":
                         coursecode = rasa_json["entities"][0]['value']
                         uta = UTA_PARSER.find_course_teaching_times(id=coursecode)
-                        tamk = tamk_location(id=coursecode)
                         if len(uta) > 2:
                             response = uta
-                        if len(tamk) > 2:
-                            response += tamk
+                        else:
+                            tamk = tamk_location(id=coursecode)
+                            if len(tamk) > 2:
+                                response += tamk
                     elif rasa_json["entities"][0]["entity"] == "coursename":
                         coursename = rasa_json["entities"][0]['value']
                         uta = UTA_PARSER.find_course_teaching_times(name=coursename)
-                        tamk = tamk_location(name=coursename)
                         if len(uta) > 2:
                             response = uta
-                        if len(tamk) > 2:
-                            response += tamk
+                        else:
+                            tamk = tamk_location(name=coursename)
+                            if len(tamk) > 2:
+                                response += tamk
                 else:
                     response = "Are you asking for course location?\nYou need to mention a course code/name to help me search."
 
-            if rasa_json['intent']['name'] == 'defaultinfo'\
-            and receivedThreshold > RASA_THRESHOLD_DEFAULTINFO: # check intent name, special
+            if rasa_json['intent']['name'] == 'defaultinfo' and \
+            (receivedThreshold > RASA_THRESHOLD_DEFAULTINFO and \
+            "entities" in rasa_json and len(rasa_json['entities']) > 0 and \
+            rasa_json['entities'][0]['confidence'] > RASA_THRESHOLD_DEFAULTINFO_ENTITY): # check intent name, special
                 if len(rasa_json["entities"]) > 0:
                     if rasa_json["entities"][0]["entity"] == "course":
                         coursecode = rasa_json["entities"][0]['value']
                         # return start date and language if asking generic question about course
                         uta = UTA_PARSER.find_course_start_date(id=coursecode)
-                        tamk = tamk_startDate(id=coursecode)
                         if len(uta) > 2:
                             response = uta
-                        if len(tamk) > 2:
-                            response += tamk
+                        else:
+                            tamk = tamk_startDate(id=coursecode)
+                            if len(tamk) > 2:
+                                response += tamk
                         uta = UTA_PARSER.find_course_teachinglanguage(id=coursecode)
-                        tamk = tamk_teachingLanguage(id=coursecode)
                         if len(uta) > 2:
                             response += "\n" + uta
-                        if len(tamk) > 2:
-                            response += "\n" + tamk
+                        else:
+                            tamk = tamk_teachingLanguage(id=coursecode)
+                            if len(tamk) > 2:
+                                response += "\n" + tamk
                     elif rasa_json["entities"][0]["entity"] == "coursename":
                         coursename = rasa_json["entities"][0]['value']
                         uta = UTA_PARSER.find_course_start_date(name=coursename)
-                        tamk = tamk_startDate(name=coursename)
                         if len(uta) > 2:
                             response = uta
-                        if len(tamk) > 2:
-                            response += tamk
+                        else:
+                            tamk = tamk_startDate(name=coursename)
+                            if len(tamk) > 2:
+                                response += tamk
                         uta = UTA_PARSER.find_course_teachinglanguage(name=coursename)
-                        tamk = tamk_teachingLanguage(id=coursename)
                         if len(uta) > 2:
                             response += "\n" + uta
-                        if len(tamk) > 2:
-                            response += "\n" + tamk
+                        else:
+                            tamk = tamk_teachingLanguage(id=coursename)
+                            if len(tamk) > 2:
+                                response += "\n" + tamk
 
 
     except Exception as e:

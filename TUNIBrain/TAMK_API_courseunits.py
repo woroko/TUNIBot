@@ -35,11 +35,14 @@ def tamk_course_name_fromunit(id=None):
 
 #Searches courses credits by its id
 def tamk_credits(id=None, name=None):
-    if(id is not None):
-        info = tamk_API_courseunits(id=id)
-    elif(name is not None):
-        info = tamk_API_courseunits(name=name)
-    credits = info['courseUnits'][0]['credits']
-    return("Course "+ info['courseUnits'][0]['name'] +" is worth "+str(credits)+" credits.")
+    try:
+        if(id is not None):
+            info = tamk_API_courseunits(id=id)
+        elif(name is not None):
+            info = tamk_API_courseunits(name=name)
+        credits = info['courseUnits'][0]['credits']
+        return("Course "+ info['courseUnits'][0]['name'] +" is worth "+str(credits)+" credits.")
+    except Exception as e:
+        return None
 
 print(tamk_credits("IM00BR45"))
