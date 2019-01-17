@@ -283,12 +283,13 @@ def parse_rasa_json(receivedThreshold, rasa_json):
 
 @app.route('/msg', method='POST')
 def test():
-    username = request.forms.get('username') #+ ":tunibottitoo"
+    username = request.forms.username #+ ":tunibottitoo"
     if username is None:
         username = "TestUser"
     print("Username: " + username)
 
-    query = request.forms.get('query')
+    query = request.forms.query
+    print("query: " + query)
 
     #Removes special characters from query, and makes it start with uppercase letter
     cleaning_query = ''.join(e for e in query if e.isalnum() or e.isspace() or e == '-')
