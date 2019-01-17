@@ -31,20 +31,28 @@ def tamk_course_name(id=None):
     try:
         if id is not None:
             info = tamk_API_implementations(id=id)
-        name = info['realizations'][0]['name']
-        return("Name of the course "+str(id)+" is "+name+".")
+        if id.lower() in info['realizations'][0]['code'].lower():
+            name = info['realizations'][0]['name']
+            return("Name of the course "+str(id)+" is "+name+".")
+        else:
+            return ""
     except Exception as e:
         traceback.print_exc()
+    return ""
 
 #Searches courses teaching language by its id
 def tamk_teachingLanguage(id=None, name=None):
     try:
         if id is not None:
             info = tamk_API_implementations(id=id)
+            if id.lower() not in info['realizations'][0]['code'].lower():
+                return ""
             #print(info)
             #print("CODE")
         elif name is not None:
             info = tamk_API_implementations(name=name)
+            if name.lower() not in info['realizations'][0]['name'].lower():
+                return ""
             #print(info)
             #print("NAME")
         language = info['realizations'][0]['teachingLanguage']
@@ -66,8 +74,12 @@ def tamk_startDate(id=None, name=None):
     try:
         if id is not None:
             info = tamk_API_implementations(id=id)
+            if id.lower() not in info['realizations'][0]['code'].lower():
+                return ""
         elif name is not None:
             info = tamk_API_implementations(name=name)
+            if name.lower() not in info['realizations'][0]['name'].lower():
+                return ""
         startDate = dateutil.parser.parse(info['realizations'][0]['startDate'])
         startDate = startDate.strftime('%d-%m-%Y')
         return("Starting date of the course "+info['realizations'][0]['name']+" is "+str(startDate)+".")
@@ -82,8 +94,12 @@ def tamk_location(id=None, name=None):
     try:
         if id is not None:
             info = tamk_API_implementations(id=id)
+            if id.lower() not in info['realizations'][0]['code'].lower():
+                return ""
         elif name is not None:
             info = tamk_API_implementations(name=name)
+            if name.lower() not in info['realizations'][0]['name'].lower():
+                return ""
         en_location = info['realizations'][0]['office']['localizedName']['en']
         fi_location = info['realizations'][0]['office']['localizedName']['fi']
         sv_location = info['realizations'][0]['office']['localizedName']['sv']
@@ -106,8 +122,12 @@ def tamk_examSchedule(id=None, name=None):
     try:
         if id is not None:
             info = tamk_API_implementations(id=id)
+            if id.lower() not in info['realizations'][0]['code'].lower():
+                return ""
         elif name is not None:
             info = tamk_API_implementations(name=name)
+            if name.lower() not in info['realizations'][0]['name'].lower():
+                return ""
         exams = info['realizations'][0]['examSchedule']
         if exams is "":
             exams = "unknown"

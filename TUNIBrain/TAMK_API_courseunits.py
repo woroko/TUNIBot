@@ -24,6 +24,8 @@ def tamk_course_name_fromunit(id=None):
     try:
         if id is not None:
             info = tamk_API_courseunits(id=id)
+            if id.lower() not in info['courseUnits'][0]['code'].lower():
+                return ""
         name = info['courseUnits'][0]['name']
         print("unit info:")
         print(info)
@@ -32,17 +34,24 @@ def tamk_course_name_fromunit(id=None):
         pass
         #print("from courseunit error")
         #traceback.print_exc()
+    return ""
 
 #Searches courses credits by its id
 def tamk_credits(id=None, name=None):
     try:
-        if(id is not None):
+        if id is not None:
             info = tamk_API_courseunits(id=id)
-        elif(name is not None):
+            if id.lower() not in info['courseUnits'][0]['code'].lower():
+                return ""
+        elif name is not None:
             info = tamk_API_courseunits(name=name)
+            if name.lower() not in info['courseUnits'][0]['name'].lower():
+                return ""
         credits = info['courseUnits'][0]['credits']
         return("Course "+ info['courseUnits'][0]['name'] +" is worth "+str(credits)+" credits.")
     except Exception as e:
         return None
 
-print(tamk_credits("IM00BR45"))
+    return ""
+
+#print(tamk_credits("IM00BR45"))
