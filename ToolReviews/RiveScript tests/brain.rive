@@ -1,0 +1,25 @@
+//Chatbot's brain
+
+//Bot variables
+! var name = Jack
+! var age = 25
+! var sex = male
+
++ hello bot
+- hello, human!
+- hi, dude!
+
++ who is * ?
+- I don't know what <star> is
+
++ what is your name?
+- My name is <get name>
+
++ i am (really|very|super) tired
+- I'm sorry to hear that you are <star> tired.
+
++ i am wearing a (@colors) shirt
+- Do you really like <star>?
+
+
+

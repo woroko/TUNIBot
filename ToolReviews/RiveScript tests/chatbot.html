@@ -1,0 +1,51 @@
+<!DOCTYPE HTML>
+<html lang="fi">
+	<head>
+		<meta charset="utf-8">
+		<title>Chatbot</title>
+		<link rel="stylesheet" type="text/css" href="">
+		<script src="https://unpkg.com/rivescript@latest/dist/rivescript.min.js"></script>
+		<script
+			  src="https://code.jquery.com/jquery-3.3.1.js"
+			  integrity="sha256-2Kok7MbOyxpgUVvAk/HJ2jigOSYS2auK4Pfzbm7uH60="
+			  crossorigin="anonymous">	
+		</script>
+		<script>
+		
+			let bot = new RiveScript({utf8: true});
+
+			bot.loadFile("brain.rive").then(brainReady).catch(brainError);
+
+			function brainReady()
+			{
+				console.log("Chatbot ready!");
+				bot.sortReplies();
+			}
+
+			function brainError()
+			{
+				console.log("Brain error!");
+			}
+
+			function chat()
+			{
+				let user_input = document.getElementById("user_input").value;
+				let reply = bot.reply("local-user", user_input).then( function(reply) {
+				console.log(reply);
+				document.getElementById("output").innerHTML = reply;
+			    });
+			}
+
+		</script>
+	</head>
+	<body>
+		<h1>Chatbot</h1>
+		<p>
+			say: <input id="user_input" type="text"></input>
+				 <button id="submit" onclick="chat()">submit</button>
+		</p>
+		<p>
+			reply: <span id="output">
+		</p>
+	</body>
+</html>
